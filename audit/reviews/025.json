@@ -1,0 +1,475 @@
+{
+  "source_id": 25,
+  "source_file": "025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.vtt",
+  "cleaned_file": "goldbound/025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.txt",
+  "full_text_reviewed": true,
+  "paragraph_count": 24,
+  "records": [
+    {
+      "id": "E025-01",
+      "name": "Goldenpath dwarf crafting-alt unlock",
+      "kind": "experiment",
+      "status": "successful",
+      "zone": "Dun Morogh",
+      "summary": "Creates Paladin, tolevel 10 forutilitymount, blacksmith/leatherworkpermanent; Goldiesuppliesexcept Bo Precipeaccess.3–5 hourinitialgather/smelt/traininvestment.",
+      "metrics": {
+        "minimum_alt_level": 10,
+        "initial_investment_hours_range": [
+          3,
+          5
+        ]
+      },
+      "source": {
+        "file": "025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.vtt",
+        "cleaned_file": "goldbound/025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.txt",
+        "paragraph_start": 3,
+        "paragraph_end": 7,
+        "start_time": "00:01:52.920",
+        "quote": "But, potentially for Dun Morogh, the biggest unlock is a rule that we set early on and that is for every starting zone we roll, we can create a war band alt for gold bound. Now, if you haven't played wild for a bit, you might be wondering what is a war band? Well, basically, it's a system that allows multiple characters on one account to share progress, progression, and most importantly, the war band bank. So, for the challenge, I can farm a bunch of materials on Goldie, place them into the war band bank, and my new war band alt can log in and craft from those materials. And this would help a ton because if you haven't noticed, we tend to learn and unlearn professions quite a few times on Goldie to make higher level crafts. This not only wastes thousands of gold and materials, but wastes four to five hours of time for leveling each crafting profession every time we go to 300. So, Dun Morogh frees up two profession slots. So, let's go ahead and make this alt. Dun Morogh has the starting zone for both dwarves in Coldridge Valley and gnomes Tinkertown.",
+        "canonical_file": "goldbound/025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.txt",
+        "original_file": "goldbound/original-vtt/025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E025-02",
+      "name": "Dun Morogh copper-only hour",
+      "kind": "farm",
+      "status": "measured",
+      "zone": "Dun Morogh",
+      "summary": "375 Copper,362 stone, copper 3.3 g,1227 g/hreported. Historical Elwynn 631 orehadmountbug, notcontrolledsamepatchcomparison.",
+      "metrics": {
+        "minutes": 60,
+        "Copper Ore": 375,
+        "Rough Stone": 362,
+        "reported_gold_per_hour": 1227
+      },
+      "source": {
+        "file": "025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.vtt",
+        "cleaned_file": "goldbound/025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.txt",
+        "paragraph_start": 5,
+        "paragraph_end": 7,
+        "start_time": "00:03:37.920",
+        "quote": "And meet Goldenpath. This dwarf paladin just joined the gold bound war band. So, I'll get a few levels down on him, at least to level 10 so I can actually mount on the brutosaur and get my mail and auctions and whatnot, but it is important to note that the intention of the crafting alt is just that, crafting. So, if an item or reagent can be farmed on Goldie, then I'm going to farm it on Goldie and trade it to the crafting alt to craft. However, there are going to be some soulbound items that I just can't transfer via warband methods. Certain things like rare blacksmithing recipes, such as the Wicked Mithril Blade from Searing Gorge, those are actually soulbound and can't even be traded within a warband. So, those ones I will have to actually get for the alt, but only if Goldie has access to them in his zones. I kind of already hinted at it, but one of the professions that I want to pick up for him is blacksmithing. So, hopping back on Goldie, I can take a look at what we actually need to farm from an ore perspective to get from 1 to 300 blacksmithing. And unfortunately, to get out of Stranglethorn, I actually sold off pretty much all of my backlog of ore, so we're starting from scratch, which means we definitely need copper ore. So, I may as well get out here and test a full hour of copper ore farming in Dun Morogh, which I think will be interesting to compare and contrast to the rates of farming copper ore back in Elwynn. Now, the route for copper ore that I'm running here in Dun Morogh is pretty straightforward. While the zone isn't a perfect circle, it does lend itself to a big loop, and well, there tends to be ore everywhere on this loop.",
+        "canonical_file": "goldbound/025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.txt",
+        "original_file": "goldbound/original-vtt/025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E025-03",
+      "name": "Blacksmithing-alt material supply",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Dun Morogh / Stranglethorn / Burning Steppes / Swamp",
+      "summary": "230 Copper,230 Iron,220 Mithril,730 Thorium Bars targetplus Tin/gold/silver/dyescloth; Goldiefarms STV/Steppes/Swampand smelts. Alt 248 atend, not 300 yet.",
+      "metrics": {
+        "Copper Ore_target": 230,
+        "Iron Ore_target": 230,
+        "Mithril Ore_target": 220,
+        "Thorium Bar_target": 730,
+        "alt_blacksmithing_end_skill": 248
+      },
+      "source": {
+        "file": "025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.vtt",
+        "cleaned_file": "goldbound/025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.txt",
+        "paragraph_start": 6,
+        "paragraph_end": 7,
+        "start_time": "00:05:06.880",
+        "quote": "But to actually level all the way up from 1 to 300 blacksmithing on the alt, there is quite the material list. And of course, we can't just go buy it on the auction house. In total, we need about 230 copper ore, plus some tin ore, which we can get from a few zones like Redridge, Duskwood, and even Northern Stranglethorn. Then we get to the tougher one, iron ore. Back when Goldie leveled blacksmithing to 300, it was tough in the previously unlocked zones because at the time, we only had the Duskwood rare spawn iron nodes to get the iron supply. But we just came from Stranglethorn Vale, and in the south of Stranglethorn Vale is one of the best iron ore farms in the game. So, the 230 iron ore quota will definitely be handled there and a lot faster this time. But, we also need a little bit of gold and silver, but I'm thinking I should be able to get those as rare spawns while farming iron and tin. Plus, a few dyes and cloths. The best dye vendor we have right now is in the Inn in Redridge and can pretty much supply us with all the dyes we need for most of our classic crafts. And cloth? Well, luckily, I have a pretty good stockpile on that. It's just not really worth much to sell on the auction house and it saves a lot of time to have a bunch in the bank if I ever want to level tailoring or disenchanting or even this time the blacksmithing. After those, we will need about 220 mithril ore, which shouldn't be too hard to farm in our unlocked zone of Burning Steppes. And the last stretch to 300 will require about 730 thorium bars. Luckily, I can farm that pretty consistently in the Swamp of Sorrows over a few hours. But, to be honest, those last couple of levels I'll probably just finish off with specific higher-level crafts that might actually be profitable. I'll take a look at that once we get there and once we learn some of our rare recipes that we've been saving. But, it's pretty cool because we're getting to a point in Eastern Kingdoms where we actually have access and decent farms for a lot of the materials we need for these profession crafts, which feels pretty good in comparison. Let's get back to the copper ore farm here in Dun Morogh. And after 1 hour of dedicated farming, I managed to pull in 375 copper ore and about 362 stone. Which, at current market value rates, copper ore isn't selling for much more than three gold and 30 silver each, which puts the mining only gold per hour at about 1,227 gold per hour. Ouch. And with the current token price of about 240,000 gold dropped down thanks to Midnight, uh mining only token in Dun Morogh would still take about 195 hours of straight ore farming. And compared to the rates of copper ore in Elwynn, how's it stack up? Well, in Elwynn Forest, after some optimization, I was actually able to pull in 631 copper ore per hour. That is considerably better than what we just got in Dun Morogh, but travelers, keep in mind during the Elwynn Forest farms, I was able to use the mining while mounted bug to increase efficiency, but that has definitely since been patched.",
+        "canonical_file": "goldbound/025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.txt",
+        "original_file": "goldbound/original-vtt/025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E025-04",
+      "name": "Airfield group-size Frayed Knot trial",
+      "kind": "experiment",
+      "status": "measured",
+      "zone": "Dun Morogh",
+      "summary": "Compares 4/5/6/8 packsversusroamingandone-by-one; best 5 pickpocketthen AOEkillforcedrespawn 48 Knots/hour. Mobdeathlootempty; usual 100 gunitnotmultipliedexplicit GPH.",
+      "metrics": {
+        "packs_tested": [
+          4,
+          5,
+          6,
+          8
+        ],
+        "best_pack_size": 5,
+        "Frayed Knot_per_hour": 48,
+        "quoted_usual_unit_gold": 100
+      },
+      "source": {
+        "file": "025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.vtt",
+        "cleaned_file": "goldbound/025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.txt",
+        "paragraph_start": 7,
+        "paragraph_end": 8,
+        "start_time": "00:07:54.760",
+        "quote": "It probably gave us about a 15 to 20% boost on efficiency, not nearly the 80% difference that we're seeing here. Maybe I'll have to go back in Elwynn and test the race with current non-mounted setups to see the real difference. In any event, I also went up to Stranglethorn Vale and Burning Steppes to get the remainder of the shopping list to level blacksmithing. And getting it leveled on the alt, well, it feels pretty darn good because this is a one-time investment. Takes about 3 to 5 hours of gathering, smelting, cuz we have to smelt all the ore on Goldie, and then crafting on the alt to level. Not to mention that 3 to 5 hours of farming ore is pretty much a lost some cost that we could otherwise sell, but it does get us pretty high on the blacksmithing levels. And this alt will never have to unlearn blacksmithing again, which means he can freely train rare and valuable blacksmithing recipes without worrying about abandoning them down the road, which will have some crafting to do for sure because I saved up a few recipes in the bank. But first, there's a few more things in Dun Morogh I want to test because it's no secret the big portion of the progress in Elwynn came from a little item called the Frayed Knot, which is a gray vendor trash item that well, you see, it can be traded in to Keeper Tel'hoot in Uldaman for the Turquoise Bobble Worm, that is alongside a rabbit's foot and a large slimy bone. Now this item, the Frayed Knot, varies pretty wildly in value based on supply and demand. The usual sale price lately is pretty close to 100 gold, which is a far cry from the first few I sold in Elwynn at 1,800 gold. But looking at the last 6 months of listings, it tends to hover around 100 gold, sometimes spiking back up to 500 or 1,000 gold with what looks to be market resets by goblins. But why are we talking about an item that can be pickpocketed from humanoids in Elwynn Forest? Well, travelers, it turns out there are a few humanoids in Dun Morogh that also have frayed nots on their pickpocket tables. So, if you were thought we were done with these gray meme coin items, well, I'm afraid not. So, up to the airstrip in Dun Morogh. This area you can't actually access in Classic WoW, but with our flight mount, we can fly up here and there is a ton of fighting going on and they're all on some kind of a hyper spawn to make sure the battle is pretty much ever going. They don't drop any items while killed. I mean, if they did, I assume this would be a pretty crazy group hyper spawn farm, but they still do have pockets to pick. And in those pockets can be a few frayed nots.",
+        "canonical_file": "goldbound/025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.txt",
+        "original_file": "goldbound/original-vtt/025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E025-05",
+      "name": "Wendigo skinning availability",
+      "kind": "experiment",
+      "status": "failed",
+      "zone": "Dun Morogh",
+      "summary": "Cataclysmhumanoid Wendigosunskinnable, no cave leatherfarm.",
+      "metrics": {},
+      "source": {
+        "file": "025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.vtt",
+        "cleaned_file": "goldbound/025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.txt",
+        "paragraph_start": 9,
+        "paragraph_end": 9,
+        "start_time": "00:11:21.720",
+        "quote": "Dun Morogh takes the cake on the frayed nots. And there are, of course, quite a few beasts to take down and skin here in Dun Morogh. So, I figure, what a better time than now to get up there, kill a few boars, and grab a few skins. I've scouted out a few potential candidates for skinning locations. There's the old Wendigo cave. However, this was updated in Cataclysm, which rendered Wendigos humanoids, and much like our Worgen friends, unskinnable. So, we're up in the northeast, just past the Grolbolar quarry, tagging some of the scarred crag boars and leopards around here. They have a decent hyper spawn over a pretty large radius. So, if I stick to this path on the map, I can farm pretty consistent loops of killing and skinning, but there is quite a bit of distance in between each mob, but it at least give us a reliable test for light leather, which is good, because the second profession I'm going to level up on Golden Path, well, it's leatherworking. And to start, we most definitely need light leather. Down the road, though, to finish off other working, we do need a few hundred medium leather, heavy leather, thick leather, and rugged leather. I do have a few spots to farm all of these, but to be honest, the best rates will probably come from unlearning skinning a few times, and leveling it in sunken temple trash runs from 1 to 300. This way, as Goldie levels up through the skinning ranks, I get progressive leather. So, from 1 to 100 or so, I'll get light leather, then the next level band is medium, then heavy, then rugged, then thick, and so on and so forth. So, after this Dun Morogh test, I'll go out and get those high-level skins to level up the crafting alt. But, what are the rates here in Dun Morogh for light leather? Well, they're pretty bad. It comes out to about 204 light leather per hour, and 370 ruined leather scraps. And with current prices, that's about 550 gold per hour. And compared to Elwynn skinning, we had a pretty good, tight hyper spawn at the Maclure Vineyard. I was getting 693 light leather per hour there, and close to 750 ruined leather scraps. Nearly 3.5 times more efficient than this Dun Morogh farm. Perhaps we'll stumble upon a tighter knit skinning farm here here Dun Morogh, and if you know of one, then definitely drop it down in the comments. But until then, skinning in Dun Morogh is going to be tough. But with the leather in our bags and another 4 hours or so of farming in Desolace, STV, and Sunken Temple to round out the shopping list for the WoW Professions 1 to 300 Leatherworking Guide, it's time to craft.",
+        "canonical_file": "goldbound/025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.txt",
+        "original_file": "goldbound/original-vtt/025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E025-06",
+      "name": "Scarred Crag Boar leopard skinning hour",
+      "kind": "farm",
+      "status": "measured",
+      "zone": "Dun Morogh",
+      "summary": "NEGol Bolarquarryspreadloop 204 Light Leather 370 Scraps,550 g/h;693 leather 750 scrap Elwynncomparisonreportedhistoricalnotnewtest.",
+      "metrics": {
+        "Light Leather": 204,
+        "Ruined Leather Scraps": 370,
+        "reported_gold_per_hour": 550,
+        "quoted_Elwynn_leather_per_hour": 693,
+        "quoted_Elwynn_scraps_per_hour_approx": 750
+      },
+      "source": {
+        "file": "025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.vtt",
+        "cleaned_file": "goldbound/025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.txt",
+        "paragraph_start": 9,
+        "paragraph_end": 9,
+        "start_time": "00:11:21.720",
+        "quote": "Dun Morogh takes the cake on the frayed nots. And there are, of course, quite a few beasts to take down and skin here in Dun Morogh. So, I figure, what a better time than now to get up there, kill a few boars, and grab a few skins. I've scouted out a few potential candidates for skinning locations. There's the old Wendigo cave. However, this was updated in Cataclysm, which rendered Wendigos humanoids, and much like our Worgen friends, unskinnable. So, we're up in the northeast, just past the Grolbolar quarry, tagging some of the scarred crag boars and leopards around here. They have a decent hyper spawn over a pretty large radius. So, if I stick to this path on the map, I can farm pretty consistent loops of killing and skinning, but there is quite a bit of distance in between each mob, but it at least give us a reliable test for light leather, which is good, because the second profession I'm going to level up on Golden Path, well, it's leatherworking. And to start, we most definitely need light leather. Down the road, though, to finish off other working, we do need a few hundred medium leather, heavy leather, thick leather, and rugged leather. I do have a few spots to farm all of these, but to be honest, the best rates will probably come from unlearning skinning a few times, and leveling it in sunken temple trash runs from 1 to 300. This way, as Goldie levels up through the skinning ranks, I get progressive leather. So, from 1 to 100 or so, I'll get light leather, then the next level band is medium, then heavy, then rugged, then thick, and so on and so forth. So, after this Dun Morogh test, I'll go out and get those high-level skins to level up the crafting alt. But, what are the rates here in Dun Morogh for light leather? Well, they're pretty bad. It comes out to about 204 light leather per hour, and 370 ruined leather scraps. And with current prices, that's about 550 gold per hour. And compared to Elwynn skinning, we had a pretty good, tight hyper spawn at the Maclure Vineyard. I was getting 693 light leather per hour there, and close to 750 ruined leather scraps. Nearly 3.5 times more efficient than this Dun Morogh farm. Perhaps we'll stumble upon a tighter knit skinning farm here here Dun Morogh, and if you know of one, then definitely drop it down in the comments. But until then, skinning in Dun Morogh is going to be tough. But with the leather in our bags and another 4 hours or so of farming in Desolace, STV, and Sunken Temple to round out the shopping list for the WoW Professions 1 to 300 Leatherworking Guide, it's time to craft.",
+        "canonical_file": "goldbound/025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.txt",
+        "original_file": "goldbound/original-vtt/025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E025-07",
+      "name": "Leatherworking-alt 300 supply resets",
+      "kind": "experiment",
+      "status": "successful",
+      "zone": "Dun Morogh",
+      "summary": "~4 additionalhours Duskwood/STV/Sunken Templerestartskinningforalltierleather; caption Desolaceinconsistentunlockedzones, flagzoneuncertainty. Alt 300 complete.",
+      "metrics": {
+        "additional_hours_approx": 4,
+        "alt_leatherworking_skill": 300,
+        "caption_zone_uncertain": true
+      },
+      "source": {
+        "file": "025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.vtt",
+        "cleaned_file": "goldbound/025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.txt",
+        "paragraph_start": 9,
+        "paragraph_end": 10,
+        "start_time": "00:11:21.720",
+        "quote": "Dun Morogh takes the cake on the frayed nots. And there are, of course, quite a few beasts to take down and skin here in Dun Morogh. So, I figure, what a better time than now to get up there, kill a few boars, and grab a few skins. I've scouted out a few potential candidates for skinning locations. There's the old Wendigo cave. However, this was updated in Cataclysm, which rendered Wendigos humanoids, and much like our Worgen friends, unskinnable. So, we're up in the northeast, just past the Grolbolar quarry, tagging some of the scarred crag boars and leopards around here. They have a decent hyper spawn over a pretty large radius. So, if I stick to this path on the map, I can farm pretty consistent loops of killing and skinning, but there is quite a bit of distance in between each mob, but it at least give us a reliable test for light leather, which is good, because the second profession I'm going to level up on Golden Path, well, it's leatherworking. And to start, we most definitely need light leather. Down the road, though, to finish off other working, we do need a few hundred medium leather, heavy leather, thick leather, and rugged leather. I do have a few spots to farm all of these, but to be honest, the best rates will probably come from unlearning skinning a few times, and leveling it in sunken temple trash runs from 1 to 300. This way, as Goldie levels up through the skinning ranks, I get progressive leather. So, from 1 to 100 or so, I'll get light leather, then the next level band is medium, then heavy, then rugged, then thick, and so on and so forth. So, after this Dun Morogh test, I'll go out and get those high-level skins to level up the crafting alt. But, what are the rates here in Dun Morogh for light leather? Well, they're pretty bad. It comes out to about 204 light leather per hour, and 370 ruined leather scraps. And with current prices, that's about 550 gold per hour. And compared to Elwynn skinning, we had a pretty good, tight hyper spawn at the Maclure Vineyard. I was getting 693 light leather per hour there, and close to 750 ruined leather scraps. Nearly 3.5 times more efficient than this Dun Morogh farm. Perhaps we'll stumble upon a tighter knit skinning farm here here Dun Morogh, and if you know of one, then definitely drop it down in the comments. But until then, skinning in Dun Morogh is going to be tough. But with the leather in our bags and another 4 hours or so of farming in Desolace, STV, and Sunken Temple to round out the shopping list for the WoW Professions 1 to 300 Leatherworking Guide, it's time to craft.",
+        "canonical_file": "goldbound/025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.txt",
+        "original_file": "goldbound/original-vtt/025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E025-08",
+      "name": "Gnomeregan Rogue chest-and-rear-exit route",
+      "kind": "farm",
+      "status": "measured",
+      "zone": "Gnomeregan",
+      "summary": "6.5–7 minclearsmaxkills, cogguaranteedchestplusfourchamberchest, rearexitresetsfront; vendoroutside. Aggrojumptestdeaggrosunlike Classic. No stable GPH.",
+      "metrics": {
+        "run_minutes_range": [
+          6.5,
+          7
+        ]
+      },
+      "source": {
+        "file": "025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.vtt",
+        "cleaned_file": "goldbound/025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.txt",
+        "paragraph_start": 10,
+        "paragraph_end": 13,
+        "start_time": "00:13:45.160",
+        "quote": "And officially, Golden Path has his first level 300 profession, Leatherworking. Now, since we're capped, there's a few recipes I learned and crafts I want to stockpile with Leatherworking. But first, there is something in Dun Morogh calling my name to farm, and it's Gnomeregan. Because we've been comparing Elwynn and Dun Morogh quite a bit this episode, and well, it's currently one point for Dun Morogh with the frayed knots and two points for Elwynn with mining and skinning. But one thing Elwynn didn't have was its own dungeon. And Dun Morogh, up in Tinkertown, has Gnomeregan. And Gnomeregan is an interesting one. It has one of the most controversial, maybe, soundtracks in the game, but it does have some pretty solid transmog to obtain from running it. And the route itself can change pretty drastically depending on your class and whether you have a reliable teleport in and out because the dungeon is big enough and enough of a maze with different corridors where there are a ton of different routes that can be done, all of which can come in under the 6-minute timer so we can reset up to 10 times without hitting lockout. So, I've optimized this one for Goldie, who is a rogue without a teleport in and out, but we can always pick up the chests even if they're locked. So, the first part here is from the start of the dungeon heading left to tag the troggs and making my way out to the large sprocket in the middle of the room. It's hanging off the ledge, and there is one little wooden plank to run across. And I think it is worth noting that in retail, unlike Classic, if we were to tag one of these troggs, aggro it, and then jump down, the troggs actually de-aggro now rather than pulling the whole dungeon, which is too bad because that would have made some runs pretty efficient if we just pulled the entire dungeon by jumping down.",
+        "canonical_file": "goldbound/025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.txt",
+        "original_file": "goldbound/original-vtt/025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E025-09",
+      "name": "Gnomeregan rare-blue jackpot target list",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Gnomeregan",
+      "summary": "Hotshot Pilot Glovesavailabilityuncertain; Vibroblade, Supercharged Axe, Hi Tech Gun, Gizmotron Chopper, Mechbuilders Overalls, Petrified Spire Legs, Oscillating Hammer targets. Only Axeconfirmed~80 kmarket 0.002 sale.",
+      "metrics": {
+        "Supercharged Battleaxe": 1,
+        "quoted_axe_gold": 80000,
+        "quoted_axe_sale_rate": 0.002
+      },
+      "source": {
+        "file": "025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.vtt",
+        "cleaned_file": "goldbound/025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.txt",
+        "paragraph_start": 11,
+        "paragraph_end": 13,
+        "start_time": "00:15:24.720",
+        "quote": "Before I jump down there, I do want to grab the chest because one always spawns on the cog here. Sometimes it's locked, but as a rogue, we can always grab it. And then I'll jump down and head to the next boss room. As far as drops in Gnomeregan, there's the standard world BOEs and loot tables for zones of this level. None of those drops are particularly massive or super valuable. Good to stock up the shelves though. But what Gnomeregan does have is its own variety of a few unique appearance blue BOE drops. The same angle as Sunken Temple. And these are where the real value lands. Things like the Hotshot Pilot Gloves, that is if they are actually still obtainable because these are basically a super item. They haven't been on the market in a while and the value a few million gold. Seriously. Over the last 6 months, there have only been two posted on the auction house. So if we get these, well, it'll be nothing short of a miracle, but it would be a lot of value going on the auction house. There are also eight other blue BOEs from Gnomeregan. Things like the Vibroblade, the Supercharged Battleaxe, the High-tech Supergun, the Gizmotron Mega Chopper, the Mechbuilder's Overalls, the Petrified Spire Leggings, and the Oscillating Power Hammer. Now while their names are all pretty legendary and probably some of the best work of Blizzard, these drops do vary in price from 50,000 gold up to several million gold depending on the rarity and how frequently they drop. And since these blues can drop from most of the mobs in the dungeon, we really just want to maximize kills per hour for a solid plan. So once I clear the second boss room, I do the full circle around it and then I just jump down. And this is where my run changes from a lot of druid-based teleport runs because I start heading for the rear exit of Gnomeregan right away. And on the way, there is a third boss room and another corridor that loops in a full circle. But on the map, you can kind of see has four chambers.",
+        "canonical_file": "goldbound/025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.txt",
+        "original_file": "goldbound/original-vtt/025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E025-10",
+      "name": "Grime-Encrusted Object collection",
+      "kind": "farm",
+      "status": "measured",
+      "zone": "Gnomeregan",
+      "summary": "Over 100 objectsin~onehourinitialinefficientruns; not 100 boxcash/hour.",
+      "metrics": {
+        "minutes_approx": 60,
+        "Grime Encrusted Object_lower_bound": 100
+      },
+      "source": {
+        "file": "025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.vtt",
+        "cleaned_file": "goldbound/025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.txt",
+        "paragraph_start": 13,
+        "paragraph_end": 13,
+        "start_time": "00:18:10.160",
+        "quote": "Well, with super items on the table, I'll be running it quite a bit more. And with transmog, value is really hit and miss, and can show some pretty crazy value sometimes. One of those times is now, because I've already secured the Supercharged Battle Axe. This is one of the lower rare value items, but still a solid transmog piece, valued around 80,000 gold. Although, it has a sale rate of 0.002, so it could definitely take a while to move. I'll keep it listed though. While we're running Gnomeregan, we actually get something else. Something kind of interesting. Grime Encrusted Objects. So, in about an hour of these runs, with some less than efficient testing, I pulled in over 100 of these objects. And they're pretty neat, because there's a room in Gnomeregan where you can hand these into the Sparklematic 5200 to receive a Sparklematic Wrapped Box.",
+        "canonical_file": "goldbound/025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.txt",
+        "original_file": "goldbound/original-vtt/025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E025-11",
+      "name": "Sparklematic dual-machine 100 box test",
+      "kind": "experiment",
+      "status": "measured",
+      "zone": "Gnomeregan",
+      "summary": "3 silverfee,10–12 secprocess, alternatesmachines; under 15 min 100 opens 436 gminus 3=433 g/4.33 box. Narrator 420 boxes/h 1510 gcontradiction 420×4.33=1818.6; acquisitionexcluded.",
+      "metrics": {
+        "boxes": 100,
+        "minutes_upper_bound": 15,
+        "gross_appraisal_gold": 436,
+        "fee_gold": 3,
+        "net_appraisal_gold": 433,
+        "reported_processing_gold_per_hour": 1510,
+        "arithmetic_uncertain": true
+      },
+      "source": {
+        "file": "025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.vtt",
+        "cleaned_file": "goldbound/025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.txt",
+        "paragraph_start": 14,
+        "paragraph_end": 14,
+        "start_time": "00:19:03.360",
+        "quote": "Basically, a loot chest. So, you know the drill. Let's open 100 of them. Now, the loot tables of these boxes are mostly trade goods with some low value BoE and rings. No major transmog on the loot tables unless there's some hidden tables that no one knows about, but there is silver ore and moss agates for trade goods, which are the more valuable ones around 20 to 40 gold. So, if we get a lot of those, it could really be worth opening these. However, handing them in to the Sparklematic takes about 10 to 12 seconds of processing per turn-in and actually costs three silvers. I guess it's some sort of a loot box vending machine, so we do have to factor that in the time. Luckily, there are actually three Sparklematics in the dungeon and we can bounce between the two on the same wall to double the efficiency. It takes about the same time to run between the two as one takes to process the reset, so it is actually a bit of a plus. And redeeming and opening 100 of these actually took a while. Just under 15 minutes and resulted in a total trade good value of 436 gold. After subtracting the three silver per turn-in fee, that comes out to a raw gold value of 433 gold or 4.33 gold per box. If we had about 420 of them, we could open boxes for an hour straight and get a theoretical value of 1,510 gold per hour, which compared to the Dun Morogh copper ore and skinning so far is surprisingly one of the better consistent trade good farms we have seen. Now, most of the old world trade goods the Sparklematic drops are down quite a bit in price right now, about 40 to 60% since before Mists of Night released, but if those values come back up, this could theoretically bounce up to a 3 to 4,000 gold per hour farm. So, I'll just save these Grimy Crate objects, throw them in the bank for a rainy day, and every now and then redeem a few hundred. It's a nice change of pace and a pretty fun and unique way to make some gold anyways. And at 4.3 gold per box, it is miles above any of our junk box opening so far, so I'm definitely going to keep running Normal to try to get some of these rare sets, and I'll keep you posted on the drops.",
+        "canonical_file": "goldbound/025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.txt",
+        "original_file": "goldbound/original-vtt/025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E025-12",
+      "name": "Chimeric Leggings recipe feasibility",
+      "kind": "experiment",
+      "status": "blocked",
+      "zone": "Dun Morogh",
+      "summary": "Learnedrarepatternbut Living Essenceunavailable; no leggingscrafted.",
+      "metrics": {},
+      "source": {
+        "file": "025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.vtt",
+        "cleaned_file": "goldbound/025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.txt",
+        "paragraph_start": 15,
+        "paragraph_end": 15,
+        "start_time": "00:21:09.360",
+        "quote": "Now, back to Golden Path. So, we're currently sitting on 248 blacksmithing and 300 leatherworking, but I have gone ahead and raided Goldie's bank for the rare BoE recipes to take a look at what we might actually be able to craft. So, first up, leatherworking. I have the pattern for the Chimeric Leggings here. Now, the leggings themselves do have a decent market value of a couple thousand gold, and it's going to be the case with a lot of the base crafts that we learned from the trainer, they might have some profit margin, but generally, crafted transmog that comes from rare BoE recipes that are drops themselves tend to have the best value and the highest prices, most likely due to the limited supply. But, for this one, one of the reagents is Living Essence, which in the zones we currently have unlocked, we just don't have access to. If we end up rolling Plaguelands, Felwood, or one of those higher-level zones, we might be able to craft it, but for now, it goes on the backlog. Next up, though, is the pattern for the Heavy Scorpid Leggings. This one, again, pretty good value, about 7 to 10,000 gold on these, and the materials, pretty easy. Rune Thread, which we have access to in our Redridge Tailoring vendor, Heavy Scorpid Scale, a little bit of a tricky one, but there is a small pack of mobs in Lower Blackrock Spire, the Scorpids, which, once we kill, we can skin for Heavy Scorpid Scales. So, it is obtainable.",
+        "canonical_file": "goldbound/025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.txt",
+        "original_file": "goldbound/original-vtt/025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E025-13",
+      "name": "Heavy Scorpid recipe craft planning",
+      "kind": "experiment",
+      "status": "ongoing",
+      "zone": "Dun Morogh",
+      "summary": "Leggings 7–10 k, Vest, Belt, Gauntletsrecipesavailable; LBRSscales+ruggedleather+Rune Threadfarm/craftlist, shoulder/helm/bootmissing.",
+      "metrics": {
+        "quoted_leggings_gold_range": [
+          7000,
+          10000
+        ]
+      },
+      "source": {
+        "file": "025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.vtt",
+        "cleaned_file": "goldbound/025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.txt",
+        "paragraph_start": 15,
+        "paragraph_end": 18,
+        "start_time": "00:21:09.360",
+        "quote": "Now, back to Golden Path. So, we're currently sitting on 248 blacksmithing and 300 leatherworking, but I have gone ahead and raided Goldie's bank for the rare BoE recipes to take a look at what we might actually be able to craft. So, first up, leatherworking. I have the pattern for the Chimeric Leggings here. Now, the leggings themselves do have a decent market value of a couple thousand gold, and it's going to be the case with a lot of the base crafts that we learned from the trainer, they might have some profit margin, but generally, crafted transmog that comes from rare BoE recipes that are drops themselves tend to have the best value and the highest prices, most likely due to the limited supply. But, for this one, one of the reagents is Living Essence, which in the zones we currently have unlocked, we just don't have access to. If we end up rolling Plaguelands, Felwood, or one of those higher-level zones, we might be able to craft it, but for now, it goes on the backlog. Next up, though, is the pattern for the Heavy Scorpid Leggings. This one, again, pretty good value, about 7 to 10,000 gold on these, and the materials, pretty easy. Rune Thread, which we have access to in our Redridge Tailoring vendor, Heavy Scorpid Scale, a little bit of a tricky one, but there is a small pack of mobs in Lower Blackrock Spire, the Scorpids, which, once we kill, we can skin for Heavy Scorpid Scales. So, it is obtainable.",
+        "canonical_file": "goldbound/025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.txt",
+        "original_file": "goldbound/original-vtt/025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E025-14",
+      "name": "Captain Ash Rug decor feasibility",
+      "kind": "experiment",
+      "status": "blocked",
+      "zone": "Dun Morogh",
+      "summary": "Devilsaur Leatherunavailableuntil Un Goro; nocraft.",
+      "metrics": {},
+      "source": {
+        "file": "025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.vtt",
+        "cleaned_file": "goldbound/025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.txt",
+        "paragraph_start": 16,
+        "paragraph_end": 16,
+        "start_time": "00:22:31.240",
+        "quote": "And Rugged Leather, which we do have a few sources for that. So, one we can actually add to the crafting list. And we also have the Scorpid Vest pattern, which, again, another decent market value and the same materials. Perfect. And on top of that, the Heavy Scorpid Belt. Pretty much the same story here, good value and all the same materials. And we do also have the Scorpid Gauntlets, which means we almost have the full set to craft. We're just missing the shoulders, the helm, and the boots. But, the pieces we do have, I I definitely add them to the farm and craft list. Because keeping transmog like this on the auction house will be big. But, the other big reason I actually grabbed leatherworking for the alt was for decor. So, there are two classic decor crafts with leatherworking. The first one is the Captain's Ash rug. Although, because it has devilsaur leather as reagent and we don't have a zone like Ungoro Crater yet, this one will have to wait. The one that we can craft though is the Loch Modan bearskin rug. We actually made a few of these when Goldie had max leatherworking and these sold pretty well. They just require some thread, some cured rugged hide, which we can craft from salt and rugged hide, and rugged hide drops from Sunken Temple skinning runs, plus rugged leather.",
+        "canonical_file": "goldbound/025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.txt",
+        "original_file": "goldbound/original-vtt/025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E025-15",
+      "name": "Bearskin Rug alt production",
+      "kind": "experiment",
+      "status": "ongoing",
+      "zone": "Dun Morogh",
+      "summary": "Permanent LWenablesrugrestockusing Goldieleather/hide/salt/lumber; no completedcountorsalehere.",
+      "metrics": {},
+      "source": {
+        "file": "025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.vtt",
+        "cleaned_file": "goldbound/025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.txt",
+        "paragraph_start": 16,
+        "paragraph_end": 19,
+        "start_time": "00:22:31.240",
+        "quote": "And Rugged Leather, which we do have a few sources for that. So, one we can actually add to the crafting list. And we also have the Scorpid Vest pattern, which, again, another decent market value and the same materials. Perfect. And on top of that, the Heavy Scorpid Belt. Pretty much the same story here, good value and all the same materials. And we do also have the Scorpid Gauntlets, which means we almost have the full set to craft. We're just missing the shoulders, the helm, and the boots. But, the pieces we do have, I I definitely add them to the farm and craft list. Because keeping transmog like this on the auction house will be big. But, the other big reason I actually grabbed leatherworking for the alt was for decor. So, there are two classic decor crafts with leatherworking. The first one is the Captain's Ash rug. Although, because it has devilsaur leather as reagent and we don't have a zone like Ungoro Crater yet, this one will have to wait. The one that we can craft though is the Loch Modan bearskin rug. We actually made a few of these when Goldie had max leatherworking and these sold pretty well. They just require some thread, some cured rugged hide, which we can craft from salt and rugged hide, and rugged hide drops from Sunken Temple skinning runs, plus rugged leather.",
+        "canonical_file": "goldbound/025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.txt",
+        "original_file": "goldbound/original-vtt/025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E025-16",
+      "name": "Shadowforge Sconce alt-leveling strategy",
+      "kind": "experiment",
+      "status": "planned",
+      "zone": "Dun Morogh",
+      "summary": "Alt 248→300 via profitabledecorusing Goldiesmelted Dark Iron/cores/shards/lumber; notclaimed 300 thisepisode.",
+      "metrics": {},
+      "source": {
+        "file": "025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.vtt",
+        "cleaned_file": "goldbound/025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.txt",
+        "paragraph_start": 17,
+        "paragraph_end": 18,
+        "start_time": "00:23:41.840",
+        "quote": "And the last one, lumber. And for lumber, well, it's technically everywhere in all of our zones just on the trees and wood ever since midnight pre-patch. And since it is warbound account bound, Goldie can farm it and transfer it to Goldenpath. And the bearskin rug, it looks like it still will turn quite a profit. Now, for blacksmithing, I'm only level 248 and the next levels are going to require quite a bit of valuable materials, lots of thorium and mythril and rare gems. But, I think I can craft profitably for things I actually want to sell pretty much all the way up. So, I've held off just doing the basic crafts for now. And one of the crafts that I think I can level up with is the Shadowforge Sconce.",
+        "canonical_file": "goldbound/025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.txt",
+        "original_file": "goldbound/original-vtt/025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E025-17",
+      "name": "Dun Morogh triple gathering hour",
+      "kind": "farm",
+      "status": "measured",
+      "zone": "Dun Morogh",
+      "summary": "82 Ironwood Lumberaccountbound,90 Peacebloom 123 Silverleaf 83 Earthroot 145 Copper 125 Rough Stone,1839 gtradegoods/h. Lumbervaluecannotdirectlyprice.",
+      "metrics": {
+        "minutes": 60,
+        "Ironwood Lumber": 82,
+        "Peacebloom": 90,
+        "Silverleaf": 123,
+        "Earthroot": 83,
+        "Copper Ore": 145,
+        "Rough Stone": 125,
+        "reported_tradegoods_gold_per_hour": 1839
+      },
+      "source": {
+        "file": "025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.vtt",
+        "cleaned_file": "goldbound/025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.txt",
+        "paragraph_start": 19,
+        "paragraph_end": 21,
+        "start_time": "00:25:12.080",
+        "quote": "And farming classic zones, well, that's our specialty. So, time to get farming. This time, Dun Morogh with a triple gatherer setup. I'm running mining, lumber gathering, and herbalism. And I'm going to gather every single node we see. Copper ore, lumber, peacebloom, silverleaf, you name it. Let's see what kind of raw gold per hour we can farm from ores and herbs, and how much lumber per hour we can get. Now, the lumber itself is a bit tougher to value since, well, it can't be traded. I suppose we could take the profit from the crafts like the rug and the sconce and divide up by how much lumber they require, 10 or 15, but that profit margin is going to be pretty variable and the sales on those items are going to be quite slow.",
+        "canonical_file": "goldbound/025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.txt",
+        "original_file": "goldbound/original-vtt/025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E025-18",
+      "name": "Mounted lumber achievement target",
+      "kind": "experiment",
+      "status": "ongoing",
+      "zone": "Dun Morogh",
+      "summary": "250 classic Lumberachievementplannedformountedgathering; notcompletionconfirmed.",
+      "metrics": {
+        "achievement_lumber_target": 250
+      },
+      "source": {
+        "file": "025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.vtt",
+        "cleaned_file": "goldbound/025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.txt",
+        "paragraph_start": 20,
+        "paragraph_end": 20,
+        "start_time": "00:25:54.280",
+        "quote": "The nice thing though, and something we can work towards, is the recent addition of an achievement for farming 250 lumber in classic zones. There is an achievement like this for every single expansion, but for us, it's the classic one that matters. And once it's completed, Goldie will be able to gather lumber while mounted. If only we could get an achievement like this for mining. Anyways, for lumber, this would massively increase efficiency and make tagging lumber while mining or herb roots much smoother. So, we should be able to get that sorted. And let's look at the results from an hour of triple gathering here in Dun Morogh. Let me tell you, the herbs are way more plentiful here than the ores. The mini map was almost constantly filled with herbs and lumber. So, an herb-focused route may just be worth testing here.",
+        "canonical_file": "goldbound/025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.txt",
+        "original_file": "goldbound/original-vtt/025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E025-19",
+      "name": "Dun Morogh 2000 copper marathon and smelting",
+      "kind": "farm",
+      "status": "measured",
+      "zone": "Dun Morogh",
+      "summary": "6.5 hourstoset 2000 goal, switchore-only; ore 2.2 gvsbars 2.5–2.8 g; smeltslists, notall sold.",
+      "metrics": {
+        "minutes": 390,
+        "Copper Ore": 2000,
+        "quoted_ore_unit_gold": 2.2,
+        "quoted_bar_unit_gold_range": [
+          2.5,
+          2.8
+        ]
+      },
+      "source": {
+        "file": "025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.vtt",
+        "cleaned_file": "goldbound/025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.txt",
+        "paragraph_start": 21,
+        "paragraph_end": 22,
+        "start_time": "00:26:37.880",
+        "quote": "But from 1 hour of dedicated farming, we got 82 ironwood lumber. Not bad. Enough for five to eight decor crafts, 90 peacebloom, 123 silverleaf, 83 earthroot, 145 copper ore, and 125 rough stone, which with the market crashing gives a current total trade value of about 1,839 gold per hour, which is better than the copper ore alone. And with the inclusion of 82 lumber, the actual crafted total value could be significantly higher. But at the end of the day, the gold farms here in Dun Morogh aren't particularly high value. So, in the end, it's just time invested that's going to start moving the needle. To gamify it, I set a target of 2,000 copper ore on my farming bar and got to work.",
+        "canonical_file": "goldbound/025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.txt",
+        "original_file": "goldbound/original-vtt/025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E025-20",
+      "name": "Lumberjack Jerkin and Orb realized sales",
+      "kind": "sales",
+      "status": "sales_confirmed",
+      "zone": "Dun Morogh",
+      "summary": "Cragboarjerkinsold; Ragnaros Orbalsosold, pricesunstated.19000 tradegoods 32000 transmog, total~52000(notexactsum 51000), token 230 k.",
+      "metrics": {
+        "tradegoods_cash_gold_approx": 19000,
+        "transmog_cash_gold": 32000,
+        "reported_total_cash_gold_approx": 52000,
+        "token_gold": 230000
+      },
+      "source": {
+        "file": "025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.vtt",
+        "cleaned_file": "goldbound/025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.txt",
+        "paragraph_start": 23,
+        "paragraph_end": 23,
+        "start_time": "00:27:59.280",
+        "quote": "And a massive thank you to all the travelers who picked up some Greetings, Travelers apparel. All right. Let's get back to this mailbox. So, it's just one page of 95 mails, and right off the bat, some of the copper bars we farmed are moving, but it doesn't look like all 2,000 have sold yet. And scrolling down, a few more pieces, items from the weekly raid clears and Zul'Gurub mount attempts. Plus, it looks like some of our backlog of deep sea scales have actually finally sold, getting rid of the last remnants of the STV stock pile, it seems. I'll go ahead and get this looted up. This week was definitely a big investment into leveling the alt and testing a few new farms here in Dun Morogh. And to show for it, about 19,000 liquid gold from trade goods. Not our best, but with the WoW token down to about 230,000 gold, hopefully if we stack a few strong weeks of value, we can be out of Dun Morogh before the snow melts. But, let's check the transmog gold. And okay, that is a few sales. No major ticket items here, but the lumberjack jerkin, a drop I got from Grark Boar's Dun Morogh, it already sold, and a few other decent priced items, like the Orb of Deception, a drop we got from Ragnaros. Not bad. And with it all looted up, 32,000 gold from transmog. Okay.",
+        "canonical_file": "goldbound/025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.txt",
+        "original_file": "goldbound/original-vtt/025 - This New Zone Has A MASSIVE Unlock - Goldbound 24.en-orig.vtt"
+      }
+    }
+  ]
+}

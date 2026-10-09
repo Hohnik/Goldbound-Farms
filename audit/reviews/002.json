@@ -1,0 +1,485 @@
+{
+  "source_id": 2,
+  "source_file": "002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.vtt",
+  "cleaned_file": "goldbound/002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.txt",
+  "full_text_reviewed": true,
+  "paragraph_count": 19,
+  "records": [
+    {
+      "id": "E002-01",
+      "name": "Thuros Lightfingers rare camp",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Elwynn Forest",
+      "summary": "Cooldown camping while gathering. Thirty to fifty kills on each of three rares; multiple Fingerless Gloves and Thuggish Shield obtained. Cited drop odds are external claims, not measured probabilities.",
+      "metrics": {
+        "kills_per_rare_range": [
+          30,
+          50
+        ],
+        "respawn_minutes_range": [
+          25,
+          35
+        ],
+        "cited_gloves_drop_pct": 3,
+        "cited_shield_drop_pct": 1
+      },
+      "source": {
+        "file": "002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.vtt",
+        "cleaned_file": "goldbound/002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.txt",
+        "paragraph_start": 2,
+        "paragraph_end": 6,
+        "start_time": "00:01:19.439",
+        "quote": "Specifically, three of Elwin's most profitable rares. Thoros Lightfingers, Mother Fang, and Fedfennel. Now, you might be asking, why these three? There are about seven rare spawns in Elwin after all, but these ones in particular, they have loot worth farming. Let's start with Thoros. He's got two drops for hunting. The fingerless gloves and a little bit more rare, the thugish shield. The gloves drop around 3% and the shield just 1% according to Wowhead. These items have value because of transmogriification or transmog. This is a system in Modern WoW that lets players change the appearance of their gear to match anything they've collected across their account. Some appearances are common and they're shared across a dozen items, but others are totally unique. The thuggish shield, for example, is a one-of-a-kind design.",
+        "canonical_file": "goldbound/002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.txt",
+        "original_file": "goldbound/original-vtt/002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E002-02",
+      "name": "Fedfennel Pale Skinner hunt",
+      "kind": "farm",
+      "status": "successful",
+      "zone": "Elwynn Forest",
+      "summary": "Pale Skinner dropped and was listed; 127000 g is a quoted market value, not realized revenue.",
+      "metrics": {
+        "quoted_item_value_gold": 127000,
+        "cited_drop_pct": 1.7
+      },
+      "source": {
+        "file": "002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.vtt",
+        "cleaned_file": "goldbound/002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.txt",
+        "paragraph_start": 4,
+        "paragraph_end": 6,
+        "start_time": "00:03:01.920",
+        "quote": "Surrounded by a small troop of NLES, this mini boss doesn't look like much, but he's holding something sharp. You see, we're farming him for one thing. The Pale Skinner, a one-handed sword with a 1.7% drop chance and a history that makes it goldbound worthy. For starters, he was actually removed from the game for a while, completely unobtainable before being readded in patch 8.0.1. Now, that's already enough to get some collectors interested, and the appearance is shared only with one other weapon, the Blackwater Cutless from Deadmines. It's got that classic pirate schwashbuckler vibe. A perfect finishing piece for anyone rocking a sea dog transmog. Now, back in the day, the pale Skinner actually had a special feature. It counted as a skinning knife. Sadly, that function is gone, but the value remains. The auction house pricing puts it at an average of around 127,000 gold.",
+        "canonical_file": "goldbound/002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.txt",
+        "original_file": "goldbound/original-vtt/002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E002-03",
+      "name": "Mother Fang Brood Mother Carapace hunt",
+      "kind": "farm",
+      "status": "successful",
+      "zone": "Elwynn Forest",
+      "summary": "Carapace dropped during later filming and was listed. Quoted 179000 g and very slow sales; caption drop percentage ambiguous. No confirmed sale.",
+      "metrics": {
+        "quoted_item_value_gold": 179000,
+        "quoted_sales_per_day_upper_bound": 0.05
+      },
+      "source": {
+        "file": "002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.vtt",
+        "cleaned_file": "goldbound/002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.txt",
+        "paragraph_start": 5,
+        "paragraph_end": 7,
+        "start_time": "00:03:57.439",
+        "quote": "Of course, players looking purely for the appearance might simply just go run dead mines for the Blackwater version. But if you're a collector or you want the original, the sword still holds some serious value. Now, this isn't something you'd expect to sell immediately, but if one did sell, that's nearly half a WOW token in one swing. A single drop that could literally change the run. And that's two rares down and one more to go. We moved southwest into the darkest corners of Elwin, the place Jasper Load Mine. And buried within its twisting tunnels is a rare unlike any other. After brushing past a few cobalts who might have some interesting drops of their own, more on that soon, we reached our next mark, Mother Fang, a spider rare tucked deep in the mine and arguably the single most valuable mob in all of Elewin Forest. There's one reason we're down here. The brood mother carropase, a leather chest piece with a6% drop chance and a completely unique appearance. Nothing else in the game looks like it. Because of that rarity, the value is massive, averaging nearly 179,000 gold. One drop from the spider could get us more than halfway to our token goal. Goldilocked did what any self-respecting zone locked rogue would do. We camped hard. We kept precise timers and rotated through spawn points.",
+        "canonical_file": "goldbound/002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.txt",
+        "original_file": "goldbound/original-vtt/002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E002-04",
+      "name": "Jasperlode Mine full clear",
+      "kind": "experiment",
+      "status": "measured",
+      "zone": "Elwynn Forest",
+      "summary": "One hour killing, looting and mining: 626 g regional sale-average appraisal including 26 g raw. Three Mother Fang kills. Vendor quantities and prices contain a Slimy Fang arithmetic discrepancy.",
+      "metrics": {
+        "minutes": 60,
+        "reported_gold_per_hour": 626,
+        "raw_gold": 26,
+        "Rigid Spinneret": 207,
+        "Slimy Fang": 51,
+        "Spider Leg": 184,
+        "Large Venom Sac": 35,
+        "Copper Ore": 29,
+        "Mother Fang kills": 3
+      },
+      "source": {
+        "file": "002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.vtt",
+        "cleaned_file": "goldbound/002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.txt",
+        "paragraph_start": 7,
+        "paragraph_end": 11,
+        "start_time": "00:06:18.319",
+        "quote": "Definitely below drop rate, but a massive W nonetheless. We'll be posting this one up as well. These items are ultra rare, and the sellrough rates reflect that as well. According to Trade Skill Master, items like these sell less than 0.05 times per day. So, in plain terms, they really don't move fast. But that's the game with Transmog. You stock the shelves, you build the inventory, and you keep them posted on the auction house. Because when you've got 100 rare items posted, even a 1% sale rate means that something sells every couple of days. So, no, we're not banking on these transmogong items alone to buy our way out of Elwin, but it's a foundation and a passive pipeline. But I wasn't ready to just sit in Storwind waiting for sales. Jasper Load Mine has more to offer. There's something a little more primal, the grind. There's spiders, there's cobalts, and there's copper ore.",
+        "canonical_file": "goldbound/002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.txt",
+        "original_file": "goldbound/original-vtt/002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E002-05",
+      "name": "Web-covered Boots rare loot",
+      "kind": "farm",
+      "status": "successful",
+      "zone": "Elwynn Forest",
+      "summary": "Boots obtained from Mother Fang during mine farm; poor sell-through discussed. No individual revenue or separate hourly rate.",
+      "metrics": {},
+      "source": {
+        "file": "002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.vtt",
+        "cleaned_file": "goldbound/002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.txt",
+        "paragraph_start": 11,
+        "paragraph_end": 11,
+        "start_time": "00:09:50.160",
+        "quote": "And from Mother Fang, we actually did pull in the web covered boots. This is a rare item with a decent value tag, but a brutally low sale rate. We'll post it for sure, but I'm really not holding my breath. And we also picked up a few white items, some with unique or semi- rare appearances. And if a collector's using the auction to fill up their missing wardrobe slots, we might just get lucky. But there's something a little bit more consistent. The cobalt mining mallet. This one drops fairly often from the cobalts and jasper load. It shares its appearance with the Rock Shard Club and Cotto Mallet, so it's not exclusive. It has a solid average list price of over a,000 gold. Although the average sale price is only 37 gold, but more importantly, it is a 4% average daily sale rate. And that's huge in the world of low volume transmog. It's not going to find a WOW token on its own, but posting a few of these can definitely move the needle if we sell a few for a couple hundred gold. This isn't a get-rich quick scheme, but if we're already camping Mother Fang, running loops through the mine for a few extra gold is absolutely worth the time.",
+        "canonical_file": "goldbound/002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.txt",
+        "original_file": "goldbound/original-vtt/002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E002-06",
+      "name": "Kobold Mining Mallet collection",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Elwynn Forest",
+      "summary": "Common kobold transmog included in mine run. Actual regional sale-average 37 g contrasted with ambiguous high listings; only a few should be posted.",
+      "metrics": {
+        "quoted_regional_sale_average_gold": 37,
+        "quoted_sale_rate_pct": 4
+      },
+      "source": {
+        "file": "002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.vtt",
+        "cleaned_file": "goldbound/002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.txt",
+        "paragraph_start": 11,
+        "paragraph_end": 11,
+        "start_time": "00:09:50.160",
+        "quote": "And from Mother Fang, we actually did pull in the web covered boots. This is a rare item with a decent value tag, but a brutally low sale rate. We'll post it for sure, but I'm really not holding my breath. And we also picked up a few white items, some with unique or semi- rare appearances. And if a collector's using the auction to fill up their missing wardrobe slots, we might just get lucky. But there's something a little bit more consistent. The cobalt mining mallet. This one drops fairly often from the cobalts and jasper load. It shares its appearance with the Rock Shard Club and Cotto Mallet, so it's not exclusive. It has a solid average list price of over a,000 gold. Although the average sale price is only 37 gold, but more importantly, it is a 4% average daily sale rate. And that's huge in the world of low volume transmog. It's not going to find a WOW token on its own, but posting a few of these can definitely move the needle if we sell a few for a couple hundred gold. This isn't a get-rich quick scheme, but if we're already camping Mother Fang, running loops through the mine for a few extra gold is absolutely worth the time.",
+        "canonical_file": "goldbound/002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.txt",
+        "original_file": "goldbound/original-vtt/002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E002-07",
+      "name": "Druid versus Rogue gathering comparison",
+      "kind": "proposal",
+      "status": "not_performed_here",
+      "zone": "Elwynn Forest",
+      "summary": "Druid instant travel form, gathering and Moonfire recommended; comparison was not a timed Druid trial.",
+      "metrics": {},
+      "source": {
+        "file": "002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.vtt",
+        "cleaned_file": "goldbound/002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.txt",
+        "paragraph_start": 8,
+        "paragraph_end": 8,
+        "start_time": "00:07:13.120",
+        "quote": "So, Goldilocks set out on his mission. one hour, clear the mine, loot a try, and see what kind of profits Elen is really hiding underground. If it moved, we shot it. If it sparkled, we mined it. Simple rules, simple plan. Now, it's probably a good time to talk about the class we chose for this challenge, rogue. And let's be honest, for pure gold making efficiency, it's not exactly optimal. If you're looking to maximize your gold per hour, definitely go druid. Their instant flight forms, gathering while flying, class teleports to Moonglade, and movement speed buffs make them the undisputed kings for farming, not to mention Moonfire being pretty much a max aim aimbot for loot farms. So, why Rogue? Well, because nothing about this challenge is efficient.",
+        "canonical_file": "goldbound/002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.txt",
+        "original_file": "goldbound/original-vtt/002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E002-08",
+      "name": "Stockades dungeon run",
+      "kind": "proposal",
+      "status": "rejected",
+      "zone": "Elwynn Forest",
+      "summary": "Dungeon farming explicitly declined for the current Elwynn-only challenge.",
+      "metrics": {},
+      "source": {
+        "file": "002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.vtt",
+        "cleaned_file": "goldbound/002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.txt",
+        "paragraph_start": 12,
+        "paragraph_end": 12,
+        "start_time": "00:10:56.160",
+        "quote": "It's passive farming, and every little bit helps chip away at that Wow token toll. So, as we continue working toward our WoW token, let's talk a little bit about the journey itself. Right now, we're locked to Elwin Forest with Stormwind serving as our designated major city access mainly for auction house and banking. Now, there is a case to be made that we could farm the stockades, a dungeon located right inside Stormwind, but if I'm being honest, I never intended to exploit Stormwind as a gold farm hub, at least in Elwin. So, we're going to keep things simple. All of our gold for this leg of the challenge is going to be Elwin based. In the future, when we unlock a new zone that has a dungeon entrance within it, we'll absolutely be allowed to run that instance for gold, but it needs to be clearly located within the unlocked zone. That way, we're staying true to the gold bound journey. And speaking of future zones, let's take a look at the map. Since we're in Elewin now, once we purchase a WoW token, we'll spin a randomizer to determine our next unlocked zone. Accessible by foot from where we are. For us, that means Westfall, a classic early leveling zone.",
+        "canonical_file": "goldbound/002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.txt",
+        "original_file": "goldbound/original-vtt/002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E002-09",
+      "name": "Chromie Time scaling and experience",
+      "kind": "proposal",
+      "status": "deferred",
+      "zone": "Elwynn Forest",
+      "summary": "Current level 35 unscaled mobs die instantly and give little XP; enabling Chromie Time deferred to next zone.",
+      "metrics": {
+        "character_level": 35
+      },
+      "source": {
+        "file": "002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.vtt",
+        "cleaned_file": "goldbound/002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.txt",
+        "paragraph_start": 13,
+        "paragraph_end": 14,
+        "start_time": "00:12:05.600",
+        "quote": "I personally kind of hope we get this one. Red Ridge. This one would be interesting, but unfortunately there's no dungeons located in Red Ridge or another starting zone of Dun Maro accessible through the deep run tram. And speaking of the randomizer, be sure to comment and subscribe because for every token that Goldilock uses and activates, we'll be giving away a WOW token to a subscriber and commenter. And yes, there are other ways out of Stormwind. boats, portals. Some of them lead far beyond Eastern Kingdoms and Calumdor into the realms of expansions, new content, current content, and floating rocks in the sky. But for now, it feels right to keep Goldilock grounded, exploring these old zones in Eastern Kingdoms and leaving those distant lands to a bigger unlock, perhaps behind something earned. So, as many of you noticed, everything in Elwin has been getting absolutely deleted ever since we hit level 35. And that's because when we started this character, chromy time was off by default. I honestly didn't even know that this could be changed or altered and was surprised that Ellen scaled to level 35.",
+        "canonical_file": "goldbound/002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.txt",
+        "original_file": "goldbound/original-vtt/002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E002-10",
+      "name": "Mounted ore mining discovery",
+      "kind": "experiment",
+      "status": "confirmed",
+      "zone": "Elwynn Forest",
+      "summary": "Repeatedly mines while hovering one to three feet above ore; herbs still require dismounting. Observed as route optimization.",
+      "metrics": {},
+      "source": {
+        "file": "002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.vtt",
+        "cleaned_file": "goldbound/002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.txt",
+        "paragraph_start": 15,
+        "paragraph_end": 15,
+        "start_time": "00:14:19.120",
+        "quote": "We'll be doing a full mailbox clear and/played reveal at the end of this episode. But for now, let's get back to what works. Dual gathering, herbs and ore. It's how we made our first gold, and it's still one of our most reliable methods. The thing is, we've leveled up our method. Goldilocks getting smarter, faster. We've mapped out the zone and found some hidden secrets within Elwin. So, now we're putting our refined gathering route to the test with a few improvements as well. So, let's see what the new meta looks like. First off, as we leveled up, something happened. something very retail. Our mount speed increased automatically. No training, no clicks. Just one day we were zipping through Elwin like a rocket powered pigeon. And that makes a huge difference in farming loops. If you remember from last episode, we discovered a little flip with herbalism where we would gather with the skill, drop herbalism, learn inscription, and mill the herbs down and reset. We found a similar shuffle for coproar. I'll break that down soon. But first, let me show you something even weirder. During one of the many, and I mean many, hours of farming, something strange happened. I was able to gather copper ore while still mounted. At first, I thought it was lag, a fluke. But then it happened again a few minutes later. Turns out if you hover your mount about 1 to 3 ft above the ore, close enough to interact, but far enough that you don't land, it lets you mine without dismounting.",
+        "canonical_file": "goldbound/002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.txt",
+        "original_file": "goldbound/original-vtt/002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E002-11",
+      "name": "Refined flying dual-gather route",
+      "kind": "farm",
+      "status": "measured",
+      "zone": "Elwynn Forest",
+      "summary": "Full hour focused gathering, followed by processing; 297 copper, 197 silverleaf, 116 peacebloom, 134 earthroot plus stone and gems.",
+      "metrics": {
+        "gathering_minutes": 60,
+        "Copper Ore": 297,
+        "Silverleaf": 197,
+        "Peacebloom": 116,
+        "Earthroot": 134
+      },
+      "source": {
+        "file": "002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.vtt",
+        "cleaned_file": "goldbound/002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.txt",
+        "paragraph_start": 15,
+        "paragraph_end": 17,
+        "start_time": "00:14:19.120",
+        "quote": "We'll be doing a full mailbox clear and/played reveal at the end of this episode. But for now, let's get back to what works. Dual gathering, herbs and ore. It's how we made our first gold, and it's still one of our most reliable methods. The thing is, we've leveled up our method. Goldilocks getting smarter, faster. We've mapped out the zone and found some hidden secrets within Elwin. So, now we're putting our refined gathering route to the test with a few improvements as well. So, let's see what the new meta looks like. First off, as we leveled up, something happened. something very retail. Our mount speed increased automatically. No training, no clicks. Just one day we were zipping through Elwin like a rocket powered pigeon. And that makes a huge difference in farming loops. If you remember from last episode, we discovered a little flip with herbalism where we would gather with the skill, drop herbalism, learn inscription, and mill the herbs down and reset. We found a similar shuffle for coproar. I'll break that down soon. But first, let me show you something even weirder. During one of the many, and I mean many, hours of farming, something strange happened. I was able to gather copper ore while still mounted. At first, I thought it was lag, a fluke. But then it happened again a few minutes later. Turns out if you hover your mount about 1 to 3 ft above the ore, close enough to interact, but far enough that you don't land, it lets you mine without dismounting.",
+        "canonical_file": "goldbound/002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.txt",
+        "original_file": "goldbound/original-vtt/002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E002-12",
+      "name": "Copper ore to bar smelting",
+      "kind": "experiment",
+      "status": "performed",
+      "zone": "Elwynn Forest",
+      "summary": "Ore smelted for roughly 1 g markup per unit, as part of the combined Elwynn Shuffle.",
+      "metrics": {
+        "quoted_markup_gold_per_ore": 1
+      },
+      "source": {
+        "file": "002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.vtt",
+        "cleaned_file": "goldbound/002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.txt",
+        "paragraph_start": 17,
+        "paragraph_end": 17,
+        "start_time": "00:16:43.240",
+        "quote": "Honestly, not bad. This is a pretty big improvement over our gold gathering rates from the last episode. All without leaving Elwin at all, but this is still just the beginning because it's time to do the Elwin shuffle. First up, we're going to go ahead and smelt all the ore down. This takes a few minutes to process all this ore, but that improves our gold by about one gold per ore. That's decent, but we can still do a lot better. So, the next step is to pivot into engineering. We just have to craft enough rough blasting powder to hit 30 engineering. Then, we simply go back to the trainer and learn a single recipe, the handful of copper bolts. And a quick tip, before you run back to the forge, don't forget to pick up a blacksmith hammer from the trade goods vendor. Otherwise, you'll just be running back again. Not exactly minmax, just minimal brain. From here, it's simple. One copper bar will go into a handful of copper bolts. It takes a while, but these bolts sell for 9 gold each. So, by running this simple two-step process, we more than double the value of our copper ore. And sure, it takes some time, but this is just some AFK time to watch YouTube in the background. And then we move on to the herbs. And this is the exact same herb shuffle that we've run before. Get inscription at level one, just high enough to mill. Pretty easy. And we make sure again we're only milling what we have in our bags even though there's some in our bank that we could technically mill. And for this we're simply just converting the silver leaf paste bloom and earthroot into alabaster pigments so that we can sell. And as simple as that after a few minutes of milling the shuffle is complete. And now we're sitting on 297 copper bolts valued at around 9 gold each. Alongside that we have 266 alabaster pigments. And these go for around 12 gold a piece. And that's a total process value of about 5,865 gold. And the total time to make that just 1 hour and 21 minutes. That's farming and processing, which if you average it out, gives us a gold per hour of 4,300. That's not from flipping, not from rares, just gathering and refining in a starting zone. Now, to be fair, we'll likely sell some of these earth roots and copper ores raw, and we'll probably sell some of the copper ores as copper bars, but we'll try to sell the most of them as the bolts and as the pigments. This is just because the starting zone, the materials here, while they sell, they're still a little bit of slow movers, and sometimes it's better just to offload them quicker. But regardless of the split, this is hands down our most consistent farm so far.",
+        "canonical_file": "goldbound/002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.txt",
+        "original_file": "goldbound/original-vtt/002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.vtt"
+      },
+      "additional_values": [
+        {
+          "value": 1,
+          "label": "Smelting uplift",
+          "basis": "Quoted ore-to-bar uplift; processing time and input opportunity cost are separate.",
+          "unit": "g/bar",
+          "kind": "value",
+          "source_refs": [
+            {
+              "episode": 2,
+              "paragraph_start": 17,
+              "paragraph_end": 17,
+              "start_time": "00:16:43.240"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E002-13",
+      "name": "Engineering skill 30 setup",
+      "kind": "experiment",
+      "status": "performed",
+      "zone": "Elwynn Forest",
+      "summary": "Rough Blasting Powder used to reach Engineering 30 to unlock Copper Bolts; setup time not separately measured.",
+      "metrics": {
+        "engineering_target_skill": 30
+      },
+      "source": {
+        "file": "002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.vtt",
+        "cleaned_file": "goldbound/002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.txt",
+        "paragraph_start": 17,
+        "paragraph_end": 17,
+        "start_time": "00:16:43.240",
+        "quote": "Honestly, not bad. This is a pretty big improvement over our gold gathering rates from the last episode. All without leaving Elwin at all, but this is still just the beginning because it's time to do the Elwin shuffle. First up, we're going to go ahead and smelt all the ore down. This takes a few minutes to process all this ore, but that improves our gold by about one gold per ore. That's decent, but we can still do a lot better. So, the next step is to pivot into engineering. We just have to craft enough rough blasting powder to hit 30 engineering. Then, we simply go back to the trainer and learn a single recipe, the handful of copper bolts. And a quick tip, before you run back to the forge, don't forget to pick up a blacksmith hammer from the trade goods vendor. Otherwise, you'll just be running back again. Not exactly minmax, just minimal brain. From here, it's simple. One copper bar will go into a handful of copper bolts. It takes a while, but these bolts sell for 9 gold each. So, by running this simple two-step process, we more than double the value of our copper ore. And sure, it takes some time, but this is just some AFK time to watch YouTube in the background. And then we move on to the herbs. And this is the exact same herb shuffle that we've run before. Get inscription at level one, just high enough to mill. Pretty easy. And we make sure again we're only milling what we have in our bags even though there's some in our bank that we could technically mill. And for this we're simply just converting the silver leaf paste bloom and earthroot into alabaster pigments so that we can sell. And as simple as that after a few minutes of milling the shuffle is complete. And now we're sitting on 297 copper bolts valued at around 9 gold each. Alongside that we have 266 alabaster pigments. And these go for around 12 gold a piece. And that's a total process value of about 5,865 gold. And the total time to make that just 1 hour and 21 minutes. That's farming and processing, which if you average it out, gives us a gold per hour of 4,300. That's not from flipping, not from rares, just gathering and refining in a starting zone. Now, to be fair, we'll likely sell some of these earth roots and copper ores raw, and we'll probably sell some of the copper ores as copper bars, but we'll try to sell the most of them as the bolts and as the pigments. This is just because the starting zone, the materials here, while they sell, they're still a little bit of slow movers, and sometimes it's better just to offload them quicker. But regardless of the split, this is hands down our most consistent farm so far.",
+        "canonical_file": "goldbound/002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.txt",
+        "original_file": "goldbound/original-vtt/002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E002-14",
+      "name": "Handful of Copper Bolts conversion",
+      "kind": "experiment",
+      "status": "measured",
+      "zone": "Elwynn Forest",
+      "summary": "297 bars converted to bolts valued at 9 g each; blacksmith hammer needed. Component of combined shuffle, not standalone GPH.",
+      "metrics": {
+        "Handful of Copper Bolts": 297,
+        "quoted_unit_value_gold": 9,
+        "quoted_basket_value_gold": 2673
+      },
+      "source": {
+        "file": "002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.vtt",
+        "cleaned_file": "goldbound/002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.txt",
+        "paragraph_start": 17,
+        "paragraph_end": 17,
+        "start_time": "00:16:43.240",
+        "quote": "Honestly, not bad. This is a pretty big improvement over our gold gathering rates from the last episode. All without leaving Elwin at all, but this is still just the beginning because it's time to do the Elwin shuffle. First up, we're going to go ahead and smelt all the ore down. This takes a few minutes to process all this ore, but that improves our gold by about one gold per ore. That's decent, but we can still do a lot better. So, the next step is to pivot into engineering. We just have to craft enough rough blasting powder to hit 30 engineering. Then, we simply go back to the trainer and learn a single recipe, the handful of copper bolts. And a quick tip, before you run back to the forge, don't forget to pick up a blacksmith hammer from the trade goods vendor. Otherwise, you'll just be running back again. Not exactly minmax, just minimal brain. From here, it's simple. One copper bar will go into a handful of copper bolts. It takes a while, but these bolts sell for 9 gold each. So, by running this simple two-step process, we more than double the value of our copper ore. And sure, it takes some time, but this is just some AFK time to watch YouTube in the background. And then we move on to the herbs. And this is the exact same herb shuffle that we've run before. Get inscription at level one, just high enough to mill. Pretty easy. And we make sure again we're only milling what we have in our bags even though there's some in our bank that we could technically mill. And for this we're simply just converting the silver leaf paste bloom and earthroot into alabaster pigments so that we can sell. And as simple as that after a few minutes of milling the shuffle is complete. And now we're sitting on 297 copper bolts valued at around 9 gold each. Alongside that we have 266 alabaster pigments. And these go for around 12 gold a piece. And that's a total process value of about 5,865 gold. And the total time to make that just 1 hour and 21 minutes. That's farming and processing, which if you average it out, gives us a gold per hour of 4,300. That's not from flipping, not from rares, just gathering and refining in a starting zone. Now, to be fair, we'll likely sell some of these earth roots and copper ores raw, and we'll probably sell some of the copper ores as copper bars, but we'll try to sell the most of them as the bolts and as the pigments. This is just because the starting zone, the materials here, while they sell, they're still a little bit of slow movers, and sometimes it's better just to offload them quicker. But regardless of the split, this is hands down our most consistent farm so far.",
+        "canonical_file": "goldbound/002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.txt",
+        "original_file": "goldbound/original-vtt/002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E002-15",
+      "name": "Herb milling to Alabaster Pigment",
+      "kind": "experiment",
+      "status": "measured",
+      "zone": "Elwynn Forest",
+      "summary": "Herbs milled at Inscription 1 into 266 pigments valued at 12 g each; combined with bolt production.",
+      "metrics": {
+        "Alabaster Pigment": 266,
+        "quoted_unit_value_gold": 12,
+        "quoted_basket_value_gold": 3192
+      },
+      "source": {
+        "file": "002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.vtt",
+        "cleaned_file": "goldbound/002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.txt",
+        "paragraph_start": 17,
+        "paragraph_end": 17,
+        "start_time": "00:16:43.240",
+        "quote": "Honestly, not bad. This is a pretty big improvement over our gold gathering rates from the last episode. All without leaving Elwin at all, but this is still just the beginning because it's time to do the Elwin shuffle. First up, we're going to go ahead and smelt all the ore down. This takes a few minutes to process all this ore, but that improves our gold by about one gold per ore. That's decent, but we can still do a lot better. So, the next step is to pivot into engineering. We just have to craft enough rough blasting powder to hit 30 engineering. Then, we simply go back to the trainer and learn a single recipe, the handful of copper bolts. And a quick tip, before you run back to the forge, don't forget to pick up a blacksmith hammer from the trade goods vendor. Otherwise, you'll just be running back again. Not exactly minmax, just minimal brain. From here, it's simple. One copper bar will go into a handful of copper bolts. It takes a while, but these bolts sell for 9 gold each. So, by running this simple two-step process, we more than double the value of our copper ore. And sure, it takes some time, but this is just some AFK time to watch YouTube in the background. And then we move on to the herbs. And this is the exact same herb shuffle that we've run before. Get inscription at level one, just high enough to mill. Pretty easy. And we make sure again we're only milling what we have in our bags even though there's some in our bank that we could technically mill. And for this we're simply just converting the silver leaf paste bloom and earthroot into alabaster pigments so that we can sell. And as simple as that after a few minutes of milling the shuffle is complete. And now we're sitting on 297 copper bolts valued at around 9 gold each. Alongside that we have 266 alabaster pigments. And these go for around 12 gold a piece. And that's a total process value of about 5,865 gold. And the total time to make that just 1 hour and 21 minutes. That's farming and processing, which if you average it out, gives us a gold per hour of 4,300. That's not from flipping, not from rares, just gathering and refining in a starting zone. Now, to be fair, we'll likely sell some of these earth roots and copper ores raw, and we'll probably sell some of the copper ores as copper bars, but we'll try to sell the most of them as the bolts and as the pigments. This is just because the starting zone, the materials here, while they sell, they're still a little bit of slow movers, and sometimes it's better just to offload them quicker. But regardless of the split, this is hands down our most consistent farm so far.",
+        "canonical_file": "goldbound/002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.txt",
+        "original_file": "goldbound/original-vtt/002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E002-16",
+      "name": "Elwynn Shuffle gathering plus processing",
+      "kind": "farm",
+      "status": "measured",
+      "zone": "Elwynn Forest",
+      "summary": "Gathering and processing together took 81 minutes; bolt and pigment valuation 5865 g gives roughly 4344 g/h, reported as 4300 g/h. Stock diversified among raw herbs, ore, bars, bolts and pigments.",
+      "metrics": {
+        "total_minutes": 81,
+        "appraised_value_gold": 5865,
+        "reported_gold_per_hour": 4300,
+        "calculated_gold_per_hour": 4344.44
+      },
+      "source": {
+        "file": "002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.vtt",
+        "cleaned_file": "goldbound/002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.txt",
+        "paragraph_start": 16,
+        "paragraph_end": 18,
+        "start_time": "00:15:46.399",
+        "quote": "Unreal. Sadly, herbs do not work the same way. You still have to dismount to gather those. And while there are tools and mounts in the game that let you mine herbs while mounted or if you just rolled the druid, Goldilock doesn't have those. Not yet at least. But thanks to our upgraded mount speed and zero downtime between ore nodes, we managed to push some serious numbers. So I ran a full hour of focused farming, zero distractions, just pure gathering. Then I stopped, reset the timer, and began processing everything, testing the efficiency of what I now call Goldilocks Elwin Forest Shuffle. So, first, let's take a look at the breakdown of the raw farmed materials, 297 copper, 197 silver leaf, 116 peace bloom, 134 earthroot, and some assorted gems and rough stone on the side.",
+        "canonical_file": "goldbound/002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.txt",
+        "original_file": "goldbound/original-vtt/002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.vtt"
+      },
+      "related_records": [
+        {
+          "id": "E002-11",
+          "role": "component",
+          "label": "Gathering leg",
+          "include_earnings": false
+        },
+        {
+          "id": "E002-14",
+          "role": "component",
+          "label": "Copper Bolt processing",
+          "include_earnings": false
+        },
+        {
+          "id": "E002-15",
+          "role": "component",
+          "label": "Herb milling",
+          "include_earnings": false
+        }
+      ]
+    },
+    {
+      "id": "E002-17",
+      "name": "Pigment and Copper Bolt mailbox sales",
+      "kind": "sales",
+      "status": "sales_confirmed",
+      "zone": "Elwynn Forest",
+      "summary": "Mailbox confirms many pigments and copper bolts sold after repeated shuffle runs; quantities and individual hourly cash rate not isolated.",
+      "metrics": {},
+      "source": {
+        "file": "002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.vtt",
+        "cleaned_file": "goldbound/002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.txt",
+        "paragraph_start": 18,
+        "paragraph_end": 19,
+        "start_time": "00:19:25.760",
+        "quote": "And it's going to be the method that brings in the most steady and predictable gold. And in a challenge where zone progress costs over 260,000 gold, we're going to need both. Now, I have heard some whispers, rumors of a different kind of farm here in Elwin Forest, one that could allegedly skyrocket our gold per hour. And apparently it happens right here in Goldshshire. Unfortunately, an initial analysis suggests that we might need to pick up a realm transfer to Moon Guard and maybe even some well cosmetic enhancements. So, for now, we're going to go ahead and leave that particular gold farm to the professionals or to Nat Pegle if he ever stops fishing long enough to realize what's really biting in Goldshshire. So, with a few hours of the Elwin shuffle wrapped up, our bags were full, our bolts were stacked, and the pigments were ready to move, we squeezed just about every coin that we could out of the forest this week, at least for now. So, it's time we'll head over to the Gold Shower mailbox to check our mail, tally our coins, and see just how far this forest has pushed us towards that 261,000 gold total. Let's get right into it. We'll open up the mailbox and start collecting. Now, the add-on of trade skill master only shows the first hund, but we can already see a ton of alabaster pigments, some miscellaneous trade goods, lots of handfuls of copper bolts, and somehow even a few frayed knots. We'll go ahead and open up all of this. And boy oh boy, after hours and hours of farming, the dopamine of watching it all flow into the inventory is definitely something else. and that sound.",
+        "canonical_file": "goldbound/002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.txt",
+        "original_file": "goldbound/original-vtt/002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E002-18",
+      "name": "Frayed Knot follow-up sales",
+      "kind": "sales",
+      "status": "sales_confirmed",
+      "zone": "Elwynn Forest",
+      "summary": "Knots continued selling; price decline attributed to additional supply. No updated measured standalone GPH.",
+      "metrics": {},
+      "source": {
+        "file": "002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.vtt",
+        "cleaned_file": "goldbound/002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.txt",
+        "paragraph_start": 18,
+        "paragraph_end": 19,
+        "start_time": "00:19:25.760",
+        "quote": "And it's going to be the method that brings in the most steady and predictable gold. And in a challenge where zone progress costs over 260,000 gold, we're going to need both. Now, I have heard some whispers, rumors of a different kind of farm here in Elwin Forest, one that could allegedly skyrocket our gold per hour. And apparently it happens right here in Goldshshire. Unfortunately, an initial analysis suggests that we might need to pick up a realm transfer to Moon Guard and maybe even some well cosmetic enhancements. So, for now, we're going to go ahead and leave that particular gold farm to the professionals or to Nat Pegle if he ever stops fishing long enough to realize what's really biting in Goldshshire. So, with a few hours of the Elwin shuffle wrapped up, our bags were full, our bolts were stacked, and the pigments were ready to move, we squeezed just about every coin that we could out of the forest this week, at least for now. So, it's time we'll head over to the Gold Shower mailbox to check our mail, tally our coins, and see just how far this forest has pushed us towards that 261,000 gold total. Let's get right into it. We'll open up the mailbox and start collecting. Now, the add-on of trade skill master only shows the first hund, but we can already see a ton of alabaster pigments, some miscellaneous trade goods, lots of handfuls of copper bolts, and somehow even a few frayed knots. We'll go ahead and open up all of this. And boy oh boy, after hours and hours of farming, the dopamine of watching it all flow into the inventory is definitely something else. and that sound.",
+        "canonical_file": "goldbound/002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.txt",
+        "original_file": "goldbound/original-vtt/002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E002-19",
+      "name": "Rare transmog sale follow-up",
+      "kind": "observation",
+      "status": "no_sale_yet",
+      "zone": "Elwynn Forest",
+      "summary": "No big-ticket rare transmog had sold by this checkpoint; distinguish drops and listings from cash income.",
+      "metrics": {},
+      "source": {
+        "file": "002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.vtt",
+        "cleaned_file": "goldbound/002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.txt",
+        "paragraph_start": 19,
+        "paragraph_end": 19,
+        "start_time": "00:21:17.080",
+        "quote": "Yeah. So, after all of it, we're sitting at 71,665 gold. But what about the slash played? Well, first let's have a quick look at our ledger. It looks like the frayed knots have really fallen off in price since the last video, but we've definitely moved quite a few. I'm thinking the fray knots might have a little bit of a supply and demand issue at the moment. There's still a ton of alabaster pigments moving, but unfortunately no big ticket transmog items yet. All in all, even to vendors into the auction, the add-on is saying we've sold over 11,000 items. And let's take a look at the slash played for all of that. 2 days, 3 hours. Let's do the math. That's around 1,45 gold per hour. Not bad, but I better get back to work. So, here's episode one if you haven't caught it yet. And also, here's episode 3 once it's released. Go with honor, friend.",
+        "canonical_file": "goldbound/002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.txt",
+        "original_file": "goldbound/original-vtt/002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E002-20",
+      "name": "Challenge total cash and played time",
+      "kind": "observation",
+      "status": "measured",
+      "zone": "Elwynn Forest",
+      "summary": "71665 g cash at 2 days 3 hours played; over 11000 items sold across vendors and AH. Derived 1405 g per played hour is overall progress, not an individual farm rate.",
+      "metrics": {
+        "cash_gold": 71665,
+        "played_hours": 51,
+        "derived_overall_gold_per_played_hour": 1405.2
+      },
+      "source": {
+        "file": "002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.vtt",
+        "cleaned_file": "goldbound/002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.txt",
+        "paragraph_start": 19,
+        "paragraph_end": 19,
+        "start_time": "00:21:17.080",
+        "quote": "Yeah. So, after all of it, we're sitting at 71,665 gold. But what about the slash played? Well, first let's have a quick look at our ledger. It looks like the frayed knots have really fallen off in price since the last video, but we've definitely moved quite a few. I'm thinking the fray knots might have a little bit of a supply and demand issue at the moment. There's still a ton of alabaster pigments moving, but unfortunately no big ticket transmog items yet. All in all, even to vendors into the auction, the add-on is saying we've sold over 11,000 items. And let's take a look at the slash played for all of that. 2 days, 3 hours. Let's do the math. That's around 1,45 gold per hour. Not bad, but I better get back to work. So, here's episode one if you haven't caught it yet. And also, here's episode 3 once it's released. Go with honor, friend.",
+        "canonical_file": "goldbound/002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.txt",
+        "original_file": "goldbound/original-vtt/002 - Can I Farm 265,000 Gold To Escape Elwynn？ - Goldbound Episode 2.en-orig.vtt"
+      }
+    }
+  ]
+}

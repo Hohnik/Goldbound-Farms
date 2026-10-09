@@ -1,0 +1,438 @@
+{
+  "groups": [
+    {
+      "id": "elwynn-dual",
+      "title": "Elwynn dual gathering",
+      "record_ids": [
+        "E002-11",
+        "E003-09",
+        "E004-11",
+        "E005-12"
+      ],
+      "requirements": [
+        "Mining",
+        "Herbalism"
+      ]
+    },
+    {
+      "id": "elwynn-shuffle",
+      "title": "Elwynn gathering and processing shuffle",
+      "record_ids": [
+        "E002-16",
+        "E005-15"
+      ],
+      "requirements": [
+        "Mining",
+        "Herbalism",
+        "Inscription",
+        "Engineering"
+      ]
+    },
+    {
+      "id": "vineyard-boars",
+      "title": "Vineyard boar skinning",
+      "record_ids": [
+        "E003-02",
+        "E005-03",
+        "E018-16"
+      ],
+      "requirements": [
+        "Skinning"
+      ]
+    },
+    {
+      "id": "elwynn-knots",
+      "title": "Elwynn Frayed Knot pickpocketing",
+      "record_ids": [
+        "E001-08",
+        "E004-09",
+        "E005-01",
+        "E010-05"
+      ],
+      "requirements": [
+        "Rogue"
+      ]
+    },
+    {
+      "id": "thuros",
+      "title": "Thuros Lightfingers camp",
+      "record_ids": [
+        "E001-10",
+        "E002-01"
+      ],
+      "requirements": []
+    },
+    {
+      "id": "fedfennel",
+      "title": "Fedfennel Pale Skinner hunt",
+      "record_ids": [
+        "E001-11",
+        "E002-02"
+      ],
+      "requirements": []
+    },
+    {
+      "id": "mother-fang",
+      "title": "Mother Fang rare hunt",
+      "record_ids": [
+        "E001-12",
+        "E002-03"
+      ],
+      "requirements": []
+    },
+    {
+      "id": "rohh",
+      "title": "Rohh the Silent rare weapons",
+      "record_ids": [
+        "E007-04",
+        "E009-06",
+        "E010-09"
+      ],
+      "requirements": []
+    },
+    {
+      "id": "redridge-eggs",
+      "title": "Redridge condor eggs",
+      "record_ids": [
+        "E007-01",
+        "E010-06"
+      ],
+      "requirements": []
+    },
+    {
+      "id": "redridge-trunks",
+      "title": "Redridge pool and fishing-trunk route",
+      "record_ids": [
+        "E007-12",
+        "E009-01",
+        "E010-11"
+      ],
+      "requirements": [
+        "Fishing"
+      ]
+    },
+    {
+      "id": "dual-zone-gather",
+      "title": "Elwynn and Redridge dual gathering",
+      "record_ids": [
+        "E009-07",
+        "E010-08"
+      ],
+      "requirements": [
+        "Mining",
+        "Herbalism"
+      ]
+    },
+    {
+      "id": "mc-weekly",
+      "title": "Molten Core weekly collection",
+      "record_ids": [
+        "E011-07",
+        "E012-06",
+        "E013-15",
+        "E016-11",
+        "E017-03",
+        "E018-14",
+        "E019-13",
+        "E027-15",
+        "E029-26",
+        "E030-13",
+        "E036-20",
+        "E038-16"
+      ],
+      "requirements": []
+    },
+    {
+      "id": "mc-reset-ore",
+      "title": "Molten Core mining and trash resets",
+      "record_ids": [
+        "E011-05",
+        "E017-02"
+      ],
+      "requirements": [
+        "Mining"
+      ]
+    },
+    {
+      "id": "st-skinning",
+      "title": "Sunken Temple skinning resets",
+      "record_ids": [
+        "E012-03",
+        "E018-18",
+        "E020-23"
+      ],
+      "requirements": [
+        "Skinning"
+      ]
+    },
+    {
+      "id": "st-weapons",
+      "title": "Sunken Temple rare weapon hunt",
+      "record_ids": [
+        "E012-04",
+        "E013-06",
+        "E018-19",
+        "E027-02"
+      ],
+      "requirements": []
+    },
+    {
+      "id": "swamp-turtles",
+      "title": "Swamp turtle skinning",
+      "record_ids": [
+        "E012-08",
+        "E018-17"
+      ],
+      "requirements": [
+        "Skinning"
+      ]
+    },
+    {
+      "id": "swamp-mightfish",
+      "title": "Swamp coastal Mightfish fishing",
+      "record_ids": [
+        "E013-03",
+        "E017-04"
+      ],
+      "requirements": [
+        "Fishing"
+      ]
+    },
+    {
+      "id": "deadmines-normal",
+      "title": "Normal Deadmines cloth and collections",
+      "record_ids": [
+        "E014-02",
+        "E014-07",
+        "E014-20"
+      ],
+      "requirements": []
+    },
+    {
+      "id": "deadmines-heroic",
+      "title": "Heroic Deadmines cloth runs",
+      "record_ids": [
+        "E016-09",
+        "E017-06"
+      ],
+      "requirements": []
+    },
+    {
+      "id": "westfall-gather",
+      "title": "Westfall dual gathering",
+      "record_ids": [
+        "E016-02",
+        "E017-08"
+      ],
+      "requirements": [
+        "Mining",
+        "Herbalism"
+      ]
+    },
+    {
+      "id": "westfall-eggs",
+      "title": "Westfall Flesh Ripper eggs",
+      "record_ids": [
+        "E014-18",
+        "E018-13"
+      ],
+      "requirements": []
+    },
+    {
+      "id": "stendel-ring",
+      "title": "Stendel’s pond rare-ring fishing",
+      "record_ids": [
+        "E014-19",
+        "E016-18"
+      ],
+      "requirements": [
+        "Fishing"
+      ]
+    },
+    {
+      "id": "silent-shades",
+      "title": "Silent Shade essence farm",
+      "record_ids": [
+        "E019-07",
+        "E020-24"
+      ],
+      "requirements": []
+    },
+    {
+      "id": "searing-mining",
+      "title": "Searing Gorge mining circuit",
+      "record_ids": [
+        "E021-06",
+        "E021-15"
+      ],
+      "requirements": [
+        "Mining"
+      ]
+    },
+    {
+      "id": "incendosaurs",
+      "title": "Incendosaur skinning",
+      "record_ids": [
+        "E021-02",
+        "E021-22"
+      ],
+      "requirements": [
+        "Skinning"
+      ]
+    },
+    {
+      "id": "pressed-felt",
+      "title": "Bloodscalp Mystic robe hunt",
+      "record_ids": [
+        "E022-03",
+        "E023-04"
+      ],
+      "requirements": []
+    },
+    {
+      "id": "zg-trash",
+      "title": "Zul’Gurub combined trash route",
+      "record_ids": [
+        "E022-07",
+        "E023-15"
+      ],
+      "requirements": [
+        "Skinning"
+      ]
+    },
+    {
+      "id": "zg-fish",
+      "title": "Zul’Gurub fish and crocolisk skinning",
+      "record_ids": [
+        "E022-08",
+        "E024-04"
+      ],
+      "requirements": [
+        "Skinning"
+      ]
+    },
+    {
+      "id": "darkmoon-cap",
+      "title": "Darkmoon Fishing Cap pools",
+      "record_ids": [
+        "E020-14",
+        "E024-05",
+        "E034-21"
+      ],
+      "requirements": [
+        "Fishing",
+        "Darkmoon Fishing Cap"
+      ]
+    },
+    {
+      "id": "gnomeregan-runs",
+      "title": "Gnomeregan chest and transmog runs",
+      "record_ids": [
+        "E025-08",
+        "E026-21",
+        "E027-10"
+      ],
+      "requirements": []
+    },
+    {
+      "id": "dun-herb-shuffle",
+      "title": "Dun Morogh herb processing",
+      "record_ids": [
+        "E026-06",
+        "E026-07",
+        "E027-16"
+      ],
+      "requirements": [
+        "Herbalism",
+        "Inscription"
+      ]
+    },
+    {
+      "id": "crimson-whelpling",
+      "title": "Wetlands Crimson Whelpling hunt",
+      "record_ids": [
+        "E030-02",
+        "E031-01"
+      ],
+      "requirements": []
+    },
+    {
+      "id": "razormaw-nests",
+      "title": "Razormaw Matriarch and hatchling nests",
+      "record_ids": [
+        "E030-04",
+        "E031-05"
+      ],
+      "requirements": []
+    },
+    {
+      "id": "wetlands-conflict",
+      "title": "Wetlands conflict skinning",
+      "record_ids": [
+        "E030-08",
+        "E031-14",
+        "E032-24"
+      ],
+      "requirements": [
+        "Skinning"
+      ]
+    },
+    {
+      "id": "legacy-tyr",
+      "title": "Legacy of Tyr raw-gold runs",
+      "record_ids": [
+        "E034-12",
+        "E035-02"
+      ],
+      "requirements": []
+    },
+    {
+      "id": "arathi-warfront",
+      "title": "Arathi warfront rare circuit",
+      "record_ids": [
+        "E035-04",
+        "E036-19",
+        "E038-14"
+      ],
+      "requirements": []
+    },
+    {
+      "id": "hinterlands-gather",
+      "title": "Hinterlands dual gathering",
+      "record_ids": [
+        "E037-12",
+        "E038-07"
+      ],
+      "requirements": [
+        "Mining",
+        "Herbalism"
+      ]
+    },
+    {
+      "id": "turtle-saltstone",
+      "title": "Thousand Needles turtle and Saltstone rotation",
+      "record_ids": [
+        "E036-17",
+        "E037-01"
+      ],
+      "requirements": [
+        "Skinning"
+      ]
+    }
+  ],
+  "basis": "Explicit same-method associations. Different routes, difficulties and locations remain separate unless the method is explicitly shared.",
+  "preparation": {
+    "E032-15": [
+      "Skinning",
+      "Mining"
+    ],
+    "E032-19": [
+      "Rogue",
+      "Skinning"
+    ],
+    "E033-22": [
+      "Skinning",
+      "Herbalism"
+    ]
+  }
+}

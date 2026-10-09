@@ -1,0 +1,620 @@
+{
+  "source_id": 18,
+  "source_file": "018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.vtt",
+  "cleaned_file": "goldbound/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.txt",
+  "full_text_reviewed": true,
+  "paragraph_count": 24,
+  "records": [
+    {
+      "id": "E018-01",
+      "name": "Housing house and decor setup",
+      "kind": "experiment",
+      "status": "performed",
+      "zone": "Westfall / Swamp of Sorrows",
+      "summary": "Sets up guild neighborhood and personal house; evaluates crafting opportunities, not direct cash generation.",
+      "metrics": {},
+      "source": {
+        "file": "018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.vtt",
+        "cleaned_file": "goldbound/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.txt",
+        "paragraph_start": 1,
+        "paragraph_end": 2,
+        "start_time": "00:00:00.080",
+        "quote": "Greetings, travelers, and welcome back to Goldbound, the challenge series where we're unlocking Azeroth one zone at a time. Each new zone is locked behind the purchase of a WoW token paid entirely with in-game gold. And right now, we're deep into our Westfall unlock sitting at roughly 159,000 gold towards the next token. And honestly, this couldn't be happening at a more volatile time in World of Warcraft because playerowned housing has officially launched. And this has been shaking up the economy across all zones, even the old classic zones that we've unlocked. And at the same time, the Brutusaur mount has returned to the in-game shop for a limited time. And we only have until January 7th to buy it, which means we need one more WoW token, our sixth, to convert into battleet balance and secure the Brutusaur and soon. So roughly 150,000 gold still stands between us and that goal. So today's mission is simple. We leverage everything we have available. housing driven market shifts, Westfell farms, trade goods, and smart selling to close that gap and make a serious push towards the brut. And to really understand how we can use playerowned housing to make gold, well, I think we need a house. So, let's go ahead and get one set up. Now, the main reason for this, honestly, is to establish our guild neighborhood, which we've aptly named the Shire of Goldbound. So, if you want to set up shop alongside us, both NA and EU players are welcome. We have a guild on both realms for both NA and EU. Alliance players can search and apply directly through the guildfinder in game. And horde players can still join as well.",
+        "canonical_file": "goldbound/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.txt",
+        "original_file": "goldbound/original-vtt/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E018-02",
+      "name": "Alchemy 240 housing feasibility",
+      "kind": "experiment",
+      "status": "blocked",
+      "zone": "Westfall / Swamp of Sorrows",
+      "summary": "Mallory trainer available; Kingsblood 110–140 uncertain, both decor recipes blocked by Undeath/Arcanite or Dark Runes/Scholomance.",
+      "metrics": {},
+      "source": {
+        "file": "018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.vtt",
+        "cleaned_file": "goldbound/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.txt",
+        "paragraph_start": 3,
+        "paragraph_end": 4,
+        "start_time": "00:04:07.040",
+        "quote": "But what about the profession trainers that we already have access to in our unlocked zones? So for housing decors, we can't really just rely on the jack of all trades lean farmer in goldshire. Well, they have most professions do cap out around 60 to 75 in classic zones. And most housing decor recipes do require classic skill levels of 240. This means we need true profession trainers, the ones that teach one to 300 recipe paths. And on top of that, we'll also need access to all of the required reagents inside of our unlocked zones. So depending on our luck, we might not actually be able to make any of these. So let's go profession by profession and see what's actually possible. So alchemy. Well, good news first. We do have an alchemy trainer, Alchemist Mallerie, just north of Goldshshire. So requirement one is checked. Now for the other two. Can we actually level alchemy from 1 to 240? Well, maybe. But it does look like we might have a hard time between 110 and 140 because at the moment we don't actually have reliable access to king's blood. So that might be a tough one. But we don't actually have to look too deep into that because there's only two classic housing decor crafts tied to alchemy. And both, well, they're completely blocked for us.",
+        "canonical_file": "goldbound/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.txt",
+        "original_file": "goldbound/original-vtt/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E018-03",
+      "name": "Blacksmithing housing feasibility",
+      "kind": "experiment",
+      "status": "blocked",
+      "zone": "Westfall / Swamp of Sorrows",
+      "summary": "Argus exists but iron/mithril/thorium bars require unavailable smelting trainer; no high-level blacksmith craft here.",
+      "metrics": {},
+      "source": {
+        "file": "018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.vtt",
+        "cleaned_file": "goldbound/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.txt",
+        "paragraph_start": 4,
+        "paragraph_end": 5,
+        "start_time": "00:05:19.280",
+        "quote": "The first one requires essence of undeath and ark knight bars, both of which we cannot get in our current zones. And the second, the stopper black potion is maybe doable, but it does require dark runes, which drop from scholance. So, also locked behind another zone, which is a shame because honestly, the alchemy decor looks pretty darn cool. But alchemy is out of the question for today at least. So, let's move on. How about blacksmithing? Once again, we do actually have a blacksmith trainer, Smith Argus. He's in Goldshshire and he can teach us a couple of the recipes, but things do kind of fall apart because realistically we can't actually level blacksmithing past bronze because we can't just use the ores. We need the bars. Iron bars, myth bars, thorium bars, and dark iron bars.",
+        "canonical_file": "goldbound/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.txt",
+        "original_file": "goldbound/original-vtt/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E018-04",
+      "name": "Tailoring Elder Rise Rug feasibility",
+      "kind": "experiment",
+      "status": "deferred",
+      "zone": "Westfall / Swamp of Sorrows",
+      "summary": "Lumber, runecloth, red dye, rune thread available; silk leveling later blocks. Dwarven District Banner blocked by Mooncloth recipe/moonwell.",
+      "metrics": {},
+      "source": {
+        "file": "018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.vtt",
+        "cleaned_file": "goldbound/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.txt",
+        "paragraph_start": 5,
+        "paragraph_end": 6,
+        "start_time": "00:06:05.520",
+        "quote": "And all of these are actually gated behind a mining trainer, not a blacksmithing trainer. So to actually use blacksmithing, we need a 1 to 300 mining trainer, which we don't have yet. But this could change in the future because both Dun Maro and Duskwood have true mining trainers. Meaning if either of those zones get unlocked on a future role, blacksmithing, well, it could be back on the table. But for now, dead end. Let's take a look back at one of the professions that we've used quite a bit here in Goldbound, tailoring. Because if you remember, we do have a pretty solid tailoring trainer, Eldren. This is the bloke who gave us the ember silk bag recipe. So, we definitely like him. And the reason tailoring immediately jumps out is pretty simple. As far as I can remember, we have pretty good methods for linen, cloth, wool, silk, mage, and runcloth within our currently unlocked zones. So, I think we would be able to get 1 to 240 tailoring. So, let's take a look at the crafts. Now, the first decor crafted tailoring is the dwarven district banner, which upon looking a little bit deeper is a bit of a dead end. It does require mooncloth. So, Mooncloth is a tricky one because we can get Felcloth, which is the main reagent for Mooncloth in the Swamp of Soros, but you have to clean it to get Mooncloth.",
+        "canonical_file": "goldbound/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.txt",
+        "original_file": "goldbound/original-vtt/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E018-05",
+      "name": "Enchanting housing feasibility",
+      "kind": "experiment",
+      "status": "successful",
+      "zone": "Westfall / Swamp of Sorrows",
+      "summary": "Kitta Firewind trainer, materials allow Tirisfal Hollow Campfire; Darkmasters brazier blocked by Undeath/Dark Runes. Campfire 15–20 k listingvs~300 gtradeable materials excludes lumber/time.",
+      "metrics": {},
+      "source": {
+        "file": "018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.vtt",
+        "cleaned_file": "goldbound/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.txt",
+        "paragraph_start": 7,
+        "paragraph_end": 9,
+        "start_time": "00:08:22.400",
+        "quote": "So, let's talk enchanting. First check, trainer availability. And on that front, we're good. We have Kid of Fireland who is hanging out at the top of the tower of Azora in Ellen Forest. This is one we just ran past a whole bunch while gathering because, well, to be frank, classic enchanting isn't very profitable, but we can train it here for sure. And can we get all the way from 1 to 240? I think we can. So, between dungeon drops, world greens, and craft alongside tailoring, we have a steady stream of items to disenchant, which it might not be fast, but I'm sure we can gather enough of the essences and shard to level up enchanting. So, it's doable. And this is exactly why we might want to do it beside tailoring because every green we craft while leveling tailoring becomes disenchanting fodder. Okay, how about the enchanting housing crafts?",
+        "canonical_file": "goldbound/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.txt",
+        "original_file": "goldbound/original-vtt/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.vtt"
+      },
+      "valued_drops": [
+        {
+          "item": "Tirisfal Hollow Campfire",
+          "obtained": false,
+          "source_refs": [
+            {
+              "episode": 18,
+              "paragraph_start": 9,
+              "paragraph_end": 9,
+              "start_time": "00:10:09.600"
+            }
+          ],
+          "note": "Feasibility-stage listed price. Later crafting and actual sales are linked separately; material quote excludes lumber and time.",
+          "quote_gold": [
+            15000,
+            20000
+          ]
+        }
+      ],
+      "related_records": [
+        {
+          "id": "E018-12",
+          "role": "follow_up",
+          "label": "Later campfire crafting and sales",
+          "include_earnings": false
+        }
+      ]
+    },
+    {
+      "id": "E018-06",
+      "name": "Dense Stone mining 230 stockpile",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Swamp of Sorrows",
+      "summary": "Relevels mining 230 for Thorium/Dense Stone, gathers Ironwood Lumber simultaneously; target 10 campfires,150–200 lumber.",
+      "metrics": {
+        "target_mining_skill": 230,
+        "target_crafts": 10,
+        "target_lumber_range": [
+          150,
+          200
+        ]
+      },
+      "source": {
+        "file": "018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.vtt",
+        "cleaned_file": "goldbound/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.txt",
+        "paragraph_start": 10,
+        "paragraph_end": 12,
+        "start_time": "00:11:02.160",
+        "quote": "Enchanting, for example, isn't really a problem on the reagent side because as long as we can disenchant, which you have with enchanting, we're okay to get more materials. But dense stone would be a bottleneck because if we level enchanted 240 to craft the decor before we stockpile enough stone, we would be completely stuck because we can't get dense stone without highle mining. So we need to push mining up to roughly 230 just so we can farm thorium reliably to build a dense stone back reserve. For now, I'm planning to stockpile enough of these materials for about 10 campfires. This should be enough to test the market. And if they sell fast, great. We can always resupply later. If not, we don't waste too much time gathering materials that don't sell. And remember, as far as the next zone goes, Dunaro is a dwarf and gnome starting zone. So, if we unlock it, that would give us access to a crafting alt for the gold bound war band, which all of this happening would be so minmaxed for the challenge because it would open up two addition professions that we could just leave and never abandon. So, we can maybe hope for that on the spin. But anyways, travelers, enough yapping. And the dead stone drop rate is pretty abysmal until you hit 230 mining. So, we have a little bit of a grind to get there. But honestly, that gives us some time to talk about something else that's just as important because we've talked about it and you might have noticed, but both of the housing decors also require ironwood lumber. And that's no accident, and that is not a familiar name. So, lumber is a brand new system introduced in World of Warcraft with player housing. And honestly, I think it's brilliant because it's essentially a new gathering skill, but with zero barriers. It doesn't take up a profession slot, which is really good for Goldie. There's no level requirements, and all you need is a wood cutting axe, which you can pick up from your housing neighborhood. Once you have that, trees across the world start spawning wood cutting nodes. And each expansion has its own type of lumber for its own decor crafts. So, for us in Eastern Kingdoms, it's all the same. It's ironwood lumber. But here's the really cool part. Lumber is warb band accountbound, which basically means you can't sell it on the auction house.",
+        "canonical_file": "goldbound/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.txt",
+        "original_file": "goldbound/original-vtt/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E018-07",
+      "name": "Ironwood Lumber axe gathering",
+      "kind": "experiment",
+      "status": "performed",
+      "zone": "Westfall / Swamp of Sorrows",
+      "summary": "Housing axe unlocks wood nodes, no profession slot; accountbound lumber cannot sell directly, counted as craft input.",
+      "metrics": {},
+      "source": {
+        "file": "018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.vtt",
+        "cleaned_file": "goldbound/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.txt",
+        "paragraph_start": 10,
+        "paragraph_end": 12,
+        "start_time": "00:11:02.160",
+        "quote": "Enchanting, for example, isn't really a problem on the reagent side because as long as we can disenchant, which you have with enchanting, we're okay to get more materials. But dense stone would be a bottleneck because if we level enchanted 240 to craft the decor before we stockpile enough stone, we would be completely stuck because we can't get dense stone without highle mining. So we need to push mining up to roughly 230 just so we can farm thorium reliably to build a dense stone back reserve. For now, I'm planning to stockpile enough of these materials for about 10 campfires. This should be enough to test the market. And if they sell fast, great. We can always resupply later. If not, we don't waste too much time gathering materials that don't sell. And remember, as far as the next zone goes, Dunaro is a dwarf and gnome starting zone. So, if we unlock it, that would give us access to a crafting alt for the gold bound war band, which all of this happening would be so minmaxed for the challenge because it would open up two addition professions that we could just leave and never abandon. So, we can maybe hope for that on the spin. But anyways, travelers, enough yapping. And the dead stone drop rate is pretty abysmal until you hit 230 mining. So, we have a little bit of a grind to get there. But honestly, that gives us some time to talk about something else that's just as important because we've talked about it and you might have noticed, but both of the housing decors also require ironwood lumber. And that's no accident, and that is not a familiar name. So, lumber is a brand new system introduced in World of Warcraft with player housing. And honestly, I think it's brilliant because it's essentially a new gathering skill, but with zero barriers. It doesn't take up a profession slot, which is really good for Goldie. There's no level requirements, and all you need is a wood cutting axe, which you can pick up from your housing neighborhood. Once you have that, trees across the world start spawning wood cutting nodes. And each expansion has its own type of lumber for its own decor crafts. So, for us in Eastern Kingdoms, it's all the same. It's ironwood lumber. But here's the really cool part. Lumber is warb band accountbound, which basically means you can't sell it on the auction house.",
+        "canonical_file": "goldbound/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.txt",
+        "original_file": "goldbound/original-vtt/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E018-08",
+      "name": "Molten Core Fiery Core supply rotation",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Molten Core / Swamp of Sorrows",
+      "summary": "Trash for Fiery Cores, Dark Iron, Blood; Swamp mining/lumber during shared reset downtime. No fresh timed basket.",
+      "metrics": {},
+      "source": {
+        "file": "018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.vtt",
+        "cleaned_file": "goldbound/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.txt",
+        "paragraph_start": 11,
+        "paragraph_end": 12,
+        "start_time": "00:13:14.160",
+        "quote": "It's like it was literally made for gold. So bots cannot flood the market with this stuff. And players can't just sit in the auction house buying thousands and thousands of lumber to craft thousands and thousands of decor pieces to tank the market on day one. So if you want to craft housing decor, there's no way around it. you have to go out in the world and gather the lumber yourself, which does two very good things. It gets people back out in the world, which is a plus. It also severely limits supply because people can't buy this off bots. They have to go out and farm it themselves. So, this should in theory keep decor prices higher for longer. And for us, well, we'll take every edge we can get. That does mean though, while we're leveling, mining, and hunting down dense stone, we also want to grab as much iron and lumber as possible along the way. Each decor craft typically takes 15 to 20. So if we want enough material for 10 crafts, we're looking at roughly 150 to 200 ironwood lumber in total. And dense stone isn't the only bottleneck because remember the enchanting decor also requires fiery cores, which means one thing. We're heading back to molten core. We basically live here now. But honestly, this does work out pretty perfectly because while we're doing mountain core trash resets for fiery cores, we can also mine dark iron ore and pick up blood of the mountains. So, while we're stockpiling these decor crafts, we're actually doing some pretty good gold farms as well. So, basically, right now, we're focusing on the triple threat.",
+        "canonical_file": "goldbound/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.txt",
+        "original_file": "goldbound/original-vtt/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.vtt"
+      },
+      "related_records": [
+        {
+          "id": "E011-05",
+          "role": "comparison",
+          "label": "Earlier Molten Core trash test",
+          "include_earnings": false
+        },
+        {
+          "id": "E012-12",
+          "role": "comparison",
+          "label": "Swamp mining reference",
+          "include_earnings": false
+        }
+      ]
+    },
+    {
+      "id": "E018-09",
+      "name": "Tailoring-plus-enchanting simultaneous training",
+      "kind": "experiment",
+      "status": "blocked",
+      "zone": "Westfall / Swamp of Sorrows",
+      "summary": "Banked linen/wool crafts feed disenchanting; silk bottleneck halts tailoring, despite prior expectation all cloth available.",
+      "metrics": {},
+      "source": {
+        "file": "018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.vtt",
+        "cleaned_file": "goldbound/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.txt",
+        "paragraph_start": 12,
+        "paragraph_end": 14,
+        "start_time": "00:14:38.240",
+        "quote": "We're going to do molten core trash runs for fiery cores and dark iron ore. And while those are resetting, we can go into the open world in the swamp of sorro, pthorium, dense stone, and lumber. Do this for a few hours. Then, we stockpile enough dead stone, lumber, and fiery cores. So, it's finally time. We unlearn herbalism and mining and get started on the real prize, enchanting and tailoring. Luckily, we do have a pretty healthy stockpile of cloth banked. It's just generally not worth very much, so I tend to just save it for a rainy day. And well, travelers, it's raining decor today. So, the linen cloth crafts can fly by without much issue. But because most of these early crafts are white quality, we can't disenchant them quite yet, but that comes shortly.",
+        "canonical_file": "goldbound/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.txt",
+        "original_file": "goldbound/original-vtt/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E018-10",
+      "name": "Redridge silk acquisition retest",
+      "kind": "experiment",
+      "status": "failed",
+      "zone": "Redridge Mountains",
+      "summary": "Tests mobs, no silk; cited 0.1%chance. Fish/dungeon chest bolt workaround proposed too slow.",
+      "metrics": {
+        "cited_silk_drop_pct": 0.1
+      },
+      "source": {
+        "file": "018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.vtt",
+        "cleaned_file": "goldbound/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.txt",
+        "paragraph_start": 13,
+        "paragraph_end": 14,
+        "start_time": "00:15:19.040",
+        "quote": "And once we hit the green quality shirts, we can start feeding enchanting at the same time. This truly feels pretty minmax within our current constraints. Wool crafts go quickly. And before long, we do hit a bit of a problem. Um, amidst all of our research, we overlooked one thing. There's a pretty severe bottleneck between wool and mageweave that requires a healthy chunk of silk cloth. And for some reason, I thought we could farm this, but uh, silk cloth for us is not easy. I swear remember getting it back in Red Ridge, but after some testing, I didn't get any. And going into some forums and looking it up, it seems like the drop rate off a few mobs is.1% in Red Ridge for silk cloth. Um, which is pretty bad, which leaves us with two real options.",
+        "canonical_file": "goldbound/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.txt",
+        "original_file": "goldbound/original-vtt/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E018-11",
+      "name": "Enchanting 240 leveling and boot speed",
+      "kind": "experiment",
+      "status": "successful",
+      "zone": "Westfall / Swamp of Sorrows",
+      "summary": "Cancels low-value transmog for DE alongside stockpile; reaches 240 and enchants boots Minor Speed from heroic dungeon materials. Retail copper rod sufficient.",
+      "metrics": {
+        "enchanting_skill": 240
+      },
+      "source": {
+        "file": "018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.vtt",
+        "cleaned_file": "goldbound/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.txt",
+        "paragraph_start": 14,
+        "paragraph_end": 14,
+        "start_time": "00:16:04.240",
+        "quote": "We could fish up chests and try to get bolts of silk cloth straight from the chests. Or we could run dungeons and hope for dungeon chests, which could also have bolts of silk cloth. And honestly, if this was the only decor craft we could do, we would for sure grind this out over the next week. But this will be slow, really slow. And right now, decor is hot, so we don't want our first crafts to be delayed by a multi-week silk grind. So, for now, I'm going to make the call and put tailoring on the back burner. And honestly, I think that might be okay. So, we're pretty close to another zone unlock, and there are a few zones which could open up much more reliable silk cloth farms. So, Fen Maro with Nomegan would give us a good steady feed of silk cloth and duskwood with the stockades should also supply us with a good chunk of change. Unless we miss one of those, we'll leave silk for now. We want to get some things on the auction house. So, let's pivot hard into enchanting. And thankfully, this one's a little more straightforward. So, in retail, we only need the runed copper rod, which is really good because in classic, you actually have to upgrade these things, which is gated behind a blacksmithing, I believe, which is something that we couldn't have actually leveled. So, retail saves us here. And between our stockpile materials, a bank full of low unused greens and blues. And I also trimmed our transmog seller because we had a whole bunch of greens lifted for less than 200 gold, which if we just cancel those and disenchant them, we get a bunch of disenchanting fuel. So, we're good to go. And also a brief note on the enchanting. While I'm leveling it, I realized something that the heroic dead mines with the enchanting materials actually gives us the exact materials we need to enchant our boots with minor speed. So, a little bit of a speed set going on, which is a small win. It tells us we're on the right track. And just like that, enchanting hits 240. So, with enchanting capped, we can actually finally craft our first piece of housing decor on Goldie. I didn't think we'd be able to do this, but the stars are kind of aligning for enchanting. So, the Tusfall Hollow Campfire, here we come.",
+        "canonical_file": "goldbound/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.txt",
+        "original_file": "goldbound/original-vtt/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E018-12",
+      "name": "Tirisfal Hollow Campfire crafting and placement",
+      "kind": "experiment",
+      "status": "sales_confirmed",
+      "zone": "Westfall / Swamp of Sorrows",
+      "summary": "Materials for 3 initially, one kept; indoor-only placement bug observed. Sales 9500 gandoneearly 15000 g plusmultipleothers.",
+      "metrics": {
+        "initial_craft_capacity": 3,
+        "confirmed_sale_gold": [
+          9500,
+          15000
+        ]
+      },
+      "source": {
+        "file": "018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.vtt",
+        "cleaned_file": "goldbound/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.txt",
+        "paragraph_start": 15,
+        "paragraph_end": 21,
+        "start_time": "00:18:06.080",
+        "quote": "And we currently have enough materials to make three of them. So, with current auction prices sitting around 15,000 gold, even if we only sell one or two, this enchanting grind was 100% worth it. But for the very first one, well, we're keeping that one. And it's going in our house. Well, sort of. Turns out these campfires are actually currently bugged. And although they're a campfire, they can't be placed outside. So, for now, they could only be placed indoors and we just put it on our table because I guess it kind of is a nice centerpiece, but not exactly ideal. Either way, every great house starts somewhere. And with chanting online, campfires for sale, tailoring queued up for later, we are finally turning effort into leverage. So, let's keep it rolling. And with housing in full swing and in decor crafting underway, I think it's worth zooming back for a moment because there are a few farms in Westfall, which is our most recently unlocked zone that might be on the verge of spiking as well. So, we already know that herbs have gone absolutely crazy thanks to housing. But there's a second seasonal farm that might be coming up, Winter's Veil, and that also means small eggs. Now, historically, these do tend to climb up in the weeks leading up to the event. And in Westfall, we already have one of the best solo egg farms unlocked. So, while we're in the area, it never hurts to swing back to our flesh ripper hyperspawn and pull in some KC, some kill counts. It's one of those quiet farms, which is nothing flashy dayto-day, but if the timing lines up, you never know how high these things will spike, so it could pay off big. And with Winter Veil on the horizon, a little prep now could result in a lot of gold later. There is one more thing you might be wondering. With all these molten core trash runs, how are we standing after our full clears? And travelers on what I believe is our 15th full clear of molten core. It finally happened. We tagged Gar. Boom. The right binding of the Windseeker dropped. That is massive. So Gar's binding is one half of the legendary Thunderfy quest line.",
+        "canonical_file": "goldbound/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.txt",
+        "original_file": "goldbound/original-vtt/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.vtt"
+      },
+      "additional_values": [
+        {
+          "value": 9500,
+          "label": "Sold",
+          "basis": "Confirmed campfire sale; a separate earlier copy sold for 15,000g.",
+          "unit": "g",
+          "kind": "sale",
+          "source_refs": [
+            {
+              "episode": 18,
+              "paragraph_start": 21,
+              "paragraph_end": 21,
+              "start_time": "00:26:43.520"
+            }
+          ]
+        },
+        {
+          "value": 15000,
+          "label": "Earlier sale",
+          "basis": "Confirmed earlier campfire sale, kept separate from the 9,500g sale.",
+          "unit": "g",
+          "kind": "sale",
+          "source_refs": [
+            {
+              "episode": 18,
+              "paragraph_start": 21,
+              "paragraph_end": 21,
+              "start_time": "00:26:43.520"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E018-13",
+      "name": "Flesh Ripper winter egg replenishment",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Westfall",
+      "summary": "Returns to Westfall spawn ahead Winter Veil; no timed count.",
+      "metrics": {},
+      "source": {
+        "file": "018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.vtt",
+        "cleaned_file": "goldbound/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.txt",
+        "paragraph_start": 15,
+        "paragraph_end": 15,
+        "start_time": "00:18:06.080",
+        "quote": "And we currently have enough materials to make three of them. So, with current auction prices sitting around 15,000 gold, even if we only sell one or two, this enchanting grind was 100% worth it. But for the very first one, well, we're keeping that one. And it's going in our house. Well, sort of. Turns out these campfires are actually currently bugged. And although they're a campfire, they can't be placed outside. So, for now, they could only be placed indoors and we just put it on our table because I guess it kind of is a nice centerpiece, but not exactly ideal. Either way, every great house starts somewhere. And with chanting online, campfires for sale, tailoring queued up for later, we are finally turning effort into leverage. So, let's keep it rolling. And with housing in full swing and in decor crafting underway, I think it's worth zooming back for a moment because there are a few farms in Westfall, which is our most recently unlocked zone that might be on the verge of spiking as well. So, we already know that herbs have gone absolutely crazy thanks to housing. But there's a second seasonal farm that might be coming up, Winter's Veil, and that also means small eggs. Now, historically, these do tend to climb up in the weeks leading up to the event. And in Westfall, we already have one of the best solo egg farms unlocked. So, while we're in the area, it never hurts to swing back to our flesh ripper hyperspawn and pull in some KC, some kill counts. It's one of those quiet farms, which is nothing flashy dayto-day, but if the timing lines up, you never know how high these things will spike, so it could pay off big. And with Winter Veil on the horizon, a little prep now could result in a lot of gold later. There is one more thing you might be wondering. With all these molten core trash runs, how are we standing after our full clears? And travelers on what I believe is our 15th full clear of molten core. It finally happened. We tagged Gar. Boom. The right binding of the Windseeker dropped. That is massive. So Gar's binding is one half of the legendary Thunderfy quest line.",
+        "canonical_file": "goldbound/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.txt",
+        "original_file": "goldbound/original-vtt/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E018-14",
+      "name": "Garr right binding first drop",
+      "kind": "farm",
+      "status": "successful",
+      "zone": "Molten Core",
+      "summary": "Around 15 thfullclear yields right Binding; left stillmissing and Silithuslocked. Personal legendary goal, no AH value.",
+      "metrics": {
+        "Garr kills_approx": 15,
+        "right_binding_drops": 1
+      },
+      "source": {
+        "file": "018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.vtt",
+        "cleaned_file": "goldbound/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.txt",
+        "paragraph_start": 15,
+        "paragraph_end": 16,
+        "start_time": "00:18:06.080",
+        "quote": "And we currently have enough materials to make three of them. So, with current auction prices sitting around 15,000 gold, even if we only sell one or two, this enchanting grind was 100% worth it. But for the very first one, well, we're keeping that one. And it's going in our house. Well, sort of. Turns out these campfires are actually currently bugged. And although they're a campfire, they can't be placed outside. So, for now, they could only be placed indoors and we just put it on our table because I guess it kind of is a nice centerpiece, but not exactly ideal. Either way, every great house starts somewhere. And with chanting online, campfires for sale, tailoring queued up for later, we are finally turning effort into leverage. So, let's keep it rolling. And with housing in full swing and in decor crafting underway, I think it's worth zooming back for a moment because there are a few farms in Westfall, which is our most recently unlocked zone that might be on the verge of spiking as well. So, we already know that herbs have gone absolutely crazy thanks to housing. But there's a second seasonal farm that might be coming up, Winter's Veil, and that also means small eggs. Now, historically, these do tend to climb up in the weeks leading up to the event. And in Westfall, we already have one of the best solo egg farms unlocked. So, while we're in the area, it never hurts to swing back to our flesh ripper hyperspawn and pull in some KC, some kill counts. It's one of those quiet farms, which is nothing flashy dayto-day, but if the timing lines up, you never know how high these things will spike, so it could pay off big. And with Winter Veil on the horizon, a little prep now could result in a lot of gold later. There is one more thing you might be wondering. With all these molten core trash runs, how are we standing after our full clears? And travelers on what I believe is our 15th full clear of molten core. It finally happened. We tagged Gar. Boom. The right binding of the Windseeker dropped. That is massive. So Gar's binding is one half of the legendary Thunderfy quest line.",
+        "canonical_file": "goldbound/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.txt",
+        "original_file": "goldbound/original-vtt/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E018-15",
+      "name": "Leatherworking decor feasibility",
+      "kind": "experiment",
+      "status": "successful",
+      "zone": "Westfall / Swamp of Sorrows",
+      "summary": "Camp Rug blocked Devilsaur; Loch Modan Bears kin Rug requires availablelumber, ruggedleather, curedhide. Deep Rock Saltfrom MC, retailno Salt Shakerneeded.",
+      "metrics": {},
+      "source": {
+        "file": "018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.vtt",
+        "cleaned_file": "goldbound/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.txt",
+        "paragraph_start": 17,
+        "paragraph_end": 18,
+        "start_time": "00:20:52.080",
+        "quote": "We're on a hard timer. The Brutus mount leaves the shop soon. And if we want to secure it, we need to open up new high impact gold makers fast. We've had a look at alchemy and blacksmithing, tailoring, enchanting, but there is one profession we haven't fully unpacked yet for housing. Leather working. And at first glance, some of the housing decor options are immediately off the table. The camp rug, for example, requires devils leather, which only comes from Angoro Crater, a zone that we don't have unlocked yet. So, that one will have to get added to the maybe in the future list. But then there's this, the lockad bare skin rug. And despite the name, it doesn't require lock padan at all. So let's take a look at the materials.",
+        "canonical_file": "goldbound/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.txt",
+        "original_file": "goldbound/original-vtt/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E018-16",
+      "name": "McClure boar Light Leather replenishment",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Elwynn Forest",
+      "summary": "High-levelskinresetdidnotyield enoughlightleather; returns vineyard to supply leveling.",
+      "metrics": {},
+      "source": {
+        "file": "018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.vtt",
+        "cleaned_file": "goldbound/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.txt",
+        "paragraph_start": 18,
+        "paragraph_end": 18,
+        "start_time": "00:21:34.640",
+        "quote": "Ironwood lumber, easy, already accessible. Rugged leather, which we can get in the swamposauros, and cured rugged hide. Now, this one is a little bit deeper because cured rugged hide is a craft that requires both rugged hide and deep rock salt. But here's the key. Deep rock salt drops in molten core, which of course we can farm. And rugged hide can be skinned rarely from the elite mobs in the sunken temple, which is in the swamposauros and unlocked. And luckily, the retail version of this does not require a salt shaker. The classic one does. So, no extra hoops for us, which puts Lochman and Bare skin rug firmly on the table. So, our next path is clear, which means one thing. We also need to pick up skinning, start banking rugged leather and hides and prepare properly. I'm not sure exactly how much leather it's going to take to push from 1 to 240, but at least running both professions together should simplify this a little bit. And leather working does have one big advantage for us because even if we don't have access to every level band of mobs to get all different leathers, we can still technically get them off higher level mobs. So here's how it works. As we skin higher level mobs in places like Swamp of Sorrows or Sunken Temple, the skinning naturally rolls through the leather tiers. So the early levels give light leather, medium skill gives medium to heavy leather, and then the higher levels do give rugged hide and thick hide. It's not perfectly efficient, but it does guarantee we eventually touch every material we need to level up leatherwork. That said, there is a problem. After going 1 to 300 skinning for the first time, we are shockingly light on light leather. So, when in doubt, we do what every traveler eventually does. We dust off the lift to win macro and head back to the mccclair farm. And these boores thought they were safe when we unlocked Red Ridge, but oh, they were wrong. With light leather solved, the next turtle is a medium leather. And this one's trickier because medium mother does live in zones like Duskwood and Stranglethorn, which we don't have yet. So, our unlocked zones are either too low or too high. we do have to just resort to leveling skinning several times from 1 to 300 because this way we spend some time in the medium and heavy leather bands before pushing past them. Now to do this two farms do stand out. The first one is the turtle farm.",
+        "canonical_file": "goldbound/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.txt",
+        "original_file": "goldbound/original-vtt/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E018-17",
+      "name": "Turtle skinning tier resets",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Swamp of Sorrows",
+      "summary": "Repeated 1→300 skinning for medium/heavy tiers plusvaluableturtlemeat/clams; noisolatedyield.",
+      "metrics": {},
+      "source": {
+        "file": "018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.vtt",
+        "cleaned_file": "goldbound/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.txt",
+        "paragraph_start": 18,
+        "paragraph_end": 19,
+        "start_time": "00:21:34.640",
+        "quote": "Ironwood lumber, easy, already accessible. Rugged leather, which we can get in the swamposauros, and cured rugged hide. Now, this one is a little bit deeper because cured rugged hide is a craft that requires both rugged hide and deep rock salt. But here's the key. Deep rock salt drops in molten core, which of course we can farm. And rugged hide can be skinned rarely from the elite mobs in the sunken temple, which is in the swamposauros and unlocked. And luckily, the retail version of this does not require a salt shaker. The classic one does. So, no extra hoops for us, which puts Lochman and Bare skin rug firmly on the table. So, our next path is clear, which means one thing. We also need to pick up skinning, start banking rugged leather and hides and prepare properly. I'm not sure exactly how much leather it's going to take to push from 1 to 240, but at least running both professions together should simplify this a little bit. And leather working does have one big advantage for us because even if we don't have access to every level band of mobs to get all different leathers, we can still technically get them off higher level mobs. So here's how it works. As we skin higher level mobs in places like Swamp of Sorrows or Sunken Temple, the skinning naturally rolls through the leather tiers. So the early levels give light leather, medium skill gives medium to heavy leather, and then the higher levels do give rugged hide and thick hide. It's not perfectly efficient, but it does guarantee we eventually touch every material we need to level up leatherwork. That said, there is a problem. After going 1 to 300 skinning for the first time, we are shockingly light on light leather. So, when in doubt, we do what every traveler eventually does. We dust off the lift to win macro and head back to the mccclair farm. And these boores thought they were safe when we unlocked Red Ridge, but oh, they were wrong. With light leather solved, the next turtle is a medium leather. And this one's trickier because medium mother does live in zones like Duskwood and Stranglethorn, which we don't have yet. So, our unlocked zones are either too low or too high. we do have to just resort to leveling skinning several times from 1 to 300 because this way we spend some time in the medium and heavy leather bands before pushing past them. Now to do this two farms do stand out. The first one is the turtle farm.",
+        "canonical_file": "goldbound/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.txt",
+        "original_file": "goldbound/original-vtt/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E018-18",
+      "name": "Sunken Temple trash-only skinning resets",
+      "kind": "farm",
+      "status": "measured",
+      "zone": "Sunken Temple",
+      "summary": "60 skins/4 min,10 runs~40 min 600 skins perlockout; relevels 6–7 timesoverhours forcraft supplies. Materialstiermixvarieswithskill.",
+      "metrics": {
+        "skins_per_run_approx": 60,
+        "run_minutes": 4,
+        "skins_per_10_run_batch": 600,
+        "skinning_relevels_range": [
+          6,
+          7
+        ]
+      },
+      "source": {
+        "file": "018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.vtt",
+        "cleaned_file": "goldbound/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.txt",
+        "paragraph_start": 19,
+        "paragraph_end": 19,
+        "start_time": "00:23:51.919",
+        "quote": "This is of course another classic but suddenly very relevant again not just for the leather. The turtle meat is selling at wild prices right now. Uh I think it's because professions are being just boosted with the housing demand and the clams are spiking too. That's likely thanks to golden pearls being used in decor crafts. So, what does this mean? We can at least get some solid gold as well while leveling leather working. But doesn't stop there because we also have sunken temple. And if we skip the bosses and clear just the trash packs, we're getting about 60 skins for every 4 minutes. That's about 600 skins per lockout and enough to level skinning 1 to 300 roughly one and a half times per reset or 40 minutes. Efficient and repeatable. But remember, Sunken Temple doesn't just give leather. And after a few hours of doing this farm, leveling skinning six or seven times in a row, boom, death blow in the bags. This was the rare BOE blue worth over 200,000 gold we were trying to get. That's nearly a full WoW token by itself. And then, I'm not making this up, another death blow. Two back to back while farming here. And just to seal the deal, winter's bite. Another massive rare BOE.",
+        "canonical_file": "goldbound/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.txt",
+        "original_file": "goldbound/original-vtt/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E018-19",
+      "name": "Sunken Temple Deathblow and Winters Bite jackpot",
+      "kind": "farm",
+      "status": "successful",
+      "zone": "Sunken Temple",
+      "summary": "Untimedadditionalhoursyield 2 Deathblow+1 Winters Bite,500–750 ktotal marketvaluation; notnormalcash/hour.",
+      "metrics": {
+        "Deathblow": 2,
+        "Winters Bite": 1,
+        "quoted_total_gold_range": [
+          500000,
+          750000
+        ]
+      },
+      "source": {
+        "file": "018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.vtt",
+        "cleaned_file": "goldbound/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.txt",
+        "paragraph_start": 19,
+        "paragraph_end": 20,
+        "start_time": "00:23:51.919",
+        "quote": "This is of course another classic but suddenly very relevant again not just for the leather. The turtle meat is selling at wild prices right now. Uh I think it's because professions are being just boosted with the housing demand and the clams are spiking too. That's likely thanks to golden pearls being used in decor crafts. So, what does this mean? We can at least get some solid gold as well while leveling leather working. But doesn't stop there because we also have sunken temple. And if we skip the bosses and clear just the trash packs, we're getting about 60 skins for every 4 minutes. That's about 600 skins per lockout and enough to level skinning 1 to 300 roughly one and a half times per reset or 40 minutes. Efficient and repeatable. But remember, Sunken Temple doesn't just give leather. And after a few hours of doing this farm, leveling skinning six or seven times in a row, boom, death blow in the bags. This was the rare BOE blue worth over 200,000 gold we were trying to get. That's nearly a full WoW token by itself. And then, I'm not making this up, another death blow. Two back to back while farming here. And just to seal the deal, winter's bite. Another massive rare BOE.",
+        "canonical_file": "goldbound/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.txt",
+        "original_file": "goldbound/original-vtt/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.vtt"
+      },
+      "additional_values": [
+        {
+          "value": [
+            500000,
+            750000
+          ],
+          "label": "Drop appraisal",
+          "basis": "Combined market appraisal of two Deathblows and a Winters Bite, without a timed rate or confirmed sales.",
+          "unit": "g",
+          "kind": "value",
+          "source_refs": [
+            {
+              "episode": 18,
+              "paragraph_start": 20,
+              "paragraph_end": 20,
+              "start_time": "00:25:06.400"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E018-20",
+      "name": "Leatherworking 250 Cured Rugged Hide",
+      "kind": "experiment",
+      "status": "successful",
+      "zone": "Westfall / Swamp of Sorrows",
+      "summary": "Levels 250, enablescuredhideandbearskinrug; producesrug, onekept forhouse.",
+      "metrics": {
+        "target_skill": 250
+      },
+      "source": {
+        "file": "018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.vtt",
+        "cleaned_file": "goldbound/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.txt",
+        "paragraph_start": 20,
+        "paragraph_end": 20,
+        "start_time": "00:25:06.400",
+        "quote": "Between these three drops alone, we're sitting at 500 to 750k gold and transmog value. Of course, these will be slow movers and probably won't sell for the full ticket. But still, this is absolutely insane for the drop rates. But okay, enough of the adrenaline. We have to stay focused. We're not just here for loot. We're here for housing decor, which will probably sell a bit faster than those crazy rare BOE's. And with enough leather stockpiled, we push leather working to 250, which is high enough to craft cured rugged hide. And of course, the lockan bare skin rug, which these things sell fast, and it makes sense. They actually look pretty darn cool. And of course, one goes straight into our house. And while leatherwork is this high, it does make sense to craft a few extra recipes that we've been sitting on. some spider silk and scorpit hide pieces. Low volume transmog, but since we had the leather working levels to craft them, we may as well get a few on the auction house. So now we've got two confirmed housing crafts just ticking away on the auction house. A mountain of leftover leather and miscellaneous items that we got while leveling up our tailoring, enchanting, and leather working, plus a couple massive BOE drops in the auction house. So begs the question, what is the WoW token sitting at? still hovering around 300k. And with 159,000 gold already in the bags, one strong mailbox could do the trick for us, which would mean not only a new zone, but unlocking the Brutusaur mount. So, let's head to the mailbox and find out. Of course, first up is Goldie's mailbox.",
+        "canonical_file": "goldbound/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.txt",
+        "original_file": "goldbound/original-vtt/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E018-21",
+      "name": "Loch Modan Bearskin Rug crafting sales",
+      "kind": "experiment",
+      "status": "sales_confirmed",
+      "zone": "Westfall / Swamp of Sorrows",
+      "summary": "Rugs crafted and multiple sell, one 6500 g confirmed.",
+      "metrics": {
+        "confirmed_sale_gold": 6500
+      },
+      "source": {
+        "file": "018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.vtt",
+        "cleaned_file": "goldbound/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.txt",
+        "paragraph_start": 20,
+        "paragraph_end": 21,
+        "start_time": "00:25:06.400",
+        "quote": "Between these three drops alone, we're sitting at 500 to 750k gold and transmog value. Of course, these will be slow movers and probably won't sell for the full ticket. But still, this is absolutely insane for the drop rates. But okay, enough of the adrenaline. We have to stay focused. We're not just here for loot. We're here for housing decor, which will probably sell a bit faster than those crazy rare BOE's. And with enough leather stockpiled, we push leather working to 250, which is high enough to craft cured rugged hide. And of course, the lockan bare skin rug, which these things sell fast, and it makes sense. They actually look pretty darn cool. And of course, one goes straight into our house. And while leatherwork is this high, it does make sense to craft a few extra recipes that we've been sitting on. some spider silk and scorpit hide pieces. Low volume transmog, but since we had the leather working levels to craft them, we may as well get a few on the auction house. So now we've got two confirmed housing crafts just ticking away on the auction house. A mountain of leftover leather and miscellaneous items that we got while leveling up our tailoring, enchanting, and leather working, plus a couple massive BOE drops in the auction house. So begs the question, what is the WoW token sitting at? still hovering around 300k. And with 159,000 gold already in the bags, one strong mailbox could do the trick for us, which would mean not only a new zone, but unlocking the Brutusaur mount. So, let's head to the mailbox and find out. Of course, first up is Goldie's mailbox.",
+        "canonical_file": "goldbound/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.txt",
+        "original_file": "goldbound/original-vtt/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.vtt"
+      },
+      "additional_values": [
+        {
+          "value": 6500,
+          "label": "Sold",
+          "basis": "Confirmed Bearskin Rug sale; no independently timed crafting return.",
+          "unit": "g",
+          "kind": "sale",
+          "source_refs": [
+            {
+              "episode": 18,
+              "paragraph_start": 21,
+              "paragraph_end": 21,
+              "start_time": "00:26:43.520"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E018-22",
+      "name": "Spider-silk and scorpid leather craft restock",
+      "kind": "experiment",
+      "status": "performed",
+      "zone": "Westfall / Swamp of Sorrows",
+      "summary": "Uses trainedleatherworking andsavedrecipes to craftunnamed silk/scorpid transmog; noindividualprice/count.",
+      "metrics": {},
+      "source": {
+        "file": "018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.vtt",
+        "cleaned_file": "goldbound/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.txt",
+        "paragraph_start": 20,
+        "paragraph_end": 20,
+        "start_time": "00:25:06.400",
+        "quote": "Between these three drops alone, we're sitting at 500 to 750k gold and transmog value. Of course, these will be slow movers and probably won't sell for the full ticket. But still, this is absolutely insane for the drop rates. But okay, enough of the adrenaline. We have to stay focused. We're not just here for loot. We're here for housing decor, which will probably sell a bit faster than those crazy rare BOE's. And with enough leather stockpiled, we push leather working to 250, which is high enough to craft cured rugged hide. And of course, the lockan bare skin rug, which these things sell fast, and it makes sense. They actually look pretty darn cool. And of course, one goes straight into our house. And while leatherwork is this high, it does make sense to craft a few extra recipes that we've been sitting on. some spider silk and scorpit hide pieces. Low volume transmog, but since we had the leather working levels to craft them, we may as well get a few on the auction house. So now we've got two confirmed housing crafts just ticking away on the auction house. A mountain of leftover leather and miscellaneous items that we got while leveling up our tailoring, enchanting, and leather working, plus a couple massive BOE drops in the auction house. So begs the question, what is the WoW token sitting at? still hovering around 300k. And with 159,000 gold already in the bags, one strong mailbox could do the trick for us, which would mean not only a new zone, but unlocking the Brutusaur mount. So, let's head to the mailbox and find out. Of course, first up is Goldie's mailbox.",
+        "canonical_file": "goldbound/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.txt",
+        "original_file": "goldbound/original-vtt/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E018-23",
+      "name": "Dark Iron Baby Booties and Gnoll Punisher sales",
+      "kind": "sales",
+      "status": "sales_confirmed",
+      "zone": "Westfall / Swamp of Sorrows",
+      "summary": "Booties sellamountunstated; Punisher 8400 g,23000 totaltransmog.",
+      "metrics": {
+        "Gnoll Punisher_sale_gold": 8400,
+        "transmog_cash_gold": 23000
+      },
+      "source": {
+        "file": "018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.vtt",
+        "cleaned_file": "goldbound/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.txt",
+        "paragraph_start": 22,
+        "paragraph_end": 22,
+        "start_time": "00:27:44.480",
+        "quote": "So let's check out the transmog alt. Okay, nothing insane, but solid movement. 23,000 gold total, including an 8.4k null punisher, some dark iron booties, and a handful of steady sellers. So, we'll get this all back over to Goldie. So, now officially 345,000 gold in the bags. And that is enough for a sixth WoW token. And we already know this token isn't just going to unlock a new zone because this is the moment. The traitor's gilded brutaur costs exactly six tokens. And like I said, we have to get rid of these tokens because there's a hard cap for 10 in the bag. So, they're soulbound. We can't trade them. So, we have to redeem them. And just like that, Brutusaur unlocked.",
+        "canonical_file": "goldbound/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.txt",
+        "original_file": "goldbound/original-vtt/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E018-24",
+      "name": "Sixth token Brutosaur purchase completion",
+      "kind": "experiment",
+      "status": "successful",
+      "zone": "Westfall / Swamp of Sorrows",
+      "summary": "345000 cashafterallmail, buytoken/redeemsix, acquires AH+mail mount; Duskwoodnext unlock. Time saving not quantitatively measured.",
+      "metrics": {
+        "cash_gold": 345000,
+        "tokens_redeemed": 6
+      },
+      "source": {
+        "file": "018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.vtt",
+        "cleaned_file": "goldbound/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.txt",
+        "paragraph_start": 21,
+        "paragraph_end": 24,
+        "start_time": "00:26:43.520",
+        "quote": "And right away, we're seeing movement on the housing decor. The Tus fall hollow campfire sold for 9.5K and a lockand bears rug for 6.5K. This is exactly what we wanted to see. Turtle scales, turtle meat, blood of the mountain, dark iron, several rugs, multiple campfires, and even one early Tusville campfire sold for the full 15k. That's huge. So, let's loot up the first page and refresh the mailbox. Okay, travelers. So before even touching page two or our transmog, we're already sitting at 305,000 gold. But let's see just how far we overshot. And page two, mostly materials. No massive surprises. These are all the auctions we sold before we could actually craft decor. But with everything looted, we're sitting at 322,000 gold on gold alone.",
+        "canonical_file": "goldbound/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.txt",
+        "original_file": "goldbound/original-vtt/018 - Can I Buy WoW’s Most Pay-to-Win Mount While Zone-Locked？ - Goldbound Episode 17.en-orig.vtt"
+      }
+    }
+  ]
+}

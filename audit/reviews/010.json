@@ -1,0 +1,342 @@
+{
+  "source_id": 10,
+  "source_file": "010 - Our Biggest Mailbox Opening Yet.. Will It Be Enough To Escape Redridge？ - Goldbound Episode 10.en-orig.vtt",
+  "cleaned_file": "goldbound/010 - Our Biggest Mailbox Opening Yet.. Will It Be Enough To Escape Redridge？ - Goldbound Episode 10.en-orig.txt",
+  "full_text_reviewed": true,
+  "paragraph_count": 17,
+  "records": [
+    {
+      "id": "E010-01",
+      "name": "Althers Mill phasing availability",
+      "kind": "experiment",
+      "status": "blocked",
+      "zone": "Redridge Mountains",
+      "summary": "Quest completion phased out original mobs; explicitly untested farm, do not imply performed.",
+      "metrics": {},
+      "source": {
+        "file": "010 - Our Biggest Mailbox Opening Yet.. Will It Be Enough To Escape Redridge？ - Goldbound Episode 10.en-orig.vtt",
+        "cleaned_file": "goldbound/010 - Our Biggest Mailbox Opening Yet.. Will It Be Enough To Escape Redridge？ - Goldbound Episode 10.en-orig.txt",
+        "paragraph_start": 2,
+        "paragraph_end": 2,
+        "start_time": "00:02:07.840",
+        "quote": "Although's Mill and Render's Valley. So, why haven't we tapped into these? Well, it comes down to the current state of the quest lines with the Orc invasion story running through this part of the zone. Once you complete and turn in the quests, the old mobs in these areas actually get phased out, which means we can't go back and farm them once we've completed the quest lines. So, while there's still gold potential there, Goldilock is essentially locked out behind phasing. And in hindsight, we maybe should have capitalized on these areas before completing the quests, but we just didn't know it at the time. So, for now, those farms remain unexplored and unaccessible. But, of course, through all of this, we've been quietly stockpiling quite a bit of transmog. And one key aspect of going full-time and having more time to play is that we can actually really start doing some serious undercut competitions. Trades Club Master lets us do a scan to see if anyone's posted an item for cheaper than we're offering it. Cuz if you're not the cheapest on the auction house for transmog, it's not going to sell. So, we do a few of these undercut scans every day. More of our items will be the lowest priced and more of them should sell. So, stay tuned for that auction house reveal. And honestly, we've got more of certain pieces than we can realistically sell. So instead of just letting them sit, I figured why not put together a zone specific Red Ridge set.",
+        "canonical_file": "goldbound/010 - Our Biggest Mailbox Opening Yet.. Will It Be Enough To Escape Redridge？ - Goldbound Episode 10.en-orig.txt",
+        "original_file": "goldbound/original-vtt/010 - Our Biggest Mailbox Opening Yet.. Will It Be Enough To Escape Redridge？ - Goldbound Episode 10.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E010-02",
+      "name": "Renders Valley phasing availability",
+      "kind": "experiment",
+      "status": "blocked",
+      "zone": "Redridge Mountains",
+      "summary": "Original farm mobs unavailable after zone quest chain; no test completed.",
+      "metrics": {},
+      "source": {
+        "file": "010 - Our Biggest Mailbox Opening Yet.. Will It Be Enough To Escape Redridge？ - Goldbound Episode 10.en-orig.vtt",
+        "cleaned_file": "goldbound/010 - Our Biggest Mailbox Opening Yet.. Will It Be Enough To Escape Redridge？ - Goldbound Episode 10.en-orig.txt",
+        "paragraph_start": 2,
+        "paragraph_end": 2,
+        "start_time": "00:02:07.840",
+        "quote": "Although's Mill and Render's Valley. So, why haven't we tapped into these? Well, it comes down to the current state of the quest lines with the Orc invasion story running through this part of the zone. Once you complete and turn in the quests, the old mobs in these areas actually get phased out, which means we can't go back and farm them once we've completed the quest lines. So, while there's still gold potential there, Goldilock is essentially locked out behind phasing. And in hindsight, we maybe should have capitalized on these areas before completing the quests, but we just didn't know it at the time. So, for now, those farms remain unexplored and unaccessible. But, of course, through all of this, we've been quietly stockpiling quite a bit of transmog. And one key aspect of going full-time and having more time to play is that we can actually really start doing some serious undercut competitions. Trades Club Master lets us do a scan to see if anyone's posted an item for cheaper than we're offering it. Cuz if you're not the cheapest on the auction house for transmog, it's not going to sell. So, we do a few of these undercut scans every day. More of our items will be the lowest priced and more of them should sell. So, stay tuned for that auction house reveal. And honestly, we've got more of certain pieces than we can realistically sell. So instead of just letting them sit, I figured why not put together a zone specific Red Ridge set.",
+        "canonical_file": "goldbound/010 - Our Biggest Mailbox Opening Yet.. Will It Be Enough To Escape Redridge？ - Goldbound Episode 10.en-orig.txt",
+        "original_file": "goldbound/original-vtt/010 - Our Biggest Mailbox Opening Yet.. Will It Be Enough To Escape Redridge？ - Goldbound Episode 10.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E010-03",
+      "name": "Daily auction undercut competition",
+      "kind": "experiment",
+      "status": "performed",
+      "zone": "Redridge Mountains",
+      "summary": "Multiple daily scans/reposts and hours of listing work; sales improved but causal uplift not independently measured.",
+      "metrics": {},
+      "source": {
+        "file": "010 - Our Biggest Mailbox Opening Yet.. Will It Be Enough To Escape Redridge？ - Goldbound Episode 10.en-orig.vtt",
+        "cleaned_file": "goldbound/010 - Our Biggest Mailbox Opening Yet.. Will It Be Enough To Escape Redridge？ - Goldbound Episode 10.en-orig.txt",
+        "paragraph_start": 2,
+        "paragraph_end": 14,
+        "start_time": "00:02:07.840",
+        "quote": "Although's Mill and Render's Valley. So, why haven't we tapped into these? Well, it comes down to the current state of the quest lines with the Orc invasion story running through this part of the zone. Once you complete and turn in the quests, the old mobs in these areas actually get phased out, which means we can't go back and farm them once we've completed the quest lines. So, while there's still gold potential there, Goldilock is essentially locked out behind phasing. And in hindsight, we maybe should have capitalized on these areas before completing the quests, but we just didn't know it at the time. So, for now, those farms remain unexplored and unaccessible. But, of course, through all of this, we've been quietly stockpiling quite a bit of transmog. And one key aspect of going full-time and having more time to play is that we can actually really start doing some serious undercut competitions. Trades Club Master lets us do a scan to see if anyone's posted an item for cheaper than we're offering it. Cuz if you're not the cheapest on the auction house for transmog, it's not going to sell. So, we do a few of these undercut scans every day. More of our items will be the lowest priced and more of them should sell. So, stay tuned for that auction house reveal. And honestly, we've got more of certain pieces than we can realistically sell. So instead of just letting them sit, I figured why not put together a zone specific Red Ridge set.",
+        "canonical_file": "goldbound/010 - Our Biggest Mailbox Opening Yet.. Will It Be Enough To Escape Redridge？ - Goldbound Episode 10.en-orig.txt",
+        "original_file": "goldbound/original-vtt/010 - Our Biggest Mailbox Opening Yet.. Will It Be Enough To Escape Redridge？ - Goldbound Episode 10.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E010-04",
+      "name": "Bandit chest/cape collection",
+      "kind": "farm",
+      "status": "successful",
+      "zone": "Redridge Mountains",
+      "summary": "Targets Chitter, Chatter, Snarlflare to finish appearance set; obtains missing pieces in hybrid route.",
+      "metrics": {},
+      "source": {
+        "file": "010 - Our Biggest Mailbox Opening Yet.. Will It Be Enough To Escape Redridge？ - Goldbound Episode 10.en-orig.vtt",
+        "cleaned_file": "goldbound/010 - Our Biggest Mailbox Opening Yet.. Will It Be Enough To Escape Redridge？ - Goldbound Episode 10.en-orig.txt",
+        "paragraph_start": 3,
+        "paragraph_end": 10,
+        "start_time": "00:03:18.560",
+        "quote": "One of my favorite sets from this zone has always been the bandit set. And if we take a look at our postings, we already have pretty much every piece up on the auction house. All except for the cape and the chest pieces, but both of those of course do drop in the zone. And doing a little bit of research, they have the highest drop rates from a few of the rares in the zone, mainly Chitter, Chatter, and Snarflare. So, if the drops cooperate, it won't be long before we're walking around fully bandited out. But, we've got some serious work to do this episode and a lot of gold to make up if we want to go to Redidge anytime soon. So, let's talk about the key farms that I'm going to tag down this week. And the number one priority is keeping the freight not stocked on the auction house. These things carried us out of Elwin, and now that both Elwin and Redidge are nearly fully explored, they're going to be just as essential for getting us through to that next token. It's one of those long haul staples that pays off across multiple zones. But frayed knots aren't the only way forward. While running a repo scan this morning, I actually noticed something interesting. Small eggs. They've crept up in value from about six gold each to nearly 10 gold a piece. This might be in anticipation of the feast of Winter's Veil coming up in a few months. But with that kind of early market movement, you better believe we'll be owning a few stacks while the prices are hot. So, we'll go over there and farm a few extra eggs just to capitalize on the market shifts.",
+        "canonical_file": "goldbound/010 - Our Biggest Mailbox Opening Yet.. Will It Be Enough To Escape Redridge？ - Goldbound Episode 10.en-orig.txt",
+        "original_file": "goldbound/original-vtt/010 - Our Biggest Mailbox Opening Yet.. Will It Be Enough To Escape Redridge？ - Goldbound Episode 10.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E010-05",
+      "name": "Frayed Knot replenishment",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Elwynn Forest",
+      "summary": "Stream farm sessions keep knot stock posted; bulk sales confirmed, no new standalone measured rate.",
+      "metrics": {},
+      "source": {
+        "file": "010 - Our Biggest Mailbox Opening Yet.. Will It Be Enough To Escape Redridge？ - Goldbound Episode 10.en-orig.vtt",
+        "cleaned_file": "goldbound/010 - Our Biggest Mailbox Opening Yet.. Will It Be Enough To Escape Redridge？ - Goldbound Episode 10.en-orig.txt",
+        "paragraph_start": 3,
+        "paragraph_end": 13,
+        "start_time": "00:03:18.560",
+        "quote": "One of my favorite sets from this zone has always been the bandit set. And if we take a look at our postings, we already have pretty much every piece up on the auction house. All except for the cape and the chest pieces, but both of those of course do drop in the zone. And doing a little bit of research, they have the highest drop rates from a few of the rares in the zone, mainly Chitter, Chatter, and Snarflare. So, if the drops cooperate, it won't be long before we're walking around fully bandited out. But, we've got some serious work to do this episode and a lot of gold to make up if we want to go to Redidge anytime soon. So, let's talk about the key farms that I'm going to tag down this week. And the number one priority is keeping the freight not stocked on the auction house. These things carried us out of Elwin, and now that both Elwin and Redidge are nearly fully explored, they're going to be just as essential for getting us through to that next token. It's one of those long haul staples that pays off across multiple zones. But frayed knots aren't the only way forward. While running a repo scan this morning, I actually noticed something interesting. Small eggs. They've crept up in value from about six gold each to nearly 10 gold a piece. This might be in anticipation of the feast of Winter's Veil coming up in a few months. But with that kind of early market movement, you better believe we'll be owning a few stacks while the prices are hot. So, we'll go over there and farm a few extra eggs just to capitalize on the market shifts.",
+        "canonical_file": "goldbound/010 - Our Biggest Mailbox Opening Yet.. Will It Be Enough To Escape Redridge？ - Goldbound Episode 10.en-orig.txt",
+        "original_file": "goldbound/original-vtt/010 - Our Biggest Mailbox Opening Yet.. Will It Be Enough To Escape Redridge？ - Goldbound Episode 10.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E010-06",
+      "name": "Dire Condor egg price-response run",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Redridge Mountains",
+      "summary": "Extra eggs farmed as market rises 6→nearly 10 g; small stacks sell. No new controlled duration/yield.",
+      "metrics": {
+        "quoted_egg_gold_approx": 10
+      },
+      "source": {
+        "file": "010 - Our Biggest Mailbox Opening Yet.. Will It Be Enough To Escape Redridge？ - Goldbound Episode 10.en-orig.vtt",
+        "cleaned_file": "goldbound/010 - Our Biggest Mailbox Opening Yet.. Will It Be Enough To Escape Redridge？ - Goldbound Episode 10.en-orig.txt",
+        "paragraph_start": 3,
+        "paragraph_end": 13,
+        "start_time": "00:03:18.560",
+        "quote": "One of my favorite sets from this zone has always been the bandit set. And if we take a look at our postings, we already have pretty much every piece up on the auction house. All except for the cape and the chest pieces, but both of those of course do drop in the zone. And doing a little bit of research, they have the highest drop rates from a few of the rares in the zone, mainly Chitter, Chatter, and Snarflare. So, if the drops cooperate, it won't be long before we're walking around fully bandited out. But, we've got some serious work to do this episode and a lot of gold to make up if we want to go to Redidge anytime soon. So, let's talk about the key farms that I'm going to tag down this week. And the number one priority is keeping the freight not stocked on the auction house. These things carried us out of Elwin, and now that both Elwin and Redidge are nearly fully explored, they're going to be just as essential for getting us through to that next token. It's one of those long haul staples that pays off across multiple zones. But frayed knots aren't the only way forward. While running a repo scan this morning, I actually noticed something interesting. Small eggs. They've crept up in value from about six gold each to nearly 10 gold a piece. This might be in anticipation of the feast of Winter's Veil coming up in a few months. But with that kind of early market movement, you better believe we'll be owning a few stacks while the prices are hot. So, we'll go over there and farm a few extra eggs just to capitalize on the market shifts.",
+        "canonical_file": "goldbound/010 - Our Biggest Mailbox Opening Yet.. Will It Be Enough To Escape Redridge？ - Goldbound Episode 10.en-orig.txt",
+        "original_file": "goldbound/original-vtt/010 - Our Biggest Mailbox Opening Yet.. Will It Be Enough To Escape Redridge？ - Goldbound Episode 10.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E010-07",
+      "name": "Rohh cauldron recuperate superstition",
+      "kind": "experiment",
+      "status": "unverified",
+      "zone": "Redridge Mountains",
+      "summary": "At~40 dry kills tries standing on cauldron and casting Recuperate before loot; perceives double greens, explicitly probably coincidence.",
+      "metrics": {
+        "prior_dry_kills_approx": 40
+      },
+      "source": {
+        "file": "010 - Our Biggest Mailbox Opening Yet.. Will It Be Enough To Escape Redridge？ - Goldbound Episode 10.en-orig.vtt",
+        "cleaned_file": "goldbound/010 - Our Biggest Mailbox Opening Yet.. Will It Be Enough To Escape Redridge？ - Goldbound Episode 10.en-orig.txt",
+        "paragraph_start": 7,
+        "paragraph_end": 7,
+        "start_time": "00:07:33.599",
+        "quote": "But like I said, I'm pretty torn on this and I can definitely see it going both ways. So, this will be open for voting for about 3 days after this video. And with that out of the way, let's get back to the grind. When it comes to Red Ridge, we've pretty much cleaned out most of the items we want from these mobs. Rares and transmog targets. All except one. Row the silent. His rare item has completely eluded us. Right now, we're sitting at around a 40 kill count and climbing. And yet, nothing. But while farming this guy, we might have stumbled upon a hidden superstition or maybe just plain old forbidden luck. So, here's what we've been doing. It seems that if we stand on his cauldron right after killing him before looting and cast recuperate more often than not, we seem to get double green drops. This might be a coincidence, probably. But are we going to keep on doing this every single kill from here on out?",
+        "canonical_file": "goldbound/010 - Our Biggest Mailbox Opening Yet.. Will It Be Enough To Escape Redridge？ - Goldbound Episode 10.en-orig.txt",
+        "original_file": "goldbound/original-vtt/010 - Our Biggest Mailbox Opening Yet.. Will It Be Enough To Escape Redridge？ - Goldbound Episode 10.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E010-08",
+      "name": "Five-hour ultimate dual-zone circuit",
+      "kind": "farm",
+      "status": "measured",
+      "zone": "Elwynn Forest / Redridge Mountains",
+      "summary": "Copper/silver, Stone Cairn rogue wizard pickpockets each 10 minute loop, Elwynn rares every 3 loops, Redridge every 6, Everstill debris check. About 2000 copper and healthy knot stack, counts imprecise; fishing poor.",
+      "metrics": {
+        "minutes": 300,
+        "Copper Ore_approx": 2000,
+        "loop_minutes_approx": 10,
+        "rare_elwynn_loop_interval": 3,
+        "rare_redridge_loop_interval": 6
+      },
+      "source": {
+        "file": "010 - Our Biggest Mailbox Opening Yet.. Will It Be Enough To Escape Redridge？ - Goldbound Episode 10.en-orig.vtt",
+        "cleaned_file": "goldbound/010 - Our Biggest Mailbox Opening Yet.. Will It Be Enough To Escape Redridge？ - Goldbound Episode 10.en-orig.txt",
+        "paragraph_start": 8,
+        "paragraph_end": 10,
+        "start_time": "00:08:23.680",
+        "quote": "Absolutely. At this point, we've really nailed down the top earners in the zones. Freay knots, copper ore, fish chests, and rare spawns. So, I have an idea. What if we made the ultimate dual zone farming method? something to truly minmax all these different mobs and resources. Here's what I'm thinking. The rares in Elwin Forest are on about a 20 to 25 minute spawn timer. The rares in Redidge, on the other hand, are closer to 45 to 60 minutes. That gives us some natural pacing to work with. Then we've got the frayed knots. These come from Pikpocking the Defias Archetype mobs in Elwin, but the rogue wizards at Stone Karen Lake actually have the highest drop rate in the region. And once you've emptied their pockets, it takes roughly 10 minutes for them to reset. And as for ores, both zones give us copper, which is the bread and butter. But Red Ridge also adds tin and silver into the mix.",
+        "canonical_file": "goldbound/010 - Our Biggest Mailbox Opening Yet.. Will It Be Enough To Escape Redridge？ - Goldbound Episode 10.en-orig.txt",
+        "original_file": "goldbound/original-vtt/010 - Our Biggest Mailbox Opening Yet.. Will It Be Enough To Escape Redridge？ - Goldbound Episode 10.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E010-09",
+      "name": "Blackvenom Blade Rohh success",
+      "kind": "farm",
+      "status": "successful",
+      "zone": "Redridge Mountains",
+      "summary": "Final kill of five-hour hybrid day yields blade after prior 40 plus dry kills; no precise total kills or isolated hourly rate.",
+      "metrics": {},
+      "source": {
+        "file": "010 - Our Biggest Mailbox Opening Yet.. Will It Be Enough To Escape Redridge？ - Goldbound Episode 10.en-orig.vtt",
+        "cleaned_file": "goldbound/010 - Our Biggest Mailbox Opening Yet.. Will It Be Enough To Escape Redridge？ - Goldbound Episode 10.en-orig.txt",
+        "paragraph_start": 7,
+        "paragraph_end": 10,
+        "start_time": "00:07:33.599",
+        "quote": "But like I said, I'm pretty torn on this and I can definitely see it going both ways. So, this will be open for voting for about 3 days after this video. And with that out of the way, let's get back to the grind. When it comes to Red Ridge, we've pretty much cleaned out most of the items we want from these mobs. Rares and transmog targets. All except one. Row the silent. His rare item has completely eluded us. Right now, we're sitting at around a 40 kill count and climbing. And yet, nothing. But while farming this guy, we might have stumbled upon a hidden superstition or maybe just plain old forbidden luck. So, here's what we've been doing. It seems that if we stand on his cauldron right after killing him before looting and cast recuperate more often than not, we seem to get double green drops. This might be a coincidence, probably. But are we going to keep on doing this every single kill from here on out?",
+        "canonical_file": "goldbound/010 - Our Biggest Mailbox Opening Yet.. Will It Be Enough To Escape Redridge？ - Goldbound Episode 10.en-orig.txt",
+        "original_file": "goldbound/original-vtt/010 - Our Biggest Mailbox Opening Yet.. Will It Be Enough To Escape Redridge？ - Goldbound Episode 10.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E010-10",
+      "name": "Hybrid fishing-debris yield test",
+      "kind": "experiment",
+      "status": "failed",
+      "zone": "Redridge Mountains",
+      "summary": "Debris-only opportunistic checks yield few chests despite higher stated chest chance; dedicated run chosen instead.",
+      "metrics": {},
+      "source": {
+        "file": "010 - Our Biggest Mailbox Opening Yet.. Will It Be Enough To Escape Redridge？ - Goldbound Episode 10.en-orig.vtt",
+        "cleaned_file": "goldbound/010 - Our Biggest Mailbox Opening Yet.. Will It Be Enough To Escape Redridge？ - Goldbound Episode 10.en-orig.txt",
+        "paragraph_start": 9,
+        "paragraph_end": 10,
+        "start_time": "00:09:15.120",
+        "quote": "Of course, tin's worth a little less, but silver going for around 20 gold each makes it well worth checking Red Ridge out for ores. And let's not forget fishing. Red Ridge Lake has both sage fish pools and floating debris. And the crates from the debris have a much higher drop rate for fishing chests. But the catch is they usually spawn infrequently but in clusters of one or two scattered around the lake. We're going to focus on a rotation that's farming primarily copper ore nodes while skirting through a few silver ores in Red Ridge. This route will also swing by Redidge Lake to check out for floating debris. And every loop, which should be around 10 minutes, we'll be flying over Stone Karen Lake where we can drop down and pickpocket all the rogue wizards for a chance at some parade knots. Then hopefully it syncs up with every three loops or about 30 minutes, we should be able to tag a few Elvin rares. And then every six loops or about 60 minutes, we should hopefully get a few red ridge rares. The theory is simple and even if we miss a rare spawn here and there, the loop is tight enough where we're always farming something valuable. And worst case, we're stacking up copper ore and frayed knots. And best case, we're crashing in on rares, transmog, and fishing crates all on the same rotation.",
+        "canonical_file": "goldbound/010 - Our Biggest Mailbox Opening Yet.. Will It Be Enough To Escape Redridge？ - Goldbound Episode 10.en-orig.txt",
+        "original_file": "goldbound/original-vtt/010 - Our Biggest Mailbox Opening Yet.. Will It Be Enough To Escape Redridge？ - Goldbound Episode 10.en-orig.vtt"
+      },
+      "related_records": [
+        {
+          "id": "E010-11",
+          "role": "comparison",
+          "label": "Dedicated fishing-chest comparison",
+          "include_earnings": false
+        }
+      ]
+    },
+    {
+      "id": "E010-11",
+      "name": "98 fishing chest recipe retest",
+      "kind": "farm",
+      "status": "successful",
+      "zone": "Redridge Mountains",
+      "summary": "Several-hour dedicated repeat gets 98 chests; rare valuable recipe finally obtained and banked, name not spoken. Not necessarily 98 exact if caption says maybe 98 target.",
+      "metrics": {
+        "target_chests": 98,
+        "recipe_drops": 1
+      },
+      "source": {
+        "file": "010 - Our Biggest Mailbox Opening Yet.. Will It Be Enough To Escape Redridge？ - Goldbound Episode 10.en-orig.vtt",
+        "cleaned_file": "goldbound/010 - Our Biggest Mailbox Opening Yet.. Will It Be Enough To Escape Redridge？ - Goldbound Episode 10.en-orig.txt",
+        "paragraph_start": 10,
+        "paragraph_end": 11,
+        "start_time": "00:10:24.800",
+        "quote": "So, I set a timer for about 5 hours, essentially a gold bound workday, to see just how much we could actually snag up from running this loop. And let me tell you, this run did not disappoint. We managed to minmax enough rare kills out in Redidge to finally actually round out our bandit set, chest piece, cape, and all. So, it's a pretty clean look, and I'm pretty happy with it. But, let's be honest, no matter how good we look personally, it's not going to unlock the next zone. What might though? Well, the black venom blade could row the silence prize drop. Over the last 5 hours, we locked into his pattern and were able to tag him over and over and over. And actually, on the very last kill of the day, boom, the black venom blade acquired. That officially checks off Rose Box for Red Ridge. This guy was tough, but we came out on top. Now, outside of that highlight, which let's be honest, was a massive highlight, and I don't remember getting that much adrenaline from any kind of wow drop recently, the rest was kind of as you'd expect. a couple thousand more copper ore, a healthy stack of frayed knots, you know, just to keep the sales steady on the auction house. But the minmax loop wasn't so minmax for fishing chests, and we came up pretty light. And I was really hoping to open quite a few of these and maybe get a recipe. So, let's go ahead and farm maybe 98 more.",
+        "canonical_file": "goldbound/010 - Our Biggest Mailbox Opening Yet.. Will It Be Enough To Escape Redridge？ - Goldbound Episode 10.en-orig.txt",
+        "original_file": "goldbound/original-vtt/010 - Our Biggest Mailbox Opening Yet.. Will It Be Enough To Escape Redridge？ - Goldbound Episode 10.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E010-12",
+      "name": "Redridge Poacher machete discovery",
+      "kind": "farm",
+      "status": "successful",
+      "zone": "Redridge Mountains",
+      "summary": "Unexpected Redridge Machete drop during prior farms;150 kplus valuation,0.28%cited chance. Not originally targeted.",
+      "metrics": {
+        "quoted_market_gold_lower_bound": 150000,
+        "cited_drop_pct": 0.28
+      },
+      "source": {
+        "file": "010 - Our Biggest Mailbox Opening Yet.. Will It Be Enough To Escape Redridge？ - Goldbound Episode 10.en-orig.vtt",
+        "cleaned_file": "goldbound/010 - Our Biggest Mailbox Opening Yet.. Will It Be Enough To Escape Redridge？ - Goldbound Episode 10.en-orig.txt",
+        "paragraph_start": 11,
+        "paragraph_end": 11,
+        "start_time": "00:11:39.200",
+        "quote": "Fill up a bank chest again. In real time, this took a few hours, but look at this now and we have a full bank to go. So, let's go ahead and crack these open. No time to waste. If you got the last episode, you'll remember that we went 100 fish chests opened without any recipes, completely dry. This time though, luck finally turned our way and we managed to pull a rare recipe. And this one both has some serious item value to sell it straight up as a recipe on the auction house, but could also open a very consistent transmunk item that we could craft over and over for the months to come. So, the real question, do we flip it right away, sell the recipe for a quick profit, or tuck it away for a warb band elf to start crafting with later? For now, I'm going to slide it into the bank and I'll wait on the results of the members only pull before making the call. And to all of you who support the channel as a member, thank you. You're one of the main reasons we can keep putting more time and energy into this series and go full-time in the content creation. And let me tell you, we have a few new ideas coming out for the channel. So, for now, the recipe will stay put, and the decision of whether or not we'll have it on a warb band alt or not, well, that's up to you guys. So, we've really explored Red to the fullest this week, locking some serious farm hours across transmogs, ores, and endless undercut scans. Honestly, we need some bigger bags because my right finger is getting so tired from opening up the bailbox and reposting. But just when I thought the zone had revealed all it secrets, bang, 150k plus item hits the bags. The Red Ridge machete. Now, here's the crazy thing. I didn't even have this item on my radar. Supposedly, it's a 0.28% drop rate from the Red Ridge Poacher, but it carries a wild market value. And like I said, I've been going into a lot of these farms blind, discovering them along the way, and this one just had completely slipped through the cracks. I didn't know it existed. That is until it decided to drop itself straight into our inventory. So, pair that with the countless hours of farming ores, condor eggs, and all the other farms we did over live on Twitch. I think you know what time it is. With the sheer amount of effort sunk into the undercut scans and farming over the past two weeks, I'm expecting something big from this mailbox clear. So, let's get into it.",
+        "canonical_file": "goldbound/010 - Our Biggest Mailbox Opening Yet.. Will It Be Enough To Escape Redridge？ - Goldbound Episode 10.en-orig.txt",
+        "original_file": "goldbound/original-vtt/010 - Our Biggest Mailbox Opening Yet.. Will It Be Enough To Escape Redridge？ - Goldbound Episode 10.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E010-13",
+      "name": "Brood Mother Carapace realized sale",
+      "kind": "sales",
+      "status": "sales_confirmed",
+      "zone": "Elwynn Forest",
+      "summary": "Episode 2 Mother Fang drop finally sells 117000 g; lifetime delay important, not repeatable hourly cash.",
+      "metrics": {
+        "sale_gold": 117000
+      },
+      "source": {
+        "file": "010 - Our Biggest Mailbox Opening Yet.. Will It Be Enough To Escape Redridge？ - Goldbound Episode 10.en-orig.vtt",
+        "cleaned_file": "goldbound/010 - Our Biggest Mailbox Opening Yet.. Will It Be Enough To Escape Redridge？ - Goldbound Episode 10.en-orig.txt",
+        "paragraph_start": 12,
+        "paragraph_end": 12,
+        "start_time": "00:13:41.040",
+        "quote": "All right. And right off the bat, you can already see we've got 215 auctions sold. So, it's going to take three full opening cycles to get through. And straight away, we're seeing some of our familiar staples. Some handfuls of trade goods, some signature freight knots, and some of the lower ticket transmogs. Things in the 100 300 gold range. And you seeing this? That's right, travelers. We actually sold our brood mother carrapase, the very one we looted back in episode 2. Just sold for 117,000 gold. That makes our single biggest sale so far. Honestly, this drop is so huge that it makes the null war harness below it look a little small by comparison. And look at this. Another big one, the iron patch blade. This was our BOE world drop blue. Gone for a tidy sum and followed by a few copper bolts. If I'm adding things up right, we might just be on pace to afford a token today. The question might now be, how many? But as we keep going, the mailbox is packed with more trade goods, and we even see the bulk of our freight not selling off here. These are the ones we farmed over a few stream sessions. Our aggressive undercut scans have definitely been paying off. We've honestly sunk hours and hours into just scanning and reposting the auction house. Things like the tancho silk sash, scimitars of platoon, fingerless gloves, and if you look at this, we even sold the shadow hide scalper. and for a good market value, too. That's three major items just on one page. So, let's go ahead and clear the first 100 ms and enjoy that sweet sound of the coins going into our traveler's backpack.",
+        "canonical_file": "goldbound/010 - Our Biggest Mailbox Opening Yet.. Will It Be Enough To Escape Redridge？ - Goldbound Episode 10.en-orig.txt",
+        "original_file": "goldbound/original-vtt/010 - Our Biggest Mailbox Opening Yet.. Will It Be Enough To Escape Redridge？ - Goldbound Episode 10.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E010-14",
+      "name": "Ironpatch Blade realized sale",
+      "kind": "sales",
+      "status": "sales_confirmed",
+      "zone": "Redridge Mountains",
+      "summary": "Blue world drop sells for unstated tidy sum.",
+      "metrics": {},
+      "source": {
+        "file": "010 - Our Biggest Mailbox Opening Yet.. Will It Be Enough To Escape Redridge？ - Goldbound Episode 10.en-orig.vtt",
+        "cleaned_file": "goldbound/010 - Our Biggest Mailbox Opening Yet.. Will It Be Enough To Escape Redridge？ - Goldbound Episode 10.en-orig.txt",
+        "paragraph_start": 12,
+        "paragraph_end": 12,
+        "start_time": "00:13:41.040",
+        "quote": "All right. And right off the bat, you can already see we've got 215 auctions sold. So, it's going to take three full opening cycles to get through. And straight away, we're seeing some of our familiar staples. Some handfuls of trade goods, some signature freight knots, and some of the lower ticket transmogs. Things in the 100 300 gold range. And you seeing this? That's right, travelers. We actually sold our brood mother carrapase, the very one we looted back in episode 2. Just sold for 117,000 gold. That makes our single biggest sale so far. Honestly, this drop is so huge that it makes the null war harness below it look a little small by comparison. And look at this. Another big one, the iron patch blade. This was our BOE world drop blue. Gone for a tidy sum and followed by a few copper bolts. If I'm adding things up right, we might just be on pace to afford a token today. The question might now be, how many? But as we keep going, the mailbox is packed with more trade goods, and we even see the bulk of our freight not selling off here. These are the ones we farmed over a few stream sessions. Our aggressive undercut scans have definitely been paying off. We've honestly sunk hours and hours into just scanning and reposting the auction house. Things like the tancho silk sash, scimitars of platoon, fingerless gloves, and if you look at this, we even sold the shadow hide scalper. and for a good market value, too. That's three major items just on one page. So, let's go ahead and clear the first 100 ms and enjoy that sweet sound of the coins going into our traveler's backpack.",
+        "canonical_file": "goldbound/010 - Our Biggest Mailbox Opening Yet.. Will It Be Enough To Escape Redridge？ - Goldbound Episode 10.en-orig.txt",
+        "original_file": "goldbound/original-vtt/010 - Our Biggest Mailbox Opening Yet.. Will It Be Enough To Escape Redridge？ - Goldbound Episode 10.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E010-15",
+      "name": "Shadowhide Scalper and rare portfolio sales",
+      "kind": "sales",
+      "status": "sales_confirmed",
+      "zone": "Redridge Mountains",
+      "summary": "Scalper, War Harness, Tarantula Silk Sash, Scimitars, Fingerless Gloves sell alongside bolts/knots; no exact prices spoken.",
+      "metrics": {},
+      "source": {
+        "file": "010 - Our Biggest Mailbox Opening Yet.. Will It Be Enough To Escape Redridge？ - Goldbound Episode 10.en-orig.vtt",
+        "cleaned_file": "goldbound/010 - Our Biggest Mailbox Opening Yet.. Will It Be Enough To Escape Redridge？ - Goldbound Episode 10.en-orig.txt",
+        "paragraph_start": 12,
+        "paragraph_end": 12,
+        "start_time": "00:13:41.040",
+        "quote": "All right. And right off the bat, you can already see we've got 215 auctions sold. So, it's going to take three full opening cycles to get through. And straight away, we're seeing some of our familiar staples. Some handfuls of trade goods, some signature freight knots, and some of the lower ticket transmogs. Things in the 100 300 gold range. And you seeing this? That's right, travelers. We actually sold our brood mother carrapase, the very one we looted back in episode 2. Just sold for 117,000 gold. That makes our single biggest sale so far. Honestly, this drop is so huge that it makes the null war harness below it look a little small by comparison. And look at this. Another big one, the iron patch blade. This was our BOE world drop blue. Gone for a tidy sum and followed by a few copper bolts. If I'm adding things up right, we might just be on pace to afford a token today. The question might now be, how many? But as we keep going, the mailbox is packed with more trade goods, and we even see the bulk of our freight not selling off here. These are the ones we farmed over a few stream sessions. Our aggressive undercut scans have definitely been paying off. We've honestly sunk hours and hours into just scanning and reposting the auction house. Things like the tancho silk sash, scimitars of platoon, fingerless gloves, and if you look at this, we even sold the shadow hide scalper. and for a good market value, too. That's three major items just on one page. So, let's go ahead and clear the first 100 ms and enjoy that sweet sound of the coins going into our traveler's backpack.",
+        "canonical_file": "goldbound/010 - Our Biggest Mailbox Opening Yet.. Will It Be Enough To Escape Redridge？ - Goldbound Episode 10.en-orig.txt",
+        "original_file": "goldbound/original-vtt/010 - Our Biggest Mailbox Opening Yet.. Will It Be Enough To Escape Redridge？ - Goldbound Episode 10.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E010-16",
+      "name": "Second token 410 k checkpoint",
+      "kind": "observation",
+      "status": "successful",
+      "zone": "Redridge Mountains",
+      "summary": "215–226 mails tally inconsistent; cash 410000 g,281000 token bought. Warband crafting poll and nextzone spin pending.",
+      "metrics": {
+        "cash_gold": 410000,
+        "token_gold": 281000
+      },
+      "source": {
+        "file": "010 - Our Biggest Mailbox Opening Yet.. Will It Be Enough To Escape Redridge？ - Goldbound Episode 10.en-orig.vtt",
+        "cleaned_file": "goldbound/010 - Our Biggest Mailbox Opening Yet.. Will It Be Enough To Escape Redridge？ - Goldbound Episode 10.en-orig.txt",
+        "paragraph_start": 12,
+        "paragraph_end": 15,
+        "start_time": "00:13:41.040",
+        "quote": "All right. And right off the bat, you can already see we've got 215 auctions sold. So, it's going to take three full opening cycles to get through. And straight away, we're seeing some of our familiar staples. Some handfuls of trade goods, some signature freight knots, and some of the lower ticket transmogs. Things in the 100 300 gold range. And you seeing this? That's right, travelers. We actually sold our brood mother carrapase, the very one we looted back in episode 2. Just sold for 117,000 gold. That makes our single biggest sale so far. Honestly, this drop is so huge that it makes the null war harness below it look a little small by comparison. And look at this. Another big one, the iron patch blade. This was our BOE world drop blue. Gone for a tidy sum and followed by a few copper bolts. If I'm adding things up right, we might just be on pace to afford a token today. The question might now be, how many? But as we keep going, the mailbox is packed with more trade goods, and we even see the bulk of our freight not selling off here. These are the ones we farmed over a few stream sessions. Our aggressive undercut scans have definitely been paying off. We've honestly sunk hours and hours into just scanning and reposting the auction house. Things like the tancho silk sash, scimitars of platoon, fingerless gloves, and if you look at this, we even sold the shadow hide scalper. and for a good market value, too. That's three major items just on one page. So, let's go ahead and clear the first 100 ms and enjoy that sweet sound of the coins going into our traveler's backpack.",
+        "canonical_file": "goldbound/010 - Our Biggest Mailbox Opening Yet.. Will It Be Enough To Escape Redridge？ - Goldbound Episode 10.en-orig.txt",
+        "original_file": "goldbound/original-vtt/010 - Our Biggest Mailbox Opening Yet.. Will It Be Enough To Escape Redridge？ - Goldbound Episode 10.en-orig.vtt"
+      }
+    }
+  ]
+}

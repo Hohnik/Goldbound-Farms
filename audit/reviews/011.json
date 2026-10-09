@@ -1,0 +1,542 @@
+{
+  "source_id": 11,
+  "source_file": "011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.vtt",
+  "cleaned_file": "goldbound/011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.txt",
+  "full_text_reviewed": true,
+  "paragraph_count": 25,
+  "records": [
+    {
+      "id": "E011-01",
+      "name": "Skill 1 fragment gathering test",
+      "kind": "experiment",
+      "status": "confirmed",
+      "zone": "Burning Steppes",
+      "summary": "High-level nodes gatherable at skill 1 but give fragments 10→1 material until skill threshold; Mithril 225, herbs up to 275.",
+      "metrics": {
+        "fragments_per_material": 10,
+        "Mithril_full_yield_skill": 225
+      },
+      "source": {
+        "file": "011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.vtt",
+        "cleaned_file": "goldbound/011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.txt",
+        "paragraph_start": 3,
+        "paragraph_end": 4,
+        "start_time": "00:02:22.480",
+        "quote": "And in true goldbound fashion, with a nod to those dual farming segments we had back in Westfall and Redidge, let's take a look at what mining and herbalism has to offer here in the steps. Now, the first question on my mind of course is with the jump from copper and peace bloom to near level 60 nodes here in the burning steps, can we even gather them? Well, apparently thanks to retail scaling, it turns out we actually can. So, at level one of 300 in Classic Gathering, you can actually get any node, whether it's herbalism or mining. The catch is you'll only pull small fragments. You have to combine 10 of those small fragments to get a single herb or a single ore. Once you reach the proper gathering level for that herb or that ore, it's business as usual. So, it's a lower gold per hour option while you're leveling up your skills, but never leave you strand. And for us, it means we can actually start gathering here. So, let's break it down while we're flying the circuit. Luckily for us, there's no duplicate herb or ore nodes here in this zone that we've already had. And on the mining front, the majority of the ore nodes here are myithil ore. And let me tell you, it's plentiful. Honestly, the node density in this zone is crazy. And you only need 225 mining to start pulling full ores, so it's pretty accessible. Alongside the myth or nodes, we do find a small amount of true silver ore and even a small amount of gold ore. And all of these carry hefty price tags. Myithil is staying around 8 to nine gold each. True silver around four gold and gold ore is a tiny 12 gold each. There is also thorium ore here in the steps. And apparently there are thorium nodes, but I haven't seen them over a few hours of farming. But few tricks up goldie sleeve and we can still obtain it in here. But we'll have to wait on that one for now.",
+        "canonical_file": "goldbound/011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.txt",
+        "original_file": "goldbound/original-vtt/011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E011-02",
+      "name": "Burning Steppes dual-gather hour",
+      "kind": "farm",
+      "status": "measured",
+      "zone": "Burning Steppes",
+      "summary": "388 Mithril/hour plus herbs/stone/otherores totals 6500 g tradegoods; full herb yields unstated.",
+      "metrics": {
+        "Mithril Ore": 388,
+        "reported_gold_per_hour": 6500
+      },
+      "source": {
+        "file": "011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.vtt",
+        "cleaned_file": "goldbound/011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.txt",
+        "paragraph_start": 3,
+        "paragraph_end": 4,
+        "start_time": "00:02:22.480",
+        "quote": "And in true goldbound fashion, with a nod to those dual farming segments we had back in Westfall and Redidge, let's take a look at what mining and herbalism has to offer here in the steps. Now, the first question on my mind of course is with the jump from copper and peace bloom to near level 60 nodes here in the burning steps, can we even gather them? Well, apparently thanks to retail scaling, it turns out we actually can. So, at level one of 300 in Classic Gathering, you can actually get any node, whether it's herbalism or mining. The catch is you'll only pull small fragments. You have to combine 10 of those small fragments to get a single herb or a single ore. Once you reach the proper gathering level for that herb or that ore, it's business as usual. So, it's a lower gold per hour option while you're leveling up your skills, but never leave you strand. And for us, it means we can actually start gathering here. So, let's break it down while we're flying the circuit. Luckily for us, there's no duplicate herb or ore nodes here in this zone that we've already had. And on the mining front, the majority of the ore nodes here are myithil ore. And let me tell you, it's plentiful. Honestly, the node density in this zone is crazy. And you only need 225 mining to start pulling full ores, so it's pretty accessible. Alongside the myth or nodes, we do find a small amount of true silver ore and even a small amount of gold ore. And all of these carry hefty price tags. Myithil is staying around 8 to nine gold each. True silver around four gold and gold ore is a tiny 12 gold each. There is also thorium ore here in the steps. And apparently there are thorium nodes, but I haven't seen them over a few hours of farming. But few tricks up goldie sleeve and we can still obtain it in here. But we'll have to wait on that one for now.",
+        "canonical_file": "goldbound/011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.txt",
+        "original_file": "goldbound/original-vtt/011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E011-03",
+      "name": "Burning Steppes mining-only hour",
+      "kind": "farm",
+      "status": "measured",
+      "zone": "Burning Steppes",
+      "summary": "704 Mithril,1040 Solid Stone,66 Truesilver,32 Gold;12730 g/h valuation with fast materials. Compared to dual-gather 6500 g/h.",
+      "metrics": {
+        "minutes": 60,
+        "Mithril Ore": 704,
+        "Solid Stone": 1040,
+        "Truesilver Ore": 66,
+        "Gold Ore": 32,
+        "reported_gold_per_hour": 12730
+      },
+      "source": {
+        "file": "011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.vtt",
+        "cleaned_file": "goldbound/011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.txt",
+        "paragraph_start": 4,
+        "paragraph_end": 4,
+        "start_time": "00:03:56.319",
+        "quote": "But even if the mining wasn't already stacked up with those prices, it gets better. Myithil nodes also cough up a huge quantity of solid stone. And on retail, solid stone is selling for four to five gold each. That's the same or more as copper or sold in our last zones. I'm seeing dollar signs just looking at these shiny purple rocks. And maybe it's true in WoW as it is in Lord of the Rings. And mythro shines the brightest when a gold goblin's near. With the ores out of the way, let's talk about the herbs. These scale all the way up to 275 skill to pick. And we're looking at dream foil, golden sands sam, and mountain silver sage. And apparently there's ultra rare black lotus spawns around here, but I have yet to come across one. And here's the issue. Even though these herbs require such a high level of skill up to 275 to gather, the market doesn't really reward them with much higher prices over silver leaf and peace bloom, dream foil only goes for about four gold. Golden sands about four gold, 50 silver, and mountain silver sage is about 5 gold. Now, of course, that's a slight bump over our old zone herbs, but not by much. And keep in mind when we compare herbs and mining, herb nodes only give us about 1 to three herbs per node compared to mining, it drops two to four mining ores per node, plus some solid stone. And with dual gathering, we only actually get 388 mther ore per hour. And the total trades could value is about 6,500 gold per hour. Now, don't get me wrong, that's already insane compared to Elanor Edridge, and it's blowing out our consistent gold per hour out of the water. But when we run the math on mining only without stopping for those pesky herb nodes, things are nuclear. We managed to get 704 mythal ore per hour, plus a whopping 1,040 solid stone per hour. At current prices, that's 6350 gold from Myithil and another 5,550 gold from solid stone. Add in 66 true silver ore, 300 gold, and 32 gold ore, 380 gold, and the total sits at 12,730 gold per hour, and this stuff actually sells pretty fast on retail. This is by far our fastest reliable gold per hour farm on the character. And it's absolutely insane. At this rate, with a token sitting at 280,000 gold, we could theoretically farm out a full token in just 22 hours of this loop. So, if you're following along at home, this is one farm that you may want to test out yourself. But before we leave in the dust, let's talk about the Burning Steps shuffle. Are there profession trainers here that can help us with new Myithil recipes? Well, unfortunately, no. There are no new profession trainers in this zone, but even without recipes, we can maybe smelt the myth ore, right? And smelting looks like it has a tidy markup. 8 to 9 gold per ore becomes 10 to 11 gold per bar. So theoretically, each craft would add two to three gold of value. And with it being simple AFK smelting, something I definitely want to try out. Luckily enough, I have thousands of myth ore from just testing out these farms, so we're ready to go.",
+        "canonical_file": "goldbound/011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.txt",
+        "original_file": "goldbound/original-vtt/011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E011-04",
+      "name": "Mithril smelting shuffle access",
+      "kind": "experiment",
+      "status": "blocked",
+      "zone": "Burning Steppes",
+      "summary": "Ore 8–9 g vsbars 10–11 g suggests margin, but lacks unlocked trainer recipe; no smelting performed.",
+      "metrics": {
+        "quoted_ore_gold_range": [
+          8,
+          9
+        ],
+        "quoted_bar_gold_range": [
+          10,
+          11
+        ]
+      },
+      "source": {
+        "file": "011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.vtt",
+        "cleaned_file": "goldbound/011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.txt",
+        "paragraph_start": 4,
+        "paragraph_end": 5,
+        "start_time": "00:03:56.319",
+        "quote": "But even if the mining wasn't already stacked up with those prices, it gets better. Myithil nodes also cough up a huge quantity of solid stone. And on retail, solid stone is selling for four to five gold each. That's the same or more as copper or sold in our last zones. I'm seeing dollar signs just looking at these shiny purple rocks. And maybe it's true in WoW as it is in Lord of the Rings. And mythro shines the brightest when a gold goblin's near. With the ores out of the way, let's talk about the herbs. These scale all the way up to 275 skill to pick. And we're looking at dream foil, golden sands sam, and mountain silver sage. And apparently there's ultra rare black lotus spawns around here, but I have yet to come across one. And here's the issue. Even though these herbs require such a high level of skill up to 275 to gather, the market doesn't really reward them with much higher prices over silver leaf and peace bloom, dream foil only goes for about four gold. Golden sands about four gold, 50 silver, and mountain silver sage is about 5 gold. Now, of course, that's a slight bump over our old zone herbs, but not by much. And keep in mind when we compare herbs and mining, herb nodes only give us about 1 to three herbs per node compared to mining, it drops two to four mining ores per node, plus some solid stone. And with dual gathering, we only actually get 388 mther ore per hour. And the total trades could value is about 6,500 gold per hour. Now, don't get me wrong, that's already insane compared to Elanor Edridge, and it's blowing out our consistent gold per hour out of the water. But when we run the math on mining only without stopping for those pesky herb nodes, things are nuclear. We managed to get 704 mythal ore per hour, plus a whopping 1,040 solid stone per hour. At current prices, that's 6350 gold from Myithil and another 5,550 gold from solid stone. Add in 66 true silver ore, 300 gold, and 32 gold ore, 380 gold, and the total sits at 12,730 gold per hour, and this stuff actually sells pretty fast on retail. This is by far our fastest reliable gold per hour farm on the character. And it's absolutely insane. At this rate, with a token sitting at 280,000 gold, we could theoretically farm out a full token in just 22 hours of this loop. So, if you're following along at home, this is one farm that you may want to test out yourself. But before we leave in the dust, let's talk about the Burning Steps shuffle. Are there profession trainers here that can help us with new Myithil recipes? Well, unfortunately, no. There are no new profession trainers in this zone, but even without recipes, we can maybe smelt the myth ore, right? And smelting looks like it has a tidy markup. 8 to 9 gold per ore becomes 10 to 11 gold per bar. So theoretically, each craft would add two to three gold of value. And with it being simple AFK smelting, something I definitely want to try out. Luckily enough, I have thousands of myth ore from just testing out these farms, so we're ready to go.",
+        "canonical_file": "goldbound/011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.txt",
+        "original_file": "goldbound/original-vtt/011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E011-05",
+      "name": "Molten Core Destroyer trash resets",
+      "kind": "farm",
+      "status": "measured",
+      "zone": "Burning Steppes",
+      "summary": "Optimizes boss-free route,6–8 Destroyers/run, Dark Iron nodes, lava death exit,2 m 10 s/run;10 resets~22 min.4.2 Blood and 100 ore are expected averages, not documented observed basket.9200 g/lockout hour versus 25000 g active-hour extrapolation.",
+      "metrics": {
+        "run_seconds": 130,
+        "runs_per_hour_cap": 10,
+        "active_minutes_approx": 22,
+        "expected_Blood of the Mountain": 4.2,
+        "expected_Dark Iron Ore": 100,
+        "expected_gold_per_lockout_hour": 9200,
+        "active_time_extrapolated_gold_per_hour": 25000
+      },
+      "source": {
+        "file": "011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.vtt",
+        "cleaned_file": "goldbound/011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.txt",
+        "paragraph_start": 6,
+        "paragraph_end": 10,
+        "start_time": "00:09:11.519",
+        "quote": "But travelers, it's time for our first true instanced gold farm. And the one we're after today has both gold per hour potential and undeniable character glory behind it. Travelers, we're entering Molten Core. Now, Molten Core is a raid and not a dungeon. So, we need to be careful with how we farm in it. In World of Warcraft, a character can only fully clear a raid once per week, and then the raid would reset every single Tuesday in North America. But on Goldie, we tend to want to farm things more than once per week. And that reset only actually applies to the bosses. So, here's the trick. If you only kill the trash packs and no bosses and you leave the instant and reset, well, the entire trash resets, which means we can farm it almost indefinitely. So, the question is, what pre-boss trash is worth our time? Well, this one's kind of crazy.",
+        "canonical_file": "goldbound/011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.txt",
+        "original_file": "goldbound/original-vtt/011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E011-06",
+      "name": "Dark Iron mining Blood chance",
+      "kind": "experiment",
+      "status": "performed",
+      "zone": "Burning Steppes",
+      "summary": "Nodes included in trash route;12 gore,0.6%cited gem chance versus Destroyer 6%. Stated 36–48%atleastone arithmetic is linear approximation, not exact independent probability.",
+      "metrics": {
+        "quoted_ore_gold": 12,
+        "cited_node_blood_pct": 0.6,
+        "cited_destroyer_blood_pct": 6
+      },
+      "source": {
+        "file": "011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.vtt",
+        "cleaned_file": "goldbound/011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.txt",
+        "paragraph_start": 8,
+        "paragraph_end": 10,
+        "start_time": "00:10:51.760",
+        "quote": "Well, first off, there are dark iron ore deposits inside the raid. This is something we don't have in Burning Steps and is exclusive to some of these instances. These ore nodes can drop the blood in the mountain as a gem about 0.6% of the time. And the ore itself, dark iron ore, is used for the same legendary crafts and is worth 12 gold each. Definitely worth picking up. But even with those values, it's not the main target for bloods. The consistent drops for Blood of the Mountains come from one mob, the Molten Destroyer. Now, don't be fooled. These guys look like the Molten Giants, but they're a bit rare. They can only spawn in a few spots to the dungeon, but they are all in the entrance wing. And critically, you can pull and you can kill them without touching any bosses. And depending on the spawns, you'll see an average of 6 to eight destroyers per run. And they drop the blood of the mountain at a decent 6% drop rate. So based on 6 to8 pulls at 6%, that's a 36 to 48% chance of seeing a single blood every single clear. And since trash killing doesn't trigger the weekly lockout, we can reset the instance over and over to kill the molten destroyers time and time again.",
+        "canonical_file": "goldbound/011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.txt",
+        "original_file": "goldbound/original-vtt/011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E011-07",
+      "name": "Molten Core weekly full clear",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Burning Steppes",
+      "summary": "First full clear kills Garr, Baron, Ragnaros; no bindings. Hunts Nightslayer set and future Thunderfury, gets explorer-looking hat. Weekly capped, not infinite route.",
+      "metrics": {},
+      "source": {
+        "file": "011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.vtt",
+        "cleaned_file": "goldbound/011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.txt",
+        "paragraph_start": 11,
+        "paragraph_end": 13,
+        "start_time": "00:13:41.600",
+        "quote": "This place holds some truly legendary upgrades for Goldilock down the road. Did somebody say Thunderfury: Blessed Blade of the Windseeker? You see, every week before the Tuesday raid reset, we can actually do a full clear of Molten Core without hurting our other farms. This means we can kill every boss once per week. Now, the bosses aren't crazy gold since most of the things that drop here are soulbound epics. There are still some very cool long-term goals for Goldie. For one, we can theoretically farm a full rogue tier one set, Night Slayer Armor. Not only would that make us look extremely cool, but it's just a really cool set to own. And maybe one day we can have more than just a tier one set. And of course, the big prize for our Rogue, Thunderfury, Blessed Blade of the Windseeker. So, how do we get it? Well, there's two legendary reagent drops that are required for this item, the bindings of the Windseeker.",
+        "canonical_file": "goldbound/011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.txt",
+        "original_file": "goldbound/original-vtt/011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E011-08",
+      "name": "Thunderfury prerequisite planning",
+      "kind": "proposal",
+      "status": "blocked",
+      "zone": "Burning Steppes",
+      "summary": "Both 3%bindings, Silithus, smelting/trainers, alchemy 275, thorium/arcane crystals and other zones needed; not crafted.",
+      "metrics": {
+        "cited_binding_drop_pct": 3,
+        "alchemy_skill_required": 275
+      },
+      "source": {
+        "file": "011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.vtt",
+        "cleaned_file": "goldbound/011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.txt",
+        "paragraph_start": 12,
+        "paragraph_end": 13,
+        "start_time": "00:14:31.760",
+        "quote": "There's two bindings, a left and a right, and the right binding drops from Gar, a boss core, at about a 3% drop rate. It's also worth noting that Gar also drops some very handy recipes, including one for crafting 18 slot bags. That is if we can secure some fellcloth to farm it. And the left binding drops from Baron Getdon, also at a 3% drop rate. But the requirements don't end there. Once you have both bindings, a quest chain unlocks in Silith, which means Goldie will have to roll lucky on the zone spinner to get over to Kalumor and to get into Silus before Thunderfury can be forged. And beyond that, there's more mining and smelting requirements for the elementium bars. So, we're likely going to need both Seir Gorge and Duskwood. And then that's not it. Even there's even more roadblocks. We would need to get the reagent of enchanted elementium bars to actually craft thunder fury. This would require alchemy at 275 for the transmute. Plus, we would need an alchemy trainer who could train it to us, which means more zone unlocks would be required. We would also need a steady supply of thorium and arcane crystals. Now, thorium we can probably handle in the burning steps. Arcane crystals though will most certainly come from zones like Winter Spring or Unreal Crater where rich Thorium Bane spawns.",
+        "canonical_file": "goldbound/011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.txt",
+        "original_file": "goldbound/original-vtt/011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E011-09",
+      "name": "Flamescale Broodling Dark Whelpling hunt",
+      "kind": "farm",
+      "status": "successful",
+      "zone": "Burning Steppes",
+      "summary": "Whelp under 500 kills after~3 hours plus skins;58500–60000 gpet valuation, lucky session not repeatable hourly baseline.",
+      "metrics": {
+        "minutes_approx": 180,
+        "kills_upper_bound": 500,
+        "Dark Whelpling": 1,
+        "quoted_pet_gold": 58500,
+        "cited_drop_pct": 0.08
+      },
+      "source": {
+        "file": "011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.vtt",
+        "cleaned_file": "goldbound/011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.txt",
+        "paragraph_start": 13,
+        "paragraph_end": 15,
+        "start_time": "00:15:45.600",
+        "quote": "Let's just say the task list to unlock this legendary weapon is long. The only question is what comes first, the bindings or the zone unlocks? And for our first full clear, did we get lucky? First kill on Gar. Unfortunately, no bindings. Baron get also unfortunately not. But of course, we also get our first kill on Ragnaros, which is always a thrill. And with Mullen core providing some insane gold per hour farms and some exciting account upgrade paths. But Mullen core didn't leave us entirely empty-handed. Check out this new hat we snagged. It's giving real explorer vibes. I'm feeling a little more like Indiana locked now, which is kind of fitting with the dungeons coming up later in this episode. For now though, let's slip into a quieter corner of the map, the Welling Downs. You see, unlike Redidge, where the Welps vanished after Cataclysm, here in Burning Steps, there's still plenty of flame scale broodlings roaming around. And like most welps in WoW, these little guys carry a rare gem on their loot table, the dark welping. One of the several variants of welpplings in the game. And it's a dropped battle pet. That means if we loot it, we can sell it. The drop rate from the flame scale broodlings is pretty brutal at just 0.08%.",
+        "canonical_file": "goldbound/011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.txt",
+        "original_file": "goldbound/original-vtt/011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E011-10",
+      "name": "Broodling skinning skill and leather baseline",
+      "kind": "experiment",
+      "status": "performed",
+      "zone": "Burning Steppes",
+      "summary": "Starts skill 1 scraps→300 heavy/thickleather 8–9 g, Heavy Hide 140 g cited 3%;12000–14000 g/1250 kills is projected baseline not actual counted basket.",
+      "metrics": {
+        "target_skill": 300,
+        "projected_leather_gold_range": [
+          12000,
+          14000
+        ],
+        "projection_kills": 1250
+      },
+      "source": {
+        "file": "011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.vtt",
+        "cleaned_file": "goldbound/011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.txt",
+        "paragraph_start": 14,
+        "paragraph_end": 15,
+        "start_time": "00:16:53.600",
+        "quote": "So, while we're talking about rarity and value, we may as well get killing these guys and get to work. Well, for the low drop rate, the payoff does match the risk here. The dark welding sells for about 58,500 gold. Now, I'll admit this spot isn't the most efficient route to farm it. There's other zones with more densely populated welps that even have a higher drop rate, but we don't have those unlocked yet. So maybe one day we will farm those, but today is not that day. And while we're here, I'm also running skinning. The scaling works nicely here, so we can start at level one. So early on we'll get nothing but light leather scraps. But as the skill climbs to 300, we start pulling some valuable skins of heavy and thick leather. These are worth about 8 to 9 gold a piece and even the occasional heavy hide, which sells for about 140 gold each because of its rare 3% drop rate from skinning. Certainly not bad at all. Now, we'll want to stash away some of this leather just in case a juicy leather working recipe drops and we need to power level a warb band alt. But even without the pet dropping, the raw leather alone should net us about 12 to 14,000 gold over 1,250 kills, which is a pretty decent baseline, even if we go fully dry on the welp. Of course, though, the real prize is that welling.",
+        "canonical_file": "goldbound/011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.txt",
+        "original_file": "goldbound/original-vtt/011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.vtt"
+      },
+      "additional_values": [
+        {
+          "value": [
+            12000,
+            14000
+          ],
+          "label": "Projected batch",
+          "basis": "Projected leather value over 1,250 kills; no measured time for that batch.",
+          "unit": "g",
+          "kind": "value",
+          "source_refs": [
+            {
+              "episode": 11,
+              "paragraph_start": 14,
+              "paragraph_end": 14,
+              "start_time": "00:16:53.600"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E011-11",
+      "name": "Blackrock Depths front-ring/coffer route",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Burning Steppes",
+      "summary": "Clears front two rings, entrancevendor, deeper reliccoffers, molemachine exit; bag constraints require banking every 1–2 runs. Baby Booties 5%cited,12000 gmarket/5000 saleaverage; no bootie count stated.",
+      "metrics": {},
+      "source": {
+        "file": "011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.vtt",
+        "cleaned_file": "goldbound/011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.txt",
+        "paragraph_start": 15,
+        "paragraph_end": 18,
+        "start_time": "00:17:59.440",
+        "quote": "And look at this. Under 500 kills. Actually, insane. We got it way under the drop rate and only after about 3 hours of grinding, which makes it a pretty decent gold per hour considering it's a 60,000 gold drop and we got some other along the way. Honestly, at this point, I'm tempted to farm a second one just to keep it for our own collection. But for now, with luck seemly on our side and the looted item value really starting to pick up, it's time to push deeper into the steps to really kick it into high gear. So, let's head back into the mountain. And where in the mountain are we going? Well, to the deepest depths of Black Rock Depths. And this dungeon has a special place in Wild's lore. It's the heart of Black Rockck Mountain, ruled by the Dark Iron Dwarves. But they're not the only ones lurking here. Several of Ragnaros's minions have carved out their own corners. And after all, this is the pathway into Molten Core. But amidst the sprawling underground city, there's loot to be found. Primarily transmog, but some chances at some very rare transmog in here indeed. Now, about the run itself, there are dozens of different ways to farm black rock depths. Almost all of them are more efficient than what I'm doing today because our biggest bottleneck here is bag space. Right now, we're still stuck with our 14 and 16 slot bags, which means we can't even do a full clear without running out of space and being forced to vendor halfway through. Luckily, the first atrium of the dungeon has a convenient loop. And right by the entrance, there's a vendor.",
+        "canonical_file": "goldbound/011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.txt",
+        "original_file": "goldbound/original-vtt/011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E011-12",
+      "name": "BRD Hurricane epic and lockbox collection",
+      "kind": "farm",
+      "status": "successful",
+      "zone": "Burning Steppes",
+      "summary": "Hurricane BOE epic obtained~60000 g; Skullflame target not dropped. Lockboxes banked for future batch; no timed rate.",
+      "metrics": {
+        "quoted_Hurricane_gold": 60000
+      },
+      "source": {
+        "file": "011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.vtt",
+        "cleaned_file": "goldbound/011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.txt",
+        "paragraph_start": 18,
+        "paragraph_end": 18,
+        "start_time": "00:21:07.200",
+        "quote": "And the results, well, this week we didn't pull the Skull Flame Shield, but we did score our first world drop epic, Hurricane. This is a classic weapon worth around 60,000 gold, and that's a win in my books for sure. and hopefully the start of many BOE epics for Goldie. We also got a few odds and ends for transmog that have rounded our roster, which is always good to see. But we're also trying to stockpile some lock boxes, and I'm planning to wait until we filled an entire bank tab before opening them all at once. But we're making a good start here. And speaking of lock boxes, I've heard rumors of an old pickpocketing farm right here in the Burning Steps. And this one's an interesting little farm. The box we're after is called the heavy junk box, and you can pickpocket these from humanoids around level 50 to 60. And by the Black Rockck stronghold, there are massive packs of mobs just waiting to have their pockets lightened. And the drop rate is actually quite high. And one full pull out here, that's us like three to four boxes. Now, is there anything valuable inside? As rogues, we're lucky and we can actually use lockpicking to open them. When I started cracking into them, the loot tables look kind of unimpressive, and Wow had mostly lists junk and a star ruby here and there. But there are rumors. Apparently, there's a chance, however small, for T-Boo's Blazing Long Sword to drop from these and perhaps some rare recipes as well.",
+        "canonical_file": "goldbound/011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.txt",
+        "original_file": "goldbound/original-vtt/011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E011-13",
+      "name": "Blackrock Stronghold Heavy Junkbox pickpocket",
+      "kind": "farm",
+      "status": "measured",
+      "zone": "Burning Steppes",
+      "summary": "100 boxes tested; Thorium Boots recipe from first, remaining 99 junk.3–4 boxes per full pull cited. Teebu rumor unconfirmed.",
+      "metrics": {
+        "Heavy Junkbox": 100,
+        "recipe_drops": 1,
+        "boxes_per_pull_range": [
+          3,
+          4
+        ]
+      },
+      "source": {
+        "file": "011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.vtt",
+        "cleaned_file": "goldbound/011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.txt",
+        "paragraph_start": 18,
+        "paragraph_end": 20,
+        "start_time": "00:21:07.200",
+        "quote": "And the results, well, this week we didn't pull the Skull Flame Shield, but we did score our first world drop epic, Hurricane. This is a classic weapon worth around 60,000 gold, and that's a win in my books for sure. and hopefully the start of many BOE epics for Goldie. We also got a few odds and ends for transmog that have rounded our roster, which is always good to see. But we're also trying to stockpile some lock boxes, and I'm planning to wait until we filled an entire bank tab before opening them all at once. But we're making a good start here. And speaking of lock boxes, I've heard rumors of an old pickpocketing farm right here in the Burning Steps. And this one's an interesting little farm. The box we're after is called the heavy junk box, and you can pickpocket these from humanoids around level 50 to 60. And by the Black Rockck stronghold, there are massive packs of mobs just waiting to have their pockets lightened. And the drop rate is actually quite high. And one full pull out here, that's us like three to four boxes. Now, is there anything valuable inside? As rogues, we're lucky and we can actually use lockpicking to open them. When I started cracking into them, the loot tables look kind of unimpressive, and Wow had mostly lists junk and a star ruby here and there. But there are rumors. Apparently, there's a chance, however small, for T-Boo's Blazing Long Sword to drop from these and perhaps some rare recipes as well.",
+        "canonical_file": "goldbound/011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.txt",
+        "original_file": "goldbound/original-vtt/011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E011-14",
+      "name": "Heavy Junkbox reputation resale",
+      "kind": "proposal",
+      "status": "not_performed_here",
+      "zone": "Burning Steppes",
+      "summary": "Direct trade/COD sale forbidden challenge;200–1000 g perbox rumors and~1405 reputation requirement, not actual earnings.",
+      "metrics": {
+        "rumored_box_gold_range": [
+          200,
+          1000
+        ]
+      },
+      "source": {
+        "file": "011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.vtt",
+        "cleaned_file": "goldbound/011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.txt",
+        "paragraph_start": 19,
+        "paragraph_end": 20,
+        "start_time": "00:22:18.320",
+        "quote": "And I did a little bit of testing and I actually got the recipe for the Thorium boots, which means since Thorium boots showed up, even though they're not on the Wowhead loot tables, maybe the Whisperers have some truth. And maybe there's a shot at T-Boo's Blazing Long Sword from these, which right now sells wrote 600,000 gold. So, in true classic Goldbound fashion, I farmed up 100 boxes to test it properly. And you really can't make this up. After that first recipe of Thor and Boots, the next 99 were nothing but junk. So unless you're a massochist, you're not cracking these for a profit very consistently. But here's the thing. Heavy junk boxes are actually valuable even unopened. There user Raven hold reputation. One of the more painful grinds required for the insane in the membrane achievement. It takes 1,45 junk boxes to hit exalted with this reputation. And because they can't be sold in the auction house, people negotiate in trade chat or in forums for cash on delivery mail deals.",
+        "canonical_file": "goldbound/011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.txt",
+        "original_file": "goldbound/original-vtt/011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E011-15",
+      "name": "Lower Blackrock Spire four-hour farm",
+      "kind": "farm",
+      "status": "measured",
+      "zone": "Burning Steppes",
+      "summary": "4 hours 68 Heavy Scorpid Scales,100 Thick Leather,120 Ironweb Silk, over 2000 Runecloth, over 1000 rawgold+500 vendor;15000 tradegoods~3700 g/h.200 plus transmogs~220000 gtheoretical separate.",
+      "metrics": {
+        "minutes": 240,
+        "Heavy Scorpid Scale": 68,
+        "Thick Leather": 100,
+        "Ironweb Spider Silk": 120,
+        "Runecloth_lower_bound": 2000,
+        "raw_gold_lower_bound": 1000,
+        "vendor_gold_approx": 500,
+        "tradegoods_appraisal_gold": 15000,
+        "reported_material_gold_per_hour": 3700,
+        "transmog_appraisal_gold": 220000
+      },
+      "source": {
+        "file": "011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.vtt",
+        "cleaned_file": "goldbound/011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.txt",
+        "paragraph_start": 20,
+        "paragraph_end": 22,
+        "start_time": "00:23:11.760",
+        "quote": "Rumor has it that some players will pay up to 200 to a,000 gold per box, and some will even sell a full 1,45 in a bundle. I saw one Reddit user advertising for 1 million gold for 1,4005 junk boxes, including a transfer to their server to give it to them, which is wild. But obviously for Goldilocks, this one is off limits. We can't trade with other players. But for you rogues out there, this is a sneaky little niche that's worth farming. Now, let's talk about what's nearby because we're getting closer and closer to our next zone unlock. And right now, our options are still Daro, Westfall, Duskwood, and Swamp of Soros. But Burning Steps now opens a new door through the Black Rockck Mountain, and we can access the Searing Gorge. And the Searing Gorge isn't just a new farming zone. It unlocks the rest of Black Rockck Mountain's raids. That alone would have some massive upgrades for the series. And speaking of upgrades, you might remember we ran a members poll on Warband alts, and the vote was pretty landslide. So, if we unlock a new starting zone like Dun row, we'll spin up a warb band alt strictly for crafting. That way, all those rare recipes we're finding can actually be used on the account. And on the topic of alts, another quick update here. If you've been watching closely, you've probably noticed it's been a bit of a cat and mouse game with me trying to hide Goldie's ever evolving in-game name through my videos and streams. And over the last couple weeks, the leaks have been going non-stop. And it's basically been a name change every single day. So, I'm changing the strategy. And from here on out, Goldie will only sell trade goods. And all the transmog gets moved to a secret auction house alt, and I'll still find all the items through the warband bank, which means Goldilocked is officially actually named Goldilocked again in game. And it feels good. And it goes without saying, this transmog alt doesn't provide us any competitive advantage or simplify things other than avoiding auction house snipes from viewers. Also, on the topic of transmog strategy, we're upping our auction threshold. See, right now we have over 800 transmong items on hand. And posting every little 200 gold transmog item takes forever. So from here on out, if it's not worth more than 500 or 700 gold, it'll probably stay in the bank to get vendored or disenchanted with only the bigger transmog items getting posted, which frees up some time for more repost scans and also just more farming out in the dungeons. And I think that's enough housekeeping for today. So let's jump back into the action. Our next stop, Lower Black Rock Spire. Now, classic players may know both upper and lower black rock spire, but retail players know a very different version of upper black rock spire. It was reworked in Warlords of Drainer, but the lower portion of Black Rock Spire is as it was in classic, untouched, and it still has the old loot tables, and they're juicy.",
+        "canonical_file": "goldbound/011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.txt",
+        "original_file": "goldbound/original-vtt/011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E011-16",
+      "name": "Bannok Grimaxe Arcanite Reaper plans",
+      "kind": "farm",
+      "status": "successful",
+      "zone": "Burning Steppes",
+      "summary": "First LBRSrun obtains 20–30 kplans;10%cited.",
+      "metrics": {
+        "quoted_plan_gold_range": [
+          20000,
+          30000
+        ],
+        "cited_drop_pct": 10
+      },
+      "source": {
+        "file": "011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.vtt",
+        "cleaned_file": "goldbound/011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.txt",
+        "paragraph_start": 21,
+        "paragraph_end": 21,
+        "start_time": "00:25:44.960",
+        "quote": "Much like Black Rockck Depths, our bags are a bit of a limiting factor here, but the loot is worth a chance. And we're hunting the usual dungeon epics again, skull flame shield, but there are two blacksmithing recipes that steal the spotlight here. And both are Arcanite weapon plans. The first one comes from Banic Grimax, a rare spawn who can drop the plans for the Arcanite Reaper. And this one is about a 10% drop rate and worth 20 to 30k gold. And luckily for us, we actually managed to pull this one on our first run. Now, the final boss, Overlord Warfac, can drop the plans for the Arcanite Champion. This one is a whole lot rare at 0.2%. Which is a bit of a pipe dream, but if it drops, it is worth about 800,000 to 1 million gold, which is absolutely insane. We hope for this one, but so far no dice. But it doesn't stop there. This dungeon is secretly trade good gold mine. On every run through here, we take out these scorpids, which can be skinned for heavy scorpid scales. These are worth about 50 gold each. And in about 4 hours, I actually pulled 68 of them worth around 3,000 gold, plus another 100 thick leather worth about 800 gold.",
+        "canonical_file": "goldbound/011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.txt",
+        "original_file": "goldbound/original-vtt/011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E011-17",
+      "name": "Overlord Wyrmthalak Arcanite Champion plans",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Burning Steppes",
+      "summary": "No drop;0.2%cited,800 k–1 mvaluation target.",
+      "metrics": {
+        "cited_drop_pct": 0.2,
+        "quoted_plan_gold_range": [
+          800000,
+          1000000
+        ]
+      },
+      "source": {
+        "file": "011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.vtt",
+        "cleaned_file": "goldbound/011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.txt",
+        "paragraph_start": 21,
+        "paragraph_end": 21,
+        "start_time": "00:25:44.960",
+        "quote": "Much like Black Rockck Depths, our bags are a bit of a limiting factor here, but the loot is worth a chance. And we're hunting the usual dungeon epics again, skull flame shield, but there are two blacksmithing recipes that steal the spotlight here. And both are Arcanite weapon plans. The first one comes from Banic Grimax, a rare spawn who can drop the plans for the Arcanite Reaper. And this one is about a 10% drop rate and worth 20 to 30k gold. And luckily for us, we actually managed to pull this one on our first run. Now, the final boss, Overlord Warfac, can drop the plans for the Arcanite Champion. This one is a whole lot rare at 0.2%. Which is a bit of a pipe dream, but if it drops, it is worth about 800,000 to 1 million gold, which is absolutely insane. We hope for this one, but so far no dice. But it doesn't stop there. This dungeon is secretly trade good gold mine. On every run through here, we take out these scorpids, which can be skinned for heavy scorpid scales. These are worth about 50 gold each. And in about 4 hours, I actually pulled 68 of them worth around 3,000 gold, plus another 100 thick leather worth about 800 gold.",
+        "canonical_file": "goldbound/011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.txt",
+        "original_file": "goldbound/original-vtt/011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E011-18",
+      "name": "LBRS Arcane Bomb schematic discovery",
+      "kind": "farm",
+      "status": "successful",
+      "zone": "Burning Steppes",
+      "summary": "Schematic among four-hour loot valued 50000 g.",
+      "metrics": {
+        "quoted_schematic_gold": 50000
+      },
+      "source": {
+        "file": "011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.vtt",
+        "cleaned_file": "goldbound/011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.txt",
+        "paragraph_start": 22,
+        "paragraph_end": 22,
+        "start_time": "00:26:51.279",
+        "quote": "And then the packs of spiders can also drop various silks. The real one we're looking for is the iron web silk. This is worth 50 to 150 gold each. And we actually grabbed 120 of them, worth 7.2k gold total. And in our 4 hours of farming, we got over 1,000 in gold looted, plus vendored grays and greens, adding another 500 gold on top of that. And just the rune cloth here, over 2,000 worth about 3,000 gold. So in total, we actually got about 15,000 gold in trade goods only, roughly 3.7K per hour. And these are fast selling materials. That's better than the element shuffle. And that's before we even count in the transmog. Across 200 plus pieces that we pulled over four hours, we averaged 220,000 gold in item value from this dungeon, including the schematic for the arcane bomb worth about 50,000 gold on its own, which really isn't bad for 4 hours, especially considering how inefficiently we're farming this. A fully speed seted druid could do this 10 times every hour, whereas we're getting a good three to four runs per hour if we're lucky. And while most of the transmog will sit on the shelves, some pieces are for us. I keep seeing travelers gear dropping. And since our intro is greetings travelers, I've been collecting the set and right now we're just missing the travelers jerking. So soon, Goldie will be fully decked out in the Traveler set. Also, as a fun little bonus, Quartermaster Ziggus dropped the war pup. It's not worth much, and it's not even worth posting on the auction house. So, I just learned this one and fittingly named it Stella. So, lower Black Rock Spire, a very solid dungeon to farm. value is definitely more than worth it to fill out the trade good shelves and the transmog shelves. But after all that dungeon grinding, it's time to get back to our roots. Let's go fishing. Now, the burning stuff doesn't have much to offer for fishing, but Molten Core itself actually has a pretty cool fishing loot table. In the lava in this dungeon, you get a lot of random stuff, random grays and coal, but you can actually pull epic items from fishing here. Sadly, they are soulbound, which means we can't sell them. But technically, there's even a 0.03% 03% chance to fish up a blood of the mountain, that rare gem that sells for over 2,000 gold. Now, of course, in Molton Core, there's easier ways to farm this, so don't hold your breath on it, but hey, it's there. And fishing is always a great excuse to scout through his own. And after a tough day on the lava seas, it's time for a quick detour through Azeroth's favorite autumn ritual, Brewfest. So, Goldie can finally take a load off and sample a few fresh pints with the Brewfest Revelers. I made sure to socialize, try out all the different brews, and make sure we even sampled one from each different brewery.",
+        "canonical_file": "goldbound/011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.txt",
+        "original_file": "goldbound/original-vtt/011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E011-19",
+      "name": "Quartermaster Zigris Worg Pup",
+      "kind": "farm",
+      "status": "successful",
+      "zone": "Burning Steppes",
+      "summary": "Pet drops, learned rather than sold because low value; Traveler gear collection ongoing.",
+      "metrics": {},
+      "source": {
+        "file": "011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.vtt",
+        "cleaned_file": "goldbound/011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.txt",
+        "paragraph_start": 22,
+        "paragraph_end": 22,
+        "start_time": "00:26:51.279",
+        "quote": "And then the packs of spiders can also drop various silks. The real one we're looking for is the iron web silk. This is worth 50 to 150 gold each. And we actually grabbed 120 of them, worth 7.2k gold total. And in our 4 hours of farming, we got over 1,000 in gold looted, plus vendored grays and greens, adding another 500 gold on top of that. And just the rune cloth here, over 2,000 worth about 3,000 gold. So in total, we actually got about 15,000 gold in trade goods only, roughly 3.7K per hour. And these are fast selling materials. That's better than the element shuffle. And that's before we even count in the transmog. Across 200 plus pieces that we pulled over four hours, we averaged 220,000 gold in item value from this dungeon, including the schematic for the arcane bomb worth about 50,000 gold on its own, which really isn't bad for 4 hours, especially considering how inefficiently we're farming this. A fully speed seted druid could do this 10 times every hour, whereas we're getting a good three to four runs per hour if we're lucky. And while most of the transmog will sit on the shelves, some pieces are for us. I keep seeing travelers gear dropping. And since our intro is greetings travelers, I've been collecting the set and right now we're just missing the travelers jerking. So soon, Goldie will be fully decked out in the Traveler set. Also, as a fun little bonus, Quartermaster Ziggus dropped the war pup. It's not worth much, and it's not even worth posting on the auction house. So, I just learned this one and fittingly named it Stella. So, lower Black Rock Spire, a very solid dungeon to farm. value is definitely more than worth it to fill out the trade good shelves and the transmog shelves. But after all that dungeon grinding, it's time to get back to our roots. Let's go fishing. Now, the burning stuff doesn't have much to offer for fishing, but Molten Core itself actually has a pretty cool fishing loot table. In the lava in this dungeon, you get a lot of random stuff, random grays and coal, but you can actually pull epic items from fishing here. Sadly, they are soulbound, which means we can't sell them. But technically, there's even a 0.03% 03% chance to fish up a blood of the mountain, that rare gem that sells for over 2,000 gold. Now, of course, in Molton Core, there's easier ways to farm this, so don't hold your breath on it, but hey, it's there. And fishing is always a great excuse to scout through his own. And after a tough day on the lava seas, it's time for a quick detour through Azeroth's favorite autumn ritual, Brewfest. So, Goldie can finally take a load off and sample a few fresh pints with the Brewfest Revelers. I made sure to socialize, try out all the different brews, and make sure we even sampled one from each different brewery.",
+        "canonical_file": "goldbound/011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.txt",
+        "original_file": "goldbound/original-vtt/011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E011-20",
+      "name": "Molten Core lava fishing",
+      "kind": "experiment",
+      "status": "performed",
+      "zone": "Burning Steppes",
+      "summary": "Tests gray/coal/soulboundepic table; Blood 0.03%cited theoretical chance, none confirmed. No viable hourly result.",
+      "metrics": {
+        "cited_blood_fishing_pct": 0.03
+      },
+      "source": {
+        "file": "011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.vtt",
+        "cleaned_file": "goldbound/011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.txt",
+        "paragraph_start": 22,
+        "paragraph_end": 22,
+        "start_time": "00:26:51.279",
+        "quote": "And then the packs of spiders can also drop various silks. The real one we're looking for is the iron web silk. This is worth 50 to 150 gold each. And we actually grabbed 120 of them, worth 7.2k gold total. And in our 4 hours of farming, we got over 1,000 in gold looted, plus vendored grays and greens, adding another 500 gold on top of that. And just the rune cloth here, over 2,000 worth about 3,000 gold. So in total, we actually got about 15,000 gold in trade goods only, roughly 3.7K per hour. And these are fast selling materials. That's better than the element shuffle. And that's before we even count in the transmog. Across 200 plus pieces that we pulled over four hours, we averaged 220,000 gold in item value from this dungeon, including the schematic for the arcane bomb worth about 50,000 gold on its own, which really isn't bad for 4 hours, especially considering how inefficiently we're farming this. A fully speed seted druid could do this 10 times every hour, whereas we're getting a good three to four runs per hour if we're lucky. And while most of the transmog will sit on the shelves, some pieces are for us. I keep seeing travelers gear dropping. And since our intro is greetings travelers, I've been collecting the set and right now we're just missing the travelers jerking. So soon, Goldie will be fully decked out in the Traveler set. Also, as a fun little bonus, Quartermaster Ziggus dropped the war pup. It's not worth much, and it's not even worth posting on the auction house. So, I just learned this one and fittingly named it Stella. So, lower Black Rock Spire, a very solid dungeon to farm. value is definitely more than worth it to fill out the trade good shelves and the transmog shelves. But after all that dungeon grinding, it's time to get back to our roots. Let's go fishing. Now, the burning stuff doesn't have much to offer for fishing, but Molten Core itself actually has a pretty cool fishing loot table. In the lava in this dungeon, you get a lot of random stuff, random grays and coal, but you can actually pull epic items from fishing here. Sadly, they are soulbound, which means we can't sell them. But technically, there's even a 0.03% 03% chance to fish up a blood of the mountain, that rare gem that sells for over 2,000 gold. Now, of course, in Molton Core, there's easier ways to farm this, so don't hold your breath on it, but hey, it's there. And fishing is always a great excuse to scout through his own. And after a tough day on the lava seas, it's time for a quick detour through Azeroth's favorite autumn ritual, Brewfest. So, Goldie can finally take a load off and sample a few fresh pints with the Brewfest Revelers. I made sure to socialize, try out all the different brews, and make sure we even sampled one from each different brewery.",
+        "canonical_file": "goldbound/011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.txt",
+        "original_file": "goldbound/original-vtt/011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E011-21",
+      "name": "Brewfest sampling visit",
+      "kind": "experiment",
+      "status": "performed",
+      "zone": "Burning Steppes",
+      "summary": "Samples brewery beers; no income demonstrated.",
+      "metrics": {},
+      "source": {
+        "file": "011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.vtt",
+        "cleaned_file": "goldbound/011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.txt",
+        "paragraph_start": 22,
+        "paragraph_end": 22,
+        "start_time": "00:26:51.279",
+        "quote": "And then the packs of spiders can also drop various silks. The real one we're looking for is the iron web silk. This is worth 50 to 150 gold each. And we actually grabbed 120 of them, worth 7.2k gold total. And in our 4 hours of farming, we got over 1,000 in gold looted, plus vendored grays and greens, adding another 500 gold on top of that. And just the rune cloth here, over 2,000 worth about 3,000 gold. So in total, we actually got about 15,000 gold in trade goods only, roughly 3.7K per hour. And these are fast selling materials. That's better than the element shuffle. And that's before we even count in the transmog. Across 200 plus pieces that we pulled over four hours, we averaged 220,000 gold in item value from this dungeon, including the schematic for the arcane bomb worth about 50,000 gold on its own, which really isn't bad for 4 hours, especially considering how inefficiently we're farming this. A fully speed seted druid could do this 10 times every hour, whereas we're getting a good three to four runs per hour if we're lucky. And while most of the transmog will sit on the shelves, some pieces are for us. I keep seeing travelers gear dropping. And since our intro is greetings travelers, I've been collecting the set and right now we're just missing the travelers jerking. So soon, Goldie will be fully decked out in the Traveler set. Also, as a fun little bonus, Quartermaster Ziggus dropped the war pup. It's not worth much, and it's not even worth posting on the auction house. So, I just learned this one and fittingly named it Stella. So, lower Black Rock Spire, a very solid dungeon to farm. value is definitely more than worth it to fill out the trade good shelves and the transmog shelves. But after all that dungeon grinding, it's time to get back to our roots. Let's go fishing. Now, the burning stuff doesn't have much to offer for fishing, but Molten Core itself actually has a pretty cool fishing loot table. In the lava in this dungeon, you get a lot of random stuff, random grays and coal, but you can actually pull epic items from fishing here. Sadly, they are soulbound, which means we can't sell them. But technically, there's even a 0.03% 03% chance to fish up a blood of the mountain, that rare gem that sells for over 2,000 gold. Now, of course, in Molton Core, there's easier ways to farm this, so don't hold your breath on it, but hey, it's there. And fishing is always a great excuse to scout through his own. And after a tough day on the lava seas, it's time for a quick detour through Azeroth's favorite autumn ritual, Brewfest. So, Goldie can finally take a load off and sample a few fresh pints with the Brewfest Revelers. I made sure to socialize, try out all the different brews, and make sure we even sampled one from each different brewery.",
+        "canonical_file": "goldbound/011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.txt",
+        "original_file": "goldbound/original-vtt/011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E011-22",
+      "name": "Mining Blood and Blackvenom realized sales",
+      "kind": "sales",
+      "status": "sales_confirmed",
+      "zone": "Burning Steppes",
+      "summary": "Mithril, stone, blood, Scimitar sell; Blackvenom Blade sells at unstated market value via private AHalt.246000 cash beforealt,296000 tokensecured, total 310 played hours.",
+      "metrics": {
+        "pre_alt_cash_gold": 246000,
+        "token_gold": 296000,
+        "played_hours": 310
+      },
+      "source": {
+        "file": "011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.vtt",
+        "cleaned_file": "goldbound/011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.txt",
+        "paragraph_start": 23,
+        "paragraph_end": 25,
+        "start_time": "00:29:22.640",
+        "quote": "Spirits are refreshed. Perfect. Now, travelers, it's my favorite time of the week. Time for the mailbox opening. So, right now, WoW tokens are sitting at 296,000 gold. We'll keep that number in mind while we open the sales. And over on Goldie here, the first bundle of things we can actually see is looking pretty strong. A lot of value coming from our consistent ore farms. We can see some Myithil and some solid stones moving and a few of our copper bolts are also clearing out some of the old stock. And scrolling down, some more one-off trade goods and even some blood of the mountains moving for a few thousand each. And would you look at this? One of our scimitars of a tune sold without a fire sale discount. That's excellent and it should probably make a dent. But is it enough? Only one way to find out.",
+        "canonical_file": "goldbound/011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.txt",
+        "original_file": "goldbound/original-vtt/011 - This Mountain Might Change EVERYTHING - Goldbound Episode 11.en-orig.vtt"
+      }
+    }
+  ]
+}

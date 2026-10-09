@@ -1,0 +1,915 @@
+{
+  "source_id": 32,
+  "source_file": "032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.vtt",
+  "cleaned_file": "goldbound/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.txt",
+  "full_text_reviewed": true,
+  "paragraph_count": 38,
+  "records": [
+    {
+      "id": "E032-01",
+      "name": "Zero-gold Vashjir seven-day challenge",
+      "kind": "experiment",
+      "status": "partially_successful",
+      "zone": "Vashjir",
+      "summary": "Badlandsaccidentaldiscoverforfeit;220 k Wetlandscashstockbanked. First 7 daysfailtoken, thenallowedtrainprofessionsbutcashmuststill Vashjir; eventualtoken succeeds.",
+      "metrics": {},
+      "source": {
+        "file": "032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.vtt",
+        "cleaned_file": "goldbound/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.txt",
+        "paragraph_start": 1,
+        "paragraph_end": 5,
+        "start_time": "00:00:00.000",
+        "quote": "Greetings travelers, and welcome back to Goldbound. And today, well, it's a little bit different because we're locked in the Vishear. That means zero gold, no previous auctions, and no leg up. We only have 7 days here to earn a WoW token to buy back our freedom. The current price for a WoW token, 260,000 gold. But you might be wondering, how did we get here? Because last episode, we were hitting the gas pedal and working through Wetlands, farming some welps or and rares. And we were getting pretty close to escaping with a current cash stack over 220,000 gold. And this week started out pretty well no differently, but one of our rules is that if we enter a currently locked zone, no matter how briefly or if it's by accident, Goldy has a forfeit.",
+        "canonical_file": "goldbound/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.txt",
+        "original_file": "goldbound/original-vtt/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E032-02",
+      "name": "KelpThar quest Sea Legs unlock",
+      "kind": "experiment",
+      "status": "successful",
+      "zone": "Vashjir",
+      "summary": "Completed Kelp'thar quest progression for Sea Legs (+60% swim speed) and the seahorse, quoted about 30% faster than Darkwater Skate. The earlier extracted 1,000 g quest figure could not be corroborated and is held out pending video verification.",
+      "metrics": {
+        "Sea Legs_speed_pct": 60,
+        "quoted_seahorse_speed_improvement_pct": 30
+      },
+      "source": {
+        "file": "032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.vtt",
+        "cleaned_file": "goldbound/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.txt",
+        "paragraph_start": 3,
+        "paragraph_end": 6,
+        "start_time": "00:01:53.560",
+        "quote": "And if you want to see where we're going next, make sure to stick around to the end of this video because there's a good chance if we lock in more than two zones can be completed today. So, all that's left to do now is enter the new watery home. And so Goldy goes from the wetlands to the wettest lands. Welcome to the Vashj'ir video. And so right off the bat, the only way into the zone is through the Stormwind ship quest. Unfortunately, or fortunately, depending on how you look at it, the cutscene is cut out, but here we are. Our first look at Vashj'ir in the Kelp'thar Forest talking to Erunak Stonespeaker. And I'm accepting the quest, which raises a point that in a lot of my recent zones I haven't really been doing the quests or the storyline too much, but here, well, we're going to get going on the storyline. Most of the time I don't bother and just get straight to farming because questing at max level in low-level zones isn't nearly as fun as making gold, but there have been a few occasions, like in Westfall, where gold farms and certain zone upgrades are obtained through the actual questline. And Vashj'ir is one of those zones because as you could tell right off the bat, we are just stuck swimming and at a very slow rate. Luckily for us, there are a few upgrades to underwater life throughout the quest chain here, the first of which comes pretty quickly in the questline in the form of sea legs.",
+        "canonical_file": "goldbound/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.txt",
+        "original_file": "goldbound/original-vtt/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.vtt"
+      },
+      "unverified_metrics": {
+        "early_raw_gold": {
+          "value": 1000,
+          "reason": "Not corroborated by the cited primary transcript passage; excluded from recorded results and earnings."
+        }
+      }
+    },
+    {
+      "id": "E032-03",
+      "name": "Legions Rest crab/eel skinning hour",
+      "kind": "farm",
+      "status": "measured",
+      "zone": "Vashjir",
+      "summary": "Splitclaw Skitterer+Slither Eelsbroadforcedspawn;332 Savage Leather 21 Deepsea Scales 8 Bloated Stomach 189 vendor 250 greensvendor, total 3700 g/h.",
+      "metrics": {
+        "minutes": 60,
+        "Savage Leather": 332,
+        "Deepsea Scale": 21,
+        "Strange Bloated Stomach": 8,
+        "vendor_trash_gold": 189,
+        "green_vendor_gold": 250,
+        "reported_gold_per_hour": 3700
+      },
+      "source": {
+        "file": "032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.vtt",
+        "cleaned_file": "goldbound/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.txt",
+        "paragraph_start": 7,
+        "paragraph_end": 9,
+        "start_time": "00:05:24.040",
+        "quote": "With Kelp'thar completed, it does give us a chance to look around at some of the farms. And from the quest mobs, I think we might have a couple. Because although we don't have herbalism, we do have skinning. So, let's put it to use. Plus, our first couple of hours of exploring the zone, checking out some spawns and doing quests has actually netted us 1,000 raw gold. Not bad. So, skinning. Down around the Legion's Pass, the first quest area with the sunken ship, we have two primary types of skinnable mobs here. The first ones are these crabs, the split claw skitters. They're neutral and spawn in a pretty wide area, and when skinned, they drop Cataclysm leather, savage leather. We technically already had access to this resource in Zul'Drak Vale from the heroic Zul'Gurub dungeon, which is a Cataclysm dungeon, but here, with skinning as one of our two professions, it very well may be a main source of income, which isn't bad because it does have a market value of around 7 to 10 gold each. Plus, when skinning these kind of mobs down here, we do have a chance to gain the strange bloated stomach, which essentially is a loot box of one to three volatiles. We can get air, fire, water, or earth, but we really want to see water or at least fire, which have price tags around 15 to 30 gold each compared to earth and air that are closer to three to five gold.",
+        "canonical_file": "goldbound/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.txt",
+        "original_file": "goldbound/original-vtt/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E032-04",
+      "name": "Potion Treasure Finding access check",
+      "kind": "proposal",
+      "status": "blocked",
+      "zone": "Vashjir",
+      "summary": "Noalchemyrecipe; potentialbonusnotused, donotaddprojectedchestincome.",
+      "metrics": {},
+      "source": {
+        "file": "032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.vtt",
+        "cleaned_file": "goldbound/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.txt",
+        "paragraph_start": 8,
+        "paragraph_end": 8,
+        "start_time": "00:06:39.960",
+        "quote": "Then, mixed amongst the split claw skitterers, more so around the sunken ships, are the slithering eels. Another skinnable mob, but they're a little bit different because in addition to the savage leather and strange bloated stomachs, they can also drop deep sea scales, a leatherworking trade good worth anywhere from 15 to 30 gold depending on the market. So, when at all possible, I want to make sure to capitalize on these eels and then farm the crabs while the eels are spawning. The route I'm taking looks more or less like this because while these underwater beasts aren't on a super tight hyper spawn, they do seem to have a general four spawn over this area, so as long as the loop is wide enough, they keep spawning. And we can utilize our newly obtained sea legs and underwater mount to zip in and around these guys to farm up the leather. While we're farming these, there is one thing that we can do that if you test it out, you could do, and that is the Cataclysm Potion of Treasure Finding. This is an alchemy craft, which we don't have access to yet, but it makes it so all the mobs in Cataclysm zones can drop little treasure chests that just give you bonus trade goods. It basically makes every single farm we're going to do better, but we don't have access to it. At least not yet anyways. So, after testing this one out here, how is the gold per hour?",
+        "canonical_file": "goldbound/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.txt",
+        "original_file": "goldbound/original-vtt/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E032-05",
+      "name": "Untrained Cataclysm mining test",
+      "kind": "experiment",
+      "status": "failed",
+      "zone": "Vashjir",
+      "summary": "Only Classictraininggives 1 Obsidium/node, no gem/volatile;2000–2200 g/h,19 gore. Nozone trainers, first 7 daycannotfix.",
+      "metrics": {
+        "Obsidium_per_node": 1,
+        "reported_gold_per_hour_range": [
+          2000,
+          2200
+        ]
+      },
+      "source": {
+        "file": "032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.vtt",
+        "cleaned_file": "goldbound/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.txt",
+        "paragraph_start": 9,
+        "paragraph_end": 10,
+        "start_time": "00:07:51.400",
+        "quote": "Well, within hour of farming, the total savage leather we got was 332. Pretty solid. Total deep sea scales were 21, and we got eight strange bloated stomachs. I'll open these up to see what volatiles we get, but this is probably the most variable aspect of the farm, because if you get all volatile waters, it's a whole lot more than all volatile herbs. On top of that though, we did get 189 gold from vendor trash, and about 250 gold in greens that we can just vendor. And with everything added up, the total gold per hour comes out to 3,700 gold per hour. I mean, it's definitely some consistent gold per hour, but we have 7 days to make 260,000 gold. So, only farming this one would mean just over 70 hours straight of skinning. So, I think we better check around and see if we can't find some more efficient farms, which leads me to our next one, because I think one of the best gold per hours here in Vashj'ir is going to be mining. I have heard some pretty good things about dual gathering in Vashj'ir, especially on druid. And while we're not druid, and we don't have herbalism this run, we do have mining. So, let's test a route around this neck of the woods to see the gold per hour. Although, huh, I'm only getting one obsidian per node, and no gems, and no volatiles. That's kind of strange. We should definitely be getting two to four obsidian per node, plus gems and volatiles. You don't think Oh, man. Yep. Well, I didn't plan on coming to Vashj'ir, a Cataclysm zone.",
+        "canonical_file": "goldbound/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.txt",
+        "original_file": "goldbound/original-vtt/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E032-06",
+      "name": "Whale Shark loot/skinning check",
+      "kind": "experiment",
+      "status": "performed",
+      "zone": "Vashjir",
+      "summary": "No loot or skins, achievementtargetonly; actualachievementcompletionnotexplicit.",
+      "metrics": {},
+      "source": {
+        "file": "032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.vtt",
+        "cleaned_file": "goldbound/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.txt",
+        "paragraph_start": 10,
+        "paragraph_end": 11,
+        "start_time": "00:09:18.520",
+        "quote": "So, the last time I trained in mining on Goldie, I actually only trained classic mining, not the Cataclysm mining as well, which we do have access to from Matt Johnson in Darkshire. So, that means, well, this zone just got a whole lot harder, because our best consistent gold per hour farm is gone. Well, we never really had it. Because running the numbers on Cataclysm mining when we only get one obsidian per node, which is at least still worth 19 gold, tops out at about 2,000 to 2,200 gold per hour. Realistically, this would be three to five times better if we had dual gathering. Unfortunately, Vashj'ir does not have any profession trainers to speak of, so we can't swap back and we're stuck on what we have, at least for the first 7 days. Oh well, I guess I better keep a good eye out for some other farms. And around the Kelp'thar Forest, there's a few more things of note. We do have the whale shark bosses.",
+        "canonical_file": "goldbound/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.txt",
+        "original_file": "goldbound/original-vtt/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E032-07",
+      "name": "KelpThar humanoid Flame-Scarred box reconnaissance",
+      "kind": "experiment",
+      "status": "performed",
+      "zone": "Vashjir",
+      "summary": "Veryspreadmobsunproductivecomparedlaterquestphase; nodistinctcount.",
+      "metrics": {},
+      "source": {
+        "file": "032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.vtt",
+        "cleaned_file": "goldbound/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.txt",
+        "paragraph_start": 11,
+        "paragraph_end": 11,
+        "start_time": "00:10:10.320",
+        "quote": "These rotate around all of Vashj'ir, and while they don't drop any loot, and they don't actually skin to anything, they do give you an achievement. So, worth a tag, at least for the collection log, and on to the next. Not a gold farm, though. We also do have some humanoids here I noticed when we were questing through, which we can technically pickpocket for a junk box. The Flame-Scarred Junk Box. This is the exact same one that we had no luck on from Zal'grub during our Stranglethorn video, but one that technically does have the fabled drop of the Twilight Blade, rumored at over 2 million gold, an ultra-rare. They're pretty spread out here, though, so the pickpocket rates are pretty terrible, which is okay, because I do have a spot in mind for pickpocketing a bit closer to the end of the campaign. So, let's put the Kelp'thar Forest in the rearview mirror and get back to questing. Off to the Shimmering Expanse. And you know what? I think it's time we maybe change our zone transmog here for something that might be a little more fitting for an underwater zone. I do have a few WoW tokens from past unlocks burning a hole in my inventory, because these things can't be traded or sold, only redeemed on my own account. So, it's shopping time. Oh, yeah.",
+        "canonical_file": "goldbound/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.txt",
+        "original_file": "goldbound/original-vtt/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E032-08",
+      "name": "Swift Action quest-phase unlock",
+      "kind": "experiment",
+      "status": "successful",
+      "zone": "Vashjir",
+      "summary": "Campaign~chapter 6/10, starts 100 killbombingquestthenlogouttoexitseahorse, reentersledgeterracewithoutturnin; hundredsnagadropnokilllootbutpickpocket.",
+      "metrics": {},
+      "source": {
+        "file": "032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.vtt",
+        "cleaned_file": "goldbound/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.txt",
+        "paragraph_start": 12,
+        "paragraph_end": 14,
+        "start_time": "00:11:18.920",
+        "quote": "And now I guess we're murloc'd to Vashj'ir. So, with our new stylish apparel, it's back to questing out here. We do have to get pretty far into the storyline quest to unlock potentially one of the best farms. And yeah, somehow we ended up inside the belly of this massive monster. So, hello. So, while we're here, I think it'd be cool to see the gold total climb since we're stuck here until a token is earned. So, welcome to the first midweek auction house clear. Most of this is from our first tests around and the skinning farms, but we do at least have some movement as far as total gold. So, that's nice. And into the bags it goes. And the cash stack up to 5,800 gold. And back to the quests. Because like I said, there is one very specific quest that I'm looking to get up to, which is about six out of 10 chapters through the campaign, and it's called Swift Action.",
+        "canonical_file": "goldbound/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.txt",
+        "original_file": "goldbound/original-vtt/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E032-09",
+      "name": "Swift Action target/untarget macro loop",
+      "kind": "experiment",
+      "status": "confirmed",
+      "zone": "Vashjir",
+      "summary": "Densecircleallowsresetpocketswithoutkills,25%box/20 silverpocketcited; mouseoveralternativeonlyproposed.",
+      "metrics": {},
+      "source": {
+        "file": "032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.vtt",
+        "cleaned_file": "goldbound/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.txt",
+        "paragraph_start": 14,
+        "paragraph_end": 14,
+        "start_time": "00:13:14.400",
+        "quote": "They're all lined up for fresh picking. To do this efficiently though, I am using a pickpocketing macro. This one here. It just targets an alive mob and then untargets it after we pickpocket it. So, I can run around pretty quickly and the whole line. There are also mouseover macros to pickpocket the target you're mousing over, which I think could be good, but I do prefer the constant movement of this one. And I mean, just look at this. The whole terrace is pretty much endless naga to pickpocket, and they're all so dense. Each one does give us about 20 silver, which isn't nothing, especially with how fast we can pickpocket them, but the main aspect we're pickpocketing them for is the flame-scarred junk box, of course, at around a 25% drop rate. And like all good farms, this one is really just a big circle around the terrace. Plus, with how many mobs there are here, we don't actually have to worry about killing the naga to force respawn them to pickpocket them again. Instead, we just continuously pickpocket, and by the time we loop around to the front of the circle, it's been long enough for their pockets have fully reset. Actually insane. Of course, we are going for the fabled Twilight Blade here, which I have heard confirmed sales of this item for 2 to 3 million gold from some fellow travelers, but those long sales would probably take a few years to find the right buyer. I know there are a few other YouTubers who have farmed this and successfully sold it, like Student. So, if you want to check that out, he has a series where he opens up about 140 of these, which he's already gotten it and sold it once successfully. And right now, I think he's on episode 14 and going pretty dry, so take a look if you like. On top of the Twilight Blade though, there is the Cruel Decapitator, another insane drop. This one has a similar market value to the Twilight Blade, but average sales are generally a little bit lower. Of course, the problem both of these are insanely rare drops, and I mean super rare. Most people report getting one of them after 2,000 to 6,000 junk boxes, or not at all. I even saw one person count the pickpockets and got the Twilight Blade after 60,000. But I mean, if there was ever a spot to farm it, I'd say it's here. So, the question is, how does our first inventory of boxes go?",
+        "canonical_file": "goldbound/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.txt",
+        "original_file": "goldbound/original-vtt/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E032-10",
+      "name": "Swift Action initial 94 box trial",
+      "kind": "experiment",
+      "status": "measured",
+      "zone": "Vashjir",
+      "summary": "35 mingather+6–8 minunlock/open 94 boxes, no jackpot;134 totalboxes/hreportedincludingopening.",
+      "metrics": {
+        "boxes": 94,
+        "gather_minutes": 35,
+        "open_minutes_range": [
+          6,
+          8
+        ],
+        "reported_total_boxes_per_hour": 134,
+        "jackpot_drops": 0
+      },
+      "source": {
+        "file": "032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.vtt",
+        "cleaned_file": "goldbound/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.txt",
+        "paragraph_start": 15,
+        "paragraph_end": 16,
+        "start_time": "00:15:20.240",
+        "quote": "Surprisingly, I was able to fill up this bag with 94 junk boxes in about 35 minutes. I can't really hold any more or go for 100 at a time like I normally do because, well, my bags aren't that big and I need a couple bag slots to actually open these. Plus, I don't have access to my bank to store them. So, let's get opening and see if we can't get the Twilight Blade or the cruel from the first 94. And between picking and opening the boxes here, it takes an extra about 6 to 8 minutes to actually go through them all between initial gathering time and opening time means we can technically do about 134 boxes per hour here. Definitely our fastest rate of junk boxes by far. When I farmed 100 of these in Zul'Gurub, I think it took three or four hours. Although, from this first pull, nothing.",
+        "canonical_file": "goldbound/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.txt",
+        "original_file": "goldbound/original-vtt/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E032-11",
+      "name": "Mobus rare epic/pattern camp",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Vashjir",
+      "summary": "Mobus camp with a quoted 3–5 hour respawn and 200–300 raw gold per kill. High Society Top Hat pattern: 338,000 g; Rhinestone Sunglasses design: 200,000 g, both cited at 0.12%. Neither expensive pattern dropped after 11 kills. Other epics dropped but had not sold at the early mailbox check.",
+      "metrics": {
+        "respawn_hours_range": [
+          3,
+          5
+        ],
+        "cited_pattern_pct": 0.12,
+        "later_kills": 11,
+        "raw_gold_per_kill_range": [
+          200,
+          300
+        ],
+        "quoted_top_hat_pattern_gold": 338000,
+        "quoted_sunglasses_design_gold": 200000,
+        "quoted_epic_item_gold_range": [
+          500,
+          5000
+        ]
+      },
+      "source": {
+        "file": "032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.vtt",
+        "cleaned_file": "goldbound/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.txt",
+        "paragraph_start": 16,
+        "paragraph_end": 20,
+        "start_time": "00:16:05.840",
+        "quote": "Which makes sense. But, with how farmable these are, I will definitely pop by a few times a day for a chance at that lottery ticket. And speaking of lottery tickets, well, we have one in the middle of the zone spawning every three to five hours. Meet Mobus. Mobus is kind of a rare spawn. Technically, back in the day he used to be a world boss here. So, he does have a relatively routine spawn timer of three to five hours and he has a lot of loot to pick from. There's quite a few epics, the standard cat of BOE type items that carry values between 500 and 5,000 gold. So, definitely worth grabbing, but I don't know how fast they'll sell. What we do really want to see drop from him though, some patterns. And he drops a lot of patterns. There's two in particular that we really want to get.",
+        "canonical_file": "goldbound/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.txt",
+        "original_file": "goldbound/original-vtt/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.vtt"
+      },
+      "valued_drops": [
+        {
+          "item": "Pattern: High Society Top Hat",
+          "quote_gold": 338000,
+          "obtained": false,
+          "source_refs": [
+            {
+              "episode": 32,
+              "paragraph_start": 17,
+              "paragraph_end": 17,
+              "start_time": "00:16:51.880"
+            },
+            {
+              "episode": 32,
+              "paragraph_start": 26,
+              "paragraph_end": 26,
+              "start_time": "00:25:05.480"
+            }
+          ],
+          "note": "Rare Mobus target. The transcript quotes a 0.12% drop rate; neither expensive pattern had dropped after 11 kills."
+        },
+        {
+          "item": "Design: Rhinestone Sunglasses",
+          "quote_gold": 200000,
+          "obtained": false,
+          "source_refs": [
+            {
+              "episode": 32,
+              "paragraph_start": 17,
+              "paragraph_end": 17,
+              "start_time": "00:16:51.880"
+            },
+            {
+              "episode": 32,
+              "paragraph_start": 26,
+              "paragraph_end": 26,
+              "start_time": "00:25:05.480"
+            }
+          ],
+          "note": "Rare Mobus target. The transcript quotes a 0.12% drop rate; neither expensive pattern had dropped after 11 kills."
+        },
+        {
+          "item": "Mobus BoE epic drops",
+          "quote_gold": [
+            500,
+            5000
+          ],
+          "obtained": true,
+          "source_refs": [
+            {
+              "episode": 32,
+              "paragraph_start": 16,
+              "paragraph_end": 16,
+              "start_time": "00:16:05.840"
+            },
+            {
+              "episode": 32,
+              "paragraph_start": 20,
+              "paragraph_end": 20,
+              "start_time": "00:19:26.320"
+            }
+          ],
+          "note": "Quoted value per epic item. Some epics dropped, but no sales were seen at this checkpoint."
+        }
+      ]
+    },
+    {
+      "id": "E032-12",
+      "name": "Throne Tides normal full-clear raw farm",
+      "kind": "farm",
+      "status": "measured",
+      "zone": "Throne of the Tides",
+      "summary": "8 minfullclear,1000 rawcurrency/h+800–1200 vendor/h+35 Volatile Water~1000 g→2800–3200 total. Mostcashraw, butmaterialportionrequires AH; normal repeatable notdailyheroic.",
+      "metrics": {
+        "run_minutes": 8,
+        "raw_currency_per_hour": 1000,
+        "vendor_gold_per_hour_range": [
+          800,
+          1200
+        ],
+        "Volatile Water_per_hour": 35,
+        "total_gold_per_hour_range": [
+          2800,
+          3200
+        ]
+      },
+      "source": {
+        "file": "032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.vtt",
+        "cleaned_file": "goldbound/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.txt",
+        "paragraph_start": 19,
+        "paragraph_end": 23,
+        "start_time": "00:18:12.000",
+        "quote": "But as you can tell, we're heading down into the depths below the Mobus spawn. A bit of a sinkhole or vortex down below the zone, and once we go down through it, we fall, I guess, somewhere below the ocean, which leads something special, the zone dungeon, Throne of the Tides. And this is a little bit of a different angle because Throne of the Tides has both heroic and normal versions, like any other Cataclysm dungeon. But because the normal version here is Cataclysm as well, they pretty much give the same level of loot and gold. It's also worth noting that there's technically a mythic difficulty of this dungeon, but it's only actually accessible when this dungeon is on the mythic rotation for current content mythic plus. So right now, the mythic one just has an empty wall. So I think the play here will be to do some raw gold farming on normal, so I'm definitely keen to test it. Because the cat greens around here sell for 20 to 60 gold, so it could be a decent angle for sure. And so far this week, I've spent most of my time out and about questing to unlock the pickpocketing farm, doing some skinning, and otherwise hunting Mobus, and well, maybe one other rare that we haven't talked about yet. But, we're actually already about 3 days into this zone, so I think it's time to head up around Mobus, just in case he spawns, and see where the cash stack is sitting.",
+        "canonical_file": "goldbound/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.txt",
+        "original_file": "goldbound/original-vtt/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E032-13",
+      "name": "Throne Tides bonus-speed gear rolls",
+      "kind": "experiment",
+      "status": "successful",
+      "zone": "Vashjir",
+      "summary": "Rogueringdropsbonusspeed, personalmovementupgrade; otherleech/socket/indestructiblerollspossible.",
+      "metrics": {},
+      "source": {
+        "file": "032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.vtt",
+        "cleaned_file": "goldbound/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.txt",
+        "paragraph_start": 21,
+        "paragraph_end": 22,
+        "start_time": "00:20:11.080",
+        "quote": "Because if it's raw gold, we don't have to worry about selling it. And speaking of the dungeon, Throne of the Tides on normal turns out to be very farmable. The runs come out to about 8 minutes for a full clear, so we can pretty much just infinitely farm this. And because of the way the dungeon is set up, you actually have to kill most of the bosses to get to most of the mobs, so we can't do any shorter runs really. So, we pretty much have to full clear the dungeon regardless, at least as fast as we can. And the angle here is really three things for farming. First, like I said, the greens in Cataclysm sell for quite a bit to the vendor. Granted, some of them disenchant for more, but for this week, I don't have access to enchanting. And unfortunately, most of these greens, if not all of them, really aren't a transmog angle. In Cataclysm, there's just so many shared appearances that most of these items, even if they say they sell for a lot, would be super hard to move because they probably share an appearance with something like a quest green or a vendor green. But, for us, the instant vendor price is very much appreciated. And the second thing we're farming, well, a few of the trash here actually have a chance at dropping volatile waters, a reagent that we know, once stockpiled, can really move the needle on gold per hour. And a third aspect, one that I honestly didn't really expect here, but one that could help Guldiaut in other zones, is that we can technically get some gear upgrades.",
+        "canonical_file": "goldbound/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.txt",
+        "original_file": "goldbound/original-vtt/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E032-14",
+      "name": "Poseidus Reins rare hunt",
+      "kind": "farm",
+      "status": "successful",
+      "zone": "Vashjir",
+      "summary": "Fivepositions 4–6 hrespawnquotedvsold 72 h; mountobtainedandsells>5000 g. Later 2 ndtagmountlearnedpersonal.",
+      "metrics": {
+        "Reins of Poseidus_drops_minimum": 2,
+        "first_sale_gold_lower_bound": 5000,
+        "respawn_hours_range": [
+          4,
+          6
+        ],
+        "quoted_mount_gold_range": [
+          5000,
+          10000
+        ]
+      },
+      "source": {
+        "file": "032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.vtt",
+        "cleaned_file": "goldbound/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.txt",
+        "paragraph_start": 23,
+        "paragraph_end": 28,
+        "start_time": "00:22:12.880",
+        "quote": "Well, maybe better than I thought. After a few hours of testing, we're definitely pulling in some respectable raw gold, both from a raw loot and also from the vendor perspective. So far, for each hour, the raw currency looted straight from the mobs themselves is about 1,000 gold per hour. On top of that, we're pulling in an additional 800 to 1,200 gold per hour from vendoring the greens and trash. Adding on around 35 volatile water per hour, another 1,000 gold, combines to a grand total of 2,800 to 3,200 gold per hour, with that being largely raw gold as well. So, our best raw gold farm in all of our zones we're gold bound so far, but I still can't help but feel that we'd be better off skinning in Kelp'thar. Luckily, while doing the quests and routinely swimming around the zone to try to find another rare spawn, I might have found a better skinning farm. Although, speaking of this mysterious second rare spawn, well, we can talk about it now because I finally tagged him, Poseidus. Boom.",
+        "canonical_file": "goldbound/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.txt",
+        "original_file": "goldbound/original-vtt/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.vtt"
+      },
+      "valued_drops": [
+        {
+          "item": "Reins of Poseidus",
+          "quote_gold": [
+            5000,
+            10000
+          ],
+          "sale_gold": 5000,
+          "sale_bound": "lower",
+          "sale_strict": true,
+          "obtained": true,
+          "source_refs": [
+            {
+              "episode": 32,
+              "paragraph_start": 24,
+              "paragraph_end": 24,
+              "start_time": "00:23:13.000"
+            },
+            {
+              "episode": 32,
+              "paragraph_start": 28,
+              "paragraph_end": 28,
+              "start_time": "00:26:27.280"
+            },
+            {
+              "episode": 32,
+              "paragraph_start": 34,
+              "paragraph_end": 34,
+              "start_time": "00:32:27.040"
+            }
+          ],
+          "sale_source_refs": [
+            {
+              "episode": 32,
+              "paragraph_start": 28,
+              "paragraph_end": 28,
+              "start_time": "00:26:27.280"
+            }
+          ],
+          "note": "Mount obtained and the first one sold for just over 5,000g. A later second mount was learned for the character."
+        }
+      ]
+    },
+    {
+      "id": "E032-15",
+      "name": "SilverTide Hollow crab/eel/Mobus hybrid hour",
+      "kind": "farm",
+      "status": "measured",
+      "zone": "Vashjir",
+      "summary": "Greensand Crab/Spiketooth Eelpriority 13 Stomachs 387 Savage 57 Deepsea 25 Obsidium 440 raw+vendor,4400 g/h; overlooks Mobusspawn, Classic-onlymininglimitsore.",
+      "metrics": {
+        "minutes": 60,
+        "Strange Bloated Stomach": 13,
+        "Savage Leather": 387,
+        "Deepsea Scale": 57,
+        "Obsidium Ore": 25,
+        "raw_vendor_gold": 440,
+        "reported_gold_per_hour": 4400
+      },
+      "source": {
+        "file": "032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.vtt",
+        "cleaned_file": "goldbound/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.txt",
+        "paragraph_start": 25,
+        "paragraph_end": 28,
+        "start_time": "00:24:22.240",
+        "quote": "So, the spot is in the Shimmering Expanse and around the SilverTide Hollow, down on the ground in the SilverTide Trench. Around here, we have a few more crabs, the green sand crabs, as well as some more eels, the spike-tooth eels. And these guys have all the same loot on their skinning tables as our Kelp'thar farm. The only difference, they are more densely packed and aren't surrounded by non-skinnable mobs. Plus, doing circles around the Hollow does result in a pretty good loot per farming. The cherry on top though, well, the ledge that we farm on is actually overlooking the spawn location for none other than Mobus. Oh, yeah. So, every hour that we spend skinning here, we're not only getting consistent gold from trade goods, but we're also camping Mobus, and we will definitely get a few extra kills on him.",
+        "canonical_file": "goldbound/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.txt",
+        "original_file": "goldbound/original-vtt/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E032-16",
+      "name": "Vashjir open-water fishing trial",
+      "kind": "experiment",
+      "status": "measured",
+      "zone": "Vashjir",
+      "summary": "Onlysurfacepeaks, caves, Tidesentrancefishable, nopoolsseen;38 g/h. Darkmoonhatinactiveoutside Faireweek.",
+      "metrics": {
+        "reported_gold_per_hour": 38
+      },
+      "source": {
+        "file": "032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.vtt",
+        "cleaned_file": "goldbound/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.txt",
+        "paragraph_start": 29,
+        "paragraph_end": 29,
+        "start_time": "00:27:18.600",
+        "quote": "So, I think I know what I have to do. It's fishing time. And it might be surprising that we're this far into a completely underwater zone before we even talking about fishing, but it's for a bit of a reason. Because although I sometimes sport my Darkmoon Faire water hat for style, it isn't currently Darkmoon Faire week, so I can't access the pools from it. Plus, while swimming underwater, we can't technically fish. So, there's only a few locations that you can actually even cast a rod in Vashj'ir. One of them is outside of Throne of the Tides in this underwater area. is up on top of some of the mountains that peak out over the water. This one is an interesting part of the zone, but other than fishable water, it's not home to much else. And lastly, within the quest hub caves that we hang out in. The downside, there are zero fishing pools in Vashj'ir, at least that I've seen. And I've looked around quite a bit and I have track fish on. So, that means that we have to stick to open water fishing and the fish in these waters, well, let's just say they may only be giving Elwynn Forest a run for its money. Standing here and fishing, the gold per hour is a whopping 38 gold per hour. And with our current status towards the token, it isn't something I can really spend too much time on here.",
+        "canonical_file": "goldbound/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.txt",
+        "original_file": "goldbound/original-vtt/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E032-17",
+      "name": "Quest-hub cooked fish vendor resale",
+      "kind": "experiment",
+      "status": "sales_confirmed",
+      "zone": "Vashjir",
+      "summary": "Simmered Squidsmall-volume 1–2 sales 10–500 gquoted, actualsalesconfirmed; no continuous GPH.",
+      "metrics": {
+        "reported_sale_gold_range": [
+          10,
+          500
+        ]
+      },
+      "source": {
+        "file": "032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.vtt",
+        "cleaned_file": "goldbound/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.txt",
+        "paragraph_start": 30,
+        "paragraph_end": 30,
+        "start_time": "00:28:29.080",
+        "quote": "But, that doesn't mean that Vashj'ir fish can't be profitable. In the quest hubs, we do have some vendors that sell some fish. Depending on the market, some of these dishes can spike in value because they are used by some players to get certain completeness achievements in the game. I think most of these are used for cooking ones or collection logs from having eaten them. And things like this simmered squid can fetch a fair price. As you can see here, I've already sold a few for 10 to 500 gold. They don't actually sell in bulk. It's just going to be one or two here and there, but it seems to be the best we can do for the fish for the time being. And while there are some cool oddities still here in Vashj'ir, like the sunken vicro who actually have some Wrath of the Lich King materials on their tables, or the vast and empty lands of the Abyssal Reef, I think I found most of the gold farms that are actually going to move the needle here. And right now, my route is pretty set. I can farm leather while overlooking the mob spawn, and once I tag him, I have about 3 hours before he should spawn again. And during those 3 hours, I can do loot checks for another Poseidus spawn, and then head over for some pickpocketing on the Naga farm. In between sessions of this, I can also drop down into Throne of the Tides for some raw gold, but we're currently about 5 days into this year with only 2 days left to farm the token within the first week. So, if we want to do it within the first 7 days, we really have to lock in. But with that in mind, we have a bit of an interesting dilemma going into the weekend because we have 2 days left, and realistically about 20 to 25 hours that I could grind, and 20 hours on skinning farms is really only going to net 80 to 100,000 gold, at least at these rates.",
+        "canonical_file": "goldbound/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.txt",
+        "original_file": "goldbound/original-vtt/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.vtt"
+      },
+      "additional_values": [
+        {
+          "value": [
+            10,
+            500
+          ],
+          "label": "Observed sales",
+          "basis": "Small-volume cooked-fish sales reported in the episode; no continuous hourly return.",
+          "unit": "g",
+          "kind": "sale",
+          "source_refs": [
+            {
+              "episode": 32,
+              "paragraph_start": 30,
+              "paragraph_end": 30,
+              "start_time": "00:28:29.080"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E032-18",
+      "name": "Sunken Vrykul Wrath loot scout",
+      "kind": "experiment",
+      "status": "observed",
+      "zone": "Vashjir",
+      "summary": "Notes Wrathmaterialsontables, no dedicatedrate; Abyssal Reefsmostlyempty.",
+      "metrics": {},
+      "source": {
+        "file": "032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.vtt",
+        "cleaned_file": "goldbound/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.txt",
+        "paragraph_start": 30,
+        "paragraph_end": 30,
+        "start_time": "00:28:29.080",
+        "quote": "But, that doesn't mean that Vashj'ir fish can't be profitable. In the quest hubs, we do have some vendors that sell some fish. Depending on the market, some of these dishes can spike in value because they are used by some players to get certain completeness achievements in the game. I think most of these are used for cooking ones or collection logs from having eaten them. And things like this simmered squid can fetch a fair price. As you can see here, I've already sold a few for 10 to 500 gold. They don't actually sell in bulk. It's just going to be one or two here and there, but it seems to be the best we can do for the fish for the time being. And while there are some cool oddities still here in Vashj'ir, like the sunken vicro who actually have some Wrath of the Lich King materials on their tables, or the vast and empty lands of the Abyssal Reef, I think I found most of the gold farms that are actually going to move the needle here. And right now, my route is pretty set. I can farm leather while overlooking the mob spawn, and once I tag him, I have about 3 hours before he should spawn again. And during those 3 hours, I can do loot checks for another Poseidus spawn, and then head over for some pickpocketing on the Naga farm. In between sessions of this, I can also drop down into Throne of the Tides for some raw gold, but we're currently about 5 days into this year with only 2 days left to farm the token within the first week. So, if we want to do it within the first 7 days, we really have to lock in. But with that in mind, we have a bit of an interesting dilemma going into the weekend because we have 2 days left, and realistically about 20 to 25 hours that I could grind, and 20 hours on skinning farms is really only going to net 80 to 100,000 gold, at least at these rates.",
+        "canonical_file": "goldbound/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.txt",
+        "original_file": "goldbound/original-vtt/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E032-19",
+      "name": "Mobus Poseidus skin-box dungeon multi-rotation",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Vashjir",
+      "summary": "Combined rotation: skin around Silvertide Hollow while camping Mobus, check Poseidus during the roughly three-hour Mobus gap, pickpocket the Swift Action naga, and run Throne of the Tides between sessions. Component tests, rare targets, obtained drops and actual sales are linked below. No complete combined hourly basket was recorded; component rates are not added or presented as this route’s GPH.",
+      "metrics": {},
+      "source": {
+        "file": "032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.vtt",
+        "cleaned_file": "goldbound/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.txt",
+        "paragraph_start": 30,
+        "paragraph_end": 31,
+        "start_time": "00:28:29.080",
+        "quote": "But, that doesn't mean that Vashj'ir fish can't be profitable. In the quest hubs, we do have some vendors that sell some fish. Depending on the market, some of these dishes can spike in value because they are used by some players to get certain completeness achievements in the game. I think most of these are used for cooking ones or collection logs from having eaten them. And things like this simmered squid can fetch a fair price. As you can see here, I've already sold a few for 10 to 500 gold. They don't actually sell in bulk. It's just going to be one or two here and there, but it seems to be the best we can do for the fish for the time being. And while there are some cool oddities still here in Vashj'ir, like the sunken vicro who actually have some Wrath of the Lich King materials on their tables, or the vast and empty lands of the Abyssal Reef, I think I found most of the gold farms that are actually going to move the needle here. And right now, my route is pretty set. I can farm leather while overlooking the mob spawn, and once I tag him, I have about 3 hours before he should spawn again. And during those 3 hours, I can do loot checks for another Poseidus spawn, and then head over for some pickpocketing on the Naga farm. In between sessions of this, I can also drop down into Throne of the Tides for some raw gold, but we're currently about 5 days into this year with only 2 days left to farm the token within the first week. So, if we want to do it within the first 7 days, we really have to lock in. But with that in mind, we have a bit of an interesting dilemma going into the weekend because we have 2 days left, and realistically about 20 to 25 hours that I could grind, and 20 hours on skinning farms is really only going to net 80 to 100,000 gold, at least at these rates.",
+        "canonical_file": "goldbound/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.txt",
+        "original_file": "goldbound/original-vtt/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.vtt"
+      },
+      "related_records": [
+        {
+          "id": "E032-15",
+          "role": "component",
+          "label": "Skinning while camping Mobus",
+          "include_earnings": true
+        },
+        {
+          "id": "E032-11",
+          "role": "component",
+          "label": "Mobus rare drops and recipe targets",
+          "include_earnings": true
+        },
+        {
+          "id": "E032-14",
+          "role": "component",
+          "label": "Poseidus checks and mount drop",
+          "include_earnings": true
+        },
+        {
+          "id": "E032-20",
+          "role": "component",
+          "label": "Swift Action pickpocketing and the jackpot",
+          "include_earnings": true
+        },
+        {
+          "id": "E032-12",
+          "role": "component",
+          "label": "Throne of the Tides between sessions",
+          "include_earnings": true
+        },
+        {
+          "id": "E032-22",
+          "role": "follow_up",
+          "label": "The actual weapon sales"
+        }
+      ]
+    },
+    {
+      "id": "E032-20",
+      "name": "Swift Action 1400 box two-epic jackpot",
+      "kind": "farm",
+      "status": "successful",
+      "zone": "Vashjir",
+      "summary": "~10000 pickpockets 1400 boxes 9–11 h; Krolat~700 boxes, Twilightslater. Bothmarketmillionsbutrare, notrepeatableexpectation. Krol 20 hlistedwithoutbite, first 7 daytokenfails.",
+      "metrics": {
+        "Flame Scarred Junkbox": 1400,
+        "pickpockets_approx": 10000,
+        "session_hours_range": [
+          9,
+          11
+        ],
+        "Krol the Decapitator": 1,
+        "first_Krol_box_approx": 700,
+        "quality": "jackpot",
+        "Twilights Blade": 1,
+        "Twilights Blade_quoted_gold_lower_bound": 3000000,
+        "Krol the Decapitator_quoted_gold_lower_bound": 2000000
+      },
+      "source": {
+        "file": "032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.vtt",
+        "cleaned_file": "goldbound/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.txt",
+        "paragraph_start": 31,
+        "paragraph_end": 34,
+        "start_time": "00:30:04.280",
+        "quote": "So, it's kind of looking like we're not going to get out within the next 7 days. I suppose once the 7 days are up, I can go train dual gathering and come back to finish off the token in Vashj'ir, although now that I think of it, 20 hours of pickpocketing and opening junk boxes might net us nothing, but it could also net us some massive transmog that realistically we could fire sell for below market value to a flipper, and realistically get a token. So, it might not be the best call, but I'm going to go all in on pickpocketing. We're going for the junk box lottery. It's Twilight Blade or bust. Cue the montage. All I ever wanted was $2 million cash quick.",
+        "canonical_file": "goldbound/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.txt",
+        "original_file": "goldbound/original-vtt/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.vtt"
+      },
+      "valued_drops": [
+        {
+          "item": "Twilights Blade",
+          "quote_gold": 3000000,
+          "quote_bound": "lower",
+          "quote_strict": true,
+          "sale_gold": 350000,
+          "sale_bound": "lower",
+          "sale_strict": true,
+          "obtained": true,
+          "source_refs": [
+            {
+              "episode": 32,
+              "paragraph_start": 33,
+              "paragraph_end": 33,
+              "start_time": "00:31:33.440"
+            },
+            {
+              "episode": 32,
+              "paragraph_start": 34,
+              "paragraph_end": 34,
+              "start_time": "00:32:27.040"
+            },
+            {
+              "episode": 32,
+              "paragraph_start": 36,
+              "paragraph_end": 36,
+              "start_time": "00:34:40.040"
+            }
+          ],
+          "sale_source_refs": [
+            {
+              "episode": 32,
+              "paragraph_start": 36,
+              "paragraph_end": 36,
+              "start_time": "00:34:40.040"
+            }
+          ],
+          "note": "Confirmed drop from Flame-Scarred Junkboxes. Quoted market value over 3 million gold; actually sold for over 350,000g. Exceptionally lucky session, with no validated repeatable hourly return."
+        },
+        {
+          "item": "Krol the Decapitator",
+          "quote_gold": 2000000,
+          "quote_bound": "lower",
+          "quote_strict": true,
+          "sale_gold": 200000,
+          "sale_bound": "upper",
+          "sale_strict": true,
+          "obtained": true,
+          "source_refs": [
+            {
+              "episode": 32,
+              "paragraph_start": 32,
+              "paragraph_end": 32,
+              "start_time": "00:30:47.280"
+            },
+            {
+              "episode": 32,
+              "paragraph_start": 34,
+              "paragraph_end": 34,
+              "start_time": "00:32:27.040"
+            },
+            {
+              "episode": 32,
+              "paragraph_start": 36,
+              "paragraph_end": 36,
+              "start_time": "00:34:40.040"
+            }
+          ],
+          "sale_source_refs": [
+            {
+              "episode": 32,
+              "paragraph_start": 36,
+              "paragraph_end": 36,
+              "start_time": "00:34:40.040"
+            }
+          ],
+          "note": "Confirmed drop after about 700 boxes. Quoted market value over 2 million gold; actually sold for just under 200,000g. Exceptionally lucky session."
+        }
+      ],
+      "related_records": [
+        {
+          "id": "E032-22",
+          "role": "follow_up",
+          "label": "The actual weapon sales"
+        }
+      ]
+    },
+    {
+      "id": "E032-21",
+      "name": "Post-week fully trained dual-gather hour",
+      "kind": "farm",
+      "status": "measured",
+      "zone": "Vashjir",
+      "summary": "Trains Cata Mining/Herbalism, Poseidusspawnroute;136 Azsharas Veil 159 Stormvine 264 Obsidiumplus Volatile Life/gems,10239 g/h.",
+      "metrics": {
+        "minutes": 60,
+        "Azsharas Veil": 136,
+        "Stormvine": 159,
+        "Obsidium Ore": 264,
+        "reported_gold_per_hour": 10239
+      },
+      "source": {
+        "file": "032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.vtt",
+        "cleaned_file": "goldbound/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.txt",
+        "paragraph_start": 34,
+        "paragraph_end": 35,
+        "start_time": "00:32:27.040",
+        "quote": "And I'm saying hopefully because so far I've had the Decimator listed for about 20 hours, but still no bites. So, after only 1,400 junk boxes and about 10,000 pickpockets, I can rest. Even though that was 9 to 11 hours of pickpocketing, it's actually crazy that we got both weapons. The luck on that is insane. Let's just hope the luck continues with some sales. It's officially the morning of day seven on this challenge, and after all that pickpocketing and a lot of luck, we are now in a position where if one of the swords has sold, well, we would have enough for a token to leave this watery zone right now. So, let's check. Well, that doesn't look like any sales on the sword, and that does mean that the seven-day aspect of this challenge has failed. But, that does mean I can pop back in briefly to the older zones just to train mining and herbalism, and then come back to test out dual gathering. I mean, to be fair, I was going to do this even if we just got the token, because of course for a gold bound, we have to test dual gathering. So, here we go. The Bashir dual gather test. My plan is to basically do hours and hours of dual gathering either until we earn enough gold from trade goods or until one of the weapons sells. The route I'm taking here for dual gathering though is pretty simple, and it's really just flying over all the spawn points for Posidus to try to tag him again, which uh I did. But, this time, since we have some massive values on the auction house, I'm actually just going to learn him and add it to the collection log for Goldie. And as far as materials for dual gathering, we're mostly just pulling in stormvine and Ashara's veils for herbs.",
+        "canonical_file": "goldbound/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.txt",
+        "original_file": "goldbound/original-vtt/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E032-22",
+      "name": "Krol and Twilights Blade realized jackpot sales",
+      "kind": "sales",
+      "status": "sales_confirmed",
+      "zone": "Vashjir",
+      "summary": "Twilights Blade sold for over 350,000 g; Krol the Decapitator for just under 200,000 g. The 553,000 g mailbox included other goods, and the total cash stack reached 615,000 g. These were sales from an exceptionally lucky pickpocket session, not a normal hourly farming return.",
+      "metrics": {
+        "Twilights Blade_sale_gold_lower_bound": 350000,
+        "Krol_sale_gold_upper_bound": 200000,
+        "mailbox_gold": 553000,
+        "cash_gold": 615000
+      },
+      "source": {
+        "file": "032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.vtt",
+        "cleaned_file": "goldbound/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.txt",
+        "paragraph_start": 36,
+        "paragraph_end": 36,
+        "start_time": "00:34:40.040",
+        "quote": "So, for today, I'll just keep dual gathering, and after a few hours, we can check back to see if the auction sold. And the verdict? Oh ho. Oh, yeah. Although these went for way below market value, the value is still absolutely insane. Over 350,000 gold for the Twilight Blade, which to whoever sniped that, I am wishing them luck on flipping it to two to three million. That would be good value for them for sure. And the Cruel Decapitator as well, sold for just under 200k. All in all, the biggest mailbox we've seen so far at 553,000 gold into the bags, which gives us a full cash stack of 615k. And of course, that's enough for the Vashj'ir token. There we go. But travelers, it doesn't end there. Because now we have 315,000 gold surplus, plus about 220k from Wetlands still hiding in the bank, which we can now return to.",
+        "canonical_file": "goldbound/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.txt",
+        "original_file": "goldbound/original-vtt/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.vtt"
+      },
+      "valued_drops": [
+        {
+          "item": "Twilights Blade",
+          "quote_gold": 3000000,
+          "quote_bound": "lower",
+          "quote_strict": true,
+          "sale_gold": 350000,
+          "sale_bound": "lower",
+          "sale_strict": true,
+          "obtained": true,
+          "source_refs": [
+            {
+              "episode": 32,
+              "paragraph_start": 33,
+              "paragraph_end": 33,
+              "start_time": "00:31:33.440"
+            },
+            {
+              "episode": 32,
+              "paragraph_start": 34,
+              "paragraph_end": 34,
+              "start_time": "00:32:27.040"
+            },
+            {
+              "episode": 32,
+              "paragraph_start": 36,
+              "paragraph_end": 36,
+              "start_time": "00:34:40.040"
+            }
+          ],
+          "sale_source_refs": [
+            {
+              "episode": 32,
+              "paragraph_start": 36,
+              "paragraph_end": 36,
+              "start_time": "00:34:40.040"
+            }
+          ],
+          "note": "Confirmed drop from Flame-Scarred Junkboxes. Quoted market value over 3 million gold; actually sold for over 350,000g. Exceptionally lucky session, with no validated repeatable hourly return."
+        },
+        {
+          "item": "Krol the Decapitator",
+          "quote_gold": 2000000,
+          "quote_bound": "lower",
+          "quote_strict": true,
+          "sale_gold": 200000,
+          "sale_bound": "upper",
+          "sale_strict": true,
+          "obtained": true,
+          "source_refs": [
+            {
+              "episode": 32,
+              "paragraph_start": 32,
+              "paragraph_end": 32,
+              "start_time": "00:30:47.280"
+            },
+            {
+              "episode": 32,
+              "paragraph_start": 34,
+              "paragraph_end": 34,
+              "start_time": "00:32:27.040"
+            },
+            {
+              "episode": 32,
+              "paragraph_start": 36,
+              "paragraph_end": 36,
+              "start_time": "00:34:40.040"
+            }
+          ],
+          "sale_source_refs": [
+            {
+              "episode": 32,
+              "paragraph_start": 36,
+              "paragraph_end": 36,
+              "start_time": "00:34:40.040"
+            }
+          ],
+          "note": "Confirmed drop after about 700 boxes. Quoted market value over 2 million gold; actually sold for just under 200,000g. Exceptionally lucky session."
+        }
+      ]
+    },
+    {
+      "id": "E032-23",
+      "name": "Warband bank surplus reinvestment",
+      "kind": "experiment",
+      "status": "performed",
+      "zone": "Vashjir",
+      "summary": "Buys 100 kbanktab, earmarks 250 kfor 500 ktab; spoken 315 ksurplusdoesnotfullyreconcileallocation. No farmrevenue.",
+      "metrics": {},
+      "source": {
+        "file": "032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.vtt",
+        "cleaned_file": "goldbound/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.txt",
+        "paragraph_start": 36,
+        "paragraph_end": 37,
+        "start_time": "00:34:40.040",
+        "quote": "So, for today, I'll just keep dual gathering, and after a few hours, we can check back to see if the auction sold. And the verdict? Oh ho. Oh, yeah. Although these went for way below market value, the value is still absolutely insane. Over 350,000 gold for the Twilight Blade, which to whoever sniped that, I am wishing them luck on flipping it to two to three million. That would be good value for them for sure. And the Cruel Decapitator as well, sold for just under 200k. All in all, the biggest mailbox we've seen so far at 553,000 gold into the bags, which gives us a full cash stack of 615k. And of course, that's enough for the Vashj'ir token. There we go. But travelers, it doesn't end there. Because now we have 315,000 gold surplus, plus about 220k from Wetlands still hiding in the bank, which we can now return to.",
+        "canonical_file": "goldbound/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.txt",
+        "original_file": "goldbound/original-vtt/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E032-24",
+      "name": "Wetlands final skinning token push",
+      "kind": "farm",
+      "status": "successful",
+      "zone": "Wetlands",
+      "summary": "Returnsoriginal 220 k, farmsconflictskins/repostsfewhoursandbuystoken; Dustwallowrolled.",
+      "metrics": {},
+      "source": {
+        "file": "032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.vtt",
+        "cleaned_file": "goldbound/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.txt",
+        "paragraph_start": 37,
+        "paragraph_end": 37,
+        "start_time": "00:35:36.520",
+        "quote": "So, here's my plan. I'm going to go ahead and invest 100,000 of this right now into an additional warband bank tab, increasing our total bank storage and farmable space. And then, the extra 250k from Vashj'ir, I'm actually going to put away in the warband bank just to save up for the next bank tab of 500k. If we get another massive sale during the zone, we can use some of these savings to buy the next tab as well. I think the final tab after this is something crazy like 2.5 mil, so a long ways to go for sure, but these extra tabs will come in super handy for stockpiling extra trade goods or junk boxes. All right. So, here we are. Exactly back where we left off about a week ago in the Wetlands with 220,000 gold in the bags. And travelers, well, I'm not done quite yet today, cuz I feel we've pretty fully explored Wetlands. So, let's take our best farm, the skinning hyper spawn farm, and just sit here and list auctions until we have a token. Which the timing on this is actually working out quite well. Our cash stack is rising and the wild token is falling a little bit today. So, after a few hours of farming, well, with a little help of raw gold at the end, of course, boom, another token. This one is the token to escape Wetlands and roll a new zone. So, let's do it. For our next zones, we still have all the old options of Edwin pass, home to Karazhan, and still the longest standing zone that hasn't been rolled, Badlands, of course, which we are familiar with. Then the two new zones opened by Wetlands, Twilight Highlands and Arathi Highlands. Of course, the two Kalimdor zones accessible by boat, the Barrens and Dustwallow Marsh, courtesy of Wetlands. So, all in all, there is six potential zones to spin and let's waste no time on it. And see where we're going next episode.",
+        "canonical_file": "goldbound/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.txt",
+        "original_file": "goldbound/original-vtt/032 - From 0 Gold To a WoW Token, But I Can ONLY Farm Vashj'ir ｜ Goldbound Ep. 31.en-orig.vtt"
+      },
+      "related_records": [
+        {
+          "id": "E030-08",
+          "role": "comparison",
+          "label": "Earlier Wetlands conflict-skinning test",
+          "include_earnings": false
+        }
+      ]
+    }
+  ]
+}

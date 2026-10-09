@@ -1,0 +1,658 @@
+{
+  "source_id": 26,
+  "source_file": "026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.vtt",
+  "cleaned_file": "goldbound/026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.txt",
+  "full_text_reviewed": true,
+  "paragraph_count": 15,
+  "records": [
+    {
+      "id": "E026-01",
+      "name": "Copper bar and bolt margin retest",
+      "kind": "experiment",
+      "status": "failed",
+      "zone": "Dun Morogh",
+      "summary": "Smeltingnotprofitable, andbar→boltlossatnewprices; priorcoppershufflecannotassumedcurrent.",
+      "metrics": {},
+      "source": {
+        "file": "026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.vtt",
+        "cleaned_file": "goldbound/026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.txt",
+        "paragraph_start": 1,
+        "paragraph_end": 1,
+        "start_time": "00:00:00.000",
+        "quote": "Greetings travelers, and welcome back to Goldbound, the challenge series where a rogue building locked is exploring Azeroth one zone at a time. And right now, we're making our way through the Eastern Kingdoms with the last episode unlocking the new zone of Dun Morogh, granting access to a brand new warband crafting alt, Golden Path, who is now equipped with leatherworking and blacksmithing. But so far, Dun Morogh is also home to pretty low farming rates. The trade goods like copper ore are currently clocking in around 900 to 1,200 gold per hour. So, we'll have to see if we can't bring those numbers up. But the downside from copper ore was smelting it into bars really wasn't profitable, and the usual shuffle of ores to bars and bars to handful of copper bolts was actually losing profit.",
+        "canonical_file": "goldbound/026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.txt",
+        "original_file": "goldbound/original-vtt/026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E026-02",
+      "name": "Weekly MC and Dark Iron recipe relearn",
+      "kind": "experiment",
+      "status": "successful",
+      "zone": "Molten Core / Blackrock Depths",
+      "summary": "No leftbinding/chest; Gloomrelrememberscompletedquestafterminingreset, recipe retrainwithoutnewbarfee. Smelt/sendorealtbeforeabandon.",
+      "metrics": {},
+      "source": {
+        "file": "026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.vtt",
+        "cleaned_file": "goldbound/026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.txt",
+        "paragraph_start": 3,
+        "paragraph_end": 3,
+        "start_time": "00:02:19.800",
+        "quote": "But before I go I learning mining to get inscription, let me get my weekly Molten Core run out of the way. This way, I can grab the Dark Iron Ore and get my chance at both the Left Binding of the Windseeker, the one I still need, and the Nightslayer Chest from Golemagg, the last piece of the set. But uh no luck on either one this week. However, we can still take the Dark Iron Ore from Molten Core, jump into Blackrock Depths, and talk to our old friend Gloomrel. Since we've already completed the quest where we handed in gold and truesilver in exchange for learning how to smelt Dark Iron Ore, even though we've unlearned mining and the smelting recipe since, he still remembers the quest and we don't have to do it again. So, we can train it without question. So, before abandoning mining, these Dark Iron Ores are getting smelted and sent over to Golden Path for future crafts. All right, with that sorted, actually back to Dun Morogh. And for herb only, I am doing a similar route to the dual gathering and mining only farms here in Dun Morogh. Mostly taking a massive loop around the zone.",
+        "canonical_file": "goldbound/026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.txt",
+        "original_file": "goldbound/original-vtt/026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E026-03",
+      "name": "100 Silverleaf housing-color milling control",
+      "kind": "experiment",
+      "status": "failed",
+      "zone": "Dun Morogh",
+      "summary": "100 herbs 200 g→10 Blue Pigment 150 g;10 herb/1 pigment,50 gloss.",
+      "metrics": {
+        "Silverleaf": 100,
+        "Blue Pigment": 10,
+        "input_gold": 200,
+        "output_gold": 150,
+        "margin_gold": -50
+      },
+      "source": {
+        "file": "026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.vtt",
+        "cleaned_file": "goldbound/026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.txt",
+        "paragraph_start": 4,
+        "paragraph_end": 5,
+        "start_time": "00:03:18.680",
+        "quote": "Although, there might be an optimization here because it does seem that most of the herbs are actually in the south, but it is a bit hard to tell. And the rates so far are actually pretty good. Dun Morogh does provide silverleaf, peacebloom, and earthroot. And it is worth noting that a few months ago, the prices on these were wild, but they're mostly back down to about 1.5 to four gold each, depending on the day, because they do fluctuate pretty wildly within that range. But before they had spiked in price because they can be milled for housing pigment dyes, which is interesting. There's classic milling, which is what we used before, and then there's milling for pigments. And these pigments were added with the player-owned housing edition just before midnight. Each of the herbs can be milled down into a different color pigment. For example, Silverleaf will always give a blue dye pigment. There are a few other higher-level herbs that can also give the same color pigment.",
+        "canonical_file": "goldbound/026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.txt",
+        "original_file": "goldbound/original-vtt/026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.vtt"
+      },
+      "additional_values": [
+        {
+          "value": 150,
+          "label": "Output batch",
+          "basis": "Output value of 100 Silverleaf in housing pigments; the input was valued at 200g.",
+          "unit": "g",
+          "kind": "value",
+          "source_refs": [
+            {
+              "episode": 26,
+              "paragraph_start": 5,
+              "paragraph_end": 5,
+              "start_time": "00:04:11.640"
+            }
+          ]
+        },
+        {
+          "value": 50,
+          "label": "Loss",
+          "basis": "Reported appraisal loss from the 100-herb conversion.",
+          "unit": "g",
+          "kind": "value",
+          "source_refs": [
+            {
+              "episode": 26,
+              "paragraph_start": 5,
+              "paragraph_end": 5,
+              "start_time": "00:04:11.640"
+            }
+          ],
+          "negative": true
+        }
+      ]
+    },
+    {
+      "id": "E026-04",
+      "name": "100 Silverleaf classic milling control",
+      "kind": "experiment",
+      "status": "measured",
+      "zone": "Dun Morogh",
+      "summary": "100 herbs 200 g→Alabaster 594 g at 9 g, implies 66 pigments; countsderived, notspoken.",
+      "metrics": {
+        "Silverleaf": 100,
+        "input_gold": 200,
+        "output_gold": 594,
+        "derived_Alabaster Pigment": 66,
+        "margin_gold": 394
+      },
+      "source": {
+        "file": "026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.vtt",
+        "cleaned_file": "goldbound/026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.txt",
+        "paragraph_start": 5,
+        "paragraph_end": 5,
+        "start_time": "00:04:11.640",
+        "quote": "And for reference, blue pigments are worth about 15 gold each right now, and this is relatively consistent across the other pigments that we can get here in Dun Morogh, such as Peacebloom to white pigment, which goes for 20 gold each. So before I farm the herbs and actually mill everything, I want to test which milling is the most profitable between classic milling and milling for housing pigments. And luckily, I do have a bit of a stockpile of some herbs, so I'm going to go ahead and mill up 100 Silverleaf, which have a base value of 200 gold, and see how much profit or loss I get from the housing pigments. And as far as the milling, there isn't much variety. 10 Silverleaf always mills down into one singular pigment, which means we're processing 20 gold worth of Silverleaf into 15 gold worth of pigment, which isn't very good. So our stack of 100 Silverleaf is now only worth 150 gold in pigments, which is a 50 gold loss. Unless the prices change wildly, the colored pigments just aren't worth it right now. However, with classic milling, the one we used back in Elwynn, the herbs of Peacebloom, Earthroot, and Silverleaf all mill into the same thing, Alabaster pigment. And luckily, milling this gives anywhere between two to four pigment per mill, and each mill only actually costs five of each herb, not 10. So the ratio is way better, and right now the price of Alabaster pigment is nine gold each. So our similar stack of 100 Silverleaf, when milled down to Alabaster pigments, goes from 200 gold to 594 gold. Even if the herbs are worth four gold each, like they can spike up to, that would be 400 gold of herbs to 594 gold of pigments, and it is definitely profitable. So, for now, the rates from 1 hour of farming, we pulled in a total of 164 Peacebloom, 232 Silverleaf, and 134 Earthroot. For a total raw trade good gold per hour, no processing yet, of 1,600. Not bad, and it beats out mining only. But, the reason I wanted to try herbalism wasn't necessarily for the raw goods, and since we unlearned mining and picked up inscription, let's get to milling. Of course, from our initial tests, we are just going straight to classic milling, and our stockpile of herbs, which is worth 1,600 gold, mills down into 349 Alabaster Pigments, which are worth 3,141 gold. A very nice profit, and this only took about 3 minutes to process, which puts the gold per hour for gathering into milling to over 3,000 gold per hour here. But, we can go a step further, because two Alabaster Pigments, which are worth nine gold each, 18 gold total, can be processed into a singular Moonglow Ink, which are worth over 20 gold. Now, that isn't a massive increase in profit, but nonetheless, it is an increase. So, once it's all said and done, we now have 75 Moonglow Inks from our total hours' worth of herbalism. And these, well, they're worth 3,669 gold. And the total processing time from herbs to inks was only 7 minutes. So, the perceived gold per hour, if we adjust for the total time of an hour and 7 minutes, is actually 3,313 gold per hour, which is notably more than double the value of the herbs alone, and it just required us some level one inscription skills to do. That is, indeed, very nice. But, as I was flying around here, I was running into quite a few rare spawns out in Dun Morogh. So, let's go take a look at them. Now, there aren't a ton of rares roaming around Dun Morogh, but they do spawn pretty fast. So, much like the Elwynn rares of Theros Lightfingers, Fed Fennel, and Mother Fang, these rares tend to spawn on a 15 to 30-minute cooldown. And one rare that I see quite a bit while farming herbs and spawning just to the west of Golebor Quarry in the dense herb areas is Bjarn, a rare polar bear. And since Bjarn is so findable, we're already at about an 11 kill count on him, and he doesn't drop any wild transmog with crazy values, but a few good items in the 1 to 2,000 gold range, with the best item being the black bear hide vest. So, whenever we're around him, whenever he pops up on the rare scanner, we're definitely going to tag him. Then up to the northwest in the troll camps of Shimmer Ridge, we have Great Father Arcticus, a rare spawn troll. And while most of his items are in the 30 to 40 gold range, there is one, the Frostmane Scepter, that has a market value closer to 60,000 gold and a listed drop rate of 2%. Although, like a lot of these old world drops in these old zones that were unavailable for some time and re-added in Cataclysm, that drop rate may be artificially low based on Wowhead reporting and tracking. But, we know it's not high, and uh we got it on the first kill. So, I'll count Goldilucky and get this one on the auction house to hopefully sell it while we're still in Dun Morogh, because with current token prices, a full ticket price sale on this is pretty much a quarter of a token. But, we will likely either have to wait a long time for it to sell or cut the price and sell it a little bit faster at wholesale prices.",
+        "canonical_file": "goldbound/026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.txt",
+        "original_file": "goldbound/original-vtt/026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.vtt"
+      },
+      "additional_values": [
+        {
+          "value": 594,
+          "label": "Output batch",
+          "basis": "Classic-milling appraisal from 100 Silverleaf; no independent batch duration.",
+          "unit": "g",
+          "kind": "value",
+          "source_refs": [
+            {
+              "episode": 26,
+              "paragraph_start": 5,
+              "paragraph_end": 5,
+              "start_time": "00:04:11.640"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E026-05",
+      "name": "Dun Morogh herb-only full hour",
+      "kind": "farm",
+      "status": "measured",
+      "zone": "Dun Morogh",
+      "summary": "164 Peacebloom 232 Silverleaf 134 Earthroot;1600 graw.",
+      "metrics": {
+        "minutes": 60,
+        "Peacebloom": 164,
+        "Silverleaf": 232,
+        "Earthroot": 134,
+        "raw_appraisal_gold": 1600
+      },
+      "source": {
+        "file": "026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.vtt",
+        "cleaned_file": "goldbound/026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.txt",
+        "paragraph_start": 3,
+        "paragraph_end": 5,
+        "start_time": "00:02:19.800",
+        "quote": "But before I go I learning mining to get inscription, let me get my weekly Molten Core run out of the way. This way, I can grab the Dark Iron Ore and get my chance at both the Left Binding of the Windseeker, the one I still need, and the Nightslayer Chest from Golemagg, the last piece of the set. But uh no luck on either one this week. However, we can still take the Dark Iron Ore from Molten Core, jump into Blackrock Depths, and talk to our old friend Gloomrel. Since we've already completed the quest where we handed in gold and truesilver in exchange for learning how to smelt Dark Iron Ore, even though we've unlearned mining and the smelting recipe since, he still remembers the quest and we don't have to do it again. So, we can train it without question. So, before abandoning mining, these Dark Iron Ores are getting smelted and sent over to Golden Path for future crafts. All right, with that sorted, actually back to Dun Morogh. And for herb only, I am doing a similar route to the dual gathering and mining only farms here in Dun Morogh. Mostly taking a massive loop around the zone.",
+        "canonical_file": "goldbound/026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.txt",
+        "original_file": "goldbound/original-vtt/026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E026-06",
+      "name": "Full-hour herb classic milling",
+      "kind": "experiment",
+      "status": "measured",
+      "zone": "Dun Morogh",
+      "summary": "530 herbs→349 Alabaster 3141 g,3 minprocessing, gather+milling>3000 g/h.",
+      "metrics": {
+        "processing_minutes": 3,
+        "Alabaster Pigment": 349,
+        "output_gold": 3141
+      },
+      "source": {
+        "file": "026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.vtt",
+        "cleaned_file": "goldbound/026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.txt",
+        "paragraph_start": 5,
+        "paragraph_end": 5,
+        "start_time": "00:04:11.640",
+        "quote": "And for reference, blue pigments are worth about 15 gold each right now, and this is relatively consistent across the other pigments that we can get here in Dun Morogh, such as Peacebloom to white pigment, which goes for 20 gold each. So before I farm the herbs and actually mill everything, I want to test which milling is the most profitable between classic milling and milling for housing pigments. And luckily, I do have a bit of a stockpile of some herbs, so I'm going to go ahead and mill up 100 Silverleaf, which have a base value of 200 gold, and see how much profit or loss I get from the housing pigments. And as far as the milling, there isn't much variety. 10 Silverleaf always mills down into one singular pigment, which means we're processing 20 gold worth of Silverleaf into 15 gold worth of pigment, which isn't very good. So our stack of 100 Silverleaf is now only worth 150 gold in pigments, which is a 50 gold loss. Unless the prices change wildly, the colored pigments just aren't worth it right now. However, with classic milling, the one we used back in Elwynn, the herbs of Peacebloom, Earthroot, and Silverleaf all mill into the same thing, Alabaster pigment. And luckily, milling this gives anywhere between two to four pigment per mill, and each mill only actually costs five of each herb, not 10. So the ratio is way better, and right now the price of Alabaster pigment is nine gold each. So our similar stack of 100 Silverleaf, when milled down to Alabaster pigments, goes from 200 gold to 594 gold. Even if the herbs are worth four gold each, like they can spike up to, that would be 400 gold of herbs to 594 gold of pigments, and it is definitely profitable. So, for now, the rates from 1 hour of farming, we pulled in a total of 164 Peacebloom, 232 Silverleaf, and 134 Earthroot. For a total raw trade good gold per hour, no processing yet, of 1,600. Not bad, and it beats out mining only. But, the reason I wanted to try herbalism wasn't necessarily for the raw goods, and since we unlearned mining and picked up inscription, let's get to milling. Of course, from our initial tests, we are just going straight to classic milling, and our stockpile of herbs, which is worth 1,600 gold, mills down into 349 Alabaster Pigments, which are worth 3,141 gold. A very nice profit, and this only took about 3 minutes to process, which puts the gold per hour for gathering into milling to over 3,000 gold per hour here. But, we can go a step further, because two Alabaster Pigments, which are worth nine gold each, 18 gold total, can be processed into a singular Moonglow Ink, which are worth over 20 gold. Now, that isn't a massive increase in profit, but nonetheless, it is an increase. So, once it's all said and done, we now have 75 Moonglow Inks from our total hours' worth of herbalism. And these, well, they're worth 3,669 gold. And the total processing time from herbs to inks was only 7 minutes. So, the perceived gold per hour, if we adjust for the total time of an hour and 7 minutes, is actually 3,313 gold per hour, which is notably more than double the value of the herbs alone, and it just required us some level one inscription skills to do. That is, indeed, very nice. But, as I was flying around here, I was running into quite a few rare spawns out in Dun Morogh. So, let's go take a look at them. Now, there aren't a ton of rares roaming around Dun Morogh, but they do spawn pretty fast. So, much like the Elwynn rares of Theros Lightfingers, Fed Fennel, and Mother Fang, these rares tend to spawn on a 15 to 30-minute cooldown. And one rare that I see quite a bit while farming herbs and spawning just to the west of Golebor Quarry in the dense herb areas is Bjarn, a rare polar bear. And since Bjarn is so findable, we're already at about an 11 kill count on him, and he doesn't drop any wild transmog with crazy values, but a few good items in the 1 to 2,000 gold range, with the best item being the black bear hide vest. So, whenever we're around him, whenever he pops up on the rare scanner, we're definitely going to tag him. Then up to the northwest in the troll camps of Shimmer Ridge, we have Great Father Arcticus, a rare spawn troll. And while most of his items are in the 30 to 40 gold range, there is one, the Frostmane Scepter, that has a market value closer to 60,000 gold and a listed drop rate of 2%. Although, like a lot of these old world drops in these old zones that were unavailable for some time and re-added in Cataclysm, that drop rate may be artificially low based on Wowhead reporting and tracking. But, we know it's not high, and uh we got it on the first kill. So, I'll count Goldilucky and get this one on the auction house to hopefully sell it while we're still in Dun Morogh, because with current token prices, a full ticket price sale on this is pretty much a quarter of a token. But, we will likely either have to wait a long time for it to sell or cut the price and sell it a little bit faster at wholesale prices.",
+        "canonical_file": "goldbound/026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.txt",
+        "original_file": "goldbound/original-vtt/026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.vtt"
+      },
+      "additional_values": [
+        {
+          "value": 2991.43,
+          "label": "Estimated",
+          "basis": "3,141g output divided by 60 minutes gathering plus 3 minutes milling. The narration rounds this to over 3,000g/h.",
+          "unit": "g/h",
+          "kind": "estimated",
+          "source_refs": [
+            {
+              "episode": 26,
+              "paragraph_start": 5,
+              "paragraph_end": 5,
+              "start_time": "00:04:11.640"
+            }
+          ]
+        },
+        {
+          "value": 3141,
+          "label": "Pigment batch",
+          "basis": "Appraisal of 349 Alabaster Pigments, separate from the later ink conversion.",
+          "unit": "g",
+          "kind": "value",
+          "source_refs": [
+            {
+              "episode": 26,
+              "paragraph_start": 5,
+              "paragraph_end": 5,
+              "start_time": "00:04:11.640"
+            }
+          ]
+        }
+      ],
+      "related_records": [
+        {
+          "id": "E026-07",
+          "role": "follow_up",
+          "label": "Later ink-processing result",
+          "include_earnings": false
+        }
+      ]
+    },
+    {
+      "id": "E026-07",
+      "name": "Moonglow Ink full processing shuffle",
+      "kind": "experiment",
+      "status": "measured",
+      "zone": "Dun Morogh",
+      "summary": "Caption 75 inks 3669 gfrom 349 pigments inconsistent with 2 pigments/ink; likely 175 butnotverified. Total 67 minreported 3313 g/h differs 3669/67×60=3285.7. Preserve ambiguousqty/rate.",
+      "metrics": {
+        "caption_Moonglow Ink": 75,
+        "output_gold": 3669,
+        "total_minutes": 67,
+        "reported_gold_per_hour": 3313,
+        "quantity_and_arithmetic_uncertain": true
+      },
+      "source": {
+        "file": "026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.vtt",
+        "cleaned_file": "goldbound/026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.txt",
+        "paragraph_start": 5,
+        "paragraph_end": 5,
+        "start_time": "00:04:11.640",
+        "quote": "And for reference, blue pigments are worth about 15 gold each right now, and this is relatively consistent across the other pigments that we can get here in Dun Morogh, such as Peacebloom to white pigment, which goes for 20 gold each. So before I farm the herbs and actually mill everything, I want to test which milling is the most profitable between classic milling and milling for housing pigments. And luckily, I do have a bit of a stockpile of some herbs, so I'm going to go ahead and mill up 100 Silverleaf, which have a base value of 200 gold, and see how much profit or loss I get from the housing pigments. And as far as the milling, there isn't much variety. 10 Silverleaf always mills down into one singular pigment, which means we're processing 20 gold worth of Silverleaf into 15 gold worth of pigment, which isn't very good. So our stack of 100 Silverleaf is now only worth 150 gold in pigments, which is a 50 gold loss. Unless the prices change wildly, the colored pigments just aren't worth it right now. However, with classic milling, the one we used back in Elwynn, the herbs of Peacebloom, Earthroot, and Silverleaf all mill into the same thing, Alabaster pigment. And luckily, milling this gives anywhere between two to four pigment per mill, and each mill only actually costs five of each herb, not 10. So the ratio is way better, and right now the price of Alabaster pigment is nine gold each. So our similar stack of 100 Silverleaf, when milled down to Alabaster pigments, goes from 200 gold to 594 gold. Even if the herbs are worth four gold each, like they can spike up to, that would be 400 gold of herbs to 594 gold of pigments, and it is definitely profitable. So, for now, the rates from 1 hour of farming, we pulled in a total of 164 Peacebloom, 232 Silverleaf, and 134 Earthroot. For a total raw trade good gold per hour, no processing yet, of 1,600. Not bad, and it beats out mining only. But, the reason I wanted to try herbalism wasn't necessarily for the raw goods, and since we unlearned mining and picked up inscription, let's get to milling. Of course, from our initial tests, we are just going straight to classic milling, and our stockpile of herbs, which is worth 1,600 gold, mills down into 349 Alabaster Pigments, which are worth 3,141 gold. A very nice profit, and this only took about 3 minutes to process, which puts the gold per hour for gathering into milling to over 3,000 gold per hour here. But, we can go a step further, because two Alabaster Pigments, which are worth nine gold each, 18 gold total, can be processed into a singular Moonglow Ink, which are worth over 20 gold. Now, that isn't a massive increase in profit, but nonetheless, it is an increase. So, once it's all said and done, we now have 75 Moonglow Inks from our total hours' worth of herbalism. And these, well, they're worth 3,669 gold. And the total processing time from herbs to inks was only 7 minutes. So, the perceived gold per hour, if we adjust for the total time of an hour and 7 minutes, is actually 3,313 gold per hour, which is notably more than double the value of the herbs alone, and it just required us some level one inscription skills to do. That is, indeed, very nice. But, as I was flying around here, I was running into quite a few rare spawns out in Dun Morogh. So, let's go take a look at them. Now, there aren't a ton of rares roaming around Dun Morogh, but they do spawn pretty fast. So, much like the Elwynn rares of Theros Lightfingers, Fed Fennel, and Mother Fang, these rares tend to spawn on a 15 to 30-minute cooldown. And one rare that I see quite a bit while farming herbs and spawning just to the west of Golebor Quarry in the dense herb areas is Bjarn, a rare polar bear. And since Bjarn is so findable, we're already at about an 11 kill count on him, and he doesn't drop any wild transmog with crazy values, but a few good items in the 1 to 2,000 gold range, with the best item being the black bear hide vest. So, whenever we're around him, whenever he pops up on the rare scanner, we're definitely going to tag him. Then up to the northwest in the troll camps of Shimmer Ridge, we have Great Father Arcticus, a rare spawn troll. And while most of his items are in the 30 to 40 gold range, there is one, the Frostmane Scepter, that has a market value closer to 60,000 gold and a listed drop rate of 2%. Although, like a lot of these old world drops in these old zones that were unavailable for some time and re-added in Cataclysm, that drop rate may be artificially low based on Wowhead reporting and tracking. But, we know it's not high, and uh we got it on the first kill. So, I'll count Goldilucky and get this one on the auction house to hopefully sell it while we're still in Dun Morogh, because with current token prices, a full ticket price sale on this is pretty much a quarter of a token. But, we will likely either have to wait a long time for it to sell or cut the price and sell it a little bit faster at wholesale prices.",
+        "canonical_file": "goldbound/026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.txt",
+        "original_file": "goldbound/original-vtt/026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E026-08",
+      "name": "Bjarn rare herb-route hunt",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Dun Morogh",
+      "summary": "~11 kills, nohugeitem; Black Bear Hide Vestbest 1–2 k, targetquantityunstated.",
+      "metrics": {
+        "kills_approx": 11
+      },
+      "source": {
+        "file": "026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.vtt",
+        "cleaned_file": "goldbound/026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.txt",
+        "paragraph_start": 5,
+        "paragraph_end": 5,
+        "start_time": "00:04:11.640",
+        "quote": "And for reference, blue pigments are worth about 15 gold each right now, and this is relatively consistent across the other pigments that we can get here in Dun Morogh, such as Peacebloom to white pigment, which goes for 20 gold each. So before I farm the herbs and actually mill everything, I want to test which milling is the most profitable between classic milling and milling for housing pigments. And luckily, I do have a bit of a stockpile of some herbs, so I'm going to go ahead and mill up 100 Silverleaf, which have a base value of 200 gold, and see how much profit or loss I get from the housing pigments. And as far as the milling, there isn't much variety. 10 Silverleaf always mills down into one singular pigment, which means we're processing 20 gold worth of Silverleaf into 15 gold worth of pigment, which isn't very good. So our stack of 100 Silverleaf is now only worth 150 gold in pigments, which is a 50 gold loss. Unless the prices change wildly, the colored pigments just aren't worth it right now. However, with classic milling, the one we used back in Elwynn, the herbs of Peacebloom, Earthroot, and Silverleaf all mill into the same thing, Alabaster pigment. And luckily, milling this gives anywhere between two to four pigment per mill, and each mill only actually costs five of each herb, not 10. So the ratio is way better, and right now the price of Alabaster pigment is nine gold each. So our similar stack of 100 Silverleaf, when milled down to Alabaster pigments, goes from 200 gold to 594 gold. Even if the herbs are worth four gold each, like they can spike up to, that would be 400 gold of herbs to 594 gold of pigments, and it is definitely profitable. So, for now, the rates from 1 hour of farming, we pulled in a total of 164 Peacebloom, 232 Silverleaf, and 134 Earthroot. For a total raw trade good gold per hour, no processing yet, of 1,600. Not bad, and it beats out mining only. But, the reason I wanted to try herbalism wasn't necessarily for the raw goods, and since we unlearned mining and picked up inscription, let's get to milling. Of course, from our initial tests, we are just going straight to classic milling, and our stockpile of herbs, which is worth 1,600 gold, mills down into 349 Alabaster Pigments, which are worth 3,141 gold. A very nice profit, and this only took about 3 minutes to process, which puts the gold per hour for gathering into milling to over 3,000 gold per hour here. But, we can go a step further, because two Alabaster Pigments, which are worth nine gold each, 18 gold total, can be processed into a singular Moonglow Ink, which are worth over 20 gold. Now, that isn't a massive increase in profit, but nonetheless, it is an increase. So, once it's all said and done, we now have 75 Moonglow Inks from our total hours' worth of herbalism. And these, well, they're worth 3,669 gold. And the total processing time from herbs to inks was only 7 minutes. So, the perceived gold per hour, if we adjust for the total time of an hour and 7 minutes, is actually 3,313 gold per hour, which is notably more than double the value of the herbs alone, and it just required us some level one inscription skills to do. That is, indeed, very nice. But, as I was flying around here, I was running into quite a few rare spawns out in Dun Morogh. So, let's go take a look at them. Now, there aren't a ton of rares roaming around Dun Morogh, but they do spawn pretty fast. So, much like the Elwynn rares of Theros Lightfingers, Fed Fennel, and Mother Fang, these rares tend to spawn on a 15 to 30-minute cooldown. And one rare that I see quite a bit while farming herbs and spawning just to the west of Golebor Quarry in the dense herb areas is Bjarn, a rare polar bear. And since Bjarn is so findable, we're already at about an 11 kill count on him, and he doesn't drop any wild transmog with crazy values, but a few good items in the 1 to 2,000 gold range, with the best item being the black bear hide vest. So, whenever we're around him, whenever he pops up on the rare scanner, we're definitely going to tag him. Then up to the northwest in the troll camps of Shimmer Ridge, we have Great Father Arcticus, a rare spawn troll. And while most of his items are in the 30 to 40 gold range, there is one, the Frostmane Scepter, that has a market value closer to 60,000 gold and a listed drop rate of 2%. Although, like a lot of these old world drops in these old zones that were unavailable for some time and re-added in Cataclysm, that drop rate may be artificially low based on Wowhead reporting and tracking. But, we know it's not high, and uh we got it on the first kill. So, I'll count Goldilucky and get this one on the auction house to hopefully sell it while we're still in Dun Morogh, because with current token prices, a full ticket price sale on this is pretty much a quarter of a token. But, we will likely either have to wait a long time for it to sell or cut the price and sell it a little bit faster at wholesale prices.",
+        "canonical_file": "goldbound/026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.txt",
+        "original_file": "goldbound/original-vtt/026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.vtt"
+      },
+      "valued_drops": [
+        {
+          "item": "Black Bear Hide Vest",
+          "obtained": null,
+          "source_refs": [
+            {
+              "episode": 26,
+              "paragraph_start": 5,
+              "paragraph_end": 5,
+              "start_time": "00:04:11.640"
+            }
+          ],
+          "note": "Highlighted item in Bjarn’s quoted 1–2k loot bracket; no confirmed isolated target drop.",
+          "quote_gold": [
+            1000,
+            2000
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E026-09",
+      "name": "Great Father Arctikus Frostmane Scepter",
+      "kind": "farm",
+      "status": "successful",
+      "zone": "Dun Morogh",
+      "summary": "Firstkill 60 k Scepter,2%cited; posted, notrealized.",
+      "metrics": {
+        "first_kill_drop": true,
+        "quoted_market_gold": 60000,
+        "cited_drop_pct": 2
+      },
+      "source": {
+        "file": "026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.vtt",
+        "cleaned_file": "goldbound/026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.txt",
+        "paragraph_start": 5,
+        "paragraph_end": 6,
+        "start_time": "00:04:11.640",
+        "quote": "And for reference, blue pigments are worth about 15 gold each right now, and this is relatively consistent across the other pigments that we can get here in Dun Morogh, such as Peacebloom to white pigment, which goes for 20 gold each. So before I farm the herbs and actually mill everything, I want to test which milling is the most profitable between classic milling and milling for housing pigments. And luckily, I do have a bit of a stockpile of some herbs, so I'm going to go ahead and mill up 100 Silverleaf, which have a base value of 200 gold, and see how much profit or loss I get from the housing pigments. And as far as the milling, there isn't much variety. 10 Silverleaf always mills down into one singular pigment, which means we're processing 20 gold worth of Silverleaf into 15 gold worth of pigment, which isn't very good. So our stack of 100 Silverleaf is now only worth 150 gold in pigments, which is a 50 gold loss. Unless the prices change wildly, the colored pigments just aren't worth it right now. However, with classic milling, the one we used back in Elwynn, the herbs of Peacebloom, Earthroot, and Silverleaf all mill into the same thing, Alabaster pigment. And luckily, milling this gives anywhere between two to four pigment per mill, and each mill only actually costs five of each herb, not 10. So the ratio is way better, and right now the price of Alabaster pigment is nine gold each. So our similar stack of 100 Silverleaf, when milled down to Alabaster pigments, goes from 200 gold to 594 gold. Even if the herbs are worth four gold each, like they can spike up to, that would be 400 gold of herbs to 594 gold of pigments, and it is definitely profitable. So, for now, the rates from 1 hour of farming, we pulled in a total of 164 Peacebloom, 232 Silverleaf, and 134 Earthroot. For a total raw trade good gold per hour, no processing yet, of 1,600. Not bad, and it beats out mining only. But, the reason I wanted to try herbalism wasn't necessarily for the raw goods, and since we unlearned mining and picked up inscription, let's get to milling. Of course, from our initial tests, we are just going straight to classic milling, and our stockpile of herbs, which is worth 1,600 gold, mills down into 349 Alabaster Pigments, which are worth 3,141 gold. A very nice profit, and this only took about 3 minutes to process, which puts the gold per hour for gathering into milling to over 3,000 gold per hour here. But, we can go a step further, because two Alabaster Pigments, which are worth nine gold each, 18 gold total, can be processed into a singular Moonglow Ink, which are worth over 20 gold. Now, that isn't a massive increase in profit, but nonetheless, it is an increase. So, once it's all said and done, we now have 75 Moonglow Inks from our total hours' worth of herbalism. And these, well, they're worth 3,669 gold. And the total processing time from herbs to inks was only 7 minutes. So, the perceived gold per hour, if we adjust for the total time of an hour and 7 minutes, is actually 3,313 gold per hour, which is notably more than double the value of the herbs alone, and it just required us some level one inscription skills to do. That is, indeed, very nice. But, as I was flying around here, I was running into quite a few rare spawns out in Dun Morogh. So, let's go take a look at them. Now, there aren't a ton of rares roaming around Dun Morogh, but they do spawn pretty fast. So, much like the Elwynn rares of Theros Lightfingers, Fed Fennel, and Mother Fang, these rares tend to spawn on a 15 to 30-minute cooldown. And one rare that I see quite a bit while farming herbs and spawning just to the west of Golebor Quarry in the dense herb areas is Bjarn, a rare polar bear. And since Bjarn is so findable, we're already at about an 11 kill count on him, and he doesn't drop any wild transmog with crazy values, but a few good items in the 1 to 2,000 gold range, with the best item being the black bear hide vest. So, whenever we're around him, whenever he pops up on the rare scanner, we're definitely going to tag him. Then up to the northwest in the troll camps of Shimmer Ridge, we have Great Father Arcticus, a rare spawn troll. And while most of his items are in the 30 to 40 gold range, there is one, the Frostmane Scepter, that has a market value closer to 60,000 gold and a listed drop rate of 2%. Although, like a lot of these old world drops in these old zones that were unavailable for some time and re-added in Cataclysm, that drop rate may be artificially low based on Wowhead reporting and tracking. But, we know it's not high, and uh we got it on the first kill. So, I'll count Goldilucky and get this one on the auction house to hopefully sell it while we're still in Dun Morogh, because with current token prices, a full ticket price sale on this is pretty much a quarter of a token. But, we will likely either have to wait a long time for it to sell or cut the price and sell it a little bit faster at wholesale prices.",
+        "canonical_file": "goldbound/026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.txt",
+        "original_file": "goldbound/original-vtt/026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E026-10",
+      "name": "Timber White Wolf Gloves hunt",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Dun Morogh",
+      "summary": "20–30 kgloves 2%cited, targetnotconfirmed.",
+      "metrics": {
+        "quoted_gold_range": [
+          20000,
+          30000
+        ],
+        "cited_drop_pct": 2
+      },
+      "source": {
+        "file": "026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.vtt",
+        "cleaned_file": "goldbound/026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.txt",
+        "paragraph_start": 6,
+        "paragraph_end": 6,
+        "start_time": "00:09:06.880",
+        "quote": "Either way, Great Father is off the target list for now, but of course, anytime I'm flying over and I see him, I'll tag him. And then a little further to the west, getting into Tinkertown now, there's Timber, a rare wolf who drops the white wolf gloves. These have a cool name and are worth about 20 to 30,000 gold if we can get them to drop at the 2% listed drop rate. But, to be honest, I'm a little more interested in farming the wolves around him, but more on that later. Because just a tad bit to the west is the weaponized rabbit, an interesting mechanical rare. This guy not only drops a few good items like the durable tunic, which is worth about 12,000 gold and a handful of other transmogs in the 4 to 7,000 gold range.",
+        "canonical_file": "goldbound/026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.txt",
+        "original_file": "goldbound/original-vtt/026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E026-11",
+      "name": "Weaponized Rabbit rare",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Dun Morogh",
+      "summary": "Durable Tunic 12 k/other 4–7 kgear; mechanical Huntertameonlyproposal, notownattempt.",
+      "metrics": {},
+      "source": {
+        "file": "026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.vtt",
+        "cleaned_file": "goldbound/026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.txt",
+        "paragraph_start": 6,
+        "paragraph_end": 7,
+        "start_time": "00:09:06.880",
+        "quote": "Either way, Great Father is off the target list for now, but of course, anytime I'm flying over and I see him, I'll tag him. And then a little further to the west, getting into Tinkertown now, there's Timber, a rare wolf who drops the white wolf gloves. These have a cool name and are worth about 20 to 30,000 gold if we can get them to drop at the 2% listed drop rate. But, to be honest, I'm a little more interested in farming the wolves around him, but more on that later. Because just a tad bit to the west is the weaponized rabbit, an interesting mechanical rare. This guy not only drops a few good items like the durable tunic, which is worth about 12,000 gold and a handful of other transmogs in the 4 to 7,000 gold range.",
+        "canonical_file": "goldbound/026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.txt",
+        "original_file": "goldbound/original-vtt/026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.vtt"
+      },
+      "valued_drops": [
+        {
+          "item": "Durable Tunic",
+          "obtained": null,
+          "source_refs": [
+            {
+              "episode": 26,
+              "paragraph_start": 6,
+              "paragraph_end": 6,
+              "start_time": "00:09:06.880"
+            }
+          ],
+          "note": "Weaponized Rabbit loot target; no individual drop count stated.",
+          "quote_gold": 12000
+        }
+      ]
+    },
+    {
+      "id": "E026-12",
+      "name": "Gibblewilt Foreman vest/pants hunt",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Dun Morogh",
+      "summary": "Repeatedkillsnodrops;1.2%eachcited, herbroutechecks.",
+      "metrics": {
+        "cited_each_drop_pct": 1.2,
+        "target_drops": 0
+      },
+      "source": {
+        "file": "026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.vtt",
+        "cleaned_file": "goldbound/026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.txt",
+        "paragraph_start": 7,
+        "paragraph_end": 7,
+        "start_time": "00:09:49.400",
+        "quote": "He's also a bit unique because although he's mechanical, he's actually a tameable pet for hunters. So, any hunter gold bound challengers starting off in Dun Morogh, you might want to check this one out. Which leads us to the last rare of both Tinkertown and Dun Morogh. This is literally all of them in the whole zone. He's down to the south of Tinkertown in the toxic airfield. He's a leper gnome by the name of Gibblewilt, and he must be a foreman not just because he's barking orders, but because of his drops. The foreman pants and the foreman vest. Both of these items have a pretty solid value and are pretty rare, but not impossible. They're listed at a drop rate of 1.2% each, so it's definitely gettable. We haven't gotten it yet and we've tagged him a quite a few times, but we do fly right over this airfield during herb loops, so we're getting him quite a bit more. And between herb loops and the milling, no more getting runs and these rares, we're starting to have a pretty good setup for consistent gold and some rare transmog chances. So, if we get a little bit lucky on sales and drops, we might just be seeing a new zone spin sooner than we expected. Which gets me thinking, does the Dun Morogh unlock actually put any new zones onto the randomizer? Well, the only possible one I think would be Wetlands. The only issue is that the access to Wetlands from Dun Morogh, we have to go through one of the mountain passes, some of which lead directly into Loch Modan or possibly other off-limit zones. And after some research on my main path to avoid an accidental zone unlock here on Goldie, it seems like whichever way you go through the pass, you do either step directly into Loch Modan or the location of the pass at some point updates to Loch Modan and you discover it either way before you can actually get to the Wetlands. So, Wetlands will still be gated behind Loch Modan, which does mean the randomizer for the next unlock doesn't actually get a new zone, and we still have the options for Loch Modan, which of course is the gateway to the north, the Badlands, home to Uldaman, and then to the south, we're still rolling for Deadwind Pass, a meme zone, Blasted Lands of course, and then the Kalimdor unlock through the Barrens. So, there are some pretty interesting zones on the horizon for some spins. And one subzone here in Dun Morogh that we haven't paid much attention to, well, it's Coldridge Valley, the Northshire Abbey of the dwarves and the OG starting zone for gnomes. Now, for trade skills and trade goods, there isn't much to do here. It is a level one to six zone, so there's no herbs, no ores, and if you kill beasts, you can't even skin them here. But, there are some old items on the loot tables, items that were once available in Classic and Burning Crusade, which were then taken out of the game and unavailable for quite some time. This, of course, increased the price, but they have since been put back on the loot tables. And with avid collectors for collection logs and just transmog for whites becoming baseline, their value is real, and their drop rates, well, they're low. So, let's break this down. I have a shopping list for Goldie, which is basically just a list of all these items here that have some decent value and are rare, and I'm going to systematically farm them until I have them all. So, first up, let's head to the Frostmane trolls. And in the Frostmane hovel, the cave, we have the Frostmane blades, which luckily for us are actually on a hyper spawn here in this cave, killing them aimlessly and looting. So, let's update the boar target macro for heat-seeking Frostmanes and get to farming, because these guys, well, they have the Frostmane shortsword, and this white weapon has a market value of 16,000 gold and a drop rate from the blades at about 0.6%, which is low, but we can farm these guys unlimitedly and endlessly. So, we can stick around the cave and farm up a couple because to be honest, my plan isn't to get one of these and try to sell it for 16,000 gold full market price over the next couple of months. My plan is to get a few and sell them for wholesale prices because these items that have a high market value on TradeSkillMaster, most of them, if we post for 10 to 15% the posted market value, we will likely get purchased and bought out by auction house gold goblin snipers who are scanning for transmog or trade goods to flip. It's a bit of a win-win. They get a valuable long-term flip for a steal of a deal and Goldie gets an influx of cash sooner than later. Now, this isn't a sure fire way to do it. Generally speaking, a 10% price on transmog after a couple listings, it's probably getting bought out. Of course, once we're out of Dun Morogh and into other zones, if we have any of these left over, I'll just put them back into my regular market value transmog operations.",
+        "canonical_file": "goldbound/026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.txt",
+        "original_file": "goldbound/original-vtt/026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E026-13",
+      "name": "Wetlands pass main-character scout",
+      "kind": "experiment",
+      "status": "confirmed",
+      "zone": "Loch Modan / Dun Morogh",
+      "summary": "Allintendedroutesdiscover Loch Modanfirst, confirms Wetlandslocked; not Goldiefarm.",
+      "metrics": {},
+      "source": {
+        "file": "026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.vtt",
+        "cleaned_file": "goldbound/026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.txt",
+        "paragraph_start": 7,
+        "paragraph_end": 7,
+        "start_time": "00:09:49.400",
+        "quote": "He's also a bit unique because although he's mechanical, he's actually a tameable pet for hunters. So, any hunter gold bound challengers starting off in Dun Morogh, you might want to check this one out. Which leads us to the last rare of both Tinkertown and Dun Morogh. This is literally all of them in the whole zone. He's down to the south of Tinkertown in the toxic airfield. He's a leper gnome by the name of Gibblewilt, and he must be a foreman not just because he's barking orders, but because of his drops. The foreman pants and the foreman vest. Both of these items have a pretty solid value and are pretty rare, but not impossible. They're listed at a drop rate of 1.2% each, so it's definitely gettable. We haven't gotten it yet and we've tagged him a quite a few times, but we do fly right over this airfield during herb loops, so we're getting him quite a bit more. And between herb loops and the milling, no more getting runs and these rares, we're starting to have a pretty good setup for consistent gold and some rare transmog chances. So, if we get a little bit lucky on sales and drops, we might just be seeing a new zone spin sooner than we expected. Which gets me thinking, does the Dun Morogh unlock actually put any new zones onto the randomizer? Well, the only possible one I think would be Wetlands. The only issue is that the access to Wetlands from Dun Morogh, we have to go through one of the mountain passes, some of which lead directly into Loch Modan or possibly other off-limit zones. And after some research on my main path to avoid an accidental zone unlock here on Goldie, it seems like whichever way you go through the pass, you do either step directly into Loch Modan or the location of the pass at some point updates to Loch Modan and you discover it either way before you can actually get to the Wetlands. So, Wetlands will still be gated behind Loch Modan, which does mean the randomizer for the next unlock doesn't actually get a new zone, and we still have the options for Loch Modan, which of course is the gateway to the north, the Badlands, home to Uldaman, and then to the south, we're still rolling for Deadwind Pass, a meme zone, Blasted Lands of course, and then the Kalimdor unlock through the Barrens. So, there are some pretty interesting zones on the horizon for some spins. And one subzone here in Dun Morogh that we haven't paid much attention to, well, it's Coldridge Valley, the Northshire Abbey of the dwarves and the OG starting zone for gnomes. Now, for trade skills and trade goods, there isn't much to do here. It is a level one to six zone, so there's no herbs, no ores, and if you kill beasts, you can't even skin them here. But, there are some old items on the loot tables, items that were once available in Classic and Burning Crusade, which were then taken out of the game and unavailable for quite some time. This, of course, increased the price, but they have since been put back on the loot tables. And with avid collectors for collection logs and just transmog for whites becoming baseline, their value is real, and their drop rates, well, they're low. So, let's break this down. I have a shopping list for Goldie, which is basically just a list of all these items here that have some decent value and are rare, and I'm going to systematically farm them until I have them all. So, first up, let's head to the Frostmane trolls. And in the Frostmane hovel, the cave, we have the Frostmane blades, which luckily for us are actually on a hyper spawn here in this cave, killing them aimlessly and looting. So, let's update the boar target macro for heat-seeking Frostmanes and get to farming, because these guys, well, they have the Frostmane shortsword, and this white weapon has a market value of 16,000 gold and a drop rate from the blades at about 0.6%, which is low, but we can farm these guys unlimitedly and endlessly. So, we can stick around the cave and farm up a couple because to be honest, my plan isn't to get one of these and try to sell it for 16,000 gold full market price over the next couple of months. My plan is to get a few and sell them for wholesale prices because these items that have a high market value on TradeSkillMaster, most of them, if we post for 10 to 15% the posted market value, we will likely get purchased and bought out by auction house gold goblin snipers who are scanning for transmog or trade goods to flip. It's a bit of a win-win. They get a valuable long-term flip for a steal of a deal and Goldie gets an influx of cash sooner than later. Now, this isn't a sure fire way to do it. Generally speaking, a 10% price on transmog after a couple listings, it's probably getting bought out. Of course, once we're out of Dun Morogh and into other zones, if we have any of these left over, I'll just put them back into my regular market value transmog operations.",
+        "canonical_file": "goldbound/026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.txt",
+        "original_file": "goldbound/original-vtt/026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E026-14",
+      "name": "Coldridge Frostmane Blade shortsword farm",
+      "kind": "farm",
+      "status": "successful",
+      "zone": "Dun Morogh",
+      "summary": "Hovelmacroforcedspawngets 5 shortswords;16 kmarket 0.6%cited, wholesale 10–15%strategy.",
+      "metrics": {
+        "Frostmane Shortsword": 5,
+        "quoted_market_gold": 16000,
+        "cited_drop_pct": 0.6
+      },
+      "source": {
+        "file": "026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.vtt",
+        "cleaned_file": "goldbound/026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.txt",
+        "paragraph_start": 7,
+        "paragraph_end": 8,
+        "start_time": "00:09:49.400",
+        "quote": "He's also a bit unique because although he's mechanical, he's actually a tameable pet for hunters. So, any hunter gold bound challengers starting off in Dun Morogh, you might want to check this one out. Which leads us to the last rare of both Tinkertown and Dun Morogh. This is literally all of them in the whole zone. He's down to the south of Tinkertown in the toxic airfield. He's a leper gnome by the name of Gibblewilt, and he must be a foreman not just because he's barking orders, but because of his drops. The foreman pants and the foreman vest. Both of these items have a pretty solid value and are pretty rare, but not impossible. They're listed at a drop rate of 1.2% each, so it's definitely gettable. We haven't gotten it yet and we've tagged him a quite a few times, but we do fly right over this airfield during herb loops, so we're getting him quite a bit more. And between herb loops and the milling, no more getting runs and these rares, we're starting to have a pretty good setup for consistent gold and some rare transmog chances. So, if we get a little bit lucky on sales and drops, we might just be seeing a new zone spin sooner than we expected. Which gets me thinking, does the Dun Morogh unlock actually put any new zones onto the randomizer? Well, the only possible one I think would be Wetlands. The only issue is that the access to Wetlands from Dun Morogh, we have to go through one of the mountain passes, some of which lead directly into Loch Modan or possibly other off-limit zones. And after some research on my main path to avoid an accidental zone unlock here on Goldie, it seems like whichever way you go through the pass, you do either step directly into Loch Modan or the location of the pass at some point updates to Loch Modan and you discover it either way before you can actually get to the Wetlands. So, Wetlands will still be gated behind Loch Modan, which does mean the randomizer for the next unlock doesn't actually get a new zone, and we still have the options for Loch Modan, which of course is the gateway to the north, the Badlands, home to Uldaman, and then to the south, we're still rolling for Deadwind Pass, a meme zone, Blasted Lands of course, and then the Kalimdor unlock through the Barrens. So, there are some pretty interesting zones on the horizon for some spins. And one subzone here in Dun Morogh that we haven't paid much attention to, well, it's Coldridge Valley, the Northshire Abbey of the dwarves and the OG starting zone for gnomes. Now, for trade skills and trade goods, there isn't much to do here. It is a level one to six zone, so there's no herbs, no ores, and if you kill beasts, you can't even skin them here. But, there are some old items on the loot tables, items that were once available in Classic and Burning Crusade, which were then taken out of the game and unavailable for quite some time. This, of course, increased the price, but they have since been put back on the loot tables. And with avid collectors for collection logs and just transmog for whites becoming baseline, their value is real, and their drop rates, well, they're low. So, let's break this down. I have a shopping list for Goldie, which is basically just a list of all these items here that have some decent value and are rare, and I'm going to systematically farm them until I have them all. So, first up, let's head to the Frostmane trolls. And in the Frostmane hovel, the cave, we have the Frostmane blades, which luckily for us are actually on a hyper spawn here in this cave, killing them aimlessly and looting. So, let's update the boar target macro for heat-seeking Frostmanes and get to farming, because these guys, well, they have the Frostmane shortsword, and this white weapon has a market value of 16,000 gold and a drop rate from the blades at about 0.6%, which is low, but we can farm these guys unlimitedly and endlessly. So, we can stick around the cave and farm up a couple because to be honest, my plan isn't to get one of these and try to sell it for 16,000 gold full market price over the next couple of months. My plan is to get a few and sell them for wholesale prices because these items that have a high market value on TradeSkillMaster, most of them, if we post for 10 to 15% the posted market value, we will likely get purchased and bought out by auction house gold goblin snipers who are scanning for transmog or trade goods to flip. It's a bit of a win-win. They get a valuable long-term flip for a steal of a deal and Goldie gets an influx of cash sooner than later. Now, this isn't a sure fire way to do it. Generally speaking, a 10% price on transmog after a couple listings, it's probably getting bought out. Of course, once we're out of Dun Morogh and into other zones, if we have any of these left over, I'll just put them back into my regular market value transmog operations.",
+        "canonical_file": "goldbound/026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.txt",
+        "original_file": "goldbound/original-vtt/026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E026-15",
+      "name": "Frostmane Whelp kill-and-pickpocket hour",
+      "kind": "farm",
+      "status": "successful",
+      "zone": "Dun Morogh",
+      "summary": "~onehourthreecampsgives Leather Vest, Clubandpocket Chain Vestwithmultiplecopiesunspecified. Chain 0.6%30–50 k, killitems<2%cited.",
+      "metrics": {
+        "minutes_approx": 60,
+        "Frostmane Chain Vest_cited_pct": 0.6,
+        "Chain Vest_quoted_gold_range": [
+          30000,
+          50000
+        ]
+      },
+      "source": {
+        "file": "026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.vtt",
+        "cleaned_file": "goldbound/026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.txt",
+        "paragraph_start": 8,
+        "paragraph_end": 9,
+        "start_time": "00:14:24.960",
+        "quote": "While we're here, we may as well use every angle we have. So, to stockpile, I got five of them. And let's move on to the next target, which is still Frostmane trolls, but now just outside the cave because here there's camps of Frostmane troll whelps, our second target. And these guys have a few things going for them. On their loot tables are both the Frostmane leather vest and the Frostmane club. Both of these clock in below the 2% drop rate and with market values that could definitely make some progress through the zones. And there're only about three camps of them as well, which are also on a forced spawn, so we can cycle through them relatively quickly, respawn them, and kill them, and log a lot of kills per hour. But killing and looting isn't all they have to offer because these guys, well, they have something in their pocketses, a rogue only pickpocketing farm. So, while pickpocketing, on a similarly low drop rate at 0.6%, we can actually get the Frost main chain vest. And this, like the other items we're farming, has its insane value because of its rarity, collectors, and the fact that it was removed from the game for a while. So, you better believe we're trying to pickpocket these trolls for the chance at the 30 to 50,000 gold market value that the chest holds. So, every troll is a pickpocket and a kill and loot. Three chances at loot per each troll. I like those odds. And while the .6% drop rates are kind of low, when we can farm mobs indefinitely like this, it isn't too troublesome to actually get a few drops.",
+        "canonical_file": "goldbound/026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.txt",
+        "original_file": "goldbound/original-vtt/026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E026-16",
+      "name": "Rockjaw Scavenger/Goon Trogg Dagger farm",
+      "kind": "farm",
+      "status": "successful",
+      "zone": "Dun Morogh",
+      "summary": "~500 killsstockdaggers,15–24 kmarket; exactquantityunstated.",
+      "metrics": {
+        "kills_approx": 500,
+        "quoted_gold_range": [
+          15000,
+          24000
+        ]
+      },
+      "source": {
+        "file": "026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.vtt",
+        "cleaned_file": "goldbound/026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.txt",
+        "paragraph_start": 9,
+        "paragraph_end": 9,
+        "start_time": "00:15:54.800",
+        "quote": "And with that, the Frost main chain vest, the leather vest, and the club, and a few copies of some of them are all safely into Gold Digger's bag after just about an hour of farming. These gold goblin snipers aren't going to know what hit them. So, that's probably all for Coldridge Valley, right? Ah, nope. Over to the troggs. We have another rare white item. This one can be dropped from the rock jaw scavengers and the rock jagoons. And it's the trogg dagger. It has a value of 15,000 to 24,000 gold. Yep, that's right. So, updating the board target macro here for another round of killing. And just like that, about 500 kills in, the bags are stocked with some trogg daggers as well.",
+        "canonical_file": "goldbound/026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.txt",
+        "original_file": "goldbound/original-vtt/026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E026-17",
+      "name": "Coldridge Pass Rockjaw Raider weapon farm",
+      "kind": "farm",
+      "status": "successful",
+      "zone": "Dun Morogh",
+      "summary": "Forcedspawncorridorgets Bladeand Hand Axe;1.6%/0.4%cited, slowergapsthanvalley. Lists 800–5000 actualsaleavgnotfullmarket.",
+      "metrics": {
+        "Blade_cited_pct": 1.6,
+        "Hand Axe_cited_pct": 0.4
+      },
+      "source": {
+        "file": "026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.vtt",
+        "cleaned_file": "goldbound/026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.txt",
+        "paragraph_start": 10,
+        "paragraph_end": 11,
+        "start_time": "00:16:37.560",
+        "quote": "And to be honest, I'm starting to think Coldridge Valley is more of a gold mine than the rest of Dun Morogh. At least, if we can sell some of these items off for even a fraction of the market value, I think we're going to be in a really good position. Especially considering that the WoW token price is is still pretty low following the recent release of Midnight. Right now, it's about 230,000 gold and pretty consistently the last few times I checked. I honestly thought Dun Morogh might be a month or two to get through, but with the help of Golden Path, the crafting alt who is now churning out bear skin rugs and sconces, we might be able to see some progress a little sooner here. But before we get ahead of ourselves, there is still one more mob here in Coldridge Valley that I I to farm. Well, technically it's on the way out of Coldridge Valley, over in Coldridge Pass, which brings travelers from the valley into Dun Morogh. And there are a few troggs on the way, the Rockjaw Raiders. And do they have loots?",
+        "canonical_file": "goldbound/026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.txt",
+        "original_file": "goldbound/original-vtt/026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E026-18",
+      "name": "Goldenpath Sconce and Bearskin restock",
+      "kind": "experiment",
+      "status": "sales_confirmed",
+      "zone": "Dun Morogh",
+      "summary": "Permanentaltcraftsstock; Sconces 7500–12500 quote, rugs 3000–8000; manysellbyend, unitdetailsnotisolated.",
+      "metrics": {
+        "quoted_sconce_gold_range": [
+          7500,
+          12500
+        ],
+        "quoted_rug_gold_range": [
+          3000,
+          8000
+        ]
+      },
+      "source": {
+        "file": "026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.vtt",
+        "cleaned_file": "goldbound/026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.txt",
+        "paragraph_start": 10,
+        "paragraph_end": 14,
+        "start_time": "00:16:37.560",
+        "quote": "And to be honest, I'm starting to think Coldridge Valley is more of a gold mine than the rest of Dun Morogh. At least, if we can sell some of these items off for even a fraction of the market value, I think we're going to be in a really good position. Especially considering that the WoW token price is is still pretty low following the recent release of Midnight. Right now, it's about 230,000 gold and pretty consistently the last few times I checked. I honestly thought Dun Morogh might be a month or two to get through, but with the help of Golden Path, the crafting alt who is now churning out bear skin rugs and sconces, we might be able to see some progress a little sooner here. But before we get ahead of ourselves, there is still one more mob here in Coldridge Valley that I I to farm. Well, technically it's on the way out of Coldridge Valley, over in Coldridge Pass, which brings travelers from the valley into Dun Morogh. And there are a few troggs on the way, the Rockjaw Raiders. And do they have loots?",
+        "canonical_file": "goldbound/026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.txt",
+        "original_file": "goldbound/original-vtt/026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E026-19",
+      "name": "Winter Wolf Snowy Robe hunt",
+      "kind": "farm",
+      "status": "successful",
+      "zone": "Dun Morogh",
+      "summary": "~20 wolvesnonforcedspawnslowcamp; Snowy Robeobtained 0.3%cited,10 ksaleaverage 50–60 kmarket.",
+      "metrics": {
+        "Snowy Robe": 1,
+        "cited_drop_pct": 0.3,
+        "quoted_sale_gold": 10000,
+        "quoted_market_gold_range": [
+          50000,
+          60000
+        ]
+      },
+      "source": {
+        "file": "026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.vtt",
+        "cleaned_file": "goldbound/026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.txt",
+        "paragraph_start": 11,
+        "paragraph_end": 12,
+        "start_time": "00:17:29.120",
+        "quote": "Well, of course. Two items of note, actually, the Rockjaw Blade and the Rockjaw Hand Axe. 1.6% and 0.4% drop rates, respectively. And luckily, like the rest of the mobs, these troggs are on a forced spawn in the cave. So, if you run back and forth from the front to the entrance, killing them over and over, they just keep on spawning. But these guys did take a little bit longer to farm up on the items. They have a lower drop rate, and they're just further and further apart than the troggs in Coldridge. But rest assured, both the trogg hand axe and the Rockjaw Blade are obtained. And looking at Goldie's bags, we are stockpiled to the brim with value. And it might seem like every light item here just has a bunch of fake value. And while I don't think we're going to get full market value for any of these items anytime soon, if we take a look at the average sale prices, these items are consistently having an actual sale for 800 to 5,000 gold, depending on the item. So, this is more so the price range that I'll be listing at while we're here in Dun Morogh. And well, I guess we'll just have to wait and see for the mailbox clear to see how they fare. And there are a few more mobs with solid white items to farm out here in Dun Morogh, as well. But before we get into that, let's check into the crafting alts and go over what I've been doing with them. So, for the most part, I've just been logging into this character for crafts. There aren't any recipes at the moment that I want to farm on the alt as far as soulbound recipe drops, and all the actual farming for materials, that's happening over on Goldie. Luckily, from a blacksmithing perspective, I did have some dark iron ore stocked up before dropping mining on Goldie, like we talked about. So, we crafted up a few extra sconces to sell, and the average sale price on these is pretty solid right now, with sales anywhere between 7,500 and 12,500 gold per sconce. So, a couple of those ticking off would be massive. And a similar story for leather working as well. With the Loch Modan bear skin rugs, these are hovering between 3 and 8,000 gold right now, depending on the time. So, as long as I can keep gold defeating the mats, and maybe more importantly, the lumber, Golden Path will keep these stocked. And as far as crafts right now, it's really just the decor that will have the highest sale rate and generate the most value towards the unlock. So, as best I can, I'm trying to keep these stocked up and listed. So, let's jump back onto Goldie because there are a few more white items out in Dun Morogh that I've added to the farm target. The first one, from the Winter Wolves, just beside the rare timber, is a rare unique appearance drop. The drop rate is quite low at 0.3%, but the item, well, it's worth the farm.",
+        "canonical_file": "goldbound/026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.txt",
+        "original_file": "goldbound/original-vtt/026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E026-20",
+      "name": "Scarred Crag Boar Lumberjack Jerkin restock",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Dun Morogh",
+      "summary": "Prior 2 jerkinsbothsold~2000 g; returnsfornewstock, numbernotstated.",
+      "metrics": {
+        "prior_confirmed_quantity": 2,
+        "prior_unit_sale_gold_approx": 2000
+      },
+      "source": {
+        "file": "026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.vtt",
+        "cleaned_file": "goldbound/026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.txt",
+        "paragraph_start": 12,
+        "paragraph_end": 13,
+        "start_time": "00:19:55.920",
+        "quote": "The snowy robe. And its average sale price is close to 10,000 gold with a market value up to 50 to 60,000 gold. With the higher price, it comes with a cost. And although these wolves can be found around the frozen lake here, they're not actually forced spawn. So, we can kill about 20 of them, but then we have to wait for the regular respawn before we're clearing them again. They don't hyper spawn. So, this massively slows down the kills per hour and makes the snowy robe a little bit harder to get. But, uh we got it. We can always get a few more. And there are actually quite a few more white items with serious value hiding in Dun Morogh, but the one I want to go farm now, we actually got last episode by accident while killing the scarred crag boars for light leather.",
+        "canonical_file": "goldbound/026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.txt",
+        "original_file": "goldbound/original-vtt/026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.vtt"
+      },
+      "additional_values": [
+        {
+          "value": 2000,
+          "label": "Prior unit sale",
+          "basis": "About 2,000g each from two prior jerkins; the restock run was not timed.",
+          "unit": "g",
+          "kind": "sale",
+          "source_refs": [
+            {
+              "episode": 26,
+              "paragraph_start": 13,
+              "paragraph_end": 13,
+              "start_time": "00:20:38.960"
+            }
+          ],
+          "approx": true
+        }
+      ]
+    },
+    {
+      "id": "E026-21",
+      "name": "Gnomeregan additional runs and disenchant",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Gnomeregan",
+      "summary": "Morehoursraretargets, nosuperitem; unwantedgreens DEintomailmaterials.",
+      "metrics": {},
+      "source": {
+        "file": "026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.vtt",
+        "cleaned_file": "goldbound/026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.txt",
+        "paragraph_start": 13,
+        "paragraph_end": 13,
+        "start_time": "00:20:38.960",
+        "quote": "So, during that farm, we actually got the lumberjack jerkin, which turns out to be a white item on their loot tables. Two copies of it actually last week, and I noticed in the mailbox clear that we actually sold both of them for about 2,000 gold each. So, you better believe I'm stocking up on a few more. This is yet again a Dun Morogh white item with its own unique appearance. And has a market value to show for it. So, I'll post up here for a while to try to snag a few more lumberjack jerkins just to line the auction shelves and hopefully to line the mailbox clear. And speaking of which, with all of these new items from the farm list and on the shelves now, and with quite a few extra hours spent farming normal again, although still no super item drops to show for it, I think it's time we run a mailbox clear to see where the tally is standing. And from last week, our first week in Dun Morogh, we're sitting at just over 50,000 gold, and with the WoW token at 230k this week, we're about 180,000 gold away. So if we get some good sales, we may just have a new token this week, or we'll see how close we get. Now, from trade goods this week, we did some herb and pigment farming, but we didn't really log too many hours on Goldie for trade goods. With all the transmog to be found here, I did spend most of my time doing that, and well, the mailbox shows for it. We have our copper bars selling, which is good, and a pile of moon glow ink as well, but the rest is pretty much just disenchanting fodder, mostly from our normal organ runs, disenchanting the greens that we don't want to sell, and then just some leftover mats as well. So let's get this looted up and see where we're at.",
+        "canonical_file": "goldbound/026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.txt",
+        "original_file": "goldbound/original-vtt/026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E026-22",
+      "name": "Lumberjack Jerkin and Moonglow realized sales",
+      "kind": "sales",
+      "status": "sales_confirmed",
+      "zone": "Dun Morogh",
+      "summary": "Jerkin 4200 gandanotherunstated; Knots, inks, copperbars, rugs, sconcessell.16000 tradegoods 44000 decor/transmog, totalover 115000.",
+      "metrics": {
+        "Jerkin_sale_gold": 4200,
+        "tradegoods_cash_gold": 16000,
+        "decor_transmog_cash_gold_lower_bound": 44000,
+        "cash_gold_lower_bound": 115000
+      },
+      "source": {
+        "file": "026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.vtt",
+        "cleaned_file": "goldbound/026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.txt",
+        "paragraph_start": 13,
+        "paragraph_end": 15,
+        "start_time": "00:20:38.960",
+        "quote": "So, during that farm, we actually got the lumberjack jerkin, which turns out to be a white item on their loot tables. Two copies of it actually last week, and I noticed in the mailbox clear that we actually sold both of them for about 2,000 gold each. So, you better believe I'm stocking up on a few more. This is yet again a Dun Morogh white item with its own unique appearance. And has a market value to show for it. So, I'll post up here for a while to try to snag a few more lumberjack jerkins just to line the auction shelves and hopefully to line the mailbox clear. And speaking of which, with all of these new items from the farm list and on the shelves now, and with quite a few extra hours spent farming normal again, although still no super item drops to show for it, I think it's time we run a mailbox clear to see where the tally is standing. And from last week, our first week in Dun Morogh, we're sitting at just over 50,000 gold, and with the WoW token at 230k this week, we're about 180,000 gold away. So if we get some good sales, we may just have a new token this week, or we'll see how close we get. Now, from trade goods this week, we did some herb and pigment farming, but we didn't really log too many hours on Goldie for trade goods. With all the transmog to be found here, I did spend most of my time doing that, and well, the mailbox shows for it. We have our copper bars selling, which is good, and a pile of moon glow ink as well, but the rest is pretty much just disenchanting fodder, mostly from our normal organ runs, disenchanting the greens that we don't want to sell, and then just some leftover mats as well. So let's get this looted up and see where we're at.",
+        "canonical_file": "goldbound/026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.txt",
+        "original_file": "goldbound/original-vtt/026 - The Quest To Optimize Our Dun Morogh Gold Farms - Goldbound 25.en-orig.vtt"
+      }
+    }
+  ]
+}

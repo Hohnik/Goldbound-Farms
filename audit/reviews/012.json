@@ -1,0 +1,419 @@
+{
+  "source_id": 12,
+  "source_file": "012 - Is This Zone A Skinning PARADISE？ - Goldbound Episode 12.en-orig.vtt",
+  "cleaned_file": "goldbound/012 - Is This Zone A Skinning PARADISE？ - Goldbound Episode 12.en-orig.txt",
+  "full_text_reviewed": true,
+  "paragraph_count": 31,
+  "records": [
+    {
+      "id": "E012-01",
+      "name": "Shifting Mire Glob Disgusting Oozeling test",
+      "kind": "experiment",
+      "status": "failed",
+      "zone": "Swamp of Sorrows",
+      "summary": "Over 100 kills at 72 without Chromie Time gives 0 Oozing Bags. Community 40–49 scaling requirement cited not tested on alt;0.112%pet estimate from 8%bag×1.4%inside.",
+      "metrics": {
+        "kills_lower_bound": 100,
+        "Oozing Bag": 0,
+        "character_level": 72,
+        "cited_bag_pct": 8,
+        "cited_pet_per_bag_pct": 1.4,
+        "estimated_pet_per_kill_pct": 0.112
+      },
+      "source": {
+        "file": "012 - Is This Zone A Skinning PARADISE？ - Goldbound Episode 12.en-orig.vtt",
+        "cleaned_file": "goldbound/012 - Is This Zone A Skinning PARADISE？ - Goldbound Episode 12.en-orig.txt",
+        "paragraph_start": 2,
+        "paragraph_end": 5,
+        "start_time": "00:01:34.280",
+        "quote": "We'll spin the wheel and see where Goldilocks is heading next. And it's Swamp of Sorrows. Well then, it looks like this episode might be titled Swamp Alerix. So, it's time to head into the zone, take a first look around, and to get our bearings. Of course, we're still dressed in that gear from Burning Steppes. So, let's swap in something a little more swamp appropriate. And as you know, we've been gathering up the traveler set, and we have it stashed away in the bank. But actually, the green tint fits the zone of the swamp pretty well. I mean, sure, we're still missing the chest piece, but honestly, I think the top list look kind of works, a little bit of a barbarian style. But now on to the real task, the gold farms. And the first one that jumps out here is the Disgusting Oozeling.",
+        "canonical_file": "goldbound/012 - Is This Zone A Skinning PARADISE？ - Goldbound Episode 12.en-orig.txt",
+        "original_file": "goldbound/original-vtt/012 - Is This Zone A Skinning PARADISE？ - Goldbound Episode 12.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E012-02",
+      "name": "Oozeling targeting macro adjustment",
+      "kind": "experiment",
+      "status": "performed",
+      "zone": "Swamp of Sorrows",
+      "summary": "Fixes target/pistol macro for multiple globs; sponsor coding material excluded.",
+      "metrics": {},
+      "source": {
+        "file": "012 - Is This Zone A Skinning PARADISE？ - Goldbound Episode 12.en-orig.vtt",
+        "cleaned_file": "goldbound/012 - Is This Zone A Skinning PARADISE？ - Goldbound Episode 12.en-orig.txt",
+        "paragraph_start": 4,
+        "paragraph_end": 5,
+        "start_time": "00:03:03.480",
+        "quote": "But if we're going to pull this off, we'll need to grind through a lot of these slimy little guys. And since we have attached this out, let's go ahead and make a macro to target the Oozelings and cast pistol shot. Hmm. We're getting an error message, but I don't know why. If only I had some coding experience. Well, thanks to the sponsor of today's video, boot.dev, now I can. boot.dev gamifies learning backend web and game development from scratch using Python, SQL, and Go. We're talking XP, quests, and rewards. I've been playing around with it, and even a traveler like myself, whose coding experience is limited / target macros in World of Warcraft, I found it surprisingly easy to jump in. So, if you've ever wanted to learn programming, whether for future game development or remote work opportunities, boot.dev has courses and built-in solutions when you need them. And the boot.dev Discord community is full of real humans ready to help if you get stuck. Now, all the content is actually free and ready to watch, but a paid membership unlocks the hands-on coding, AI assistance, progress tracking, and full-on game mechanics.",
+        "canonical_file": "goldbound/012 - Is This Zone A Skinning PARADISE？ - Goldbound Episode 12.en-orig.txt",
+        "original_file": "goldbound/original-vtt/012 - Is This Zone A Skinning PARADISE？ - Goldbound Episode 12.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E012-03",
+      "name": "Sunken Temple full-clear skinning hour",
+      "kind": "farm",
+      "status": "measured",
+      "zone": "Swamp of Sorrows",
+      "summary": "7 clears/hour;71 Runecloth,257 Thick Leather,295 Rugged Leather,18 Green Dragonscales, White scales 357 g andhides 50 g.4900 gmaterials plus 10000 transmog valuation; no rare BOEblues.",
+      "metrics": {
+        "minutes": 60,
+        "runs": 7,
+        "Runecloth": 71,
+        "Thick Leather": 257,
+        "Rugged Leather": 295,
+        "Green Dragonscale": 18,
+        "white_scales_value_gold": 357,
+        "hides_value_gold": 50,
+        "reported_material_gold_per_hour": 4900,
+        "transmog_appraisal_gold": 10000
+      },
+      "source": {
+        "file": "012 - Is This Zone A Skinning PARADISE？ - Goldbound Episode 12.en-orig.vtt",
+        "cleaned_file": "goldbound/012 - Is This Zone A Skinning PARADISE？ - Goldbound Episode 12.en-orig.txt",
+        "paragraph_start": 7,
+        "paragraph_end": 11,
+        "start_time": "00:06:15.640",
+        "quote": "Although, eventually we will progress through all the expansions on Goldilocks in order. But enough about the future. Let's get back to the present. Because right here in the Swamp of Sorrows, we've got something new to dive into. And what is that? Well, it's a fresh dungeon. And that dungeon, travelers, is none other than Sunken Temple. This place, which is also known as Temple of Atal'Hakkar, was originally built by the Atal'ai trolls to resurrect the blood god Hakkar, also known as the Soulflayer. But, you know, Ysera, the Aspect of the Green Dragonflight, sunk the temple beneath the swamp to stop them. I'll admit, it's a bold move, but the Atal'ai priests didn't quit. They kept trying to summon Hakkar anyway, and in the process, corrupted a whole bunch of stuff along the way, including some of the Green Dragonflight, which spiraled into the Emerald Nightmare. Not exactly a fairy tale. But that leaves us with a dungeon full of very angry mobs.",
+        "canonical_file": "goldbound/012 - Is This Zone A Skinning PARADISE？ - Goldbound Episode 12.en-orig.txt",
+        "original_file": "goldbound/original-vtt/012 - Is This Zone A Skinning PARADISE？ - Goldbound Episode 12.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E012-04",
+      "name": "Sunken Temple Stealthblade and Deathblow hunt",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Swamp of Sorrows",
+      "summary": "Both BOEtargets absent during hour;200–400 k Stealthblade and 100–200 k Deathblow valuation quoted.",
+      "metrics": {
+        "Stealthblade_quoted_gold_range": [
+          200000,
+          400000
+        ],
+        "Deathblow_quoted_gold_range": [
+          100000,
+          200000
+        ]
+      },
+      "source": {
+        "file": "012 - Is This Zone A Skinning PARADISE？ - Goldbound Episode 12.en-orig.vtt",
+        "cleaned_file": "goldbound/012 - Is This Zone A Skinning PARADISE？ - Goldbound Episode 12.en-orig.txt",
+        "paragraph_start": 10,
+        "paragraph_end": 11,
+        "start_time": "00:08:28.760",
+        "quote": "There's a few items that are unique to Sunken Temple. The first of which, and the big ticket, is the Stealthblade. Now, this is a dagger that's worth anywhere between 200,000 and 400,000 gold. Now, it is ultra rare, and its appearance isn't even that flashy, but it's the rarity and the unique appearance that drives the value. Then there's Deathblow, a two-handed sword that actually does look pretty cool. And it can still fetch anywhere between 100,000 and 200,000 gold on the right server. Although again, extremely rare. So, we'll definitely be looking for both the Stealthblade and Deathblow through every run. And although there's some good bind on equip items in this dungeon, the final boss actually drops a bind on pickup one-handed weapon called Dragon's Call. And this is an epic one-handed sword that actually has the exact same, or near to it, appearance as Deathblow. It just has a slightly different trim and a slightly different hilt. So, a collector would have to get both of them. But on Goldilocks, imagine dual-wielding these. And even better, Dragon's Call has a unique on use effect where sometimes in combat, it can summon a green dragon up to fight along your side. And given the Green Dragonflight lore of this dungeon, it's got style points. So, what did an hour of farming actually net us? With the loop we ran, we only managed seven clears. Now, if you had to some kind of a speed set, you could probably do a full 10 per hour, so rates may vary. But with our clears, we got 71 rune cloth only, which is maybe 70 gold.",
+        "canonical_file": "goldbound/012 - Is This Zone A Skinning PARADISE？ - Goldbound Episode 12.en-orig.txt",
+        "original_file": "goldbound/original-vtt/012 - Is This Zone A Skinning PARADISE？ - Goldbound Episode 12.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E012-05",
+      "name": "Dragons Call dual-wield collection",
+      "kind": "farm",
+      "status": "successful",
+      "zone": "Swamp of Sorrows",
+      "summary": "Two soulbound epic swords drop; personal upgrade, cannot be sold.",
+      "metrics": {
+        "Dragons Call": 2
+      },
+      "source": {
+        "file": "012 - Is This Zone A Skinning PARADISE？ - Goldbound Episode 12.en-orig.vtt",
+        "cleaned_file": "goldbound/012 - Is This Zone A Skinning PARADISE？ - Goldbound Episode 12.en-orig.txt",
+        "paragraph_start": 10,
+        "paragraph_end": 11,
+        "start_time": "00:08:28.760",
+        "quote": "There's a few items that are unique to Sunken Temple. The first of which, and the big ticket, is the Stealthblade. Now, this is a dagger that's worth anywhere between 200,000 and 400,000 gold. Now, it is ultra rare, and its appearance isn't even that flashy, but it's the rarity and the unique appearance that drives the value. Then there's Deathblow, a two-handed sword that actually does look pretty cool. And it can still fetch anywhere between 100,000 and 200,000 gold on the right server. Although again, extremely rare. So, we'll definitely be looking for both the Stealthblade and Deathblow through every run. And although there's some good bind on equip items in this dungeon, the final boss actually drops a bind on pickup one-handed weapon called Dragon's Call. And this is an epic one-handed sword that actually has the exact same, or near to it, appearance as Deathblow. It just has a slightly different trim and a slightly different hilt. So, a collector would have to get both of them. But on Goldilocks, imagine dual-wielding these. And even better, Dragon's Call has a unique on use effect where sometimes in combat, it can summon a green dragon up to fight along your side. And given the Green Dragonflight lore of this dungeon, it's got style points. So, what did an hour of farming actually net us? With the loop we ran, we only managed seven clears. Now, if you had to some kind of a speed set, you could probably do a full 10 per hour, so rates may vary. But with our clears, we got 71 rune cloth only, which is maybe 70 gold.",
+        "canonical_file": "goldbound/012 - Is This Zone A Skinning PARADISE？ - Goldbound Episode 12.en-orig.txt",
+        "original_file": "goldbound/original-vtt/012 - Is This Zone A Skinning PARADISE？ - Goldbound Episode 12.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E012-06",
+      "name": "Molten Core Core Felcloth Bag pattern retest",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Molten Core",
+      "summary": "4–5 weeklyruns no pattern orbindings;18 slotbag needs 20 Felcloth,0.7–1.5%patterncited on bossesexcept Ragnaros.",
+      "metrics": {
+        "runs_approx_range": [
+          4,
+          5
+        ],
+        "bag_slots": 18,
+        "Felcloth_per_bag": 20,
+        "cited_pattern_drop_pct_range": [
+          0.7,
+          1.5
+        ]
+      },
+      "source": {
+        "file": "012 - Is This Zone A Skinning PARADISE？ - Goldbound Episode 12.en-orig.vtt",
+        "cleaned_file": "goldbound/012 - Is This Zone A Skinning PARADISE？ - Goldbound Episode 12.en-orig.txt",
+        "paragraph_start": 12,
+        "paragraph_end": 13,
+        "start_time": "00:10:57.160",
+        "quote": "And one that I'll be coming back to, especially to take more shots at those rare blues. But the question remains, can the Swamp of Sorrows top that? And I've got a feeling it just might. Now, one thing we were really looking at back in the Burning Steppes was bag space. And the question was, how are we going to get our hands on to bigger bags? So far, the most promising route in our current zone has been the pattern for the Core Felcloth Bag. And at least until we push into later zones and expansions, this does seem like the best option. And we've been running Molten Core weekly for a chance at legendaries and patterns like this. And this pattern sits at about a 0.7 to 1.5% drop rate from every boss except for Ragnaros. And so far, we're four or five runs in, but no luck yet. And yes, for the obligatory Thunderfury update, no binding so far, either. Maybe one day soon. But that Core Felcloth Bag would be a game-changer. And at only about a 1% drop rate, the odds aren't great. But seven bosses can drop it, which gives us a decent chance per run. And the pattern itself is technically sellable. Of course, we can't buy it, but on the auction house, it only goes for about 200 gold.",
+        "canonical_file": "goldbound/012 - Is This Zone A Skinning PARADISE？ - Goldbound Episode 12.en-orig.txt",
+        "original_file": "goldbound/original-vtt/012 - Is This Zone A Skinning PARADISE？ - Goldbound Episode 12.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E012-07",
+      "name": "Misty Valley Felcloth-plus-mining hour",
+      "kind": "farm",
+      "status": "measured",
+      "zone": "Swamp of Sorrows",
+      "summary": "61 Felcloth,59 Thorium,4 Arcane Crystals plus gems/stone;6439 g/hour,4639 g Felcloth subtotal.82 gold market quoted but actual subtotal implies 76.05 g/unit; slow 80 dailyregional sales.",
+      "metrics": {
+        "minutes": 60,
+        "Felcloth": 61,
+        "Thorium Ore": 59,
+        "Arcane Crystal": 4,
+        "reported_gold_per_hour": 6439,
+        "felcloth_appraisal_gold": 4639,
+        "quoted_region_daily_felcloth_units": 80
+      },
+      "source": {
+        "file": "012 - Is This Zone A Skinning PARADISE？ - Goldbound Episode 12.en-orig.vtt",
+        "cleaned_file": "goldbound/012 - Is This Zone A Skinning PARADISE？ - Goldbound Episode 12.en-orig.txt",
+        "paragraph_start": 14,
+        "paragraph_end": 16,
+        "start_time": "00:12:35.160",
+        "quote": "You see, up in the top corner of the map is a little area called the Misty Valley. And inside, you find Misty Growls. And these guys often drop nothing at all. But about 8% of the time, they drop a Felcloth, which is exactly what we're after. And Felcloth isn't just valuable to Goldie for making bags. It's actually valuable because it's used in a ton of old world transmog recipes, and this keeps the demand pretty steady. So, right now, Felcloth is selling for anywhere between 60 and 100 gold a piece. And with an average market value around 82 gold, it actually makes it worth gold farming. So, let's do a test hour of dedicated farming in the Misty Valley. And of course, while we're here, we may as well pick up the ores that are around. The Misty Valley has about four to five thorium ore spawns, both rich thorium and small thorium, which gives us our first consistent thorium source, which means arcane crystals are back on the menu, boys. And those arcane crystals are valuable on their own.",
+        "canonical_file": "goldbound/012 - Is This Zone A Skinning PARADISE？ - Goldbound Episode 12.en-orig.txt",
+        "original_file": "goldbound/original-vtt/012 - Is This Zone A Skinning PARADISE？ - Goldbound Episode 12.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E012-08",
+      "name": "Stonard Snapjaw turtle hyperspawn hour",
+      "kind": "farm",
+      "status": "measured",
+      "zone": "Swamp of Sorrows",
+      "summary": "138 Turtle Meat,238 Thick Leather,323 Turtle Scales,74 Rugged Leather,11 Thick Hide,96 Big Mouth Clams; reported 8300 g/h, stated subtotals sum 8302.",
+      "metrics": {
+        "minutes": 60,
+        "Turtle Meat": 138,
+        "Thick Leather": 238,
+        "Turtle Scale": 323,
+        "Rugged Leather": 74,
+        "Thick Hide": 11,
+        "Big-Mouth Clam": 96,
+        "reported_gold_per_hour": 8300
+      },
+      "source": {
+        "file": "012 - Is This Zone A Skinning PARADISE？ - Goldbound Episode 12.en-orig.vtt",
+        "cleaned_file": "goldbound/012 - Is This Zone A Skinning PARADISE？ - Goldbound Episode 12.en-orig.txt",
+        "paragraph_start": 16,
+        "paragraph_end": 18,
+        "start_time": "00:14:25.920",
+        "quote": "It's more of a slow seller, and regionally, only about 80 of these sell per day. So, the market can tank pretty quickly if people dump too much. Still, for us, it's a steady coin in the pocket, and more importantly, it unlocks the Felcloth crafting path down the road, which like I said, is potentially more bag space for Goldilocked. Now, I've been hearing a lot of chatter about Turtle WoW lately, and I can only assume it's about the Sormauk Snapjaws here in the Swamp of Sorrows, cuz these turtles are pretty interesting. They've got valuable items both on their loot tables and on their skinning tables, making them a very strong candidate for a consistent gold farm here in the swamp. So, let's break it down. First and foremost, the target drop here is the big mouth clam. These clams alone can fetch anywhere between 10 to 15 gold.",
+        "canonical_file": "goldbound/012 - Is This Zone A Skinning PARADISE？ - Goldbound Episode 12.en-orig.txt",
+        "original_file": "goldbound/original-vtt/012 - Is This Zone A Skinning PARADISE？ - Goldbound Episode 12.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E012-09",
+      "name": "100 Big-Mouth Clam opening experiment",
+      "kind": "experiment",
+      "status": "failed",
+      "zone": "Swamp of Sorrows",
+      "summary": "Adds 4 clams, opens 100;0 Golden Pearls,~250 gcontents versus~1152 gsealed value,~900 gloss. Rule-of-three 95%bound 3% cited; small sample not definitive permanent drop rate.",
+      "metrics": {
+        "Big-Mouth Clam opened": 100,
+        "Golden Pearl": 0,
+        "contents_value_gold_approx": 250,
+        "loss_gold_approx": 900
+      },
+      "source": {
+        "file": "012 - Is This Zone A Skinning PARADISE？ - Goldbound Episode 12.en-orig.vtt",
+        "cleaned_file": "goldbound/012 - Is This Zone A Skinning PARADISE？ - Goldbound Episode 12.en-orig.txt",
+        "paragraph_start": 18,
+        "paragraph_end": 21,
+        "start_time": "00:16:09.480",
+        "quote": "And honestly, travelers, this one surprised me. Aside from the Burning Steppes Mithril farm, this might be our most effective, consistent gold per hour farm so far. Here's what we pulled. 138 turtle meat, worth 650 gold, 238 thick leather, worth 1,904 gold, 323 turtle scales, worth 4,050 gold, 74 rugged leather, worth about 493 gold, 11 thick hides, worth 53 gold, and 96 big mouth clams, worth about 1,152 gold, which on its face gives us a total gold per hour about 8,300, which is unreal. The big question I have, though, do we open the clams or just sell them as is? Without clear information on the golden pearl drop rate from these clams, it is a gamble. Because golden pearls are worth 300 gold each.",
+        "canonical_file": "goldbound/012 - Is This Zone A Skinning PARADISE？ - Goldbound Episode 12.en-orig.txt",
+        "original_file": "goldbound/original-vtt/012 - Is This Zone A Skinning PARADISE？ - Goldbound Episode 12.en-orig.vtt"
+      },
+      "additional_values": [
+        {
+          "value": 250,
+          "label": "Contents value",
+          "basis": "Appraised contents of 100 clams; the source reports an approximately 900g opportunity loss.",
+          "unit": "g",
+          "kind": "value",
+          "source_refs": [
+            {
+              "episode": 12,
+              "paragraph_start": 20,
+              "paragraph_end": 20,
+              "start_time": "00:17:23.560"
+            }
+          ],
+          "approx": true
+        },
+        {
+          "value": 900,
+          "label": "Loss",
+          "basis": "Reported loss versus selling the sealed clams.",
+          "unit": "g",
+          "kind": "value",
+          "source_refs": [
+            {
+              "episode": 12,
+              "paragraph_start": 20,
+              "paragraph_end": 20,
+              "start_time": "00:17:23.560"
+            }
+          ],
+          "negative": true,
+          "approx": true
+        }
+      ]
+    },
+    {
+      "id": "E012-10",
+      "name": "Emerald Whelpling availability check",
+      "kind": "experiment",
+      "status": "failed",
+      "zone": "Swamp of Sorrows",
+      "summary": "Dreaming whelps removed; replacement water elementals tested instead.",
+      "metrics": {},
+      "source": {
+        "file": "012 - Is This Zone A Skinning PARADISE？ - Goldbound Episode 12.en-orig.vtt",
+        "cleaned_file": "goldbound/012 - Is This Zone A Skinning PARADISE？ - Goldbound Episode 12.en-orig.txt",
+        "paragraph_start": 21,
+        "paragraph_end": 21,
+        "start_time": "00:18:29.320",
+        "quote": "So, travelers, that's the stats refresher for the day. Sell the clams, make more gold, and we'll move on to the next farm. Now, the next farm is technically a replacement for an old classic. If you spent time in this zone back in the day, you probably remember the Emerald Whelpling farm. And it would be nice to add another whelpling to the auction house shelves, right? Well, those dreaming whelps are gone, removed from the game. But what's in their place? A handful of water elementals. So, let's go check them out and see if those ones are worth farming. Now, these water elementals are a little bit of a wild card. Their loot tables stick close to the theme, lots of water goods, but the big prize here is the Essence of Water, which goes for just under 100 gold each.",
+        "canonical_file": "goldbound/012 - Is This Zone A Skinning PARADISE？ - Goldbound Episode 12.en-orig.txt",
+        "original_file": "goldbound/original-vtt/012 - Is This Zone A Skinning PARADISE？ - Goldbound Episode 12.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E012-11",
+      "name": "Essence of Water elemental-plus-mining trial",
+      "kind": "farm",
+      "status": "measured",
+      "zone": "Swamp of Sorrows",
+      "summary": "30 minutes 6 Essence,13 Globe,26 Elemental Water,21 Thorium,1 Crystal.1220 gsubtotal yields 2440 g/h but narrator says 2240; retain discrepancy.",
+      "metrics": {
+        "minutes": 30,
+        "Essence of Water": 6,
+        "Globe of Water": 13,
+        "Elemental Water": 26,
+        "Thorium Ore": 21,
+        "Arcane Crystal": 1,
+        "appraised_gold": 1220,
+        "reported_gold_per_hour": 2240,
+        "calculated_gold_per_hour": 2440
+      },
+      "source": {
+        "file": "012 - Is This Zone A Skinning PARADISE？ - Goldbound Episode 12.en-orig.vtt",
+        "cleaned_file": "goldbound/012 - Is This Zone A Skinning PARADISE？ - Goldbound Episode 12.en-orig.txt",
+        "paragraph_start": 21,
+        "paragraph_end": 23,
+        "start_time": "00:18:29.320",
+        "quote": "So, travelers, that's the stats refresher for the day. Sell the clams, make more gold, and we'll move on to the next farm. Now, the next farm is technically a replacement for an old classic. If you spent time in this zone back in the day, you probably remember the Emerald Whelpling farm. And it would be nice to add another whelpling to the auction house shelves, right? Well, those dreaming whelps are gone, removed from the game. But what's in their place? A handful of water elementals. So, let's go check them out and see if those ones are worth farming. Now, these water elementals are a little bit of a wild card. Their loot tables stick close to the theme, lots of water goods, but the big prize here is the Essence of Water, which goes for just under 100 gold each.",
+        "canonical_file": "goldbound/012 - Is This Zone A Skinning PARADISE？ - Goldbound Episode 12.en-orig.txt",
+        "original_file": "goldbound/original-vtt/012 - Is This Zone A Skinning PARADISE？ - Goldbound Episode 12.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E012-12",
+      "name": "Swamp perimeter Thorium hour",
+      "kind": "farm",
+      "status": "measured",
+      "zone": "Swamp of Sorrows",
+      "summary": "421 Dense Stone,295 Thorium,12 Arcane Crystals plusgems;6700 g/h. Rich 13%versussmall 8%crystalcited; RNG-sensitive yield.",
+      "metrics": {
+        "minutes": 60,
+        "Dense Stone": 421,
+        "Thorium Ore": 295,
+        "Arcane Crystal": 12,
+        "reported_gold_per_hour": 6700,
+        "cited_rich_crystal_pct": 13,
+        "cited_small_crystal_pct": 8
+      },
+      "source": {
+        "file": "012 - Is This Zone A Skinning PARADISE？ - Goldbound Episode 12.en-orig.vtt",
+        "cleaned_file": "goldbound/012 - Is This Zone A Skinning PARADISE？ - Goldbound Episode 12.en-orig.txt",
+        "paragraph_start": 24,
+        "paragraph_end": 26,
+        "start_time": "00:20:46.560",
+        "quote": "Talking about mining. And if you've noticed from the Felcloth and Essence of Water farm, a non-negligible chunk of the gold wasn't even from the mobs themselves. It was from the Thorium and Arcane Crystals, which at this rate was basically a tertiary farm turning into some pretty solid value. Which, of course, raises the question. How much gold per hour could we pull in if we forgot the turtles, grells, or Elementals altogether and just did laps around the zone mining Thorium? Well, we better hope our goldie's got plus 10 radiation resistance because that's exactly what we're about to test. Now, most of the Thorium nodes here in the swamp do sit along the perimeter. So, the mining route is pretty straightforward. There's a few tucked into the caves as well, and if you see a rich Thorium vein glowing inside there, it's usually worth the detour.",
+        "canonical_file": "goldbound/012 - Is This Zone A Skinning PARADISE？ - Goldbound Episode 12.en-orig.txt",
+        "original_file": "goldbound/original-vtt/012 - Is This Zone A Skinning PARADISE？ - Goldbound Episode 12.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E012-13",
+      "name": "Raw Sagefish reset sale",
+      "kind": "sales",
+      "status": "sales_confirmed",
+      "zone": "Swamp of Sorrows",
+      "summary": "63 fishsell 10000 gafterreset; marketreturns 1 g. Exceptional sale should not set normal fishing GPH.",
+      "metrics": {
+        "quantity": 63,
+        "sale_gold": 10000,
+        "subsequent_market_unit_gold": 1
+      },
+      "source": {
+        "file": "012 - Is This Zone A Skinning PARADISE？ - Goldbound Episode 12.en-orig.vtt",
+        "cleaned_file": "goldbound/012 - Is This Zone A Skinning PARADISE？ - Goldbound Episode 12.en-orig.txt",
+        "paragraph_start": 28,
+        "paragraph_end": 28,
+        "start_time": "00:23:51.440",
+        "quote": "But, right away, we have some bigger ticket sales, Thick Leather, Rugged Leather, and Thorium Ore. Now, these are moving quickly, which is exactly what we want to see. And scrolling down, we do see some more Dark Iron Ore and a couple of Arcane Crystals sold. And funny enough, someone even bought our leftover Sagefish. Full stack of 63 went for 10k when I guess the market got reset one day. I've looked back now and the market has crashed back down to one goldie each. Leaving a little bit in the bank actually capitalized on a good opportunity there. So, a win is a win. Of course, the turtle shells went and more stacks of Thick Leather and even all of our Felcloth.",
+        "canonical_file": "goldbound/012 - Is This Zone A Skinning PARADISE？ - Goldbound Episode 12.en-orig.txt",
+        "original_file": "goldbound/original-vtt/012 - Is This Zone A Skinning PARADISE？ - Goldbound Episode 12.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E012-14",
+      "name": "Leather scales Felcloth and ore sales",
+      "kind": "sales",
+      "status": "sales_confirmed",
+      "zone": "Swamp of Sorrows",
+      "summary": "All Felcloth, turtle scales, thick/rugged leather, Thorium, Dark Iron, crystals, Ironweb Silk, Bloodsell.98500 gtradegoods versus 8600 transmog in period, not isolated to new farms.",
+      "metrics": {
+        "tradegoods_cash_gold": 98500,
+        "transmog_cash_gold": 8600
+      },
+      "source": {
+        "file": "012 - Is This Zone A Skinning PARADISE？ - Goldbound Episode 12.en-orig.vtt",
+        "cleaned_file": "goldbound/012 - Is This Zone A Skinning PARADISE？ - Goldbound Episode 12.en-orig.txt",
+        "paragraph_start": 28,
+        "paragraph_end": 30,
+        "start_time": "00:23:51.440",
+        "quote": "But, right away, we have some bigger ticket sales, Thick Leather, Rugged Leather, and Thorium Ore. Now, these are moving quickly, which is exactly what we want to see. And scrolling down, we do see some more Dark Iron Ore and a couple of Arcane Crystals sold. And funny enough, someone even bought our leftover Sagefish. Full stack of 63 went for 10k when I guess the market got reset one day. I've looked back now and the market has crashed back down to one goldie each. Leaving a little bit in the bank actually capitalized on a good opportunity there. So, a win is a win. Of course, the turtle shells went and more stacks of Thick Leather and even all of our Felcloth.",
+        "canonical_file": "goldbound/012 - Is This Zone A Skinning PARADISE？ - Goldbound Episode 12.en-orig.txt",
+        "original_file": "goldbound/original-vtt/012 - Is This Zone A Skinning PARADISE？ - Goldbound Episode 12.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E012-15",
+      "name": "196400 g checkpoint",
+      "kind": "observation",
+      "status": "measured",
+      "zone": "Swamp of Sorrows",
+      "summary": "Cash 196400, token 359000 after Legion Remix; Shadowfoot Stalker biggesttransmog sale unspecified.",
+      "metrics": {
+        "cash_gold": 196400,
+        "token_gold": 359000
+      },
+      "source": {
+        "file": "012 - Is This Zone A Skinning PARADISE？ - Goldbound Episode 12.en-orig.vtt",
+        "cleaned_file": "goldbound/012 - Is This Zone A Skinning PARADISE？ - Goldbound Episode 12.en-orig.txt",
+        "paragraph_start": 30,
+        "paragraph_end": 31,
+        "start_time": "00:25:39.000",
+        "quote": "Okay, I think this is the biggest trade goods clear out we've had so far, 98,500 gold total this time just from trade goods. Not bad at all. But, take a look at this, travelers. The token prices have jumped to 359,000 gold. At the time of recording this, we're about one or two days post Legion Remix launch. So, I think a whole bunch of players are coming back into the game and buying tokens with gold, which is driving up the price. So, let's check the transmog alt to see if we'll have enough. One good sale could push us over the edge. Uh I'll admit, I thought I hit record on the mailbox opening, um but I guess I hadn't. So, we'll have to rely on the chat log, although it is a little bit underwhelming. Only 8.6k gold from transmog this episode.",
+        "canonical_file": "goldbound/012 - Is This Zone A Skinning PARADISE？ - Goldbound Episode 12.en-orig.txt",
+        "original_file": "goldbound/original-vtt/012 - Is This Zone A Skinning PARADISE？ - Goldbound Episode 12.en-orig.vtt"
+      }
+    }
+  ]
+}

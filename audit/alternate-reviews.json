@@ -1,0 +1,57 @@
+[
+  {
+    "source_id": 5,
+    "source_file": "005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en.vtt",
+    "full_text_reviewed": true,
+    "new_events": 0,
+    "notes": "Full alternate track reviewed independently. Same events as original; paraphrased/translated captions introduce naming errors and token-drop wording error. Clarifies41glyphs times50g=2050g. Canonical original retained."
+  },
+  {
+    "source_id": 33,
+    "source_file": "033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en.vtt",
+    "full_text_reviewed": true,
+    "paragraph_count": 46,
+    "new_events": 0,
+    "notes": "All46paragraphs reviewed independently. Same events; extensive translated name corruption. Alternate P30 says67ThickLeather where primary saysThickHide; retained as ambiguity. Alternate P39 mistakenly says24000gHatchling despite2.4k earlier; primary consistent2400retained."
+  },
+  {
+    "source_id": 34,
+    "source_file": "034 - I Rolled A Zone Where Drops Are Worth MILLIONS - Goldbound Ep.33.en.vtt",
+    "full_text_reviewed": true,
+    "paragraph_count": 42,
+    "new_events": 0,
+    "notes": "All42paragraphs independently reviewed; same experiments. Alternate incorrectly says12000raw Uldaman/h versus original1200; extensive translated names, duplicated incorrect mythic786caption. Prefer original1200 and preserve gear ambiguity."
+  },
+  {
+    "source_id": 35,
+    "source_file": "035 - I Went Looking For WoW\u2019s Forgotten 9,999,999g Item - Goldbound Ep.34.en.vtt",
+    "full_text_reviewed": true,
+    "paragraph_count": 38,
+    "new_events": 0,
+    "notes": "All38paragraphs independently reviewed; same events. Confirms twoMossAgates and clarifies hypothetical next-alt Mulgore, mistranscribedMalGanisoriginal. Still repeats3.1thread arithmetic error; no numerical conflict resolution."
+  },
+  {
+    "source_id": 36,
+    "source_file": "036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en.vtt",
+    "full_text_reviewed": true,
+    "paragraph_count": 38,
+    "new_events": 0,
+    "notes": "All38paragraphs reviewed independently. AlternateP21namesKrikks as Silithid Ripper rare; primary missing name. Alternate corrupts400000bank savings to1000and omits14857raw; primary retained. Same events."
+  },
+  {
+    "source_id": 37,
+    "source_file": "037 - I Finally Rolled A Death Zone - Goldbound 36.en.vtt",
+    "full_text_reviewed": true,
+    "paragraph_count": 21,
+    "new_events": 0,
+    "notes": "All21paragraphs reviewed independently; same events, translated item and zone names unreliable. No additional quantitative test results."
+  },
+  {
+    "source_id": 38,
+    "source_file": "038 - This Buff Just Changed Everything - Goldbound 37.en.vtt",
+    "full_text_reviewed": true,
+    "paragraph_count": 28,
+    "new_events": 0,
+    "notes": "All28paragraphs reviewed independently; same events. Alternate badly corrupts Shard of Fozruk pet as Fragment of Azzinoth; primary pet provenance retained. No additional farms or tests."
+  }
+]

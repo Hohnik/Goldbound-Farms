@@ -1,0 +1,735 @@
+{
+  "source_id": 33,
+  "source_file": "033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.vtt",
+  "cleaned_file": "goldbound/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.txt",
+  "full_text_reviewed": true,
+  "paragraph_count": 31,
+  "records": [
+    {
+      "id": "E033-01",
+      "name": "Theramore archaeology JC and inscription trainer unlock",
+      "kind": "experiment",
+      "status": "successful",
+      "zone": "Dustwallow Marsh",
+      "summary": "Fainaarchaeologyfirsttrainer, Ingo JC 300, Theodin Inscription 300 plusbank. Avoiddestructionstoryphasing; nohighercraftyet.",
+      "metrics": {},
+      "source": {
+        "file": "033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.vtt",
+        "cleaned_file": "goldbound/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.txt",
+        "paragraph_start": 1,
+        "paragraph_end": 2,
+        "start_time": "00:00:00.160",
+        "quote": "Greetings travelers and welcome back to Goldbound, the challenge series where our rogue Goldilocked is exploring the World of Warcraft by unlocking one zone at a time. And then in that zone, discovering new gold farms to optimize towards the purchase of a WoW token. And last episode, well, we got that WoW token and we spun for a new zone. So, welcome to the Dustwallow Marsh. The path we took to get here was across the great sea, courtesy of the Menithl Harbor to Theamore Isle boating lanes, which does mean we end up in Theamore Isle for our very first steps into Calumdor. And there is a lot to talk about in Theamore. For starters, the city it's actually here. And as long as I don't progress too far through the quest chain, it's going to stay that way. But if I quest too far, it gets blown to smithetherreens. But we do want it to stay here because there's actually a bunch of unlocks in Theamore Isle.",
+        "canonical_file": "goldbound/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.txt",
+        "original_file": "goldbound/original-vtt/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E033-02",
+      "name": "Dustwallow herb-only hour",
+      "kind": "farm",
+      "status": "measured",
+      "zone": "Dustwallow Marsh",
+      "summary": "45 Fadeleaf 60 Khadgar 51 Earthroot 32 Kingsblood 54 Goldthorn,4110 g/h; densityfallsafter 5–10 min.",
+      "metrics": {
+        "minutes": 60,
+        "Fadeleaf": 45,
+        "Khadgars Whisker": 60,
+        "Earthroot": 51,
+        "Kingsblood": 32,
+        "Goldthorn": 54,
+        "reported_gold_per_hour": 4110
+      },
+      "source": {
+        "file": "033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.vtt",
+        "cleaned_file": "goldbound/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.txt",
+        "paragraph_start": 4,
+        "paragraph_end": 5,
+        "start_time": "00:04:12.560",
+        "quote": "Speaking of which, let's hope the farms are a little more like Swamp of Soros and get better acquainted with the zone because I think it's a good idea to start with gathering. Although, for this test and first zone exploration, I am running herbalism only rather than dual gathering. The reason? Well, I may just have my second perfection slot filled with something else that I don't really want to drop while I'm in the zone, but more on that later. First things first, from looking around at the herbalism nodes, though, I do think it will probably beat out Dual Gathering. There's about five types of herbs that we can get here, and they can be quite valuable. There is strangle kelp, which is actually more so out and around the waters, but it does have a solid market value of about 10 gold each at the moment, although it used to be quite a bit higher. There's also fade leaf and Khadgar's Whisker, both with a value of 15 gold each. Then there's Earthroot and King's Blood, the lower value herbs of the zone, around 5 to six gold each, but the gold standard here in the marsh is most definitely going to be Gold Thorn, coming in at a whopping 30 to 40 gold each. So, those are most definitely the major targets here. And with the first laps around the zone, the route is pretty simple. It's a big loop for the most part. Of course, trying to stay clear of the borders. Speaking of which, we don't want an unauthorized zone exploration. But now that we're on Calumdor, if we do, the forfeit zone would be Deep Holm. But after testing the borders on my main, I am happy to say that all of the borders in this zone appear to be pretty well coded and pretty reasonable on when you actually leave dust wallow and enter the barrens or Thousand Needles. Well, actually, Dustallow Marsh extends farther than expected into Thousand Needles. But since we have the marsh first, that doesn't matter for us. Flying around though, we have a few looks at some of the rares of the zone, and there's quite a few around the zone. As I fly, I'll keep tagging any ones I see. The likes of Hayok, Terramac, and of course, Dart.",
+        "canonical_file": "goldbound/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.txt",
+        "original_file": "goldbound/original-vtt/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E033-03",
+      "name": "Nat Pagle rare-fish quest",
+      "kind": "experiment",
+      "status": "blocked",
+      "zone": "Dustwallow Marsh",
+      "summary": "Acceptsfourfishquest; Swamp/STVavailable, Feralas/Desolacelocked, notcompleted.",
+      "metrics": {},
+      "source": {
+        "file": "033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.vtt",
+        "cleaned_file": "goldbound/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.txt",
+        "paragraph_start": 5,
+        "paragraph_end": 5,
+        "start_time": "00:06:00.080",
+        "quote": "There's a total of 20 named rare spawns here as well. So, when flying around, it is definitely not uncommon to run into a few of them and to have a few rare scanner add-on dings for us to tag. Speaking of rares, there are a few higher priority rares in the zone, but for the most part, the rares here have a very solid low to mid-range transmog on their loot tables. the kinds that land squarely in the 1 to 4,000 gold range with moderate to slow sale rates. And while flying around and gathering herbs for the test, speaking of rares in the zone, check out this guy. You need something? Nat Pegle. While not a rare that we can kill, I actually completely forgot he was here. But greetings, traveler. Nat Pegle is the legendary fisherman of World of Warcraft. For example, remember that fishing rod that we won in Stranglethorn? Well, the tool tip literally reads that it was likely used by none other than Nat Pegle. But he isn't just here for show. He actually has a quest. The reward, another fishing rod. So, he does want us to fish up four rare fish and bring them back to him. Awesome. But we only have two out of four zones unlocked. So, while we can do the Swamp of Soros, Mahi Mahi, and the Savage Coast Bluegill sail fin, we will need to wait for later unlocks to get the Feralis and Desolus drops. But quest accepted and we can add that to the personal quests for Goldie. Although we were doing an hour of testing for herbalism here. So before we get too sidetracked by some side quests, let's talk about the numbers. The hall, well 45 fade leaf, 60 Khadgar's whiskers, 51 Earthroot, 32 King's Blood, and 54 Gold Thornne. The region market value average on that comes out to 4,110 gold per hour. Honestly, I was hoping it might be a little bit higher with the gold thorn prices, but the density is just quite low. And after the first 5 to 10 minutes or so, we end up flying for a long time between herb spawns. So, with that in mind, we probably will have to test out dual gathering after all. But not right now, because next, well, we have a skinning farm, and it has to do with the slumbering dragon in the middle of the zone. Welcome to Enixia's layer.",
+        "canonical_file": "goldbound/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.txt",
+        "original_file": "goldbound/original-vtt/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E033-04",
+      "name": "Onyxia trash skinning knife troubleshooting",
+      "kind": "experiment",
+      "status": "confirmed",
+      "zone": "Onyxias Lair",
+      "summary": "Northrendskinningauto-learns, but Classic 300 and Northrend 75 stillzero skinsuntilknifeinprofessionequip; then Classic 12–20 Rugged Leatherpermob.",
+      "metrics": {
+        "Northrend_skinning_skill": 75,
+        "Rugged Leather_per_skin_range": [
+          12,
+          20
+        ]
+      },
+      "source": {
+        "file": "033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.vtt",
+        "cleaned_file": "goldbound/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.txt",
+        "paragraph_start": 6,
+        "paragraph_end": 7,
+        "start_time": "00:07:59.280",
+        "quote": "So, if we head there, we can enter the instance, but much like Molten Core, we don't necessarily want to kill Enixia right away. Instead, there might be a little bit of a trash farm angle. As for trash, there's only about five dragon kin in Anixia's layer, at least in retail. Sometime around the rework of Inexia's layer, the trash mobs actually reduced, but the reduction in trash isn't all that it did. Strangely enough, these ads are actually coded with northern loot tables. So, as we're killing through here, I'm actually getting frostweave cloth and some northern greens. So, we technically have access to some new northern mats. Unfortunately, we can't train northern tailoring or enchanting until we get trainers in Northern. So, this will just be raw materials that we'll sell on the auction house for now and not for too much. So, are we just cloth farming here for trash? Well, not exactly. Because the dragon kin, well, they're skinnable even without northern skinning. Because on the very first skinning attempt, we just default learn the ability for northern skinning as long as we already have classic skinning trained. But after quite a bit of testing, these mobs are actually really weird for skinning.",
+        "canonical_file": "goldbound/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.txt",
+        "original_file": "goldbound/original-vtt/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E033-05",
+      "name": "Onyxia 10 trash-reset leather batch",
+      "kind": "farm",
+      "status": "measured",
+      "zone": "Onyxias Lair",
+      "summary": "Fiveadds/run, Northrendcloth/greens, Classicrugged/hides;10 runs 12–15 min 1200–2200 gmaterials. Hourlyinstancecap, not 10 fullbatches/h; later 14 minoptimized.",
+      "metrics": {
+        "runs": 10,
+        "batch_minutes_range": [
+          12,
+          15
+        ],
+        "batch_material_gold_range": [
+          1200,
+          2200
+        ]
+      },
+      "source": {
+        "file": "033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.vtt",
+        "cleaned_file": "goldbound/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.txt",
+        "paragraph_start": 6,
+        "paragraph_end": 8,
+        "start_time": "00:07:59.280",
+        "quote": "So, if we head there, we can enter the instance, but much like Molten Core, we don't necessarily want to kill Enixia right away. Instead, there might be a little bit of a trash farm angle. As for trash, there's only about five dragon kin in Anixia's layer, at least in retail. Sometime around the rework of Inexia's layer, the trash mobs actually reduced, but the reduction in trash isn't all that it did. Strangely enough, these ads are actually coded with northern loot tables. So, as we're killing through here, I'm actually getting frostweave cloth and some northern greens. So, we technically have access to some new northern mats. Unfortunately, we can't train northern tailoring or enchanting until we get trainers in Northern. So, this will just be raw materials that we'll sell on the auction house for now and not for too much. So, are we just cloth farming here for trash? Well, not exactly. Because the dragon kin, well, they're skinnable even without northern skinning. Because on the very first skinning attempt, we just default learn the ability for northern skinning as long as we already have classic skinning trained. But after quite a bit of testing, these mobs are actually really weird for skinning.",
+        "canonical_file": "goldbound/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.txt",
+        "original_file": "goldbound/original-vtt/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E033-06",
+      "name": "Northern raptor Heavy Hide farm",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Dustwallow Marsh",
+      "summary": "Nonhyperspawnraptorsgive Heavy/Thickleatherand Heavy Hideatmaxskill, rare Dartchecks. Nohourlycounts.",
+      "metrics": {},
+      "source": {
+        "file": "033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.vtt",
+        "cleaned_file": "goldbound/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.txt",
+        "paragraph_start": 9,
+        "paragraph_end": 10,
+        "start_time": "00:11:00.160",
+        "quote": "I just don't want to kill her early because if we do, we can no longer reset the trash and would lose out on this, well, let's be honest, quite nice little farm. But the skinning doesn't stop here in the swamp because in addition to the dragon kin flying around and running around which do have some decent leather, we also have all kinds of different beasts. All of which have different angles and potential bonuses for farming. And with it being early into the zone, I know which one I want to farm. So up in the northern area of the zone around one of the rares that I was talking about, Dart, are some more beasts. Of course, while farming in this zone though, we may just see dart, an easy tag and kill. Like most of the rares around here, though, there's no one massive item on his loot tables. The best would likely be the pillagers gloves with a market value around 13,000 gold. But what's around him are a whole bunch of raptors. And due to the level of the zone, these guys fall squarely in the heavy leather and thick leather band. So, even at maxed 300 skinning, we can get heavy leather and maybe more importantly, heavy hide. This is massive because this band has some of the most valuable skins in classic, especially heavy hide being a massive hitter at 100 to 150 gold, especially compared to most of our old historical skinning farms like sunken temple or turtle farming where we only got heavy hide while leveling up and when our skinning was level 175 to 220. But due to the levels here, we can consistently get it. The only downside, we can't really farm these guys repeatedly because they're on a regular spawn, not a hyper spawn. But it's definitely worth coming up here to check and to clear out all the raptors for a chance at heavy hides and especially if Darts around to get a kill on him. But if Dart's around, it is worth checking around for Dart's nest as well because his nest can spawn in about five locations around the raptors. But it's kind of like the wetlands razor maw egg from the cave.",
+        "canonical_file": "goldbound/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.txt",
+        "original_file": "goldbound/original-vtt/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E033-07",
+      "name": "Dart rare and Darting Hatchling nests",
+      "kind": "farm",
+      "status": "successful",
+      "zone": "Dustwallow Marsh",
+      "summary": "Fiveeggsstocked, onepetkept; nestsfivepositions,1–10 kmarket~5 ksale; Dart Pillager Gloves 13 ktargetnotisolated.",
+      "metrics": {
+        "Darting Hatchling_for_sale": 5,
+        "quoted_pet_sale_gold_approx": 5000
+      },
+      "source": {
+        "file": "033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.vtt",
+        "cleaned_file": "goldbound/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.txt",
+        "paragraph_start": 9,
+        "paragraph_end": 10,
+        "start_time": "00:11:00.160",
+        "quote": "I just don't want to kill her early because if we do, we can no longer reset the trash and would lose out on this, well, let's be honest, quite nice little farm. But the skinning doesn't stop here in the swamp because in addition to the dragon kin flying around and running around which do have some decent leather, we also have all kinds of different beasts. All of which have different angles and potential bonuses for farming. And with it being early into the zone, I know which one I want to farm. So up in the northern area of the zone around one of the rares that I was talking about, Dart, are some more beasts. Of course, while farming in this zone though, we may just see dart, an easy tag and kill. Like most of the rares around here, though, there's no one massive item on his loot tables. The best would likely be the pillagers gloves with a market value around 13,000 gold. But what's around him are a whole bunch of raptors. And due to the level of the zone, these guys fall squarely in the heavy leather and thick leather band. So, even at maxed 300 skinning, we can get heavy leather and maybe more importantly, heavy hide. This is massive because this band has some of the most valuable skins in classic, especially heavy hide being a massive hitter at 100 to 150 gold, especially compared to most of our old historical skinning farms like sunken temple or turtle farming where we only got heavy hide while leveling up and when our skinning was level 175 to 220. But due to the levels here, we can consistently get it. The only downside, we can't really farm these guys repeatedly because they're on a regular spawn, not a hyper spawn. But it's definitely worth coming up here to check and to clear out all the raptors for a chance at heavy hides and especially if Darts around to get a kill on him. But if Dart's around, it is worth checking around for Dart's nest as well because his nest can spawn in about five locations around the raptors. But it's kind of like the wetlands razor maw egg from the cave.",
+        "canonical_file": "goldbound/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.txt",
+        "original_file": "goldbound/original-vtt/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E033-08",
+      "name": "Dustwallow mining 175 warmup",
+      "kind": "experiment",
+      "status": "successful",
+      "zone": "Dustwallow Marsh",
+      "summary": "1–2 hourlowyieldgrindtoneeded Mithrilskill; smeltbankedorecouldshortcutbutnotdone.",
+      "metrics": {
+        "target_skill": 175,
+        "warmup_hours_range": [
+          1,
+          2
+        ]
+      },
+      "source": {
+        "file": "033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.vtt",
+        "cleaned_file": "goldbound/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.txt",
+        "paragraph_start": 10,
+        "paragraph_end": 11,
+        "start_time": "00:12:52.560",
+        "quote": "Cuz if the nest is here, we can grab the egg and gain the battle pet of the darting hatchling. And this thing has a value between 1,000 and 10,000 gold with a likely sale of probably closer to 5,000. But it's good to add onto the auction house shelves. Matter of fact, as you can tell, I already have five of them for sale. And with so many, we can add one as Goldie's zone pet. So, hello dart. And this pet has a pretty cool passive, being a darting hatchling. Every now and then he runs around like crazy. Well, I guess darts around like crazy. Pretty cool little pet to have, but not a super consistent leather farm since we have to wait for respawns. So, we'll have to wait to find a better overworld skinning farm to do while waiting for Enixia layer resets. But first, one other thing that I do believe it's time to test out and double check or at least check in the first place is if it's going to be worth it or not to do dual gathering because we've already tested herb only. And while herbs were pretty valuable, it wasn't anything too wild and came in right around 4,100 gold per hour. So my thought is that maybe with the increased ore density between minerals and herbs with mining in the mix, the gold per hour may just improve substantially. I mean, we have to test it, don't we? Leveling up mining, though, isn't particularly trivial in this zone. We need about 175 mining to gather the myithal nodes that can spawn in the zone. Now, this ends up being one or two hours of flying around getting lower than regular rates of ore.",
+        "canonical_file": "goldbound/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.txt",
+        "original_file": "goldbound/original-vtt/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E033-09",
+      "name": "Dustwallow mining-only trial",
+      "kind": "farm",
+      "status": "measured",
+      "zone": "Dustwallow Marsh",
+      "summary": "Tin/Iron/Mithril 1100 g/h, countsunspoken.",
+      "metrics": {
+        "reported_gold_per_hour": 1100
+      },
+      "source": {
+        "file": "033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.vtt",
+        "cleaned_file": "goldbound/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.txt",
+        "paragraph_start": 11,
+        "paragraph_end": 11,
+        "start_time": "00:14:15.680",
+        "quote": "Ideally, we would have had some copper ore and tins stockpiled in the bank, so we could just smelt this to power level mining. But once we're on level for mining and dust wallow, we're looking at tin, iron ore, and mithril, which historically the zones that gave us Myithil ore, like Burning Steps, and Searing Gorge ended up being quite good on the gold per hour. Unfortunately here, after some initial testing, Dust wallow is not a mining angle. Mining only ended up being an abysmal 1,100 gold per hour. And even once paired with herbalism, it only ended up netting 4,400 gold per hour. So, still better than herbalism alone. But when you take into account that mining and herbalism means we have to drop skinning and lose out on our juicy Enixia's layer resets, it doesn't really seem worth the squeeze. One thing that is worth the squeeze though and that can be quite profitable from gathering, dual gathering or solo herbalism is the treasure chests in the zone. We have quite a few treasure chest spawn locations here. Of course, being an outlaw rogue track treasure enabled.",
+        "canonical_file": "goldbound/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.txt",
+        "original_file": "goldbound/original-vtt/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E033-10",
+      "name": "Dustwallow dual-gather comparison",
+      "kind": "farm",
+      "status": "measured",
+      "zone": "Dustwallow Marsh",
+      "summary": "4400 g/hv 4110 herb, smallupliftnotworthlosingskinning/Onyxiaresets; countsunspoken.",
+      "metrics": {
+        "reported_gold_per_hour": 4400
+      },
+      "source": {
+        "file": "033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.vtt",
+        "cleaned_file": "goldbound/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.txt",
+        "paragraph_start": 11,
+        "paragraph_end": 11,
+        "start_time": "00:14:15.680",
+        "quote": "Ideally, we would have had some copper ore and tins stockpiled in the bank, so we could just smelt this to power level mining. But once we're on level for mining and dust wallow, we're looking at tin, iron ore, and mithril, which historically the zones that gave us Myithil ore, like Burning Steps, and Searing Gorge ended up being quite good on the gold per hour. Unfortunately here, after some initial testing, Dust wallow is not a mining angle. Mining only ended up being an abysmal 1,100 gold per hour. And even once paired with herbalism, it only ended up netting 4,400 gold per hour. So, still better than herbalism alone. But when you take into account that mining and herbalism means we have to drop skinning and lose out on our juicy Enixia's layer resets, it doesn't really seem worth the squeeze. One thing that is worth the squeeze though and that can be quite profitable from gathering, dual gathering or solo herbalism is the treasure chests in the zone. We have quite a few treasure chest spawn locations here. Of course, being an outlaw rogue track treasure enabled.",
+        "canonical_file": "goldbound/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.txt",
+        "original_file": "goldbound/original-vtt/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E033-11",
+      "name": "Dustwallow treasure chest route",
+      "kind": "farm",
+      "status": "successful",
+      "zone": "Dustwallow Marsh",
+      "summary": "Tracks 1–2 chests/1–2 hours, Firemane Leggings 20–80 kobtained; laterhybridrunnochest, notguaranteedrate.",
+      "metrics": {},
+      "source": {
+        "file": "033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.vtt",
+        "cleaned_file": "goldbound/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.txt",
+        "paragraph_start": 11,
+        "paragraph_end": 19,
+        "start_time": "00:14:15.680",
+        "quote": "Ideally, we would have had some copper ore and tins stockpiled in the bank, so we could just smelt this to power level mining. But once we're on level for mining and dust wallow, we're looking at tin, iron ore, and mithril, which historically the zones that gave us Myithil ore, like Burning Steps, and Searing Gorge ended up being quite good on the gold per hour. Unfortunately here, after some initial testing, Dust wallow is not a mining angle. Mining only ended up being an abysmal 1,100 gold per hour. And even once paired with herbalism, it only ended up netting 4,400 gold per hour. So, still better than herbalism alone. But when you take into account that mining and herbalism means we have to drop skinning and lose out on our juicy Enixia's layer resets, it doesn't really seem worth the squeeze. One thing that is worth the squeeze though and that can be quite profitable from gathering, dual gathering or solo herbalism is the treasure chests in the zone. We have quite a few treasure chest spawn locations here. Of course, being an outlaw rogue track treasure enabled.",
+        "canonical_file": "goldbound/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.txt",
+        "original_file": "goldbound/original-vtt/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E033-12",
+      "name": "Goldenpath Theramore Sconce restock",
+      "kind": "experiment",
+      "status": "performed",
+      "zone": "Molten Core / Theramore",
+      "summary": "Movesalt Theramore, Goldiefarmslumber/MCoresmelts Dark Iron, replenishes Sconces; othersstillstocked.",
+      "metrics": {},
+      "source": {
+        "file": "033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.vtt",
+        "cleaned_file": "goldbound/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.txt",
+        "paragraph_start": 12,
+        "paragraph_end": 13,
+        "start_time": "00:15:16.639",
+        "quote": "Plus, since Duspow is a mid to highle zone, they have good gear, but can respawn relatively frequently, every couple hours or so. So, if we're out here farming for an hour or two, generally speaking, we can find one or two chests. Ideally, they will drop some solid blues, but as we farm in the zone, I'll keep you updated as to what we get. On the topic of mining though, leveling it up and testing dual gathering wasn't a complete waste of time because we still have our crafting alt, golden path, who we have now officially moved over to theore Isle for crafting. This place is kind of perfect for our soon to be crafting alt army because between all the vendors here and the Brutus mount, we have the mailbox, the bank, profession traders, and if we need it, the auction house. And as for an update on the alt golden path, he has been pretty dormant since we made him during the Dun Moro unlock. We did power level up blacksmithing and leatherworking and then crafted a full stock of leatherworking and blacksmithing crafts. And until now, they really hadn't moved. But a few episodes ago, we actually dumped most of our shadow forge sconces, the blacksmithing housing decor item, and well, we're out of stock. So to fuel Golden Path's crafting needs over on Goldie, while doing herb loops, I can grab more housing decor lumber, which is conveniently warband accountbound, and also head over to Molten Core for a few trash resets to stockpile up on some dark iron ore. Of course, conveniently right now, since we just leveled up mining, we can learn the recipe to smelt it and get it done. So with all that sorted, it can go back over to Golden Path to process down to a few more Shadow Forge sconces, and the shelves are refilled. The rest of the crafts from this guy are pretty well stocked.",
+        "canonical_file": "goldbound/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.txt",
+        "original_file": "goldbound/original-vtt/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E033-13",
+      "name": "Archaeology first STV troll dig",
+      "kind": "experiment",
+      "status": "successful",
+      "zone": "Stranglethorn Vale",
+      "summary": "Surveys 8 fragmentnodes/site, vendorgrayartifacts~1 g, XPgood; respawnslocked Hinterlands.",
+      "metrics": {},
+      "source": {
+        "file": "033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.vtt",
+        "cleaned_file": "goldbound/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.txt",
+        "paragraph_start": 13,
+        "paragraph_end": 14,
+        "start_time": "00:16:50.560",
+        "quote": "Like the dark iron crafted gear and imperial plate sets, plus the lock banana barkin rugs, we still have quite a few of those in stock. So until we need him again, golden path can rest. But with a dark iron farmed and everything restocked, I think it's time to explore one of the new professions that Dust Wallow unlocked for us, archaeology. So we have the skill of archaeology, which gives us a new journal tab and access to a whole bunch of different factions artifacts, plus a list of completed artifacts, which is currently zero. We'll work our way through these artifacts and unlock more and more and rare ones as we go. But the main thing for now to progress is the dig sites. There's going to be four dig sites at all times per continent. Over on Calumor, we only have Dustella Marsh unlocked and none of the dig sites are there. So, it's back over the drink to Eastern Kingdoms because here we have a few available to go for. Looking at the map, there's one in the northern area of the wetlands up by Dun Modair, which might be a little bit sketchy. Plus one down in Blasted Lands, just north of Dreadm Post, and then finally a third one in Stranglethorn Veil. I'll think I'll start down in the south at Stranglethorn Veil and get heading over there. Back in Strangle Thorn Veil for a little bit of archaeology. So, with the archaeology skill, when in the vicinity of a dig site, as you can see on our mini map, there is a small red area that we can dig in. To do so, all we have to do is use the survey ability, which then spawns a telescope that points us in the direction of treasure. If the light is red, it's far, yellow is medium distance, and green, we're almost right on the money. We just repeatedly cast it until we're bang on the money or a light bulb appears. And then once we dig, we have an artifact. This one is a troll ruins. So, the artifacts we get are troll fragments, which conveniently get logged into our archaeology book, and it keeps track of each of the different types of fragments that we can work towards artifacts on. The higher level archaeology we are, the better chance we have at getting uncommon or rare artifacts to work towards. The troll we're working towards right now is just junk quality and will likely just be vendored. Notably, each dig site has eight total artifacts, or the fragments that we can dig up, and each of these nodes actually gives us a ton of XP. We are kind of power leveling on Goldie doing this. And once we have enough fragments to make the artifact, we get a random new one in the journal. There's no skipping and this is purely RNG. The idea though is the higher level archaeology we are, the better crafts we can get. But like I said, it's all random. And for the most part, all the rewards here are going to be soulbound toys, mounts, or gears. And so rather than a gold farm, it's a little more account progression for Goldie.",
+        "canonical_file": "goldbound/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.txt",
+        "original_file": "goldbound/original-vtt/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.vtt"
+      },
+      "additional_values": [
+        {
+          "value": 1,
+          "label": "Artifact vendor",
+          "basis": "Approximate vendor value of common archaeology artifacts; the activity primarily levels archaeology.",
+          "unit": "g/item",
+          "kind": "value",
+          "source_refs": [
+            {
+              "episode": 33,
+              "paragraph_start": 13,
+              "paragraph_end": 13,
+              "start_time": "00:16:50.560"
+            }
+          ],
+          "approx": true
+        }
+      ]
+    },
+    {
+      "id": "E033-14",
+      "name": "Blasted Lands fossil dig and STV retest",
+      "kind": "experiment",
+      "status": "successful",
+      "zone": "Blasted Lands / Stranglethorn Vale",
+      "summary": "Fossilfuture Raptarmountpossible, nodrophere; site→STVtroll→locked Hinterlands, grayartifacts.",
+      "metrics": {},
+      "source": {
+        "file": "033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.vtt",
+        "cleaned_file": "goldbound/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.txt",
+        "paragraph_start": 14,
+        "paragraph_end": 16,
+        "start_time": "00:19:19.120",
+        "quote": "Finishing up this first stringlethorn veil dig site though comes the tricky part for Goldie. Once this troll dig site is completed, it will disappear and a new dig site on the continent will appear randomly. However, it can go into any of the zones to any of the potential dig sites. So, we really have to hope it spawns into a zone that we actually have unlocked right now. And uh nope, that's up in the hinterlands. Well, let's hope our blasted lands and wetlands ones respawn somewhere we can actually use. Speaking of which, over to the Blasted Lands dig site. This one's a fossil dig site here, which is kind of our best to be honest. One of the possible rare artifacts that we can make from a fossil is the raptor mount. So, in the future, once our archaeology is higher, every fossil artifact we make, we'll have a chance to reveal a potential new mount.",
+        "canonical_file": "goldbound/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.txt",
+        "original_file": "goldbound/original-vtt/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E033-15",
+      "name": "Wetlands Duskwood Searing archaeology chain",
+      "kind": "experiment",
+      "status": "successful",
+      "zone": "Wetlands / Duskwood / Searing Gorge",
+      "summary": "Dwarffragments Wetlands→fossil Duskwood→Searingding→Duskwood→lockedzones. Reaches 86; noresetworkaroundfound.",
+      "metrics": {
+        "archaeology_skill": 86
+      },
+      "source": {
+        "file": "033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.vtt",
+        "cleaned_file": "goldbound/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.txt",
+        "paragraph_start": 16,
+        "paragraph_end": 18,
+        "start_time": "00:20:41.120",
+        "quote": "Yep, still getting one gold items, but our archaeology is still quite low, so that makes sense. And the next dig site. Uh-oh. This one also spawned up in the hinterlands. So, that lead is dead, which means we have one active dig site left in all of our 14 unlocked zones. And it's in wetlands. And about as far north as the wetlands goes before it's Rafie. So, let's hope we don't have any unauthorized Arafi explorations today. So far so good though here. And we're getting dwarf archaeology fragments from this area. And with it completed, where does it go to? Oh, duskwood. Well, we have that one unlocked, so let's go. The fragments here in the ogre mound are also fossil fragments as well, which for now seems to be the best ones we can get. And hey, I'm not complaining. Not to mention, we are absolutely cruising through the XP here. Almost in time for a ding. And the next dig site. Nice.",
+        "canonical_file": "goldbound/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.txt",
+        "original_file": "goldbound/original-vtt/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E033-16",
+      "name": "Darkmoon fossil archaeology quest",
+      "kind": "experiment",
+      "status": "successful",
+      "zone": "Darkmoon Island",
+      "summary": "Handsleftoverfossilfragmentsmonthlyquest~3 skill, partof 86 total.",
+      "metrics": {
+        "skill_gain_approx": 3
+      },
+      "source": {
+        "file": "033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.vtt",
+        "cleaned_file": "goldbound/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.txt",
+        "paragraph_start": 17,
+        "paragraph_end": 18,
+        "start_time": "00:21:33.520",
+        "quote": "Searing Gorge. We can indeed go there. And since it looks like we're going to level up from this one, it is worth doing a quick slash played, which shows the current level has been so far 10 hours played. Up until archaeology, the only way we could get XP on Goldie, well, reliably, was just herbs and ores. But this dig site, ding, nice. And with the dig site resetting over to Duskwood again, we're good to go for one more and hope it resets well again. Where's it go? Oh man, three available dig sites. Unfortunately, it's not unlocked for us. So, it's looking like Hillsrad is the next big archaeology move. But unfortunately, that does mean that we no longer have archaeology in our unlocked zones. That being said, there is one way that we can get a few more archaeology levels without actually using a dig site. Luckily, I have a few extra fossil fragments hanging around, and the Dark Moon Fair is currently in town. There's a monthly quest at the fair to hand in fossil fragments for about three archaeology levels. Nice.",
+        "canonical_file": "goldbound/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.txt",
+        "original_file": "goldbound/original-vtt/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E033-17",
+      "name": "Super Simian Sphere incidental toy",
+      "kind": "farm",
+      "status": "successful",
+      "zone": "Onyxias Lair",
+      "summary": "Dropsduring Onytrash, Northrend Bo Ptoy, learnedcannot sell.",
+      "metrics": {},
+      "source": {
+        "file": "033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.vtt",
+        "cleaned_file": "goldbound/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.txt",
+        "paragraph_start": 19,
+        "paragraph_end": 20,
+        "start_time": "00:23:21.120",
+        "quote": "And back into the marsh means back into Enixia's layer for some trash resets. And at the moment, our best farm to do in between trash resets is herb only loops and scanning for rare treasure chests, which by the way, check out this one. We pulled the fire main leggings. These are certified top tier transmog with a market value between 20 and 80,000 gold. Kind of in the same realm as the Hanzo sword that we got back in Blasted Lands from the treasure chests. Although on these leggings, maybe some of the value is based on the appearance of the leggings on some character models, but good for a drop from the treasure chests. Plus, during some of our Nexia's layer resets, I've been getting some interesting items as well, like this toy, the Super Simeon sphere.",
+        "canonical_file": "goldbound/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.txt",
+        "original_file": "goldbound/original-vtt/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E033-18",
+      "name": "Southern Onyxia exterior skinning hour",
+      "kind": "farm",
+      "status": "measured",
+      "zone": "Dustwallow Marsh",
+      "summary": "Crocs/dragonkin/Searing Whelpwideloop,347 Heavy Leather 67 caption Thick Hide 14 Heavy Hide, total 6000 g/h; no Dark Whelp 20–40 kills/h,0.16%cited. Thick Hidevs Thick Leathercaptionrequirescheck.",
+      "metrics": {
+        "minutes": 60,
+        "Heavy Leather": 347,
+        "caption_Thick Hide": 67,
+        "Heavy Hide": 14,
+        "reported_gold_per_hour": 6000,
+        "skin_name_uncertain": true
+      },
+      "source": {
+        "file": "033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.vtt",
+        "cleaned_file": "goldbound/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.txt",
+        "paragraph_start": 20,
+        "paragraph_end": 21,
+        "start_time": "00:24:05.840",
+        "quote": "And so far, the only epic I've gotten here, which I also don't see on the loot table, so kind of strange that we got it, but it is soulbound and not sellable. So, this just goes straight into Goldie's collection, but a cool toy nonetheless. Anyways, we do need a consistent skinning farm to do in the 40 to 50 minutes of downtime in between sets of 10 Enixia runs. Right now, I have them optimized to be about 14 minutes of actual running. And well, I have an idea. Why not use the mobs right outside the layer? In theory, this would reduce the flying and travel time to optimize the farm totally. Plus, there's actually skinnable mobs all around the layer as well. And of course, a perfect circle with a route like this. After some testing on these mobs, as long as we swing wide enough into the marsh to take some crocs on the west side, everything respawns in time for loops here to be pretty infinite, even if it isn't a hyperspawn. And there's a wide variety of mobs around. I mentioned the crocs which are quite solid and do have some crocalisk meat but not worth too much gold. We also have a few dragon kin which drop cloth and potential greens and even a few welps. All of these mobs though are in the heavy leather band. So the skins we're getting are quite valuable and we can even snag a few extra heavy hides. Not to mention the couple of kills that we do get on these searing welps have a chance at a battle pet. The dark welping. Now, this welping is one we've seen before in a few zones, including the wetlands, which we just came from. But another welping never hurts. Of course, I won't bank on getting the dark welping during this farm loop because we only kill about 20 to 40 of the welps in any given hour farming it, but there's always a chance. The route itself, super easy to follow, and the gold actually kind of surprising. After an hour of testing, which during this farm hour, I didn't actually do an Nixia's layer reset. I just did 60 minutes of straight farming to get the rates, but I pulled in 347 heavy leather, 67 thick hide, no welps, unfortunately, but we did manage to get a massive 14 heavy hide. This is by far the best heavy hide farm we have in all of our zones so far. And all that adds up to a gold per hour of 6,000 and our best non-instance lockout based consistent farm in the zone. Plus, over time, I do think we would eventually get the dark wellplate at the drop rate of 0.16%.",
+        "canonical_file": "goldbound/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.txt",
+        "original_file": "goldbound/original-vtt/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E033-19",
+      "name": "Alcaz mechanical-fluid island trial",
+      "kind": "farm",
+      "status": "measured",
+      "zone": "Dustwallow Marsh",
+      "summary": "Killsisland 2 minwait 4 min, Machine/Drudge Fluid 4–6 g, Gizmos 0.18 g;750 g/hactualvs 2100–2200 uncappedhypothetical.",
+      "metrics": {
+        "reported_gold_per_hour": 750,
+        "clear_minutes": 2,
+        "respawn_wait_minutes": 4
+      },
+      "source": {
+        "file": "033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.vtt",
+        "cleaned_file": "goldbound/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.txt",
+        "paragraph_start": 21,
+        "paragraph_end": 22,
+        "start_time": "00:26:30.240",
+        "quote": "Realistically, maybe one every 10 hours or so farming this place. But the idea is to do one Enixia's reset and then just do circles out here for about 45 minutes until we can go back into Enixia's layer, which ends up working pretty well because in the layer we get rugged hide and rugged leather. So, we have a pretty widespread of leather that we can get here, which makes selling it off a little bit easier. So, I think we have a confirmed Enixia's layer reset and waiting out the reset farm. Nice. But I can't just camp here and farm leather all day because there's still more in Dustallow Marsh to explore and more gold farms to unlock because just off the shores of Dust Wallow is another really unique subzone of the marsh, Alcaz Island. This spot here is still Dust Wallow, but it is a ground mount only zone. There's anti-aircraft personnel all over the place, so we can only fly as close as possible and then use our grappling hooks and WoW's surface tension mechanics to get on site. And here there's all sorts of gadgets and gizmos, plus elite mobs to take out. They have some interesting loot on them as well. Between all of them, we're getting some raw gold, but also handfuls of gizmos worth about 18 silver each. And then a few different types of fluid like machine fluid and drudge fluid. This stuff is actually worth a few gold, between four to six gold each, and it drops pretty regularly from some of these mobs. So, we can go around the island killing like crazy to get a fair amount of it. There's spider tank scouts, drudge supervisors, and all kinds of lepernnome or mechanical elites. And it's worth noting that the fluid we're getting is an onuse item which coats your battle pet in oil for an hour. So, for example, we can take Coldat, our Dunarro pet, who is usually pristine white, and cover him in oil, and we get a slightly darker looking pet. So, that's the entire use case as far as I know, but people pay for it.",
+        "canonical_file": "goldbound/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.txt",
+        "original_file": "goldbound/original-vtt/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E033-20",
+      "name": "Dr Weavil Big Red Raygun camp",
+      "kind": "farm",
+      "status": "successful",
+      "zone": "Dustwallow Marsh",
+      "summary": "Namedmob 5–10 minrespawn 4%cited; two Rayguns 7–8 kmarket, semi AFKeditingcamp.",
+      "metrics": {
+        "Big Red Raygun": 2,
+        "respawn_minutes_range": [
+          5,
+          10
+        ],
+        "cited_drop_pct": 4,
+        "quoted_gold_range": [
+          7000,
+          8000
+        ]
+      },
+      "source": {
+        "file": "033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.vtt",
+        "cleaned_file": "goldbound/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.txt",
+        "paragraph_start": 22,
+        "paragraph_end": 23,
+        "start_time": "00:28:26.559",
+        "quote": "And I'm not too wellversed in battle pets, but who knows? Maybe the oil has an effect in some kind of combats. So, if you do know, then drop a comment down below cuz I'm interested to hear about it. But running around like crazy and killing here does give a decent amount of gold. The only downside, they are not on a hypers spawn and we can clear the entire island in about 2 minutes, leaving nearly 4 minutes of downtime waiting for respawns. With those rates, even with a few gold from the fluids, this farm caps out at about 750 gold per hour. If we could farm infinitely, it might be close to 2100 or 2200. But that's not all, because there's one extra mob here that in all reality is the real gem and the real target of the island. So, in the middle of the island at the main camp, in the middle house, up the stairs to the back, hiding behind this guard dog is Dr. Weevil and uh his former interns. Lots of experimenting here. Now, he isn't technically a rare.",
+        "canonical_file": "goldbound/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.txt",
+        "original_file": "goldbound/original-vtt/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E033-21",
+      "name": "Hanzo Sword and Moonfang Pelt delayed sales",
+      "kind": "sales",
+      "status": "sales_confirmed",
+      "zone": "Dustwallow Marsh",
+      "summary": "Hanzo 38000, original DMFpeltfinally soldunnamed;73500 totaloldtransmog, ownzonecashlow.",
+      "metrics": {
+        "Hanzo Sword_sale_gold": 38000,
+        "backlog_cash_gold": 73500
+      },
+      "source": {
+        "file": "033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.vtt",
+        "cleaned_file": "goldbound/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.txt",
+        "paragraph_start": 24,
+        "paragraph_end": 24,
+        "start_time": "00:31:01.919",
+        "quote": "So far so good. Up to 31.8k with over 100 males to go, but also a few expired auctions that got stuck behind the sold auctions. So, we do have more trade good value to sell, which we can relist right away here. But with all of it looted up, we're sitting at over 45,000 gold just in trade goods. Not bad for our initial testing. But that's not the only mailbox we have to clear. So, let's pop over to the transmog alts to see the sales. Now, currently I do have transmog alts, both of which are primarily functioning to have secret names. The first alt here is entirely our backlog from our old 14 zones. Anything that hasn't sold yet is still on this guy. As you can see, we did pretty darn good on the transmog backlog this week. We finally sold one of our Moon Fang pelts. This is one that got back all the way in the dark moon fair episode. I haven't gone back and gotten more of these. This is one of the original ones. And the big pull here is for sure the Hanzo Sword. This one we got from the blasted lands a couple zones ago, hitting a sale at 38,000 gold. Nice. On top of that, a lot of 1 to 5k items and even a few more dark iron items moving. So, a really good show overall on transmog. And let's get this looted up for a total gold of 73,500.",
+        "canonical_file": "goldbound/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.txt",
+        "original_file": "goldbound/original-vtt/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E033-22",
+      "name": "Full-zone skin-herb-raid-toy hybrid hour",
+      "kind": "farm",
+      "status": "measured",
+      "zone": "Dustwallow Marsh",
+      "summary": "Ony 10 resets 12 min~2 k, herb/rare/chest Dartnest, Alcaz Dr Weavil(no gun), Theramorehearth, southernskin 35 min;9000 valueincluding 2400 Hatchling→6600 materials. Nochest/rareluck.",
+      "metrics": {
+        "minutes": 60,
+        "total_appraisal_gold": 9000,
+        "Darting Hatchling_appraisal_gold": 2400,
+        "derived_material_gold": 6600
+      },
+      "source": {
+        "file": "033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.vtt",
+        "cleaned_file": "goldbound/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.txt",
+        "paragraph_start": 25,
+        "paragraph_end": 27,
+        "start_time": "00:32:28.880",
+        "quote": "One of our better old transmog clears honestly. And we'll get this over to Goldie. Then the last mailbox to check for the mid video check here is the dustallow marsh transmog acceler. This guy has all the rare items from the marsh from rares, chests, and just random greens that we've gotten just so we can see the difference in value from current zone to old zone. And uh yeah, not a very good week in the marsh for sales, but that's okay. We're building the catalog and transmog takes a while to really pick up. So with everything sent over to Goldie, our new gold total is squarely at 119,000 gold. just under halfway through the current WoW token price, but those do fluctuate a fair amount, so give or take there. And with that in mind, well, we can get back out onto the farms, which means it's time to double down on the farms we have and build out something of an optimized farm route around Dustalla Marsh. We've discovered a lot of individual farms here with their own benefits, and alone, they're okay. But I think a lot of these farms, if we can meld them together into one large, highly efficient zone farm, it may just outperform any individual one. So here is what my current full power gold farm here looks like. First things first, we are running skinning and herbalism. So here is the plan. And at the start of the hour, it's a full clear of Enixia's layer. This should net us about 2,000 gold and come in at right around 12 minutes. Then I head out and fly from the layer across the whole zone towards Alcaz Island, but on the way taking the scenic route, stopping to get a lot of the herbs because I found that while doing an hour full of herbalism, the rates were kind of slow near the end. But the first loop around when there's tons of ghosts, it's actually pretty good for density. But I'm also making sure to go wide enough around the zone to fly over rare spawns and treasure chest locations for a few extra chances at loot. Plus, before heading over into Alcaz, stopping in to check on Dart to snag another one of the hatchlings if they're up. And while in this area, if there's a few raptors in the way, well, they go down and they get skinned. Then flying over to Alcaz. And with sky riding here, we can speed pretty quickly and if we're lucky, avoid the anti-aircraft shots before we're actually above land. And then it's just a few grappling hooks and a sprint over to Dr. Reevil for a chance at the ray gun. No luck this time, though. From here, we're about 22 minutes into the farm and have about 5.5,000 gold in value. Granted, about 2.4,000 of that is from the darting hatchling, but still a pretty good pace so far. And to get back into the farms and to avoid swimming out of Alcaz, I just Hearthstone, which is set to Theamore.",
+        "canonical_file": "goldbound/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.txt",
+        "original_file": "goldbound/original-vtt/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.vtt"
+      },
+      "additional_values": [
+        {
+          "value": 6600,
+          "label": "Trade goods",
+          "basis": "9,000g appraised in one hour minus the 2,400g lucky hatchling; material-only historical return.",
+          "unit": "g/h",
+          "kind": "estimated",
+          "source_refs": [
+            {
+              "episode": 33,
+              "paragraph_start": 25,
+              "paragraph_end": 27,
+              "start_time": "00:32:28.880"
+            }
+          ]
+        },
+        {
+          "value": 9000,
+          "label": "Lucky sample",
+          "basis": "Appraised value of the full one-hour sample including a 2,400g pet drop.",
+          "unit": "g/h",
+          "kind": "recorded",
+          "source_refs": [
+            {
+              "episode": 33,
+              "paragraph_start": 25,
+              "paragraph_end": 27,
+              "start_time": "00:32:28.880"
+            }
+          ]
+        }
+      ],
+      "valued_drops": [
+        {
+          "item": "Darting Hatchling",
+          "obtained": true,
+          "source_refs": [
+            {
+              "episode": 33,
+              "paragraph_start": 25,
+              "paragraph_end": 27,
+              "start_time": "00:32:28.880"
+            }
+          ],
+          "note": "Obtained in this one-hour sample; kept separate from the 6,600g trade-good return.",
+          "quote_gold": 2400
+        }
+      ],
+      "related_records": [
+        {
+          "id": "E033-05",
+          "role": "component",
+          "label": "Onyxia trash resets",
+          "include_earnings": true
+        },
+        {
+          "id": "E033-02",
+          "role": "component",
+          "label": "Herb gathering",
+          "include_earnings": true
+        },
+        {
+          "id": "E033-07",
+          "role": "component",
+          "label": "Darting Hatchling checks",
+          "include_earnings": true
+        },
+        {
+          "id": "E033-20",
+          "role": "component",
+          "label": "Dr. Weavil toy target",
+          "include_earnings": true
+        },
+        {
+          "id": "E033-18",
+          "role": "component",
+          "label": "Southern skinning",
+          "include_earnings": true
+        }
+      ]
+    },
+    {
+      "id": "E033-23",
+      "name": "Weekly Onyxia full clear and MC 36 retest",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Onyxias Lair / Molten Core",
+      "summary": "Onyxian Drakenodrop, Onyxia Hide Backpack 22 sameasexisting, skins Onyxia Scales. MC 36 noleft/nochest.",
+      "metrics": {
+        "MC_clears": 36,
+        "bag_slots": 22
+      },
+      "source": {
+        "file": "033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.vtt",
+        "cleaned_file": "goldbound/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.txt",
+        "paragraph_start": 27,
+        "paragraph_end": 27,
+        "start_time": "00:35:40.079",
+        "quote": "But aside from the darting hatchling valued at about 2.4,000 gold. The rest in this 9,000 gold is straight up trade goods. So all in all, a pretty good full zone farm. Plus with a variety of different things we're doing in this hour, we have a lot more variety of items to sell. And plus, the time flies. So while I keep on farming this and getting more gold towards the next token for a new zone spin, let's talk about what zones Dustallow Marsh added to the randomizer. Our Eastern Kingdom unlocked zones are looking the same and we're still spinning for Deadwind Pass, Blasted Lands, Twilight Highlands, and Arathy Highlands. But now over in Calumdor, we do have a new contender. We still have the Barons, which is connected through Dustallow, but we already had an access point through Stranglethorn Veil, Booty Bay to Ratchet Boating Lanes. So, the new zone on the randomizer is Thousand Needles. But that's a good zone to have available because even if Thousand Needles isn't a massive zone itself, there are tons of unlocks available down in the south of Kalumor and we'll have to go that way eventually, at least if we ever want to finish off Thunderfury: Blessed Blade of the Windseeker. Speaking of which, 36th run of Molten Core in the books. Still no left binding and still no Night Slayer chest at this point. The Night Slayer chest drop rates just don't make sense, but maybe one day we'll get it. Plus, now we do have Enixia's layer in the raid reset, which gives us a chance at the Enixian Drake. And the results for our first clear, well, no dice either. Oh well, that one might take a while, but even after we leave Dust Bellow Marsh, I will definitely keep it in the rotation. For now, we at least get the Enixia hide backpack, a 22 slot bag, which is cool, but it is the same size as our current embers hook bags. Plus, we can skin Enixia for a few of the Enixia scales, which may come in handy with a craft down the road. But all right, we have a repeatable and profitable farm here in Dustallow. One that gives us transmog, herbs, toys, and leather. But for the trade goods, am I just selling them as is? Well, some of them, yes, but not all of them. So the main things we're getting so far as leather, we do have rugged leather from the Nix's resets and those are just sold asis or crafted into lockman and bare skin rugs if we lose supply. So far that is still stocked. Then with the heavy hides, the price has come down a bit lately, which is all right. And there is actually something else we can do with them. So they'll go straight to the crafting alt. Same with the rugged hide.",
+        "canonical_file": "goldbound/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.txt",
+        "original_file": "goldbound/original-vtt/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E033-24",
+      "name": "Rugged Hide curing 1000 batch",
+      "kind": "experiment",
+      "status": "performed",
+      "zone": "Dustwallow Marsh",
+      "summary": "~1000 hides 2 g→6–8 gwith Deep Rock Salt, consumesbankstock; marginexcludeslumbernotrelevanthere/saltopportunitycost.",
+      "metrics": {
+        "crafts_approx": 1000,
+        "input_hide_gold": 2,
+        "quoted_output_gold_range": [
+          6,
+          8
+        ]
+      },
+      "source": {
+        "file": "033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.vtt",
+        "cleaned_file": "goldbound/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.txt",
+        "paragraph_start": 28,
+        "paragraph_end": 28,
+        "start_time": "00:38:04.480",
+        "quote": "The rest of the leather, like thick and heavy, I will just sell as is. As for the herbs, the majority will be processed with the exception of gold thorn. This one is used by players to level alchemy, and due to the demand from that, its raw value is quite a bit higher than the pigment value. But let's hop over onto golden path to process some of the hides. First up, rugged hide. And we get a lot of these from the resets. Luckily, when combined with deep rock salt, they go from about two gold each to around 6 to eight. I crafted a bunch of these already, about a thousand. So, I did use up the majority of my backlog of deep rock salt, but this is a pretty accessible reagent that we can farm in molten core trash runs or searing gorge and burning steps elementals if needed. So, a good profit there. Then, we also have heavy hide.",
+        "canonical_file": "goldbound/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.txt",
+        "original_file": "goldbound/original-vtt/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E033-25",
+      "name": "Heavy Hide curing shuffle",
+      "kind": "experiment",
+      "status": "performed",
+      "zone": "Dustwallow Marsh",
+      "summary": "3 vendorsaltperhide,70 g→~140 gquoted; batchcount/timeunstated.",
+      "metrics": {
+        "Salt_per_craft": 3,
+        "quoted_input_gold": 70,
+        "quoted_output_gold": 140
+      },
+      "source": {
+        "file": "033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.vtt",
+        "cleaned_file": "goldbound/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.txt",
+        "paragraph_start": 29,
+        "paragraph_end": 29,
+        "start_time": "00:38:50.079",
+        "quote": "And this requires just three regular salt to cure, which we can just get pretty much for free from trade good vendors. And with the current prices of heavyhide, it makes it a lot more profitable. About 70 gold to nearly 140. Very nice. So, we can improve the profits a little bit on the leather, but what about the herbs? Well, for that I need to do it on Goldie because I have to unlearn and relearn a new profession. And out of herbalism and skinning, skinning is the easier one to abandon because we can just power level it back up in wetlands in about 20 minutes. So, I can unlearn that and grab inscription. We only need level one inscription for this hustle because we're milling courtesy of Theodin here. So all of the herbs in our zone except gold thorn and I guess strangle kelp, but we don't get too much of that actually turn a modest profit once mil into either emerald pigments, indigo pigments, dusky pigments, or orange like Khadgar's whisker here. Now this will vary pretty wildly based on the day and the markets for pigments versus herbs, but I have been getting a relatively consistent 3 to four gold per herb markup here. And after milling down our herb backlog, we have a small fortune on pigments. Love to see it. Now all that's left to do is to continue doing laps undercut scans just to see how much gold we can juice here. So after a bit more farming, let's have a look at the hall. And out of curiosity, I have been running the zone timer add-on the last couple of zones. And right now we're over 38 hours in the marsh and over 8 hours in Enixia's layer. Lots of skinning in those time periods, but also a lot of farm testing and camping Dr. Weevil. The current WOW token as well is actually down to 254K. So kind of low and we're right around 122,000 gold. Plus, I know I have a lot on the auction house still trying to be sold. So if we have a good day on trade good here, we may just have a new token. We do have 80 auctions sold. And scrolling through here, it's probably also about 80% skinning loot.",
+        "canonical_file": "goldbound/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.txt",
+        "original_file": "goldbound/original-vtt/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E033-26",
+      "name": "Dustwallow herb milling portfolio",
+      "kind": "experiment",
+      "status": "performed",
+      "zone": "Dustwallow Marsh",
+      "summary": "Level 1 Inscription, Khadgar/Fadeleaf/others Emerald/Indigo/Duskyetc 3–4 g/herbmarkup; Goldthorn/Kelpleftraw. Countsunstated, priceconditional.",
+      "metrics": {
+        "quoted_margin_gold_per_herb_range": [
+          3,
+          4
+        ]
+      },
+      "source": {
+        "file": "033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.vtt",
+        "cleaned_file": "goldbound/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.txt",
+        "paragraph_start": 28,
+        "paragraph_end": 29,
+        "start_time": "00:38:04.480",
+        "quote": "The rest of the leather, like thick and heavy, I will just sell as is. As for the herbs, the majority will be processed with the exception of gold thorn. This one is used by players to level alchemy, and due to the demand from that, its raw value is quite a bit higher than the pigment value. But let's hop over onto golden path to process some of the hides. First up, rugged hide. And we get a lot of these from the resets. Luckily, when combined with deep rock salt, they go from about two gold each to around 6 to eight. I crafted a bunch of these already, about a thousand. So, I did use up the majority of my backlog of deep rock salt, but this is a pretty accessible reagent that we can farm in molten core trash runs or searing gorge and burning steps elementals if needed. So, a good profit there. Then, we also have heavy hide.",
+        "canonical_file": "goldbound/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.txt",
+        "original_file": "goldbound/original-vtt/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.vtt"
+      },
+      "additional_values": [
+        {
+          "value": [
+            3,
+            4
+          ],
+          "label": "Milling markup",
+          "basis": "Reported variable markup per herb; Goldthorn and kelp were left raw.",
+          "unit": "g/herb",
+          "kind": "value",
+          "source_refs": [
+            {
+              "episode": 33,
+              "paragraph_start": 29,
+              "paragraph_end": 29,
+              "start_time": "00:38:50.079"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E033-27",
+      "name": "212000 g zone-time checkpoint",
+      "kind": "observation",
+      "status": "measured",
+      "zone": "Dustwallow Marsh",
+      "summary": "38 hourmarsh 8 hour Ony, timeincludesalltests, cash 212 kvs 254 ktoken, still 40 kshort.",
+      "metrics": {
+        "marsh_hours_lower_bound": 38,
+        "Onyxia_hours_lower_bound": 8,
+        "cash_gold": 212000,
+        "token_gold": 254000
+      },
+      "source": {
+        "file": "033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.vtt",
+        "cleaned_file": "goldbound/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.txt",
+        "paragraph_start": 29,
+        "paragraph_end": 31,
+        "start_time": "00:38:50.079",
+        "quote": "And this requires just three regular salt to cure, which we can just get pretty much for free from trade good vendors. And with the current prices of heavyhide, it makes it a lot more profitable. About 70 gold to nearly 140. Very nice. So, we can improve the profits a little bit on the leather, but what about the herbs? Well, for that I need to do it on Goldie because I have to unlearn and relearn a new profession. And out of herbalism and skinning, skinning is the easier one to abandon because we can just power level it back up in wetlands in about 20 minutes. So, I can unlearn that and grab inscription. We only need level one inscription for this hustle because we're milling courtesy of Theodin here. So all of the herbs in our zone except gold thorn and I guess strangle kelp, but we don't get too much of that actually turn a modest profit once mil into either emerald pigments, indigo pigments, dusky pigments, or orange like Khadgar's whisker here. Now this will vary pretty wildly based on the day and the markets for pigments versus herbs, but I have been getting a relatively consistent 3 to four gold per herb markup here. And after milling down our herb backlog, we have a small fortune on pigments. Love to see it. Now all that's left to do is to continue doing laps undercut scans just to see how much gold we can juice here. So after a bit more farming, let's have a look at the hall. And out of curiosity, I have been running the zone timer add-on the last couple of zones. And right now we're over 38 hours in the marsh and over 8 hours in Enixia's layer. Lots of skinning in those time periods, but also a lot of farm testing and camping Dr. Weevil. The current WOW token as well is actually down to 254K. So kind of low and we're right around 122,000 gold. Plus, I know I have a lot on the auction house still trying to be sold. So if we have a good day on trade good here, we may just have a new token. We do have 80 auctions sold. And scrolling through here, it's probably also about 80% skinning loot.",
+        "canonical_file": "goldbound/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.txt",
+        "original_file": "goldbound/original-vtt/033 - I Tried Earning A WoW Token In DUSTWALLOW... The Skinning Was INSANE - Goldbound Ep.32.en-orig.vtt"
+      }
+    }
+  ]
+}

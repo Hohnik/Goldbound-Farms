@@ -1,0 +1,501 @@
+{
+  "source_id": 19,
+  "source_file": "019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.vtt",
+  "cleaned_file": "goldbound/019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.txt",
+  "full_text_reviewed": true,
+  "paragraph_count": 24,
+  "records": [
+    {
+      "id": "E019-01",
+      "name": "Wilkinson vendor decor check",
+      "kind": "experiment",
+      "status": "performed",
+      "zone": "Duskwood",
+      "summary": "Fencing/table bought for own house; soulbound, no resale.",
+      "metrics": {},
+      "source": {
+        "file": "019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.vtt",
+        "cleaned_file": "goldbound/019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.txt",
+        "paragraph_start": 2,
+        "paragraph_end": 2,
+        "start_time": "00:00:50.000",
+        "quote": "Now, there are a few must-hits on the list in Duskwood, but before we run headfirst into the optimization mode, I just want to take a moment to soak this place in because Duskwood, at least to me, is one of those zones. The lighting, the music, the fog, and just the whole vibe of the place is pure classic WoW nostalgia for me. And it feels good to be here. So, let's start simple. Just after we crossed in from Westfall, the first real stop of note is known as a quest hub, but it's also home to Wilkinson, the local general goods vendor. Although, I don't know who he's selling to around here and his stockpile kind of shows that. We're not really uncovering any major vendor flips here, but he does happen to sell housing decor. It's soulbound, but it does matter for Goldie's own house because there is fencing available here, which Goldie doesn't have any fencing yet, so a little nice upgrade along with the small Gilnean-style table. So, some cool Duskwood vibe home decor. Nothing to resell, though. But beyond that, looking around Raven Hill, it is pretty darn desolate here. The inn, which used to potentially have some vendors back in the day, is instead occupied by veiled fanatics. No more vendors, and these guys aren't exactly friendly. But, that does raise the question, do these guys drop anything? Well, unfortunately, aside from some light reading material about the history of the ages, uh there's nothing really on their loot tables to sell. So, no transmog and no trade goods. So, these guys are a bit of a dud. And speaking of inns, there isn't even a bed left in the Raven Hill Inn, which is a real problem because travelers, you know we support the pro-nap movement, and so does the sponsor of today's episode, Mantisleep. Now, Mantisleep masks are some of the most advanced sleep masks on the planet. They feature 100% blackout from light, adjustable eye cups, and then over-the-ear design. So, they are incredibly comfortable. And personally, I'm an avid napper, but I'm also a side sleeper, and that's where I find that these masks really shine because even when I'm laying on my side, I can get full blackout without any pressure on my eyes, and the mask doesn't slip all over the place. But on top of that, one thing that's really elevated my sleep and my naps lately is the Mantisleep white noise machine. So, I've been using this alongside the booster, which just gives two points of noise, kind of a surround sound situation for me, and I usually set this to wave sounds. And honestly, I'm out cold in minutes. And right now, Mantisleep is running their last chance holiday sale, so you can get 15% off if you spend 109 or up to 25% off if you spend 219. On top of all that, you can save an extra 10% by using my code Pathalytics at checkout. So, check out the link in the description to see which Mantisleep products might help you level up your naps and your sleep. And huge thanks to Mantisleep for sponsoring today's video. All right, travelers, back to Duskwood because out here, I don't think Goldie will be getting much rest at all. And if we're going to nap anywhere, it's definitely Darkshire.",
+        "canonical_file": "goldbound/019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.txt",
+        "original_file": "goldbound/original-vtt/019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E019-02",
+      "name": "Raven Hill Veiled Fanatic loot test",
+      "kind": "experiment",
+      "status": "failed",
+      "zone": "Duskwood",
+      "summary": "Checks mobs replacing innvendors; only readingmaterial, no profitable loot.",
+      "metrics": {},
+      "source": {
+        "file": "019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.vtt",
+        "cleaned_file": "goldbound/019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.txt",
+        "paragraph_start": 2,
+        "paragraph_end": 2,
+        "start_time": "00:00:50.000",
+        "quote": "Now, there are a few must-hits on the list in Duskwood, but before we run headfirst into the optimization mode, I just want to take a moment to soak this place in because Duskwood, at least to me, is one of those zones. The lighting, the music, the fog, and just the whole vibe of the place is pure classic WoW nostalgia for me. And it feels good to be here. So, let's start simple. Just after we crossed in from Westfall, the first real stop of note is known as a quest hub, but it's also home to Wilkinson, the local general goods vendor. Although, I don't know who he's selling to around here and his stockpile kind of shows that. We're not really uncovering any major vendor flips here, but he does happen to sell housing decor. It's soulbound, but it does matter for Goldie's own house because there is fencing available here, which Goldie doesn't have any fencing yet, so a little nice upgrade along with the small Gilnean-style table. So, some cool Duskwood vibe home decor. Nothing to resell, though. But beyond that, looking around Raven Hill, it is pretty darn desolate here. The inn, which used to potentially have some vendors back in the day, is instead occupied by veiled fanatics. No more vendors, and these guys aren't exactly friendly. But, that does raise the question, do these guys drop anything? Well, unfortunately, aside from some light reading material about the history of the ages, uh there's nothing really on their loot tables to sell. So, no transmog and no trade goods. So, these guys are a bit of a dud. And speaking of inns, there isn't even a bed left in the Raven Hill Inn, which is a real problem because travelers, you know we support the pro-nap movement, and so does the sponsor of today's episode, Mantisleep. Now, Mantisleep masks are some of the most advanced sleep masks on the planet. They feature 100% blackout from light, adjustable eye cups, and then over-the-ear design. So, they are incredibly comfortable. And personally, I'm an avid napper, but I'm also a side sleeper, and that's where I find that these masks really shine because even when I'm laying on my side, I can get full blackout without any pressure on my eyes, and the mask doesn't slip all over the place. But on top of that, one thing that's really elevated my sleep and my naps lately is the Mantisleep white noise machine. So, I've been using this alongside the booster, which just gives two points of noise, kind of a surround sound situation for me, and I usually set this to wave sounds. And honestly, I'm out cold in minutes. And right now, Mantisleep is running their last chance holiday sale, so you can get 15% off if you spend 109 or up to 25% off if you spend 219. On top of all that, you can save an extra 10% by using my code Pathalytics at checkout. So, check out the link in the description to see which Mantisleep products might help you level up your naps and your sleep. And huge thanks to Mantisleep for sponsoring today's video. All right, travelers, back to Duskwood because out here, I don't think Goldie will be getting much rest at all. And if we're going to nap anywhere, it's definitely Darkshire.",
+        "canonical_file": "goldbound/019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.txt",
+        "original_file": "goldbound/original-vtt/019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E019-03",
+      "name": "Gundar Thornbush coal vendor resale",
+      "kind": "experiment",
+      "status": "failed",
+      "zone": "Duskwood",
+      "summary": "Tests stock then reports 23000 coal sold 829 g at 15%loss. Caption 23000 quantity suspect; preserve raw count needing video ledger confirmation.",
+      "metrics": {
+        "caption_quantity": 23000,
+        "gross_sale_gold": 829,
+        "reported_loss_pct": 15,
+        "quantity_uncertain": true
+      },
+      "source": {
+        "file": "019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.vtt",
+        "cleaned_file": "goldbound/019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.txt",
+        "paragraph_start": 3,
+        "paragraph_end": 21,
+        "start_time": "00:03:43.600",
+        "quote": "Now, is it actually safe from Stitches? Well, probably not, but it does have beds and more importantly, new vendors and new trainers. So, let's go take a look. The first vendor that immediately catches my eye is Gundar Thornbush. And at first glance, he mostly sells materials we already have access to, but there is one that stands out, coal. Now, coal isn't some insane gold mine, but it could potentially be a vendor flip. The margins look slim, but if we can reliably pull a 20 to 30% return, that's good enough for bulk movement, especially now that we have a Brutosaur and we can post instantly. So, I'm going to give this a little try, grab a small stockpile, and throw it up on the auction house to test out demand.",
+        "canonical_file": "goldbound/019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.txt",
+        "original_file": "goldbound/original-vtt/019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.vtt"
+      },
+      "additional_values": [
+        {
+          "value": 829,
+          "label": "Gross sales",
+          "basis": "Gross coal sales with a reported 15% loss. Caption quantity is uncertain; no net margin is inferred.",
+          "unit": "g",
+          "kind": "sale",
+          "source_refs": [
+            {
+              "episode": 19,
+              "paragraph_start": 21,
+              "paragraph_end": 21,
+              "start_time": "00:20:31.440"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E019-04",
+      "name": "Matt Johnson smelting recipe unlock",
+      "kind": "experiment",
+      "status": "successful",
+      "zone": "Duskwood",
+      "summary": "Learns above-bronze classic recipes; blacksmithing/Dark Ironquest now feasible. Engineering trainer discovered, no crafts tested yet.",
+      "metrics": {},
+      "source": {
+        "file": "019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.vtt",
+        "cleaned_file": "goldbound/019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.txt",
+        "paragraph_start": 4,
+        "paragraph_end": 4,
+        "start_time": "00:04:24.200",
+        "quote": "But okay, on to the trainers. Now, the big obvious one that we know is here is Matt Johnson, aka our new mining trainer. And normally, that wouldn't be too huge of a deal because mining mostly levels through gathering anyway, but this guy also teaches the classic smelting recipes. Everything above bronze comes from him, which is massive for us. That effectively unlocks blacksmithing. We can now level it beyond the bronze era. And this may open up some decor crafts, but it also may open up the ability to complete our dark iron smelting quest a little earlier than expected. Something else unexpected is the engineering trainer. Now, I haven't done any deep dives on engineering yet, but between smelting now being unlocked and engineering suddenly on the table, there's definitely potential here. There could be some crafts, could be housing decor, or just could be utility. But, instead of sitting in Darkshire theory crafting all day, let's get out there, dust off the notebook, and start testing out some gold farms. And since we're currently sitting on skinning and leatherworking, which is what we wrapped up last episode with with the Loch Modan bear skin rugs, I kind of want to find a solid skinning farm here in Duskwood before we abandon them. And with more players leveling leatherworking for housing crafts than ever before, there is a lot of gold to be made in the leveling materials. They don't even have to be used for crafts.",
+        "canonical_file": "goldbound/019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.txt",
+        "original_file": "goldbound/original-vtt/019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E019-05",
+      "name": "Black Ravager and Barn Owl route",
+      "kind": "farm",
+      "status": "measured",
+      "zone": "Duskwood",
+      "summary": "30 min 54 Medium Leatherpluslight/hides/eggs;1873 gmaterials→3746 g/h. Greens~5000 g/halfhr→total~13900 valuation/h, notcash.",
+      "metrics": {
+        "minutes": 30,
+        "Medium Leather": 54,
+        "material_appraisal_gold": 1873,
+        "material_gold_per_hour": 3746,
+        "transmog_appraisal_gold_approx": 5000,
+        "combined_extrapolated_gold_per_hour_approx": 13900
+      },
+      "source": {
+        "file": "019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.vtt",
+        "cleaned_file": "goldbound/019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.txt",
+        "paragraph_start": 5,
+        "paragraph_end": 7,
+        "start_time": "00:05:41.880",
+        "quote": "So, medium leather in particular has jumped from about three to four gold each in the previous months to 15 to 16 gold now. I've even seen it spike as high as 40, but that's pretty rare. Which makes Duskwood interesting because a lot of the beasts here do sit pretty much right in the medium leather band. Our first target, black ravagers. Now, these wolves spawn along the main road through Duskwood, and there is a little bit of a split in the route. I'll throw it up on screen here because once you start hitting spiders on the north side of the road, we do have to jump down to the south side to keep getting the black ravagers and keep the loop going smoothly. And with some preliminary testing here, they're actually intermingled with barn owls, which can drop small eggs. And thanks to Winter's Veil, these have a decent price tag around 10 or 11 gold right now. So, here's the plan. We can test this little route for medium leather from the ravagers and small eggs from the owls. Both are pretty strong and pretty steady sellers right now. And if this route holds up, it could become a reliable baseline farm for the zone.",
+        "canonical_file": "goldbound/019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.txt",
+        "original_file": "goldbound/original-vtt/019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E019-06",
+      "name": "Nightscape set crafting supply",
+      "kind": "experiment",
+      "status": "successful",
+      "zone": "Sunken Temple / Duskwood",
+      "summary": "One Sunken Templerun supplies Thick Leather, craftsfull Nightscapeforownzoneoutfitand Dragons Calls; not AHrevenue.",
+      "metrics": {},
+      "source": {
+        "file": "019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.vtt",
+        "cleaned_file": "goldbound/019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.txt",
+        "paragraph_start": 8,
+        "paragraph_end": 9,
+        "start_time": "00:08:27.560",
+        "quote": "And luckily for us, with leatherworking already leveled pretty high, we actually have a few solid sets we can craft at our fingertips. First up is turtle scale, which, um maybe not for this zone, but, you know, it's there as an option in the future. And uh we could also try farming out more of the Buccaneer set for the world drops. Although, this one does give more of a Stranglethorn Vale energy than Duskwood, not exactly putting in the mood here. Okay, the nightscape set. This one is looking a little dark leather, subtle, practical, and not too over the top for Duskwood. This kind of matches the theme, I think, and it feels right. So, looking at the crafts, all we need is a little bit of thick leather. And I guess we're going back to Sunken Temple, guys.",
+        "canonical_file": "goldbound/019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.txt",
+        "original_file": "goldbound/original-vtt/019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E019-07",
+      "name": "Silent Shade crypt hyperspawn",
+      "kind": "farm",
+      "status": "measured",
+      "zone": "Duskwood",
+      "summary": "Threefinal-roomspawns, macro,48 min 44 Undeath→55/h~6800 gessencealone at 125 g. Cloth/greenspersist beyond 3–5 min; bagsfill. Silk~60/hmentioned later.",
+      "metrics": {
+        "minutes": 48,
+        "Essence of Undeath": 44,
+        "extrapolated_essences_per_hour": 55,
+        "essence_only_gold_per_hour_approx": 6800,
+        "Silk Cloth_per_hour_approx": 60
+      },
+      "source": {
+        "file": "019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.vtt",
+        "cleaned_file": "goldbound/019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.txt",
+        "paragraph_start": 9,
+        "paragraph_end": 12,
+        "start_time": "00:09:12.080",
+        "quote": "With our current leatherworking level, we get thick leather like crazy there. So, one run is all we'll need. And we now have enough thick leather to fully craft the nightscape set. So, here we go. All right, all right. It's looking pretty good. And I think, as a nod to the green dragon RNG lately Sunken Temple, we just have to bring back the dual-wielded dragon's calls. These are the awesome one-handed swords we got back here. So, the official Duskwood set is complete, and I'm liking it. And speaking of style, what better place to show off our new set than Raven Hill graveyard. And while on the surface, we have our standard Duskwood lineup, skeletons, plague spreaders, ghouls, all the standard ones, which I think we will explore this for their drops later on, but right now, I want what's below, down in the crypt, cuz this is where the silent shades are spawning. And these mobs are interesting for one extremely valuable reason, Essence of Undeath. So, Essence of Undeath isn't unique to these mobs. It does drop in several places all across Azeroth, but Duskwood is, I think, the lowest level zone where it actually appears at all. And among Duskwood mobs, the silent shades do have the highest drop rate, sitting at around 1.5% chance per kill. That's a pretty bad drop rate, but here's the reason why we want to do it. Essence of Undeath is used in multiple housing decor crafts. Demand has spiked with the launch of housing.",
+        "canonical_file": "goldbound/019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.txt",
+        "original_file": "goldbound/original-vtt/019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E019-08",
+      "name": "Silent Shade loot-suppression test",
+      "kind": "experiment",
+      "status": "confirmed",
+      "zone": "Duskwood",
+      "summary": "Continuous cloth/green drops atstationarycryptcamp unlikeotherhyperspawns; no mechanismverified.",
+      "metrics": {},
+      "source": {
+        "file": "019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.vtt",
+        "cleaned_file": "goldbound/019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.txt",
+        "paragraph_start": 10,
+        "paragraph_end": 11,
+        "start_time": "00:10:37.120",
+        "quote": "Historically, these things were around 70 to 100 gold, but with housing in full swing, prices have spiked up to 200 gold and are currently settling around 120 to 160 gold with a pretty healthy demand, it appears. The only real issue is that these guys aren't too populated down in the crypt, which could make it hard to farm them efficiently. Or maybe not, cuz check this out. If we head down deep into the crypt, hang a left, and push all the way into this last room here, there's three spawn points for these guys. And if we update our left to win macro to target silent shades, we can actually set up a solo hyper spawn farm that requires almost no movement.",
+        "canonical_file": "goldbound/019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.txt",
+        "original_file": "goldbound/original-vtt/019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E019-09",
+      "name": "Manual Strong Anti-Venom drop",
+      "kind": "farm",
+      "status": "successful",
+      "zone": "Duskwood",
+      "summary": "Recipe from shade run,30000 gmarketvs 1000 gsalevalue cited; listed. Narrator callsalchemycompletion butprofessionlabelnotverified.",
+      "metrics": {
+        "quoted_market_gold": 30000,
+        "quoted_sale_gold": 1000
+      },
+      "source": {
+        "file": "019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.vtt",
+        "cleaned_file": "goldbound/019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.txt",
+        "paragraph_start": 11,
+        "paragraph_end": 12,
+        "start_time": "00:11:15.960",
+        "quote": "All we got to do is stand in the center around these kind of squares and rotate like an auto turret, and just take out the shades as they spawn. And so on some initial testing here, I noticed something very important and kind of strange. So, these mobs are dropping silk cloth, linen, and wool, which give us a lifeline for tailoring, but that's not what's weird. The weird thing is that the cloth drops are not slowing down after 3 to 5 minutes. At least from everything I've tested here, these shades do not appear to be affected by the open world anti hyper spawn looting. That's massive, cuz we're also getting greens this whole time. And we're getting so much stuff my bags actually filled up pretty quickly, but I couldn't do a full hour before I defend her. But our first 48 minutes of farming here, my bags are completely full. In that time, it looks like we got 44 Essence of Undeath, which, if we extrapolate that rate out to an hour, is 55 per hour. I think we may have gotten somewhat lucky on this, so I'm definitely going to do a few more hours of farming here and see what we get near the end. At a conservative 125 gold per Essence, that's 6.8 thousand gold per hour from the Essence alone, before counting cloth, greens, or BOEs. And there were plenty of those. The one standout, the Manual for Strong Anti-Venom.",
+        "canonical_file": "goldbound/019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.txt",
+        "original_file": "goldbound/original-vtt/019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E019-10",
+      "name": "Eliza rare visit",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Duskwood",
+      "summary": "Nostalgicrare 100–2000 gloot, no standout outcome specified.",
+      "metrics": {},
+      "source": {
+        "file": "019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.vtt",
+        "cleaned_file": "goldbound/019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.txt",
+        "paragraph_start": 12,
+        "paragraph_end": 12,
+        "start_time": "00:12:29.680",
+        "quote": "Now, I don't think this recipe is exactly meta or used, but maybe it's valuable because it's rare, and if someone wants 100% completion on alchemy, I guess they have to buy it. But a 30K price tag and a 1K sale value, this is definitely something we're going to try to sell. Even if we completely discount the green drops and a chance at open world epics, this is officially a top tier contender for a steady, repeatable gold farm in Duskwood. And it's pretty AFK friendly. This is a very good sign for what the zone has to offer. Now, of course, with a new zone comes new rare spawns, and Duskwood has plenty of them. There's some like Eliza who don't really have much in their loot tables, but they do carry some serious nostalgic weight, because Eliza is now a rare spawn with loot ranging anywhere from about 100 gold to 2K, which is also a throwback to the end of the Bride of the Embalmer questline in classic. Let's be honest, probably the end of more than a few hardcore characters over the years as well. But this is one of those Duskwood questlines that definitely hit the nostalgia, so it's cool to see. But not too far away, to the northeast, is a rare spawn that does mean business.",
+        "canonical_file": "goldbound/019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.txt",
+        "original_file": "goldbound/original-vtt/019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E019-11",
+      "name": "Marina DeSirrus Wicked Spiked Mace",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Duskwood",
+      "summary": "Campsgrave-robberrare 110000 gtarget; no maceyet, Superiorgreensonlybaseline.",
+      "metrics": {
+        "quoted_market_gold": 110000
+      },
+      "source": {
+        "file": "019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.vtt",
+        "cleaned_file": "goldbound/019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.txt",
+        "paragraph_start": 13,
+        "paragraph_end": 13,
+        "start_time": "00:13:34.760",
+        "quote": "Marina DeSirius. Holding the title of grave robber, um I guess grave robber in Duskwood pays pretty well, because one of her drops in particular is pretty serious, the Wicked Spiked Mace. And this thing carries some pretty solid market value, sitting around 110 thousand gold. Now, it doesn't have a particularly flashy appearance, but it's rare enough to command some serious price tags, and definitely worth swinging by or even camping for some tags. But so far for us at least, no mace. And the rest of her loot is pretty standard, with the standout pieces being parts of the superior set. Still, she's absolutely on the target list for rares. And then, we do have a little bit of a broodmother situation. Not quite in value like the Broodmother Carapace, but in spirit, with another rare spawn hiding away, Naraxis. Now, Naraxis lurks in a cave to the east, and this spider actually has multiple name drops with some pretty decent value. So, first up is Naraxis's Fang, a one-handed dagger with about a 3% drop rate and a market value of 30K.",
+        "canonical_file": "goldbound/019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.txt",
+        "original_file": "goldbound/original-vtt/019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E019-12",
+      "name": "Naraxis Fang and Husk rare hunt",
+      "kind": "farm",
+      "status": "successful",
+      "zone": "Duskwood",
+      "summary": "Bothitemswithin 3 kills; Fang 3%Husk 1.9%cited,30 kmarket each, Fang 10–15 ksaleavg. Luckyshortsample, no GPH.",
+      "metrics": {
+        "kills": 3,
+        "Naraxis Fang": 1,
+        "Husk of Naraxis": 1,
+        "quoted_each_market_gold": 30000
+      },
+      "source": {
+        "file": "019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.vtt",
+        "cleaned_file": "goldbound/019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.txt",
+        "paragraph_start": 13,
+        "paragraph_end": 15,
+        "start_time": "00:13:34.760",
+        "quote": "Marina DeSirius. Holding the title of grave robber, um I guess grave robber in Duskwood pays pretty well, because one of her drops in particular is pretty serious, the Wicked Spiked Mace. And this thing carries some pretty solid market value, sitting around 110 thousand gold. Now, it doesn't have a particularly flashy appearance, but it's rare enough to command some serious price tags, and definitely worth swinging by or even camping for some tags. But so far for us at least, no mace. And the rest of her loot is pretty standard, with the standout pieces being parts of the superior set. Still, she's absolutely on the target list for rares. And then, we do have a little bit of a broodmother situation. Not quite in value like the Broodmother Carapace, but in spirit, with another rare spawn hiding away, Naraxis. Now, Naraxis lurks in a cave to the east, and this spider actually has multiple name drops with some pretty decent value. So, first up is Naraxis's Fang, a one-handed dagger with about a 3% drop rate and a market value of 30K.",
+        "canonical_file": "goldbound/019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.txt",
+        "original_file": "goldbound/original-vtt/019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E019-13",
+      "name": "Molten Core binding weekly retest",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Molten Core",
+      "summary": "No additional bindingthisweek.",
+      "metrics": {},
+      "source": {
+        "file": "019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.vtt",
+        "cleaned_file": "goldbound/019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.txt",
+        "paragraph_start": 14,
+        "paragraph_end": 14,
+        "start_time": "00:14:38.040",
+        "quote": "Although, looking at the databases, it looks like realistically sales on this are probably closer to 10 to 15K, but definitely a good piece. Then, there's the Husk of Naraxis. This one's a small mail chest piece with an even lower drop rate at roughly 1.9%, and a similar 30K market value. Now, both are excellent transmog pieces, but with drop rates like that, we're probably going to need to camp this one quite a bit, right? Well, we're actually only at three kill count on Naraxis, and uh we have both the drops. Both the Husk and the Fang are in our bags. This is honestly absurd luck. I don't know what's happening. Getting both of these three kills is wild. I mean, getting even one would be crazy lucky. This is basically like pulling both bindings of the Windseeker from your first ever Molten Core run, which by the way, quick Molten Core update, no more bindings this week. But we can wait for next one.",
+        "canonical_file": "goldbound/019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.txt",
+        "original_file": "goldbound/original-vtt/019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E019-14",
+      "name": "Stockades silk and raw-gold trial",
+      "kind": "farm",
+      "status": "measured",
+      "zone": "Stormwind Stockades",
+      "summary": "0–6 silk/run;10 lockout~20 silkaverage, raw+vendor 1500 g/h. Combined Stockades/shadesstock 150–160 silk not attributablewholeto dungeon.",
+      "metrics": {
+        "silk_per_run_range": [
+          0,
+          6
+        ],
+        "silk_per_10_runs_approx": 20,
+        "raw_vendor_gold_per_hour_approx": 1500
+      },
+      "source": {
+        "file": "019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.vtt",
+        "cleaned_file": "goldbound/019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.txt",
+        "paragraph_start": 15,
+        "paragraph_end": 17,
+        "start_time": "00:15:29.720",
+        "quote": "Still, Naraxis is on the hit list. And Duskwood has a handful of other rare spawns that are worth keeping on the radar. Their spawn times are reasonable enough to actually camp these pretty efficiently. But for now, I do think it's time to shift gears and check out something that just opened up with Duskwood being unlocked. Because if you remember, we decided to do like Duskwood to Stormwind Stockade, and that was a deliberate choice, because Stormwind itself isn't really a zone we plan to unlock in the traditional sense on this challenge. It just fast-tracks too many classic systems and professions and vendors. Otherwise, we can't really unlock the Stockades. But since the Stockade is right in the middle of the Westfall, Redridge, and Duskwood quest flow, and we have all three of those zones unlocked, it makes sense that the dungeon is fair game. So, let's head in and see what this actually offers us.",
+        "canonical_file": "goldbound/019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.txt",
+        "original_file": "goldbound/original-vtt/019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E019-15",
+      "name": "Tailoring bandage leveling 240",
+      "kind": "experiment",
+      "status": "successful",
+      "zone": "Duskwood",
+      "summary": "Woolbandagesuntilgreenends gain 5–10 skills, then Silk→Mageweave, avoidsbolt costs; reaches 240.",
+      "metrics": {
+        "target_skill": 240,
+        "extra_wool_skills_range": [
+          5,
+          10
+        ]
+      },
+      "source": {
+        "file": "019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.vtt",
+        "cleaned_file": "goldbound/019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.txt",
+        "paragraph_start": 18,
+        "paragraph_end": 19,
+        "start_time": "00:17:50.160",
+        "quote": "Because between the Stockades and our shade farming, I think we may just finally have enough silk cloth to take another run at tailoring. And thanks to a few of you pointing this out, there's also a much more efficient way to level tailoring and retail, bandages. Because First Aid is no longer a separate profession. Bandages fall under tailoring, which means we can level tailoring using raw cloth without having to first convert it into bolts, which reduces the time, but also dramatically reduces how much cloth you need to level. So, we can be a little min-max here. We don't have too much silk, we have a lot of wool, so I'm just going to craft wool bandages until they stop being green. Maybe get five or 10 extra level out of it before we have to swap to silk, and it looks like silk is going to carry us all the way to mageweave. So, I think we're in the clear. And there it is.",
+        "canonical_file": "goldbound/019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.txt",
+        "original_file": "goldbound/original-vtt/019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E019-16",
+      "name": "Elder Rise Rug crafting and sales",
+      "kind": "experiment",
+      "status": "sales_confirmed",
+      "zone": "Duskwood",
+      "summary": "Runeclothstock enablescraft, oneforhouse; severalsell, pricesunstated. Constant 10–15 minundercutsforcompetitivecrafts.",
+      "metrics": {},
+      "source": {
+        "file": "019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.vtt",
+        "cleaned_file": "goldbound/019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.txt",
+        "paragraph_start": 19,
+        "paragraph_end": 21,
+        "start_time": "00:18:37.760",
+        "quote": "240 tailoring. Which means another housing decor craft is unlocked. This is the one we were trying to craft last episode, the Elder Rise Rug. So, we'll add that to our three total housing decor crafts, and hopefully sell a couple of those this episode, because those alone could get us a long way. And we already have a lot of room cloth stockpiled up, so we don't have to worry about that for now. And of course, we're going to put one of these in our house just to spruce it up a little bit. Slow and steady, we're actually making our house a little more cozy. All right. Now, with Duskwood in full swing, let's take a look and see what this unlock has added to the table. Duskwood does open up a pretty exciting possibility for our next zone roll, Stranglethorn Vale. And this one is big.",
+        "canonical_file": "goldbound/019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.txt",
+        "original_file": "goldbound/original-vtt/019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E019-17",
+      "name": "Bearskin Rug backlog sales",
+      "kind": "sales",
+      "status": "sales_confirmed",
+      "zone": "Duskwood",
+      "summary": "Marketdip 2400 thenresetbuysbatch; leatherworkingdropped, finiteinventoryremaining.",
+      "metrics": {
+        "lowest_market_gold": 2400
+      },
+      "source": {
+        "file": "019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.vtt",
+        "cleaned_file": "goldbound/019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.txt",
+        "paragraph_start": 20,
+        "paragraph_end": 21,
+        "start_time": "00:19:22.120",
+        "quote": "Not just because of the farms, but because of Booty Bay, which does act as a gateway to Kalimdor, because it would open up the Barrens as a potential zone if we got it. That does raise an important question though. Both Stranglethorn Vale and the Barrens technically have a north and south version, so we're going to treat those as separate zones. Now, for the sake of clarity and just general zone vibe, I'm going to treat them as their classic zone identities, which means Stranglethorn Vale is one zone and Barrens is is one zone, regardless of north and south. That way, it's just clean, simple, and consistent. So, with Duskwood unlocked, our current now includes Stranglethorn Vale, Dun Morogh, Searing Gorge, Deadwind Pass, and of course, Blasted Lands. And with potential new zones in the mind, let's go ahead to the mailbox and see if we've earned enough in Duskwood to unlock it this week. Of course, we start with Goldie. And since it's only been 1 week since unlocking Duskwood, we're sitting only at about 85 mail sold. Judging by some of these prices, this could still be a solid haul. And right off the bat, we do have the Lock Modan bear skin rugs and Elder Rags rugs moving. So, apparently we're just full-time rug merchants now.",
+        "canonical_file": "goldbound/019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.txt",
+        "original_file": "goldbound/original-vtt/019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E019-18",
+      "name": "Mightfish exceptional 2000 g sales",
+      "kind": "sales",
+      "status": "sales_confirmed",
+      "zone": "Duskwood",
+      "summary": "Smallbacklogfewfishsell~2000 geachafterspike, notnormalfishfarm baseline.",
+      "metrics": {
+        "unit_sale_gold_approx": 2000
+      },
+      "source": {
+        "file": "019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.vtt",
+        "cleaned_file": "goldbound/019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.txt",
+        "paragraph_start": 21,
+        "paragraph_end": 21,
+        "start_time": "00:20:31.440",
+        "quote": "Honestly, with these prices, I'm not mad at it. However, these do require constant babysitting with undercuts every 10 to 15 minutes. The sale rates aren't super high, and it is pretty competitive right now, but it is paying off. Now, at one point, the bear skin rugs did dip all the way down to 2.4k. Then someone reset the market and we unload like a whole bunch of these. So, since we've already dropped leatherworking, once these are gone, they're out. But we're also seeing a mix of backlog materials and even a few mightfish around 2k each. There was a weird spike this week in mightfish, and we didn't have a big stock, so not crazy gold there. And of course, the coal flip. Our 23,000 coals sold for 829 gold, which means we sold at about a 15% loss from the vendor there. But hey, at least we tested it. And the rest is mostly miscellaneous trade goods, Essence of Undeath, which is a pretty good seller. So, let's go ahead and get these into the bags and see where we land. Of course, hear that classic gold jingle.",
+        "canonical_file": "goldbound/019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.txt",
+        "original_file": "goldbound/original-vtt/019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E019-19",
+      "name": "Orb of Deception realized sale",
+      "kind": "sales",
+      "status": "sales_confirmed",
+      "zone": "Molten Core",
+      "summary": "Obtainedfromearly Molten Core, sells 9000 g.",
+      "metrics": {
+        "sale_gold": 9000
+      },
+      "source": {
+        "file": "019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.vtt",
+        "cleaned_file": "goldbound/019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.txt",
+        "paragraph_start": 22,
+        "paragraph_end": 22,
+        "start_time": "00:21:32.760",
+        "quote": "Okay. So, we got 186k gold in the bags from trade goods alone. The mailbox this week was just over 140k. Not quite token territory, but that's a very strong week in a new zone. But of course, we still have our transmog alts to check. And one big sale there could definitely tip us over. And looking at the transmog sales for the week, there's definitely an uptick in transmog happening. For us, the standout here looks to be the Orb of Deception, selling for 9k, which is a bit lower than ideal, but gold is gold. And this one came from one of our early Molten Core runs. We're also seeing Wicked Blackjacks and Deadmines Cleavers moving for around 1,000 gold each. And considering our Westfall farm was pulling 20 plus of these in per hour, even at that price point, that farm is still pretty solid. And I do want to point something out. A few white and gray items are selling as well.",
+        "canonical_file": "goldbound/019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.txt",
+        "original_file": "goldbound/original-vtt/019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E019-20",
+      "name": "Defias weapon realized sales",
+      "kind": "sales",
+      "status": "sales_confirmed",
+      "zone": "Westfall",
+      "summary": "Blackjacks/Cleaversaround 1000 g; statement 20 plus/hourdiffersprevious 17 timedbasket, preservereportedvsmeasured.",
+      "metrics": {
+        "unit_sale_gold_approx": 1000
+      },
+      "source": {
+        "file": "019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.vtt",
+        "cleaned_file": "goldbound/019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.txt",
+        "paragraph_start": 22,
+        "paragraph_end": 22,
+        "start_time": "00:21:32.760",
+        "quote": "Okay. So, we got 186k gold in the bags from trade goods alone. The mailbox this week was just over 140k. Not quite token territory, but that's a very strong week in a new zone. But of course, we still have our transmog alts to check. And one big sale there could definitely tip us over. And looking at the transmog sales for the week, there's definitely an uptick in transmog happening. For us, the standout here looks to be the Orb of Deception, selling for 9k, which is a bit lower than ideal, but gold is gold. And this one came from one of our early Molten Core runs. We're also seeing Wicked Blackjacks and Deadmines Cleavers moving for around 1,000 gold each. And considering our Westfall farm was pulling 20 plus of these in per hour, even at that price point, that farm is still pretty solid. And I do want to point something out. A few white and gray items are selling as well.",
+        "canonical_file": "goldbound/019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.txt",
+        "original_file": "goldbound/original-vtt/019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E019-21",
+      "name": "White and gray transmog sales",
+      "kind": "sales",
+      "status": "sales_confirmed",
+      "zone": "Duskwood",
+      "summary": "Warriors Shield 3000 g, Calico Boots 1000 g; appearance matters.",
+      "metrics": {
+        "Warriors Shield_sale_gold": 3000,
+        "Calico Boots_sale_gold": 1000
+      },
+      "source": {
+        "file": "019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.vtt",
+        "cleaned_file": "goldbound/019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.txt",
+        "paragraph_start": 23,
+        "paragraph_end": 23,
+        "start_time": "00:22:20.360",
+        "quote": "Things like the Warrior's Shield for 3k or the Calico Boots for 1k, which really does confirm that certain whites and grays are absolutely worth a listing if the appearance is right and the average market value is right as well. Over time, these things do sell. All right, so how much gold from transmog? Well, 25.6k, which for 1 week is pretty good for transmog. Puts us at a total of 211,000 gold on Goldie, which with the current token prices of 301k, not quite a token yet. But for week one in Duskwood, that's a very strong start. We're sitting about 90k away, and now we have some of the best farms in the zone unlocked to dial in, but of course, try to find a few new ones. And I think I might have a pretty cheeky pickpocketing farm to test out.",
+        "canonical_file": "goldbound/019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.txt",
+        "original_file": "goldbound/original-vtt/019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E019-22",
+      "name": "211000 g checkpoint",
+      "kind": "observation",
+      "status": "measured",
+      "zone": "Duskwood",
+      "summary": "Justover 140 kweeklytradegoods+25600 transmog, cash 211000, token 301000.",
+      "metrics": {
+        "weekly_tradegoods_gold_lower_bound": 140000,
+        "weekly_transmog_gold": 25600,
+        "cash_gold": 211000,
+        "token_gold": 301000
+      },
+      "source": {
+        "file": "019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.vtt",
+        "cleaned_file": "goldbound/019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.txt",
+        "paragraph_start": 22,
+        "paragraph_end": 23,
+        "start_time": "00:21:32.760",
+        "quote": "Okay. So, we got 186k gold in the bags from trade goods alone. The mailbox this week was just over 140k. Not quite token territory, but that's a very strong week in a new zone. But of course, we still have our transmog alts to check. And one big sale there could definitely tip us over. And looking at the transmog sales for the week, there's definitely an uptick in transmog happening. For us, the standout here looks to be the Orb of Deception, selling for 9k, which is a bit lower than ideal, but gold is gold. And this one came from one of our early Molten Core runs. We're also seeing Wicked Blackjacks and Deadmines Cleavers moving for around 1,000 gold each. And considering our Westfall farm was pulling 20 plus of these in per hour, even at that price point, that farm is still pretty solid. And I do want to point something out. A few white and gray items are selling as well.",
+        "canonical_file": "goldbound/019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.txt",
+        "original_file": "goldbound/original-vtt/019 - The Duskwood Unlock Is Legendary - Goldbound Episode 18.en-orig.vtt"
+      }
+    }
+  ]
+}

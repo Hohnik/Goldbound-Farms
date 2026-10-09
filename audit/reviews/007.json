@@ -1,0 +1,494 @@
+{
+  "source_id": 7,
+  "source_file": "007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.vtt",
+  "cleaned_file": "goldbound/007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.txt",
+  "full_text_reviewed": true,
+  "paragraph_count": 19,
+  "records": [
+    {
+      "id": "E007-01",
+      "name": "Dire Condor Small Egg trial",
+      "kind": "farm",
+      "status": "measured",
+      "zone": "Redridge Mountains",
+      "summary": "60 minutes 280 kills,175 eggs,128 meat plus 35 Copper,9 Earthroot,2 Swiftthistle,5 Briarthorn;1500 g valuation excluding transmog. Skinning unavailable.",
+      "metrics": {
+        "minutes": 60,
+        "kills": 280,
+        "Small Egg": 175,
+        "Tough Condor Meat": 128,
+        "Copper Ore": 35,
+        "Earthroot": 9,
+        "Swiftthistle": 2,
+        "Briarthorn": 5,
+        "reported_gold_per_hour": 1500
+      },
+      "source": {
+        "file": "007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.vtt",
+        "cleaned_file": "goldbound/007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.txt",
+        "paragraph_start": 3,
+        "paragraph_end": 6,
+        "start_time": "00:01:52.640",
+        "quote": "It's basically a gold makers guild hall. And in these zones, we're largely learning as we go, exploring each zone, testing the drops, and figuring it out with you. But in the Gold Cap Discord, these folks live this stuff, and they know the current content farms that can deliver. So, if you want to support the channel and try out the whole gold farming lifestyle yourself, use my link below and enter code path 10 at checkout for 10% off your purchases or your membership. All right, travelers. We've been chasing high ticket transmogs across the peaks of Redidge. And while that hunt's been exciting, if we're going to make it out of here before winter's veil, we need something steady, something reliable, something that just makes gold. So, in an attempt to find that, we're seeing what we can do with the Dire Condors. While leveling through Redidge, I noticed something interesting with these mobs. These birds actually carry a trade good in their loot tables.",
+        "canonical_file": "goldbound/007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.txt",
+        "original_file": "goldbound/original-vtt/007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E007-02",
+      "name": "Condor camp rotation trial",
+      "kind": "experiment",
+      "status": "confirmed",
+      "zone": "Redridge Mountains",
+      "summary": "Tests spawn locations; southwest Three Corners best, second camp resets slow spawns. No hyperspawn confirmed; Winter Veil egg stockpiling suggested at 20–30 g, not seasonal trial.",
+      "metrics": {
+        "seasonal_quoted_egg_gold_range": [
+          20,
+          30
+        ]
+      },
+      "source": {
+        "file": "007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.vtt",
+        "cleaned_file": "goldbound/007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.txt",
+        "paragraph_start": 4,
+        "paragraph_end": 6,
+        "start_time": "00:02:40.720",
+        "quote": "It's a simple item, but one with surprisingly solid market value, and more importantly, a consistent drop rate. Now, these condors spawn in two primary locations. And after some trial and error, I found that the best rhythm was just to stick to the three corners, the bottom left, taking the birds as they spawn, and we swoop in and kill them. The respawns here aren't exactly instant, and I don't think it's a hypers spawn, but if they ever bug out or slow down, you can just jog over to the second camp to get things rolling again. And as a rogue, shooting these condors straight out of the sky with our rifle, honestly, pretty satisfying. Let's talk about the loot. The main drop, and the reason we're here, is the small egg.",
+        "canonical_file": "goldbound/007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.txt",
+        "original_file": "goldbound/original-vtt/007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E007-03",
+      "name": "Condor transmog drops",
+      "kind": "farm",
+      "status": "successful",
+      "zone": "Redridge Mountains",
+      "summary": "Light Hunting Bow, Raiders Shortsword and Gleaming Claymore collected; quoted values hundreds,50,300 g respectively. Incidental gnolls/orcs/foxes and nodes folded into run.",
+      "metrics": {},
+      "source": {
+        "file": "007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.vtt",
+        "cleaned_file": "goldbound/007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.txt",
+        "paragraph_start": 5,
+        "paragraph_end": 5,
+        "start_time": "00:03:19.280",
+        "quote": "It's a crafting trade good with a region market value hovering between 6 and 9 gold most of the time. And it sells fast. And one of the main reasons this has value and also why its prices vary wildly throughout the year is that it's actually a currency for the Winter's Veil event. So come December, these eggs can push 20 to 30 gold a piece on some realms. Not a bad thing to stockpile, but it's not exactly Winter's Veil right now, but maybe we'll have to swing back around here once there's some snow on the mountains. And outside of the eggs, the condors also drop a variety of greens. There's nothing wild and no major high ticket transmog here, but a few decent drops if you get lucky. So, what did the hour look like? Well, we took down 280 condors in the 60 minutes, which is a pretty good pace. As a beast, they drop a lot of ender trash. This whole bag full here was worth about 5 gold, mostly bones, talons, and feathers. And as far as small eggs, they do drop about 66% of the time. So, with 280 kills, we got 175, giving us about 1,200 gold at the current prices. and tough Condor meats. Well, we grabbed the 128. These are only about 35 silver each, but still another 46 gold to add on. As far as notable transmog, there's only three that actually drop from the Condors. The light hunting bow, which has a basic look, but might sell to a collector for a few hundred gold, but probably not. Then there's the Raiders shortsword. A low value of 50 gold, but a high sale rate and a decent appearance. So, I think it's worth posting on the auction house. and the gleaming claymore. Not bad. 300 gold market value with a modest sale rate and a nice look as well. This one might actually move. And we also snagged a few incidental drops from nearby nles, orcs, and foxes, but nothing of note. And if they don't sell fast, we'll probably just vendor these off anyways. And since we were flying around, we still had mining and herbs, and we kept an eye out for anything on the route. Easy grabs that were raped by condors. So, we got 35 copper ore, nine earthroot, two swift thistle, and five prior. And with these prices floating around three to four gold each, that's an extra couple hundred gold. Not game-changing, but it helps round out the hall. And if you're wondering why I didn't take skinning for all this, well, the funny thing is that you can't actually skin condors, even though they're a beast. No idea why.",
+        "canonical_file": "goldbound/007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.txt",
+        "original_file": "goldbound/original-vtt/007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.vtt"
+      },
+      "valued_drops": [
+        {
+          "item": "Raider’s Shortsword",
+          "obtained": true,
+          "source_refs": [
+            {
+              "episode": 7,
+              "paragraph_start": 5,
+              "paragraph_end": 5,
+              "start_time": "00:03:19.280"
+            }
+          ],
+          "note": "Obtained incidental transmog; quoted low item value, not a sale.",
+          "quote_gold": 50
+        },
+        {
+          "item": "Gleaming Claymore",
+          "obtained": true,
+          "source_refs": [
+            {
+              "episode": 7,
+              "paragraph_start": 5,
+              "paragraph_end": 5,
+              "start_time": "00:03:19.280"
+            }
+          ],
+          "note": "Obtained incidental transmog with a quoted market value.",
+          "quote_gold": 300
+        },
+        {
+          "item": "Light Hunting Bow",
+          "obtained": true,
+          "source_refs": [
+            {
+              "episode": 7,
+              "paragraph_start": 5,
+              "paragraph_end": 5,
+              "start_time": "00:03:19.280"
+            }
+          ],
+          "note": "The narrator doubts whether it will sell.",
+          "quote_text": "A few hundred gold"
+        }
+      ]
+    },
+    {
+      "id": "E007-04",
+      "name": "Rohh the Silent rare targeting",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Redridge Mountains",
+      "summary": "Stealthed Galardell Valley rare hunted on gathering loops for Cloak of Night and Blackvenom Blade; target drops not confirmed this episode.",
+      "metrics": {
+        "Cloak of Night quoted_gold": 20000,
+        "Cloak cited_drop_pct": 1.9,
+        "Blackvenom Blade quoted_gold": 170000,
+        "Blade cited_drop_pct": 0.3
+      },
+      "source": {
+        "file": "007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.vtt",
+        "cleaned_file": "goldbound/007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.txt",
+        "paragraph_start": 6,
+        "paragraph_end": 10,
+        "start_time": "00:05:31.199",
+        "quote": "Maybe Blizzard didn't want us making Condor leather boots, but yeah, it is what it is. So, tying it all up, no transmog clips included. We're looking at about 1,500 gold for an hour here. But this is raw materials and consistent trade goods, so it'll move pretty quickly, but it's steady and dependable and something we can repeat over and over while we wait for the higher ticket transmog to sell. And who knows, every now and then we might get a decent transmog piece from these guys, too. And we'll definitely earmark this for when Winter's Veil comes around because these things might be worth a lot more then. All right, with a steady gold form now locked in, I think it's time to start transmog hunting. But not just any transmog. We're going to go ahead and flag every notable rare spawn and red ridge. The kind that we'll be swooping past during herbalism loops and logging kills as we go. All with the aim of some seriously big ticket Mog. Think Mother Fang and think throws light fingers. But this time it's Fred Rididge's turn. And we're starting with a strong heavy hitter, Ro the Silent. That's if you can see him. You see, Ro lurks up north in Gallardo Valley. And true to his name, he can be pretty hard to find. He's stealththed, which means unless you know exactly where to look, you may just walk right by him. Nestled up just in front of the cave where he usually spawns, but it's not the only place. Ro has one or two other spawn points scattered around this area, and tracking them down can be a little difficult. But here's why he's worth the effort. His loot table. Not bad overall with plenty of greens that fetch a few hundred gold, but there's two major standouts. First up is the cloak of night. It's sleek, rare, and stylish. It holds both a 1.9% drop rate and sells for around 20,000 gold on most markets. It's a staple piece for any serious transmog hunter, but that's just the appetizer. Row also drops the black venom blade. Now, this dagger doesn't boast a unique appearance, but the only other source for its appearance is a soulbound quest reward. That means for collectors who are chasing every single appearance in the game, the black venom blade is the only purchasable option available. And it's rare. I mean, really rare. Wowhead pins it at a 0.3% drop rate. And if that's even close to accurate, it explains the 170,000 gold market value that it carries. Next up on the Red Ridge rotation is one that's a little bit easier to spot. Meet Chatter.",
+        "canonical_file": "goldbound/007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.txt",
+        "original_file": "goldbound/original-vtt/007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E007-05",
+      "name": "Chatter Tarantula Silk Sash hunt",
+      "kind": "farm",
+      "status": "successful",
+      "zone": "Redridge Mountains",
+      "summary": "Sashes on second and fourth lifetime kills;84000 g market quoted. Historical 0.3% drop rate criticized due removed-item period; author 2–3%guess not measured truth.",
+      "metrics": {
+        "kills": 4,
+        "Tarantula Silk Sash": 2,
+        "quoted_market_gold": 84000,
+        "cited_drop_pct": 0.3
+      },
+      "source": {
+        "file": "007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.vtt",
+        "cleaned_file": "goldbound/007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.txt",
+        "paragraph_start": 7,
+        "paragraph_end": 8,
+        "start_time": "00:07:43.919",
+        "quote": "She lurks just east of Lakeshshire. Tucked along the path where players will cross constantly. No stealthing and no subtlety. And her loot table, well, it's also loaded with mid-tier greens, mostly hovering in the 200 to 500 gold range. Nothing particular to write home about except for one, the tarantula silk sash. This belt is a unique appearance and for any transmon collector aiming for that elusive 100%. It's a non-negotiable. And according to Wowhead, it carries a 0.3% drop rate as well. But let's talk about that for a second. See, the sash was removed from the game for a while, but chatter was kept in, which means a huge chunk of kill data on Wowhead is skewed towards logging drops when the sash wasn't even available. So, while it says 0.3%, it might not be so rare. But, we'll do our best to update this data with a little bit of farming in Redidge.",
+        "canonical_file": "goldbound/007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.txt",
+        "original_file": "goldbound/original-vtt/007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E007-06",
+      "name": "RareScanner and TSM loot scouting",
+      "kind": "experiment",
+      "status": "performed",
+      "zone": "Redridge Mountains",
+      "summary": "Rare locations and hover loot tables paired with price data to prioritize background rare kills.",
+      "metrics": {},
+      "source": {
+        "file": "007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.vtt",
+        "cleaned_file": "goldbound/007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.txt",
+        "paragraph_start": 9,
+        "paragraph_end": 10,
+        "start_time": "00:09:41.760",
+        "quote": "and the rest of rares are definitely still worth tagging and worth logging kills, but we're looking more at transmog in the 200 to 1,000 gold range. And while it doesn't sound all that impressive compared to some of the drops we just talked about, that stuff does move a little bit more regularly on the markets. Anyways, as the goldbound journey has continued, Goldilock has started to sharpen his instincts. Not just as a rogue, but as a treasure hunter. I've got a few tricks up my sleeve. Now, you may have noticed, but I try to keep my UI clean with mostly just the essentials and the classic WoW look. But I'll admit it, I'm a sucker for gold focused add-ons. So, let me show you how I scout these zones, Red Ridge or otherwise. While I just talked about a whole bunch of cool rare items you can farm in Red Ridge, you might want to farm other ones in other zones. First up is rare scanner. I've been using this add-on to mark every rare spawn directly on the map, and it also throws up a notification if I happen to fly over one while doing herb loops or other farms.",
+        "canonical_file": "goldbound/007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.txt",
+        "original_file": "goldbound/original-vtt/007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E007-07",
+      "name": "Elwynn–Redridge 2000 copper marathon",
+      "kind": "farm",
+      "status": "measured",
+      "zone": "Elwynn Forest / Redridge Mountains",
+      "summary": "First dual-gather hour only~150 copper; switches to ore-only.6.5 hours totals 2000 Copper, over 200 Tin, about 50 Silver. Copper converted 1500 bolts plus bars;10000 g copper valuation before uncounted AFK processing.",
+      "metrics": {
+        "minutes_approx": 390,
+        "Copper Ore": 2000,
+        "Tin Ore_lower_bound": 200,
+        "Silver Ore_approx": 50,
+        "Handful of Copper Bolts_approx": 1500,
+        "copper_appraisal_gold": 10000,
+        "processing_time_included": false
+      },
+      "source": {
+        "file": "007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.vtt",
+        "cleaned_file": "goldbound/007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.txt",
+        "paragraph_start": 10,
+        "paragraph_end": 13,
+        "start_time": "00:10:35.200",
+        "quote": "Here's the best part is the hover over icon. It shows their entire loot table. If you pair that with an add-on like Trade Skill Master, which displays real-time market data in your game, you've suddenly got instant insight into what valuable items a rare might drop. So, you're not just guessing what's valuable. You know, you can hover through every single rare in a zone to see which one might be worth taking down. So, yeah, Red Ridges rares might not all be dripping with legendary loot, but they definitely still serve a purpose. and we're going to be logging kills and stalking our auction shelves. But because these guys are on a bit of a longer spawn timer, they're best farmed in the background while we're doing farm loops on herbs and ores or other more traditional farms. So, let's get after one of those. So, I set it on a quest. A quest to gather some of our old reliable materials and snag a few herbs from Red Ridge for some crafting. The goal, 2,000 copper ore just to see how fast we can grind it out. and the route. Well, we're going to be doing one big loop between Red Ridge and Elwin, the only two zones we have unlocked right now. This longer loop path gives us more breathing room for ore to respawn and makes sense for increasing ore per hour. Now, at first on this loop, I was just picking up everything, ores, herbs, you name it.",
+        "canonical_file": "goldbound/007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.txt",
+        "original_file": "goldbound/original-vtt/007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.vtt"
+      },
+      "additional_values": [
+        {
+          "value": 10000,
+          "label": "Copper valuation",
+          "basis": "Copper/bolt/bar valuation; later AFK processing was excluded, so no complete processing GPH is inferred.",
+          "unit": "g",
+          "kind": "value",
+          "source_refs": [
+            {
+              "episode": 7,
+              "paragraph_start": 12,
+              "paragraph_end": 12,
+              "start_time": "00:12:44.880"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E007-08",
+      "name": "Tin and silver smelting margin check",
+      "kind": "experiment",
+      "status": "rejected",
+      "zone": "Redridge Mountains",
+      "summary": "Bar values lower than raw ore; sells raw tin/silver and lacks higher production trainers.",
+      "metrics": {},
+      "source": {
+        "file": "007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.vtt",
+        "cleaned_file": "goldbound/007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.txt",
+        "paragraph_start": 12,
+        "paragraph_end": 12,
+        "start_time": "00:12:44.880",
+        "quote": "And then just turning out 1,500 or so copper bolts. I left a few bars just so we're selling two different items to increase the sale rate. And between the bolts and the bars, we're looking at about 5 gold each of raw copper value. From the copper ore in the farm alone, roughly 10,000 gold in potential profit. But of course, that's not all that we pulled. We walked away with over 210 and about 50 silver. Now, unfortunately, we're still locked into the element profession trainers, so we can't actually pick up any newer, higher level crafting recipes to boost the value of the tin or the silver. And weirdly, both tin bars and silver bars are selling for less than the raw ore counterparts. So, for now, they'll just be sold off as is.",
+        "canonical_file": "goldbound/007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.txt",
+        "original_file": "goldbound/original-vtt/007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E007-09",
+      "name": "Moonglow glyph portfolio expansion",
+      "kind": "experiment",
+      "status": "performed",
+      "zone": "Redridge Mountains",
+      "summary": "Mills incidental Elwynn herbs and crafts glyphs beyond Stars to diversify; names/counts unstated.",
+      "metrics": {},
+      "source": {
+        "file": "007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.vtt",
+        "cleaned_file": "goldbound/007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.txt",
+        "paragraph_start": 13,
+        "paragraph_end": 13,
+        "start_time": "00:13:27.680",
+        "quote": "And for the herbs, we grabbed a few on the first loops. Nothing major, but enough to mill down into some pigments. The elen herbs gave us alabaster pigments, which of course become moonglow ink, which means more glyphs. And this time around, glyph of the stars wasn't the only one worth crafting. So, we spread things out and made a few extras. And the red ridge herbs like swift thistle and brierthorn gave us dusky pigments, converting those into inks, doing some research, and we unlocked an entirely new batch of glyphs. We didn't have a ton of ink yet, so I'll only craft a few of each with the post and test the market. We'll likely come back to herbalism and inscription for a deeper dive soon because there's definitely more potential here than meets the eye. And with all that wrapped up, I've gone ahead and posted all of the trade goods to the auction house, hopefully giving this episode's mailbox clean a little extra oomph. Now, let's take a moment to zoom out and consider the bigger picture, this challenge and the journey and the next possible steps. So, right now, we've only unlocked two zones, Elwin Forest and Redidge Mountains, but that opens the door to some new options for the next unlock. Let's start with Elwin. From here, we still have the two possible paths, one of which is Westfall, which would grant us access to the Dead Mines's dungeon, a true classic and a potential source of some serious income. Then there's Dun Maro, which opens the gates to Nomegan. Again, a dungeon that could unlock some massive drops. And a quick side note to scut out the zones and show a full breakdown, I did log on to my main pathics. So don't worry, Goldilock is still safely inside the allowed zones. But this way, we can actually see the zones discovered on the map. So now, let's have a look at Red Ridge and where these paths actually lead. First up and to the north is the burning steps. Now, this one would be spicy. There's higher level mats, higher level mobs, and it opens up the possibility of Black Rock Mountain, but there's a wrinkle on this. See, Black Rock is also accessible through the Searing Gorge, which opens up a question. Which zone actually unlock dungeon and raid cluster inside the mountain? Would it be burning steps or would it be Searing Gorge? That's something we'll have to decide, and I'd love to hear what you think down below in the comments. But next up, heading south from Redidge through the narrow path at the three corners, we can now enter Deskwood Squwood. Now, this is a fan favorite early leveling zone. I honestly love the quest lines here, the atmosphere, the mobs, and the story.",
+        "canonical_file": "goldbound/007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.txt",
+        "original_file": "goldbound/original-vtt/007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E007-10",
+      "name": "Dusky Pigment ink research",
+      "kind": "experiment",
+      "status": "successful",
+      "zone": "Redridge Mountains",
+      "summary": "Mills Redridge herbs, converts Dusky Pigments to inks, researches additional glyph recipes and posts small test batches.",
+      "metrics": {},
+      "source": {
+        "file": "007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.vtt",
+        "cleaned_file": "goldbound/007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.txt",
+        "paragraph_start": 13,
+        "paragraph_end": 13,
+        "start_time": "00:13:27.680",
+        "quote": "And for the herbs, we grabbed a few on the first loops. Nothing major, but enough to mill down into some pigments. The elen herbs gave us alabaster pigments, which of course become moonglow ink, which means more glyphs. And this time around, glyph of the stars wasn't the only one worth crafting. So, we spread things out and made a few extras. And the red ridge herbs like swift thistle and brierthorn gave us dusky pigments, converting those into inks, doing some research, and we unlocked an entirely new batch of glyphs. We didn't have a ton of ink yet, so I'll only craft a few of each with the post and test the market. We'll likely come back to herbalism and inscription for a deeper dive soon because there's definitely more potential here than meets the eye. And with all that wrapped up, I've gone ahead and posted all of the trade goods to the auction house, hopefully giving this episode's mailbox clean a little extra oomph. Now, let's take a moment to zoom out and consider the bigger picture, this challenge and the journey and the next possible steps. So, right now, we've only unlocked two zones, Elwin Forest and Redidge Mountains, but that opens the door to some new options for the next unlock. Let's start with Elwin. From here, we still have the two possible paths, one of which is Westfall, which would grant us access to the Dead Mines's dungeon, a true classic and a potential source of some serious income. Then there's Dun Maro, which opens the gates to Nomegan. Again, a dungeon that could unlock some massive drops. And a quick side note to scut out the zones and show a full breakdown, I did log on to my main pathics. So don't worry, Goldilock is still safely inside the allowed zones. But this way, we can actually see the zones discovered on the map. So now, let's have a look at Red Ridge and where these paths actually lead. First up and to the north is the burning steps. Now, this one would be spicy. There's higher level mats, higher level mobs, and it opens up the possibility of Black Rock Mountain, but there's a wrinkle on this. See, Black Rock is also accessible through the Searing Gorge, which opens up a question. Which zone actually unlock dungeon and raid cluster inside the mountain? Would it be burning steps or would it be Searing Gorge? That's something we'll have to decide, and I'd love to hear what you think down below in the comments. But next up, heading south from Redidge through the narrow path at the three corners, we can now enter Deskwood Squwood. Now, this is a fan favorite early leveling zone. I honestly love the quest lines here, the atmosphere, the mobs, and the story.",
+        "canonical_file": "goldbound/007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.txt",
+        "original_file": "goldbound/original-vtt/007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E007-11",
+      "name": "Redridge open-water fishing trial",
+      "kind": "farm",
+      "status": "measured",
+      "zone": "Redridge Mountains",
+      "summary": "Half-hour low-skill fishing mostly trash and~0.3 g fish. Loot Appraiser 3000 g rate distorted by Old Boot actually averaging 5 g. No credible 3000 g/h result.",
+      "metrics": {
+        "minutes": 30,
+        "quoted_fish_unit_gold": 0.3,
+        "misleading_appraiser_gold_per_hour": 3000,
+        "Old Boot quoted_sale_gold": 5
+      },
+      "source": {
+        "file": "007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.vtt",
+        "cleaned_file": "goldbound/007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.txt",
+        "paragraph_start": 14,
+        "paragraph_end": 15,
+        "start_time": "00:15:49.600",
+        "quote": "Plus, there's some interesting drops, but like Ellen and Redidge, it's another zone without a dungeon. Still, I'd be happy to get this one for sure. And finally, through the southeastern mountain pass in Redidge, Harboridge Pass, we can go into the Swamposauros. This one is a wild card. It has access to sunken temple and a fair number of rare spawns and a whole new tier of gathering materials. Honestly, any of these zones would be awesome to explore. But we've got some work to do before we can unlock our next destination. So, it's back to the grind. More farming and more gold before we can spin for our next path. And what better way to break up the grind than by diving in to one of the biggest hit or miss farms in the entire game. Fishing. Now, I'm committing to giving fishing a shot in every zone we unlock, at least for half an hour or so. Just enough time to level up a little bit and see what the local waters have. So, off we go to the Wararf and Redidge. Now, we only did a little fishing back in Ellen. So, our skill level is only sitting the low 40s, which means it looks like most of the first few casts here in Redidge is mostly trash, but we can still stick it out for a little bit just to give it a fair try and see what really fishes up here. But after a little bit, it's pretty apparent that there's no major gold that's going to be coming from Red Ridges waters. The fish are still only about 30 silver a pop and we did gain a few fishing levels which will help in future zones, especially ones that have fish that might actually sell. If we look at the halfhour loot appraiser, it's saying that we're averaging 3,000 gold. But if we take a quicker look, most of that value actually came from one item, an old boot. And so this is a gray item that's not even equipable. So it's just a novelty that only actually sells for 5 gold on average. We're unloading most of this trash to the local fisherman.",
+        "canonical_file": "goldbound/007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.txt",
+        "original_file": "goldbound/original-vtt/007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E007-12",
+      "name": "Sagefish pool and Watertight Trunk fishing",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Redridge Mountains",
+      "summary": "Pools 4–8 casts give sagefish, rum, kelp, trunks; trunks offer silk/heavy leather, rare recipes/gear and journal. Counts/results not specified.",
+      "metrics": {
+        "casts_per_pool_range": [
+          4,
+          8
+        ],
+        "cited_trunk_rare_item_pct": 0.3
+      },
+      "source": {
+        "file": "007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.vtt",
+        "cleaned_file": "goldbound/007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.txt",
+        "paragraph_start": 15,
+        "paragraph_end": 17,
+        "start_time": "00:17:39.600",
+        "quote": "Cutting our losses and moving on. Maybe Nat Pegel could pull a miracle out of these waters. But for now, I'll leave the Red Ridge fishing hole behind. But not so fast. That might not be all she wrote for fishing in Redidge. Because unlike Elwin, Redidge actually gives us access to fish pools. These are shimmering circles on the surface of the water that hold more than the regular waters around them. They're easy to miss, and each one only lasts for around four to eight casts. and you have to make sure your fishing bobber is landing inside the circle. But what they can contain makes them worth scouting out. So in Red Ridge, the standout here are sagefish pools. And no surprise, they do yield sage fish, but they also have a few other drops on their tables. First up is the Rumsy rum black label, which to be honest is a little more of a novelty and not really carrying any value. Same thing with strangle kelp, which isn't necessarily worth farming.",
+        "canonical_file": "goldbound/007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.txt",
+        "original_file": "goldbound/original-vtt/007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E007-13",
+      "name": "Weather-Beaten Journal hunt",
+      "kind": "experiment",
+      "status": "ongoing",
+      "zone": "Redridge Mountains",
+      "summary": "Casts into pools for fish-tracking unlock;8%trunk drop chance cited, not acquired in this episode.",
+      "metrics": {
+        "cited_journal_drop_pct": 8
+      },
+      "source": {
+        "file": "007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.vtt",
+        "cleaned_file": "goldbound/007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.txt",
+        "paragraph_start": 16,
+        "paragraph_end": 17,
+        "start_time": "00:18:34.160",
+        "quote": "But the real prize here is the watertight trunk. Now, Wowhead isn't giving me exact drop rates, but these trunks only show up in two types of fish pools. Sage fish schools, which are here in Red Ridge, and the only other pool that they've spawn in is schooner wreckage, which is again located in a few other zones around Azeroth. What's inside? That's where it gets a little spicy. First up, you got a decent chance at heavy leather and silk cloth. These are materials that we can't reliably get in our current zones. So depending on the recipes we unlock later, this could come in pretty clutch. And there's also a tiny chance about 0.3% at a few transmog pieces and recipes. And while the odds are low, some of those pieces are worth a few thousand gold and the recipes we wouldn't be able to obtain on the auction house. So it's definitely something to look out for. But what we're really farming this for is the weatherbeaten journal. And this thing has around an 8% drop rate from the watertight trunks. And once you read it on a character, that character learns how to track fish pools on the mini map.",
+        "canonical_file": "goldbound/007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.txt",
+        "original_file": "goldbound/original-vtt/007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E007-14",
+      "name": "Gnollfeaster repeat pet-drop test",
+      "kind": "experiment",
+      "status": "confirmed",
+      "zone": "Redridge Mountains",
+      "summary": "Repeated kills fail to repeat pet; research identifies Tarantula as once-per-character drop, not repeatable commodity farm.",
+      "metrics": {},
+      "source": {
+        "file": "007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.vtt",
+        "cleaned_file": "goldbound/007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.txt",
+        "paragraph_start": 17,
+        "paragraph_end": 18,
+        "start_time": "00:19:36.240",
+        "quote": "Now, this isn't necessarily a huge win for Red Ridge specifically, but in the future, where the zones and the pools in them are more valuable, this will be a big quality of life upgrade. So, we'll definitely be casting into a few schools while we're out here, not just for a little bit of gold, but to try and reel in one of the best fishing upgrades we can for the long haul. And with a few more items, rares, and fish on our hit list, I figured it was time to circle back to an old nemesis, Null Feaster. If you remember our epic duel last episode, it gave us a proper fight. And it turns out it's still the only mob in Redidge that can. You see, Null Feaster was added after the Cataclysm, which means it doesn't follow the same Chromy time rules as the rest of Redidge. Ever since we hit level 70, we've outscaled most of the zone, except for this guy. He still hits like a current content boss. But the real reason we were tagging him was the tarantula pet, which after killing him a few more times without the drop, I did some research. And it turns out it's actually a onetime drop per character.",
+        "canonical_file": "goldbound/007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.txt",
+        "original_file": "goldbound/original-vtt/007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E007-15",
+      "name": "Redridge Tarantula pet sale",
+      "kind": "sales",
+      "status": "sales_confirmed",
+      "zone": "Redridge Mountains",
+      "summary": "Only pet sells 285 g.",
+      "metrics": {
+        "quantity": 1,
+        "sale_gold": 285
+      },
+      "source": {
+        "file": "007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.vtt",
+        "cleaned_file": "goldbound/007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.txt",
+        "paragraph_start": 18,
+        "paragraph_end": 18,
+        "start_time": "00:20:34.320",
+        "quote": "You can't necessarily farm an army's worth in Goldie's future. But hey, we can still sell one, get a few gold, or we can decide to keep it and use it for battle pets. We'll see if it sells in the auction house. Otherwise, we'll probably just keep it as a battle pet. And with that wrapped up, it's been a pretty productive episode for Goldilock. So, let's head over to the local mailbox for one of my favorite moments, the fresh mailbox tally, and of course, a/played reveal. All right, straight into the mailbox. First up, we're met with 112 mails sold. And starting off, we have some standard trade goods, a few glyphs being sold, and random items we got throughout the zone. The first semi-notable transmog piece to move, the Buccaneers pants. This is a fastmoving lower ticket classic item sold for about 700 gold. Not challenge breaking, but some decent gold along the way. And we also managed to sell off our one and only red ridge tarantula, which went for 285 gold. And hey, a few extra coins in the pouch. We really can't complain. One of the biggest trade goods this round, 1,046 copper bolts sold in one go for 4,969 gold. That's a proper drop in the bucket. And scrolling down further, a second pair of Buccaneers pants sold for 667 gold. The Buccaneer set is a lower ticket highv volume transmog set that we always want to keep on the auction house. And we do have a few more trade goods trickling in and a nice little bonus one. One of our tarantula silk sashes from Chatter sold. Now we did get a lot of these. So I tossed one up at a fire sale price and it moved. But that's not the only one that moved. We had another scimitar of aon cell for 9,000 gold. Not bad at all. That's a very solid profit just from taking out a few hundred murlocs. So let's go ahead and clear out the rest. And there'll just be 12 males remaining. But of course, we have to appreciate that classic gold jingle.",
+        "canonical_file": "goldbound/007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.txt",
+        "original_file": "goldbound/original-vtt/007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E007-16",
+      "name": "Buccaneers Pants sales",
+      "kind": "sales",
+      "status": "sales_confirmed",
+      "zone": "Redridge Mountains",
+      "summary": "Two incidental pairs sell 700 g and 667 g.",
+      "metrics": {
+        "sales_gold": [
+          700,
+          667
+        ]
+      },
+      "source": {
+        "file": "007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.vtt",
+        "cleaned_file": "goldbound/007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.txt",
+        "paragraph_start": 18,
+        "paragraph_end": 18,
+        "start_time": "00:20:34.320",
+        "quote": "You can't necessarily farm an army's worth in Goldie's future. But hey, we can still sell one, get a few gold, or we can decide to keep it and use it for battle pets. We'll see if it sells in the auction house. Otherwise, we'll probably just keep it as a battle pet. And with that wrapped up, it's been a pretty productive episode for Goldilock. So, let's head over to the local mailbox for one of my favorite moments, the fresh mailbox tally, and of course, a/played reveal. All right, straight into the mailbox. First up, we're met with 112 mails sold. And starting off, we have some standard trade goods, a few glyphs being sold, and random items we got throughout the zone. The first semi-notable transmog piece to move, the Buccaneers pants. This is a fastmoving lower ticket classic item sold for about 700 gold. Not challenge breaking, but some decent gold along the way. And we also managed to sell off our one and only red ridge tarantula, which went for 285 gold. And hey, a few extra coins in the pouch. We really can't complain. One of the biggest trade goods this round, 1,046 copper bolts sold in one go for 4,969 gold. That's a proper drop in the bucket. And scrolling down further, a second pair of Buccaneers pants sold for 667 gold. The Buccaneer set is a lower ticket highv volume transmog set that we always want to keep on the auction house. And we do have a few more trade goods trickling in and a nice little bonus one. One of our tarantula silk sashes from Chatter sold. Now we did get a lot of these. So I tossed one up at a fire sale price and it moved. But that's not the only one that moved. We had another scimitar of aon cell for 9,000 gold. Not bad at all. That's a very solid profit just from taking out a few hundred murlocs. So let's go ahead and clear out the rest. And there'll just be 12 males remaining. But of course, we have to appreciate that classic gold jingle.",
+        "canonical_file": "goldbound/007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.txt",
+        "original_file": "goldbound/original-vtt/007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E007-17",
+      "name": "Copper Bolt bulk sale",
+      "kind": "sales",
+      "status": "sales_confirmed",
+      "zone": "Redridge Mountains",
+      "summary": "1046 bolts sell 4969 g.",
+      "metrics": {
+        "quantity": 1046,
+        "sale_gold": 4969
+      },
+      "source": {
+        "file": "007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.vtt",
+        "cleaned_file": "goldbound/007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.txt",
+        "paragraph_start": 18,
+        "paragraph_end": 18,
+        "start_time": "00:20:34.320",
+        "quote": "You can't necessarily farm an army's worth in Goldie's future. But hey, we can still sell one, get a few gold, or we can decide to keep it and use it for battle pets. We'll see if it sells in the auction house. Otherwise, we'll probably just keep it as a battle pet. And with that wrapped up, it's been a pretty productive episode for Goldilock. So, let's head over to the local mailbox for one of my favorite moments, the fresh mailbox tally, and of course, a/played reveal. All right, straight into the mailbox. First up, we're met with 112 mails sold. And starting off, we have some standard trade goods, a few glyphs being sold, and random items we got throughout the zone. The first semi-notable transmog piece to move, the Buccaneers pants. This is a fastmoving lower ticket classic item sold for about 700 gold. Not challenge breaking, but some decent gold along the way. And we also managed to sell off our one and only red ridge tarantula, which went for 285 gold. And hey, a few extra coins in the pouch. We really can't complain. One of the biggest trade goods this round, 1,046 copper bolts sold in one go for 4,969 gold. That's a proper drop in the bucket. And scrolling down further, a second pair of Buccaneers pants sold for 667 gold. The Buccaneer set is a lower ticket highv volume transmog set that we always want to keep on the auction house. And we do have a few more trade goods trickling in and a nice little bonus one. One of our tarantula silk sashes from Chatter sold. Now we did get a lot of these. So I tossed one up at a fire sale price and it moved. But that's not the only one that moved. We had another scimitar of aon cell for 9,000 gold. Not bad at all. That's a very solid profit just from taking out a few hundred murlocs. So let's go ahead and clear out the rest. And there'll just be 12 males remaining. But of course, we have to appreciate that classic gold jingle.",
+        "canonical_file": "goldbound/007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.txt",
+        "original_file": "goldbound/original-vtt/007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E007-18",
+      "name": "Sash and Scimitar sales",
+      "kind": "sales",
+      "status": "sales_confirmed",
+      "zone": "Redridge Mountains",
+      "summary": "One Chatter sash sold at unstated fire-sale price; another Scimitar of Atun sells 9000 g.",
+      "metrics": {
+        "Scimitar sale_gold": 9000
+      },
+      "source": {
+        "file": "007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.vtt",
+        "cleaned_file": "goldbound/007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.txt",
+        "paragraph_start": 18,
+        "paragraph_end": 18,
+        "start_time": "00:20:34.320",
+        "quote": "You can't necessarily farm an army's worth in Goldie's future. But hey, we can still sell one, get a few gold, or we can decide to keep it and use it for battle pets. We'll see if it sells in the auction house. Otherwise, we'll probably just keep it as a battle pet. And with that wrapped up, it's been a pretty productive episode for Goldilock. So, let's head over to the local mailbox for one of my favorite moments, the fresh mailbox tally, and of course, a/played reveal. All right, straight into the mailbox. First up, we're met with 112 mails sold. And starting off, we have some standard trade goods, a few glyphs being sold, and random items we got throughout the zone. The first semi-notable transmog piece to move, the Buccaneers pants. This is a fastmoving lower ticket classic item sold for about 700 gold. Not challenge breaking, but some decent gold along the way. And we also managed to sell off our one and only red ridge tarantula, which went for 285 gold. And hey, a few extra coins in the pouch. We really can't complain. One of the biggest trade goods this round, 1,046 copper bolts sold in one go for 4,969 gold. That's a proper drop in the bucket. And scrolling down further, a second pair of Buccaneers pants sold for 667 gold. The Buccaneer set is a lower ticket highv volume transmog set that we always want to keep on the auction house. And we do have a few more trade goods trickling in and a nice little bonus one. One of our tarantula silk sashes from Chatter sold. Now we did get a lot of these. So I tossed one up at a fire sale price and it moved. But that's not the only one that moved. We had another scimitar of aon cell for 9,000 gold. Not bad at all. That's a very solid profit just from taking out a few hundred murlocs. So let's go ahead and clear out the rest. And there'll just be 12 males remaining. But of course, we have to appreciate that classic gold jingle.",
+        "canonical_file": "goldbound/007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.txt",
+        "original_file": "goldbound/original-vtt/007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E007-19",
+      "name": "Burnt Buckler and checkpoint",
+      "kind": "observation",
+      "status": "measured",
+      "zone": "Redridge Mountains",
+      "summary": "White shield sold unstated amount;28000 g episode cash,187 played hours total, token 298000.",
+      "metrics": {
+        "episode_cash_gold": 28000,
+        "total_played_hours": 187,
+        "token_gold": 298000
+      },
+      "source": {
+        "file": "007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.vtt",
+        "cleaned_file": "goldbound/007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.txt",
+        "paragraph_start": 19,
+        "paragraph_end": 19,
+        "start_time": "00:22:34.960",
+        "quote": "And there wasn't anything crazy in the last batch, but we did sell the burnt buckler. This was just a little white shield that we picked up along the way. So, all in all, that puts us at 28,000 gold for the episode, and we're going to need a few more high ticket sales or to unlock a few more optimized farms if we want to have any shot at meeting the current WoW token prices of 298,000 gold anytime soon. But, of course, next up, the slash blade. Coming in at 7 days and 19 hours. Looks like we got some work cut out for old Goldie, but I'm here for it. And may your blades never tell.",
+        "canonical_file": "goldbound/007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.txt",
+        "original_file": "goldbound/original-vtt/007 - Redridge Rares That Can Make You Rich - Goldbound Episode 7.en-orig.vtt"
+      }
+    }
+  ]
+}

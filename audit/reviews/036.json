@@ -1,0 +1,655 @@
+{
+  "source_id": 36,
+  "source_file": "036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.vtt",
+  "cleaned_file": "goldbound/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.txt",
+  "full_text_reviewed": true,
+  "paragraph_count": 29,
+  "records": [
+    {
+      "id": "E036-01",
+      "name": "Robes Shadowcaster realized sale",
+      "kind": "sales",
+      "status": "sales_confirmed",
+      "zone": "Arathi Highlands",
+      "summary": "Fastregionundercutsale 285000 g, backlog 29000 Kukri/Dark Iron Gauntletssales; surplustokenbanked.",
+      "metrics": {
+        "Robes sale_gold": 285000,
+        "backlog_cash_gold": 29000
+      },
+      "source": {
+        "file": "036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.vtt",
+        "cleaned_file": "goldbound/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.txt",
+        "paragraph_start": 1,
+        "paragraph_end": 1,
+        "start_time": "00:00:00.000",
+        "quote": "Greetings travelers and welcome back to Goldbound, the challenge series where our rogue, Goldilocked, is exploring Azeroth by unlocking one zone at a time. And each new zone is unlocked once we've earned a WoW token, about 270,000 gold in our current zones. And last episode, we left off with a mailbox clear and just over 100,000 gold to our name in Arathi Highlands, but we also had quite a valuable drop that was on the auction house, the Robes of the Shadowcaster. So, before we get farming too much, I think we should check the mailbox to see just how much gold we really have left towards the token. And there we go. The robes sold. Now, I did end up undercutting the region and getting a pretty fast sale on the robes, right around 285,000 gold, but still, that is more than a WoW token and more than we need to get the next zone. Plus, I also sold about 29,000 gold on my backlog transmog tune, a Bluegill Kukri, and some Dark Iron Gauntlets ended up making up most of that. But, that does mean that we can roll for a brand new zone here. First though, before I get locked in there, I do want to do my weekly raid clears for the zones that we do currently have unlocked. Plus, we have to talk about the zones that are available. As far as raid clears that we're doing every week, we have two big ones. First up, Onyxia's Lair for the mount. Status this week, no dice. But, this is a pretty low drop rate, so we'll just keep running this one in the background to hopefully upgrade our Goldie Griffin sometime. And then, of course, Molten Core. We're still looking for the left binding of the Windseeker, working towards Thunderfury, Blessed Blade of the Windseeker, as well as the Nightslayer Chest. So, while I run, let's talk about the zones that we can actually spin today. So, over here in Eastern Kingdoms, we have a lot of the same contenders. There's Deadwind Pass, which is the longest-standing zone that hasn't been rolled. It's been about 14 potential zone spins that this one's evaded. So, maybe it's today. And then, up north, we still have the Twilight Highlands. This would be an interesting one with some Cataclysm raids, dungeons, and pretty good material farms.",
+        "canonical_file": "goldbound/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.txt",
+        "original_file": "goldbound/original-vtt/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E036-02",
+      "name": "Weekly MC 41 clear and Ony retest",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Molten Core / Onyxias Lair",
+      "summary": "No Onyxian Drake, MC 41 noleft/nochest; nextweekly 42 chestfinallydrops.",
+      "metrics": {},
+      "source": {
+        "file": "036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.vtt",
+        "cleaned_file": "goldbound/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.txt",
+        "paragraph_start": 1,
+        "paragraph_end": 2,
+        "start_time": "00:00:00.000",
+        "quote": "Greetings travelers and welcome back to Goldbound, the challenge series where our rogue, Goldilocked, is exploring Azeroth by unlocking one zone at a time. And each new zone is unlocked once we've earned a WoW token, about 270,000 gold in our current zones. And last episode, we left off with a mailbox clear and just over 100,000 gold to our name in Arathi Highlands, but we also had quite a valuable drop that was on the auction house, the Robes of the Shadowcaster. So, before we get farming too much, I think we should check the mailbox to see just how much gold we really have left towards the token. And there we go. The robes sold. Now, I did end up undercutting the region and getting a pretty fast sale on the robes, right around 285,000 gold, but still, that is more than a WoW token and more than we need to get the next zone. Plus, I also sold about 29,000 gold on my backlog transmog tune, a Bluegill Kukri, and some Dark Iron Gauntlets ended up making up most of that. But, that does mean that we can roll for a brand new zone here. First though, before I get locked in there, I do want to do my weekly raid clears for the zones that we do currently have unlocked. Plus, we have to talk about the zones that are available. As far as raid clears that we're doing every week, we have two big ones. First up, Onyxia's Lair for the mount. Status this week, no dice. But, this is a pretty low drop rate, so we'll just keep running this one in the background to hopefully upgrade our Goldie Griffin sometime. And then, of course, Molten Core. We're still looking for the left binding of the Windseeker, working towards Thunderfury, Blessed Blade of the Windseeker, as well as the Nightslayer Chest. So, while I run, let's talk about the zones that we can actually spin today. So, over here in Eastern Kingdoms, we have a lot of the same contenders. There's Deadwind Pass, which is the longest-standing zone that hasn't been rolled. It's been about 14 potential zone spins that this one's evaded. So, maybe it's today. And then, up north, we still have the Twilight Highlands. This would be an interesting one with some Cataclysm raids, dungeons, and pretty good material farms.",
+        "canonical_file": "goldbound/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.txt",
+        "original_file": "goldbound/original-vtt/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E036-03",
+      "name": "Saltstone Cave Den Whomper trial",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Thousand Needles",
+      "summary": "Hyperloop 2–100 kgreens Saltstoneset; afterfirstclearcoins 0.3–.4→.03–.04 gandgreensstop. Usesoneclearthenotherfarms; marketvalueprotectedhypothesisnotproven.",
+      "metrics": {},
+      "source": {
+        "file": "036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.vtt",
+        "cleaned_file": "goldbound/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.txt",
+        "paragraph_start": 4,
+        "paragraph_end": 7,
+        "start_time": "00:03:31.600",
+        "quote": "So welcome to Thousand Needles. Now if you haven't played in a while, this zone is one that will definitely be looking quite a bit different than you might remember. For starters, well, pretty much the entire valley floor is underwater. Now that in and of itself is both a pro and a con, but more on that later. With the water now though, we do have Fizzle and Pozzik's Speedbarge. So, the salt flats that Fizzle used to run have turned into more of a floating expedition here. Plus, there's also the Twilight Witherling, Highperch, maybe surprisingly the dungeon of Razorfen Downs, plus the Southsea Holdfast, home to Admiral's Den, aka the Saltstone Cave. And as far as farms that I really know going into the zone and ones I've done in the past, well, the Saltstone Cave is one of them. Now, the Saltstone Cave here, the Admiral's Den, does go way back as far as gold farms.",
+        "canonical_file": "goldbound/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.txt",
+        "original_file": "goldbound/original-vtt/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E036-04",
+      "name": "Razorfen Downs chest-and-transmog route",
+      "kind": "farm",
+      "status": "measured",
+      "zone": "Razorfen Downs",
+      "summary": "Subtlety AOEpointtopoint, rearexit, manuallychecks 8–10 positions 3–6 chests/run;9 runs/h~180000 gmarkettransmog+3200 consistenttrade/raw. Supershirtpatternnotobtained.",
+      "metrics": {
+        "runs_per_hour": 9,
+        "chests_per_run_range": [
+          3,
+          6
+        ],
+        "transmog_appraisal_gold_per_hour": 180000,
+        "reported_consistent_gold_per_hour": 3200
+      },
+      "source": {
+        "file": "036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.vtt",
+        "cleaned_file": "goldbound/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.txt",
+        "paragraph_start": 8,
+        "paragraph_end": 14,
+        "start_time": "00:07:44.200",
+        "quote": "Or should I say the dungeon in the zone, Razorfen Downs. Now, before we get in there, you might be asking, but isn't RFD in the Barrens? And in classic, it sure is. But in retail, and after the cataclysm, it's a squarely a Thousand Needles dungeon. It's accessible outside of the Great Lift from this ramp here beside the Darkcloud Pinnacle. All we have to do is head up, make our way through the labyrinth, and go into the dungeon. But this whole pre- dungeon area of RFD is fully Thousand Needles coded, and as far as I can see here, retail RFD is actually inaccessible from the Barrens. That being said, RFK, or Razorfen Crawl, is still a through-and-through Barrens dungeon, and same with Wailing Caverns.",
+        "canonical_file": "goldbound/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.txt",
+        "original_file": "goldbound/original-vtt/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.vtt"
+      },
+      "related_records": [
+        {
+          "id": "E036-06",
+          "role": "component",
+          "label": "Herbs within the route",
+          "include_earnings": false
+        },
+        {
+          "id": "E036-07",
+          "role": "component",
+          "label": "Raw gold and disenchanting portion",
+          "include_earnings": false
+        }
+      ]
+    },
+    {
+      "id": "E036-05",
+      "name": "Henry Stern reagent bag and Goldthorn Tea recipe",
+      "kind": "experiment",
+      "status": "successful",
+      "zone": "Razorfen Downs",
+      "summary": "Satchelfirst 10 slot Bo Preagentbag; everyrun Goldthorn Tea 3–4 krecipe, stocks 5–10 slow-sale copies.",
+      "metrics": {
+        "reagent_bag_slots": 10,
+        "recipe_stock_range": [
+          5,
+          10
+        ],
+        "quoted_recipe_gold_range": [
+          3000,
+          4000
+        ]
+      },
+      "source": {
+        "file": "036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.vtt",
+        "cleaned_file": "goldbound/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.txt",
+        "paragraph_start": 10,
+        "paragraph_end": 10,
+        "start_time": "00:09:35.160",
+        "quote": "Now, this one did elude us in Uldaman with over 25 hours logged farming for it, but we're going to have quite a few more chances in chests in this zone. Plus, there is a wide world drop table from these for things like epics, blues, or unique drops like the Broken Blade of the Heroes. On top of that, these do provide a fair trickle of trade goods in the form of leather and gems. So, we definitely want to get as many as we can. Chest spawn locations in the first area of the spider cave here, there is one that can spawn. If this one does spawn, we do want to tag the spider on the roof first, otherwise, it just pulls the spider down and stops the cast from getting the chest. Then, a little further into the dungeon, we have this room with about four alcoves. Each of these alcoves can have a chest spawn, and the last one can actually have two chest spawns, so we always want to check the alcoves. Then, in the last phase of the dungeon where we're spiraling up the hill to the two last bosses, pretty much every hut along the way can have a chest, so we check them. As far as rogue specs go, I'm not actually running outlaw in this dungeon, so I don't have the talent to track treasure. Instead, I'm rolling with a subtlety spec just for the AoE damage of Shuriken Storms, which makes killing as we go simpler, plus it gives a small speed boost after we kill a group of mobs. But that does mean for the chests, we have to check every spot manually and not just rely on the mini map. But what else is in the dungeon? Well, travelers, there is one massive character upgrade in this dungeon. Back in the alcove room, we have what looks to be the remains of a quillboar, and above him, a small satchel, Henry's Satchel. This is Henry Stern from the classic version of the dungeon, and every run the satchel is hanging here. In the first run, when you grab it, well, it gives you a reagent bag. Yep, so we officially have unlocked our first reagent bag for the character, and we can add it to our four deepsea bags to get an additional 10 bag slots for trade goods. Absolutely massive. The reagent bag is soulbound and just the first time we grab it anyways, but we can still grab the bag every time and it is actually worth it because it also always has the recipe for Goldthorn Tea, a trade good recipe worth about 3 to 4,000 gold. And since it's here every run, I'll stock up on 5 to 10 of these recipes to slow sell them over the next couple of months, always a nice snag.",
+        "canonical_file": "goldbound/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.txt",
+        "original_file": "goldbound/original-vtt/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E036-06",
+      "name": "RFD herb gathering hour",
+      "kind": "farm",
+      "status": "measured",
+      "zone": "Razorfen Downs",
+      "summary": "26 Goldthorn 48 Grave Moss~1600 g/hincludedcombinedrate.",
+      "metrics": {
+        "Goldthorn_per_hour": 26,
+        "Grave Moss_per_hour": 48,
+        "herb_gold_per_hour_approx": 1600
+      },
+      "source": {
+        "file": "036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.vtt",
+        "cleaned_file": "goldbound/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.txt",
+        "paragraph_start": 12,
+        "paragraph_end": 12,
+        "start_time": "00:13:03.640",
+        "quote": "For these runs I am running Herbalism and Enchanting. In the dungeon, there's actually two herbs that spawn pretty readily, Goldthorn and Grave Moss, which are basically two of the most valuable classic WoW herbs right now. As I go through, I'm tracking herbs and grabbing them all. Over an hour of farming here where I'm able to get about nine runs in, I am clearing over 26 Goldthorn and 48 Grave Moss. Now, they do both vary in price between around 18 and 38 gold each, but with average prices, that's about 1,600 gold per hour from just the herbs. Not bad at all. On top of that, with enchanting, we can process down some of the items and drops that we won't use or sell.",
+        "canonical_file": "goldbound/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.txt",
+        "original_file": "goldbound/original-vtt/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E036-07",
+      "name": "RFD vendor-green versus DE-blue comparison",
+      "kind": "experiment",
+      "status": "measured",
+      "zone": "Razorfen Downs",
+      "summary": "Higherilvlgreensvendor, Bo Pblue DE 35 Greater Eternal Essence/h 630 g;1000 raw/vendor/h, combined 3200 not doublecount.",
+      "metrics": {
+        "Greater Eternal Essence_per_hour": 35,
+        "DE_gold_per_hour": 630,
+        "raw_vendor_gold_per_hour": 1000
+      },
+      "source": {
+        "file": "036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.vtt",
+        "cleaned_file": "goldbound/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.txt",
+        "paragraph_start": 13,
+        "paragraph_end": 14,
+        "start_time": "00:13:44.960",
+        "quote": "With how the item level scaling works here, the greens are about 40 item levels higher than the boss drop blues, so all the greens are actually worth more to the vendor than through disenchanting. The ones I don't want to sell in the auction house are just getting sold to the vendor. With that, the average raw gold between vendoring and looting here is about 1,000 gold per hour. With the greens vendor though, we still have the bind on pickup blues from the bosses. These ones tend to be more profitable to disenchant for the chance at greater eternal essences than vendoring because the vendor prices are pretty low on these item values. Through disenchanting the blues, on the average hour, we're pulling in about 35 essences with a value of 18 gold each right now.",
+        "canonical_file": "goldbound/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.txt",
+        "original_file": "goldbound/original-vtt/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E036-08",
+      "name": "Thousand Needles mining availability",
+      "kind": "proposal",
+      "status": "deferred",
+      "zone": "Thousand Needles",
+      "summary": "Fewbordernodes/sketchyboundaries; holds Herb/Enchant, nodualgathertesthere.",
+      "metrics": {},
+      "source": {
+        "file": "036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.vtt",
+        "cleaned_file": "goldbound/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.txt",
+        "paragraph_start": 14,
+        "paragraph_end": 14,
+        "start_time": "00:14:26.400",
+        "quote": "That's another 630 gold. So, it all adds up to a consistent gold per hour of 3,200 gold, which isn't crazy on its own, but when the main farm here is transmog and we're pulling over 180,000 gold in transmog market value each hour as well, the consistent gold is a pretty nice cherry on top. I'll lock in for quite a few hours of farming here and report back with our most valuable drops. Until then, we should probably have a look at a more consistent farm. I don't really want to drop herbalism right now since, well, we're going to do a lot more RFD farming and for the same reason, I also don't want to drop enchanting yet. So, I think dual gathering will have to go on hold. Plus, there aren't too many mining nodes around anyways. In fact, most of the mining nodes are on the borders and the borders between a thousand needles, Tanaris, and Feralas are actually pretty sketchy. So, I don't want to spend too much time flying around those issue spots.",
+        "canonical_file": "goldbound/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.txt",
+        "original_file": "goldbound/original-vtt/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E036-09",
+      "name": "Underwater breathing quest restriction",
+      "kind": "experiment",
+      "status": "blocked",
+      "zone": "Thousand Needles",
+      "summary": "Alliancezonechainstart Feralaslocked, needsalternative.",
+      "metrics": {},
+      "source": {
+        "file": "036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.vtt",
+        "cleaned_file": "goldbound/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.txt",
+        "paragraph_start": 15,
+        "paragraph_end": 15,
+        "start_time": "00:15:23.240",
+        "quote": "For now, let's stick to herbalism. I think there might actually be a unique angle here, stranglekelp, because there is tons of it below the water surface down on the old floor of the zone. Right now, it's relatively cheap at about five gold each, but about six months ago, it was up closer to 20 to 30 gold each. So, I think we should try to farm it. The only downside, well, it's underwater, and while we do have a few underwater mounts, like the Darkmoon skate from the Darkmoon Faire or the Reins of Poseidus from Bashir, we can't actually breathe underwater. Well, I would have to pop up every minute or two to refill my character's lungs. To make this a little bit more efficient, we better unlock underwater breathing for here. And unfortunately, we can't do it the traditional way of questing through the zone because the quests for Alliance, well, they start in Feralas, and we don't have Feralas unlocked. Luckily, I know another way because it's Sunday, and the Stranglethorn Vale fishing competition is about to start. And also luckily for us, we've already unlocked and completed our token in STV, so we can pop in there for some quality of life upgrades here. First things first, we have to actually win the tournament by getting 40 tasty fish, which I think I got kind of lucky here cuz no one's won it yet, and I'm bringing it back to Booty Bay. Here we are. There are a few rewards. We already did get the Arcanite fishing pole, but the one I want today, the Hook of the Master Angler, a trinket that turns you into a fish that allows you to breathe underwater. Perfect. With our new trinket obtained, let's head back to our zone and test out the farm.",
+        "canonical_file": "goldbound/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.txt",
+        "original_file": "goldbound/original-vtt/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E036-10",
+      "name": "Second STV tournament Hook upgrade",
+      "kind": "experiment",
+      "status": "successful",
+      "zone": "Stranglethorn Vale",
+      "summary": "Wins 40 fishfor Hook Master Angler; fishformpacified/slower, butcanherbandmountwithoutlosingbreathing; verified.",
+      "metrics": {
+        "Tastyfish_required": 40
+      },
+      "source": {
+        "file": "036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.vtt",
+        "cleaned_file": "goldbound/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.txt",
+        "paragraph_start": 15,
+        "paragraph_end": 16,
+        "start_time": "00:15:23.240",
+        "quote": "For now, let's stick to herbalism. I think there might actually be a unique angle here, stranglekelp, because there is tons of it below the water surface down on the old floor of the zone. Right now, it's relatively cheap at about five gold each, but about six months ago, it was up closer to 20 to 30 gold each. So, I think we should try to farm it. The only downside, well, it's underwater, and while we do have a few underwater mounts, like the Darkmoon skate from the Darkmoon Faire or the Reins of Poseidus from Bashir, we can't actually breathe underwater. Well, I would have to pop up every minute or two to refill my character's lungs. To make this a little bit more efficient, we better unlock underwater breathing for here. And unfortunately, we can't do it the traditional way of questing through the zone because the quests for Alliance, well, they start in Feralas, and we don't have Feralas unlocked. Luckily, I know another way because it's Sunday, and the Stranglethorn Vale fishing competition is about to start. And also luckily for us, we've already unlocked and completed our token in STV, so we can pop in there for some quality of life upgrades here. First things first, we have to actually win the tournament by getting 40 tasty fish, which I think I got kind of lucky here cuz no one's won it yet, and I'm bringing it back to Booty Bay. Here we are. There are a few rewards. We already did get the Arcanite fishing pole, but the one I want today, the Hook of the Master Angler, a trinket that turns you into a fish that allows you to breathe underwater. Perfect. With our new trinket obtained, let's head back to our zone and test out the farm.",
+        "canonical_file": "goldbound/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.txt",
+        "original_file": "goldbound/original-vtt/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E036-11",
+      "name": "Underwater Stranglekelp hour",
+      "kind": "farm",
+      "status": "measured",
+      "zone": "Thousand Needles",
+      "summary": "246 Kelp at 5 g→1230 g/h;7300 if 30 grepricehypotheticalnotrealized.",
+      "metrics": {
+        "Stranglekelp_per_hour": 246,
+        "reported_gold_per_hour": 1230,
+        "hypothetical_high_price_gold_per_hour": 7300
+      },
+      "source": {
+        "file": "036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.vtt",
+        "cleaned_file": "goldbound/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.txt",
+        "paragraph_start": 16,
+        "paragraph_end": 17,
+        "start_time": "00:16:54.280",
+        "quote": "Well, it looks like while we're in our fish form, we do move slower than our underwater mounts. Plus, we're pacified and can't fight underwater. The good thing though, we can still collect herbs while in the fish form. If we mount up, we don't lose the fish form. We can actually just swim around on our mounts and breathe underwater. Perfect. Time to get farming. Now, as far as stranglekelp, there is a ton of it around the zone down here. I don't really have a set route necessarily, but for the most part, I'm just trying to make the biggest circles of the zone here. And as you can see, aside from the strangle kelp, there really isn't all that much going on down here. With how far apart it is, we're only pulling in about 246 strangle kelp per hour. At current market values, that results in a gold per hour of 1,230.",
+        "canonical_file": "goldbound/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.txt",
+        "original_file": "goldbound/original-vtt/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E036-12",
+      "name": "Southsea Treasure Hunter underwater trial",
+      "kind": "farm",
+      "status": "successful",
+      "zone": "Thousand Needles",
+      "summary": "Spreadslowkills, standard Saltstone/worldtables; Staff Jordanepicdrops. Narratorfirstworldepiccontradicts earlier Hurricane, flagnoinventedprice.",
+      "metrics": {
+        "Staff of Jordan": 1,
+        "first_epic_claim_inconsistent": true
+      },
+      "source": {
+        "file": "036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.vtt",
+        "cleaned_file": "goldbound/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.txt",
+        "paragraph_start": 17,
+        "paragraph_end": 18,
+        "start_time": "00:17:41.480",
+        "quote": "Not great, but it is worth keeping in mind because if strangle kelp does spike back up to 30 gold each again, this would all of a sudden be a 7,300 gold per hour farm. And as far as I know, maybe one of the highest strangle kelp farms as far as raw yield. But not something I want to spend too much time down here, not with these prices at least. While we're down here though, we may as well check out some of the underwater mobs. There's a few turtles, which is kind of exciting as far as maybe having a turtle farm in the zone. Although, we don't have skinning at the moment, so I'll mostly leave these guys be. Plus, we do have the South Sea Treasure Hunters. Looking into these guys, they actually have an okay loot table. Most of the same zone drops like saltstone. Downside, they're quite far apart and are underwater, so kill rates here are abysmally slow.",
+        "canonical_file": "goldbound/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.txt",
+        "original_file": "goldbound/original-vtt/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E036-13",
+      "name": "Krikks Silithid Ripper underwater rare target",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Thousand Needles",
+      "summary": "100 kplusweaponrareidentified; dropnotconfirmed, mobnameunspoken. Alternate caption P 21 supplies the rare name Krikks; naming remains caption-derived.",
+      "metrics": {
+        "quoted_market_gold_lower_bound": 100000
+      },
+      "source": {
+        "file": "036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.vtt",
+        "cleaned_file": "goldbound/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.txt",
+        "paragraph_start": 18,
+        "paragraph_end": 18,
+        "start_time": "00:18:29.000",
+        "quote": "Uh, well, I mean, they still have world drop epics on their loot tables, of course. So, look at this. We just pulled the Staff of Jordan. This is our first world drop epic on Goldie. I mean, we've had some BoE world drop blues, but no world drop epics yet. And we're over 45 days played in. Plus, the Staff of Jordan is a relatively decent one. There's better ones like the Skullflame Shield for sure. But hey, these guys prove it. Even if a mob isn't the best on paper, we're still always rolling for world drop epics. So far, the Thousand Needles is panning out quite all right. But that's pretty much it for the underwater here. Well, there's a few rares actually. The most notable of which is weapon, the Silithid Ripper. It's a one-hand weapon with a market value over 100,000 gold, but that's the market value. And looking across all the realms and recent sales on this, it would probably go for quite a bit less, but still worth checking out. And with that, I think we've rounded out the underwater aspect of this zone. So, let's get back up to the shores for our next gold farm.",
+        "canonical_file": "goldbound/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.txt",
+        "original_file": "goldbound/original-vtt/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.vtt"
+      },
+      "alternate_evidence": {
+        "file": "036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en.vtt",
+        "paragraph": 21,
+        "quote": "That is, we have already found blue things that become personal when worn, but there have been no epic ones yet. And we've been playing for over 45 days. Besides, the Rod of Jordan is a pretty good thing. Of course, there are better options, like the Skullfire Shield. But hey, these guys are proving their worth. Even if a mob doesn't look the best on paper, we always have a chance of dropping epic loot. So far, Thousand Needles is living up to expectations. But that's probably all there is to see underwater. Although, in fact, there are a few rare enemies here. The most notable of these is Krikks, who drops a good weapon for transmogrification: the Silithid Ripper. This is a one-handed weapon with a market value of over 100,000 gold, but that's just the market price. Given the data across all servers and recent sales, it will likely go for significantly less, but it's worth checking."
+      }
+    },
+    {
+      "id": "E036-14",
+      "name": "Galak Mauler Heavy Marauder Scimitar hunt",
+      "kind": "farm",
+      "status": "successful",
+      "zone": "Thousand Needles",
+      "summary": "90–120 min<200 killsfirst Scimitar; one Saltstone lapthen 5–6 min Maulers avoids lootloss.0.02%cited 9/50 k,0.2%authorguessnottruth;230 kmarket/400 klisting.",
+      "metrics": {
+        "minutes_approx_range": [
+          90,
+          120
+        ],
+        "kills_upper_bound": 200,
+        "Heavy Marauder Scimitar": 1,
+        "cited_drop_pct": 0.02
+      },
+      "source": {
+        "file": "036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.vtt",
+        "cleaned_file": "goldbound/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.txt",
+        "paragraph_start": 19,
+        "paragraph_end": 20,
+        "start_time": "00:19:30.800",
+        "quote": "Over here at the Splithoof Heights on the northeast side of the zone, we have a centaur camp, the Galak camp. And here, we're only after one mob and one drop, the Galak Mauler. The centaur is here with a purple blue armor, and the drop we're after, well, it's none other than the heavy Marauder scimitar, a classic one-off unique drop from these guys. This item has some crazy value, over 230,000 gold with listings commonly being over 400k. Right now, the cheapest listed across all North American realms is over 100k. Now, the drop rate here is a little bit unknown because it was unavailable for quite a few expansions, which does skew the Wowhead loot table drops and chances, but it's listed at 0.02% or nine out of 50,000 kills. So, I'll log a few kills on these guys, but I don't really expect to get it unless we can commit to a ton of hours.",
+        "canonical_file": "goldbound/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.txt",
+        "original_file": "goldbound/original-vtt/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.vtt"
+      },
+      "valued_drops": [
+        {
+          "item": "Heavy Marauder Scimitar",
+          "obtained": true,
+          "source_refs": [
+            {
+              "episode": 36,
+              "paragraph_start": 19,
+              "paragraph_end": 20,
+              "start_time": "00:19:30.800"
+            }
+          ],
+          "note": "Obtained in fewer than 200 kills after about 90–120 minutes. Market quotation above 230k; common listings above 400k, no confirmed sale.",
+          "quote_bound": "lower",
+          "quote_strict": true,
+          "quote_gold": 230000
+        }
+      ],
+      "related_records": [
+        {
+          "id": "E036-03",
+          "role": "comparison",
+          "label": "Saltstone lap used between Mauler clears",
+          "include_earnings": false
+        }
+      ]
+    },
+    {
+      "id": "E036-15",
+      "name": "Rrakk and Sky Shadow rare filler",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Thousand Needles",
+      "summary": "Tagsnearbymoderategearwhile Maulers, notargetresultisolated.",
+      "metrics": {},
+      "source": {
+        "file": "036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.vtt",
+        "cleaned_file": "goldbound/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.txt",
+        "paragraph_start": 20,
+        "paragraph_end": 20,
+        "start_time": "00:20:28.080",
+        "quote": "Haha. Well, under 200 kills in here, about an hour and a half, maybe two of farming, we pulled the sword. Travelers, you can't make this stuff up. Now, I don't know if I got crazy lucky here or if Wowhead drop tables are just completely off basis. I would guess that it's a little bit of both, and the drop chance is probably closer to 0.2, but hey, we're already pulling some crazy drops in this zone, and we haven't even gone over our RFD haul yet. So, I guess I can put this farm to the side for a little bit. Although, there is also a rare nearby up in the glen to the north, Rack. He doesn't have any crazy individual drops, but overall, some decent loot tables, and it's the same for the rare to the east here, Sky Shadow. Some decent drops, but no crazy one item worth noting. But while farming the Marauders, it's definitely worth tagging rares if you see them up. As far as farm strategy for these guys, since it's so close to the South Sea Holdfast and the Saltstone Cave, to ensure I wasn't getting hit by anti-hyperspawn mechanics, what I ended up doing was just one lap of the Saltstone Cave and then coming over to clear out all the Maulers once, which takes about 5 to 6 minutes before heading back over to the Saltstone Cave. Rinse and repeat. So, I don't know if the scimitar and the Maulers are affected by open-world loot bugs, but this is how I farmed it, and hey, I got it in under 200 kills, so it really doesn't hurt. And looking at the farms in this zone so far, we have three actually insane transmog farms and one very poor steady farm. We better go ahead and try to find a true steady farm. And from my flying around the zone, I discovered something very interesting. So, come check this out.",
+        "canonical_file": "goldbound/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.txt",
+        "original_file": "goldbound/original-vtt/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E036-16",
+      "name": "Sparkleshell turtle island plus serpent skinning hour",
+      "kind": "farm",
+      "status": "measured",
+      "zone": "Thousand Needles",
+      "summary": "Two 15–18 turtleislandsnonforcedspawn+smallcamps+cloudserpent; skin 280.89 Clams 180 Heavy 180 Thick 12 Heavy Hide 284 Scales 402 vendorraw, total>8000 g/h, Swampwalker Bootsextra.",
+      "metrics": {
+        "minutes": 60,
+        "Big-Mouth Clam": 89,
+        "Heavy Leather": 180,
+        "Thick Leather": 180,
+        "Heavy Hide": 12,
+        "Turtle Scale": 284,
+        "raw_vendor_gold": 402,
+        "reported_gold_per_hour_lower_bound": 8000
+      },
+      "source": {
+        "file": "036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.vtt",
+        "cleaned_file": "goldbound/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.txt",
+        "paragraph_start": 21,
+        "paragraph_end": 23,
+        "start_time": "00:22:04.800",
+        "quote": "Yeah, maybe the highest density of turtles in the game. This island here is home to the Stranded Sparkleshell Turtles. These turtles must have climbed up or onto this outcropping during the floods in Cataclysm, and we can profit from it. Although, to be fair, not all of the turtles in the zone made it to these spots. Unfortunately, the dead ones in the water can't be skinned, otherwise we would definitely be popping down there every now and then, but there are actually two major outcroppings for turtles here. One of them is in the far east area of the zone, another one over here, quite a bit closer to the middle zone and the dungeon ramp entrance. Each of these outcroppings has about 15 to 18 turtles in a relatively small area. And if Swamp of Sorrows has taught me anything, it's that farming turtles can be more profitable than expected. These guys, of course, can be skinned, so I do have to swap off enchanting, at least for a bit, to power level up skinning to about 280, because at that point we can get every single drop that that guys offer. With that sorted, we can start skinning. They are in the heavy leather and thick leather band. At the moment, heavy leather is close to five to eight gold each, and thick leather is going for closer to eight to 12 gold each.",
+        "canonical_file": "goldbound/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.txt",
+        "original_file": "goldbound/original-vtt/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E036-17",
+      "name": "Turtle-island Saltstone reset rotation",
+      "kind": "experiment",
+      "status": "performed",
+      "zone": "Thousand Needles",
+      "summary": "2 islandsthen Saltstoneoneclearinstead 4 minwait; juggleslootsuppression, nodefinitivecombined GPH.",
+      "metrics": {},
+      "source": {
+        "file": "036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.vtt",
+        "cleaned_file": "goldbound/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.txt",
+        "paragraph_start": 22,
+        "paragraph_end": 26,
+        "start_time": "00:23:13.480",
+        "quote": "But, these prices do vary quite a bit with the market, so it could change from time to time. And those are just the base skins. Since it's heavy leather, we can also pull in heavy hide. Definitely a big ticket item here, but the prices are down a little bit, but still anywhere between 60 to 100 gold for this one. Not only that though, but they're turtles, so we can actually get turtle scales from skinning. And the big thing here, it isn't in replacement of hides. We get the scales on top of the regular skins. And these things can be pretty variable in price as well. In the past in Swamp of Sorrows, I was selling for some of these for more than 20 gold each, but now, well, the market has leveled out to about six to eight gold each. Not bad, still some good gold for sure, but the loot doesn't end there, cuz those are just the skinnable materials. And the turtles have a few other valuable trade goods on their tables. Of course, the classic big mouth clam. Now, these things have been a little bit of an enigma over the gold boundary. They sell pretty well themselves, but they can also be opened up for a chance at the golden pearl. The current value of the clams is ranging from 12 to 20 gold depending on the day of the week, but the golden pearl, well, it's just over 500 gold each. So, the age-old question arises, do we open the clams for a chance at the pearl, or sell the clams as is? Which I think we can answer with another question. Would you rather be buying lottery or selling them? Because right now, with the current prices, the expected value of opening the clams would have us losing approximately 50% of their value on average. Because when we were in the Blasted Lands, I did test this out and open up a thousand of them. Not to mention, I opened up quite a few hundred clams before this, and my current drop rates of golden pearls from the clams are coming up to about 2%. So, unless the cost of 50 clams is cheaper than one pearl, which in this case 50 clams cost about 1,000 gold, well, we should just sell the clams as is. Of course, this is drop rates, you could always gamble it, open up 10 clams and get 10 pearls, but we're doing enough gambling and rolling for low drops in our dungeon runs, so I'll just sell these ones as is. Plus on top of that, with the turtles, we can actually also pull in turtle meat, which is worth 4.5 gold each. These guys just have a ton of different trade goods that are worth 4 to 20 gold each, so we farm them. Now, as far as farming these guys, the turtle islands don't hyper spawn, unfortunately. We do have to hop back and forth between the two, but we can also kill both the islands a lot faster than they respawn. So, we either have to clear both islands and wait four minutes, which honestly isn't bad to do when editing a video, or we can find something else to do in the meantime, which in general, I think it makes the most sense to do the two massive islands and then actually pop over to the salt stone cave to kill the ogres for one lap. It juggles the loot tables, avoids the salt stone cave hyper spawn mechanics, and gives a good balance of trade goods to transmog. But for testing, I do want to try a full skinning farm. So, what I'll do to get the rates per hour here is just work in a few of the smaller turtle camps around the zone. There's a couple sets of two or three that are stranded as well.",
+        "canonical_file": "goldbound/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.txt",
+        "original_file": "goldbound/original-vtt/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.vtt"
+      },
+      "related_records": [
+        {
+          "id": "E036-16",
+          "role": "component",
+          "label": "Turtle/serpent skinning test",
+          "include_earnings": true
+        },
+        {
+          "id": "E036-03",
+          "role": "component",
+          "label": "Saltstone Cave transmog trial",
+          "include_earnings": true
+        }
+      ]
+    },
+    {
+      "id": "E036-18",
+      "name": "Clam sale expected-value follow-up",
+      "kind": "experiment",
+      "status": "performed",
+      "zone": "Thousand Needles",
+      "summary": "Usesprior~2%pearlsand 500 gprice;50 clams 1000 gvs 500 pearl, keepssealed. No newopeningtest.",
+      "metrics": {},
+      "source": {
+        "file": "036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.vtt",
+        "cleaned_file": "goldbound/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.txt",
+        "paragraph_start": 22,
+        "paragraph_end": 22,
+        "start_time": "00:23:13.480",
+        "quote": "But, these prices do vary quite a bit with the market, so it could change from time to time. And those are just the base skins. Since it's heavy leather, we can also pull in heavy hide. Definitely a big ticket item here, but the prices are down a little bit, but still anywhere between 60 to 100 gold for this one. Not only that though, but they're turtles, so we can actually get turtle scales from skinning. And the big thing here, it isn't in replacement of hides. We get the scales on top of the regular skins. And these things can be pretty variable in price as well. In the past in Swamp of Sorrows, I was selling for some of these for more than 20 gold each, but now, well, the market has leveled out to about six to eight gold each. Not bad, still some good gold for sure, but the loot doesn't end there, cuz those are just the skinnable materials. And the turtles have a few other valuable trade goods on their tables. Of course, the classic big mouth clam. Now, these things have been a little bit of an enigma over the gold boundary. They sell pretty well themselves, but they can also be opened up for a chance at the golden pearl. The current value of the clams is ranging from 12 to 20 gold depending on the day of the week, but the golden pearl, well, it's just over 500 gold each. So, the age-old question arises, do we open the clams for a chance at the pearl, or sell the clams as is? Which I think we can answer with another question. Would you rather be buying lottery or selling them? Because right now, with the current prices, the expected value of opening the clams would have us losing approximately 50% of their value on average. Because when we were in the Blasted Lands, I did test this out and open up a thousand of them. Not to mention, I opened up quite a few hundred clams before this, and my current drop rates of golden pearls from the clams are coming up to about 2%. So, unless the cost of 50 clams is cheaper than one pearl, which in this case 50 clams cost about 1,000 gold, well, we should just sell the clams as is. Of course, this is drop rates, you could always gamble it, open up 10 clams and get 10 pearls, but we're doing enough gambling and rolling for low drops in our dungeon runs, so I'll just sell these ones as is. Plus on top of that, with the turtles, we can actually also pull in turtle meat, which is worth 4.5 gold each. These guys just have a ton of different trade goods that are worth 4 to 20 gold each, so we farm them. Now, as far as farming these guys, the turtle islands don't hyper spawn, unfortunately. We do have to hop back and forth between the two, but we can also kill both the islands a lot faster than they respawn. So, we either have to clear both islands and wait four minutes, which honestly isn't bad to do when editing a video, or we can find something else to do in the meantime, which in general, I think it makes the most sense to do the two massive islands and then actually pop over to the salt stone cave to kill the ogres for one lap. It juggles the loot tables, avoids the salt stone cave hyper spawn mechanics, and gives a good balance of trade goods to transmog. But for testing, I do want to try a full skinning farm. So, what I'll do to get the rates per hour here is just work in a few of the smaller turtle camps around the zone. There's a couple sets of two or three that are stranded as well.",
+        "canonical_file": "goldbound/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.txt",
+        "original_file": "goldbound/original-vtt/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E036-19",
+      "name": "Arathi warfront second cycle Direwing drop",
+      "kind": "farm",
+      "status": "successful",
+      "zone": "Arathi Highlands",
+      "summary": "Witherbark Direwingfirstearnedflyingmountclaimedpersonal; othermounts/petsoutcomesnotstated.",
+      "metrics": {
+        "Witherbark Direwing": 1
+      },
+      "source": {
+        "file": "036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.vtt",
+        "cleaned_file": "goldbound/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.txt",
+        "paragraph_start": 24,
+        "paragraph_end": 24,
+        "start_time": "00:28:13.360",
+        "quote": "Real quick, pause for a kill on Onyxia, which unfortunately, no luck. But if you do want to check out Goldcapped, then use my code of Patholirix10 at checkout to save 10% on guides or memberships. Now, with my raid clears, I am going to pop into a rathie here for the warfront rares. We can only actually kill these guys for their loot once every three to four weeks, so we better make it count. We are still mostly looking for mounts and transmog for Goldie, but also the pets could be sold, so we'll see what we can get. Oh, there we go. The Witherbark Direwing. And our first flying mount that is not the Golden Gryphon, which to be honest, this is a pretty darn good looking mount and I'll take it. So, last but not least, Molten Core. We're currently on run 42. Can we finally snag the final binding of the Windseeker for Thunderfury, Blessed Blade of the Windseeker?",
+        "canonical_file": "goldbound/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.txt",
+        "original_file": "goldbound/original-vtt/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E036-20",
+      "name": "Molten Core 42 clear Nightslayer Chest success",
+      "kind": "farm",
+      "status": "successful",
+      "zone": "Molten Core",
+      "summary": "Chestfinally 42 ndrun, fullset; stillno leftbinding.",
+      "metrics": {
+        "Golemagg kills": 42,
+        "Nightslayer Chest": 1
+      },
+      "source": {
+        "file": "036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.vtt",
+        "cleaned_file": "goldbound/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.txt",
+        "paragraph_start": 25,
+        "paragraph_end": 25,
+        "start_time": "00:29:06.240",
+        "quote": "Nope. How about the Nightslayer Chest, the alleged 20% plus drop chance piece and the last piece that we need for the set? Oh. Uh it dropped. Well, that means one thing. There we go. New transmog unlocked and dare I say it, we're looking good. I also swapped over to Maladath and the Chromatically Tempered Swords, which fits pretty well with the Direwing to be fair. Nice. But as we have been farming and working through the zone here, I have logged about 100 runs of RFD in. I've been sending all the drops over to my secret 1,000 needles transmog toon, so everything on that character is from this zone. Let's go ahead and see what the auction house looks like. All right, so we have 333 items listed with a total value of over 1.9 million gold. Kind of crazy. Now, some of this is from zone drops and the Saltstone Cave, so it's not all RFD, but still, we pulled in an insane amount of gold in during the zone. Let me show you some of the bigger drops. First up and the biggest one, we do have the Broken Blade of Heroes. This thing is kind of a blacksmithing recipe, but a one-time use and has a value between 40,000 and 1 million gold. I do have it listed for a relatively aggressive price of about 125,000 gold, but it can also be reforged into the blade with a classic blacksmith. The blade does have similar competition and listing prices though, so I figured I would see if I could get a quick sell on the broken blade before maybe reforging it on the crafting alt. We also pulled in a ton of the Saltstone set though, pretty much everything but the leg chains and maybe the van braces to be honest, which to be fair, are the most expensive pieces. Then we also got a few assorted dungeon BOEs like the freezing shard from RFD. Of course, we are also trying to quick sell the Marauder Scimitar while we're in the zone. And then the Straw Gale Fists, Briar Tredders, and Thought-Kast Boots. Beyond that, RFD just literally prints out an insane amount of moderate value greens.",
+        "canonical_file": "goldbound/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.txt",
+        "original_file": "goldbound/original-vtt/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E036-21",
+      "name": "RFD 100 run inventory/blue results",
+      "kind": "farm",
+      "status": "successful",
+      "zone": "Razorfen Downs",
+      "summary": "333 zoneauctions>1.9 mvaluationincludes Saltstone; Broken Blade Heroes 40 k–1 m 125 klisting, Freezing Shard, Strawgale Fists, Briar Tredders, Thoughtcast Boots, nearfull Saltstoneexcept Legs/bracers. No supershirt.",
+      "metrics": {
+        "RFD_runs_approx": 100,
+        "listed_zone_items": 333,
+        "appraised_inventory_gold_lower_bound": 1900000
+      },
+      "source": {
+        "file": "036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.vtt",
+        "cleaned_file": "goldbound/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.txt",
+        "paragraph_start": 25,
+        "paragraph_end": 26,
+        "start_time": "00:29:06.240",
+        "quote": "Nope. How about the Nightslayer Chest, the alleged 20% plus drop chance piece and the last piece that we need for the set? Oh. Uh it dropped. Well, that means one thing. There we go. New transmog unlocked and dare I say it, we're looking good. I also swapped over to Maladath and the Chromatically Tempered Swords, which fits pretty well with the Direwing to be fair. Nice. But as we have been farming and working through the zone here, I have logged about 100 runs of RFD in. I've been sending all the drops over to my secret 1,000 needles transmog toon, so everything on that character is from this zone. Let's go ahead and see what the auction house looks like. All right, so we have 333 items listed with a total value of over 1.9 million gold. Kind of crazy. Now, some of this is from zone drops and the Saltstone Cave, so it's not all RFD, but still, we pulled in an insane amount of gold in during the zone. Let me show you some of the bigger drops. First up and the biggest one, we do have the Broken Blade of Heroes. This thing is kind of a blacksmithing recipe, but a one-time use and has a value between 40,000 and 1 million gold. I do have it listed for a relatively aggressive price of about 125,000 gold, but it can also be reforged into the blade with a classic blacksmith. The blade does have similar competition and listing prices though, so I figured I would see if I could get a quick sell on the broken blade before maybe reforging it on the crafting alt. We also pulled in a ton of the Saltstone set though, pretty much everything but the leg chains and maybe the van braces to be honest, which to be fair, are the most expensive pieces. Then we also got a few assorted dungeon BOEs like the freezing shard from RFD. Of course, we are also trying to quick sell the Marauder Scimitar while we're in the zone. And then the Straw Gale Fists, Briar Tredders, and Thought-Kast Boots. Beyond that, RFD just literally prints out an insane amount of moderate value greens.",
+        "canonical_file": "goldbound/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.txt",
+        "original_file": "goldbound/original-vtt/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.vtt"
+      },
+      "additional_values": [
+        {
+          "value": 1900000,
+          "label": "Zone inventory",
+          "basis": "Listed zone inventory includes Saltstone and other drops, not only RFD; no realized cash.",
+          "unit": "g",
+          "kind": "value",
+          "source_refs": [
+            {
+              "episode": 36,
+              "paragraph_start": 25,
+              "paragraph_end": 25,
+              "start_time": "00:29:06.240"
+            }
+          ],
+          "lower_bound": true,
+          "strict_bound": true
+        },
+        {
+          "value": 125000,
+          "label": "Own listing",
+          "basis": "Own asking price for Broken Blade of Heroes; not a confirmed sale.",
+          "unit": "g",
+          "kind": "value",
+          "source_refs": [
+            {
+              "episode": 36,
+              "paragraph_start": 25,
+              "paragraph_end": 25,
+              "start_time": "00:29:06.240"
+            }
+          ],
+          "item": "Broken Blade of Heroes"
+        }
+      ],
+      "valued_drops": [
+        {
+          "item": "Broken Blade of Heroes",
+          "obtained": true,
+          "source_refs": [
+            {
+              "episode": 36,
+              "paragraph_start": 25,
+              "paragraph_end": 25,
+              "start_time": "00:29:06.240"
+            }
+          ],
+          "note": "Obtained; wide quoted value bracket, with own listing around 125,000g and no sale yet.",
+          "quote_gold": [
+            40000,
+            1000000
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E036-22",
+      "name": "Broken Blade of Heroes reforging decision",
+      "kind": "experiment",
+      "status": "deferred",
+      "zone": "Thousand Needles",
+      "summary": "One-timeblacksmithreforgealternative; listsbroken 125 kfirst, notreforgedyet.",
+      "metrics": {
+        "listing_gold": 125000
+      },
+      "source": {
+        "file": "036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.vtt",
+        "cleaned_file": "goldbound/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.txt",
+        "paragraph_start": 25,
+        "paragraph_end": 25,
+        "start_time": "00:29:06.240",
+        "quote": "Nope. How about the Nightslayer Chest, the alleged 20% plus drop chance piece and the last piece that we need for the set? Oh. Uh it dropped. Well, that means one thing. There we go. New transmog unlocked and dare I say it, we're looking good. I also swapped over to Maladath and the Chromatically Tempered Swords, which fits pretty well with the Direwing to be fair. Nice. But as we have been farming and working through the zone here, I have logged about 100 runs of RFD in. I've been sending all the drops over to my secret 1,000 needles transmog toon, so everything on that character is from this zone. Let's go ahead and see what the auction house looks like. All right, so we have 333 items listed with a total value of over 1.9 million gold. Kind of crazy. Now, some of this is from zone drops and the Saltstone Cave, so it's not all RFD, but still, we pulled in an insane amount of gold in during the zone. Let me show you some of the bigger drops. First up and the biggest one, we do have the Broken Blade of Heroes. This thing is kind of a blacksmithing recipe, but a one-time use and has a value between 40,000 and 1 million gold. I do have it listed for a relatively aggressive price of about 125,000 gold, but it can also be reforged into the blade with a classic blacksmith. The blade does have similar competition and listing prices though, so I figured I would see if I could get a quick sell on the broken blade before maybe reforging it on the crafting alt. We also pulled in a ton of the Saltstone set though, pretty much everything but the leg chains and maybe the van braces to be honest, which to be fair, are the most expensive pieces. Then we also got a few assorted dungeon BOEs like the freezing shard from RFD. Of course, we are also trying to quick sell the Marauder Scimitar while we're in the zone. And then the Straw Gale Fists, Briar Tredders, and Thought-Kast Boots. Beyond that, RFD just literally prints out an insane amount of moderate value greens.",
+        "canonical_file": "goldbound/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.txt",
+        "original_file": "goldbound/original-vtt/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E036-23",
+      "name": "Skullplate Bracer delayed realized sale",
+      "kind": "sales",
+      "status": "sales_confirmed",
+      "zone": "Uldaman",
+      "summary": "Uldamanbluepreviousunmentionedfind sells 100000 g;133000 totalbacklog, no significantcurrentzonesales.",
+      "metrics": {
+        "Skullplate Bracers_sale_gold": 100000,
+        "backlog_cash_gold": 133000
+      },
+      "source": {
+        "file": "036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.vtt",
+        "cleaned_file": "goldbound/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.txt",
+        "paragraph_start": 28,
+        "paragraph_end": 28,
+        "start_time": "00:33:16.960",
+        "quote": "Oh, well, that's nice. We sold the skull plate bracers for 100,000 gold. These are the ones a blue BoE that we got back in Aldaman. And I mean, that's a pretty good ticket price for them. Also, an Orb of Deception. I'm thinking this might be a pretty good transmog week after all. So, let's get this alt loaded up and see where it stands. 133,000 gold. Not a bad week for the backlog tune. But, how about the 1,000 needles alt? I have been reposting a little bit more aggressively on this one. Ah, well, we can't always get the sales, I guess. It is what it is, and transmog is definitely a long game. So, we just have to keep building up the backlog alt, which I guess this is already paying dividends. So, with it all back on Goldie here, we are up to 196,000 gold and in just about 60,000 gold short from the token. But, to be fair, we do have about 20,000 gold in trade goods waiting to be sold and a new awesome farm to run. Not to mention, a literal ton of transmog to sell. So, we might be spinning sooner than expected. Until then, we'll go with honor, friend.",
+        "canonical_file": "goldbound/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.txt",
+        "original_file": "goldbound/original-vtt/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E036-24",
+      "name": "196000 g zone checkpoint",
+      "kind": "observation",
+      "status": "measured",
+      "zone": "Thousand Needles",
+      "summary": "14857 raw 47000 tradegoods, cap Firewater 2300 bonus, cash 196000 token 267000, stillshort.",
+      "metrics": {
+        "raw_gold": 14857,
+        "tradegoods_cash_gold_approx": 47000,
+        "cap_bonus_cash_gold": 2300,
+        "cash_gold": 196000,
+        "token_gold": 267000
+      },
+      "source": {
+        "file": "036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.vtt",
+        "cleaned_file": "goldbound/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.txt",
+        "paragraph_start": 27,
+        "paragraph_end": 28,
+        "start_time": "00:31:49.560",
+        "quote": "Who knows? Maybe we'll have enough to spin for a new zone already. First things first, we've actually pulled in 14,857 raw gold, which is mostly from RFD runs, and the token is at 267,000 gold. Let's see how we did. 170 auctions here for trade goods, and even a few fire water coming in from the last couple of days. Just using the Darkmoon Hat off cool down actually yielded 2.3k. Not bad. Then of course, some herbs and some skins. Let's get this all added up and see where the trade good tally lies. But to be fair, I did spend a lot more time doing transmog here than consistent gold. Okay, so we're up to just over 60,000 gold with about 47,000 gold from trade goods, which does seem a little bit light, but ah, yeah, so it looks like the turtle farm is encountering some undercutters. I'll make sure I undercut scan more frequently and repost these to hopefully move it pretty quick. And let's go check the transmog alts. First one, the backlog. And it looks like we've been selling a good amount of lower value transmog here, which makes sense. I mean, the Trial of Style was this week, so some cheaper inventory is probably moving.",
+        "canonical_file": "goldbound/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.txt",
+        "original_file": "goldbound/original-vtt/036 - How I Accidentally Found WoW's S-Tier Gold Farm Zone - Goldbound 35.en-orig.vtt"
+      }
+    }
+  ]
+}

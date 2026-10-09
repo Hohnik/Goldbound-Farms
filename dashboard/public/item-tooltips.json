@@ -1,0 +1,1414 @@
+{
+  "provider": "Wowhead Retail",
+  "items": [
+    {
+      "id": 39151,
+      "name": "Alabaster Pigment",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 11023,
+      "name": "Ancona Chicken",
+      "aliases": [
+        "Ancona Chicken, base"
+      ],
+      "source": "https://www.wowhead.com/item=11023"
+    },
+    {
+      "id": 6452,
+      "name": "Anti-Venom",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 16040,
+      "name": "Arcane Bomb",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 12363,
+      "name": "Arcane Crystal",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 12360,
+      "name": "Arcanite Bar",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 9385,
+      "name": "Archaic Defender",
+      "source": "https://www.wowhead.com/item=9385"
+    },
+    {
+      "id": 30509,
+      "name": "Armor Fragment",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 12800,
+      "name": "Azerothian Diamond",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 112463,
+      "name": "Battered Armor Fragments",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 4463,
+      "name": "Beaded Raptor Collar",
+      "source": "https://www.wowhead.com/item=4463"
+    },
+    {
+      "id": 7973,
+      "name": "Big-Mouth Clam",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 2069,
+      "name": "Black Bear Hide Vest",
+      "source": "https://www.wowhead.com/item=2069"
+    },
+    {
+      "id": 13468,
+      "name": "Black Lotus",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 7286,
+      "name": "Black Whelp Scale",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 6425,
+      "name": "Blackforge Girdle",
+      "source": "https://www.wowhead.com/item=6425"
+    },
+    {
+      "id": 4446,
+      "name": "Blackvenom Blade",
+      "source": "https://www.wowhead.com/item=4446"
+    },
+    {
+      "id": 8839,
+      "name": "Blindweed",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 11382,
+      "name": "Blood of the Mountain",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 154164,
+      "name": "Blood-Stained Bone",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 15415,
+      "name": "Blue Dragonscale",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 6260,
+      "name": "Blue Dye",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 2997,
+      "name": "Bolt of Woolen Cloth",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 2450,
+      "name": "Briarthorn",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 6290,
+      "name": "Brilliant Smallfish",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 4593,
+      "name": "Bristle Whisker Catfish",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 9719,
+      "name": "Broken Blade of Heroes",
+      "source": "https://www.wowhead.com/item=9719"
+    },
+    {
+      "id": 2453,
+      "name": "Bruiseweed",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 20770,
+      "name": "Bubbling Green Ichor",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 2991,
+      "name": "Burnished Boots",
+      "source": "https://www.wowhead.com/item=2991"
+    },
+    {
+      "id": 43104,
+      "name": "Burnt Pigment",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 9764,
+      "name": "Cadet Shield",
+      "source": "https://www.wowhead.com/item=9764"
+    },
+    {
+      "id": 154165,
+      "name": "Calcified Bone",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 163155,
+      "name": "Cannon Shot",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 5503,
+      "name": "Clam Meat",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 4447,
+      "name": "Cloak of Night",
+      "source": "https://www.wowhead.com/item=4447"
+    },
+    {
+      "id": 2836,
+      "name": "Coarse Stone",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 2840,
+      "name": "Copper Bar",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 2770,
+      "name": "Copper Ore",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 17012,
+      "name": "Core Leather",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 7075,
+      "name": "Core of Earth",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 22644,
+      "name": "Crunchy Spider Leg",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 4236,
+      "name": "Cured Heavy Hide",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 15407,
+      "name": "Cured Rugged Hide",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 183955,
+      "name": "Curing Salt",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 112684,
+      "name": "Damaged Weaponry",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 11371,
+      "name": "Dark Iron Bar",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 11370,
+      "name": "Dark Iron Ore",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 20520,
+      "name": "Dark Rune",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 10822,
+      "name": "Dark Whelpling",
+      "source": "https://www.wowhead.com/item=10822"
+    },
+    {
+      "id": 13888,
+      "name": "Darkclaw Lobster",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 124669,
+      "name": "Darkmoon Daggermaw",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 48112,
+      "name": "Darting Hatchling",
+      "source": "https://www.wowhead.com/item=48112"
+    },
+    {
+      "id": 10628,
+      "name": "Deathblow",
+      "source": "https://www.wowhead.com/item=10628"
+    },
+    {
+      "id": 152577,
+      "name": "Deep Sea Satin",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 52982,
+      "name": "Deepsea Scale",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 12365,
+      "name": "Dense Stone",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 200815,
+      "name": "Deposited",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 71965,
+      "name": "Design: Rhinestone Sunglasses",
+      "source": "https://www.wowhead.com/item=71965"
+    },
+    {
+      "id": 15417,
+      "name": "Devilsaur Leather",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 9465,
+      "name": "Digmaster 5000",
+      "aliases": [
+        "Dig Master 5000"
+      ],
+      "source": "https://www.wowhead.com/item=9465"
+    },
+    {
+      "id": 182366,
+      "name": "Disgusting Ooze",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 196440,
+      "name": "Dragon Flight",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 3819,
+      "name": "Dragon's Teeth",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 12999,
+      "name": "Drakewing Bands",
+      "source": "https://www.wowhead.com/item=12999"
+    },
+    {
+      "id": 45190,
+      "name": "Driftwood",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 142264,
+      "name": "Drudge Fluid",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 9819,
+      "name": "Durable Tunic",
+      "source": "https://www.wowhead.com/item=9819"
+    },
+    {
+      "id": 39334,
+      "name": "Dusky Pigment",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 52843,
+      "name": "Dwarf Rune Stone",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 2449,
+      "name": "Earthroot",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 7067,
+      "name": "Elemental Earth",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 7070,
+      "name": "Elemental Water",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 52186,
+      "name": "Elementium Bar",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 52185,
+      "name": "Elementium Ore",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 39339,
+      "name": "Emerald Pigment",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 17771,
+      "name": "Enchanted Elementium Bar",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 12655,
+      "name": "Enchanted Thorium Bar",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 4791,
+      "name": "Enchanted Water",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 7076,
+      "name": "Essence of Earth",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 7078,
+      "name": "Essence of Fire",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 12808,
+      "name": "Essence of Undeath",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 7080,
+      "name": "Essence of Water",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 38426,
+      "name": "Eternium Thread",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 3818,
+      "name": "Fadeleaf",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 14256,
+      "name": "Felcloth",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 4766,
+      "name": "Feral Blade",
+      "source": "https://www.wowhead.com/item=4766"
+    },
+    {
+      "id": 38583,
+      "name": "Fetid Ichor",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 17010,
+      "name": "Fiery Core",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 2321,
+      "name": "Fine Thread",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 4625,
+      "name": "Firebloom",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 2955,
+      "name": "First Mate Hat",
+      "source": "https://www.wowhead.com/item=2955"
+    },
+    {
+      "id": 8244,
+      "name": "Flawless Draenethyst Sphere",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 33470,
+      "name": "Frostweave Cloth",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 8845,
+      "name": "Ghost Mushroom",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 9424,
+      "name": "Ginn-su Sword",
+      "aliases": [
+        "Jin'su Sword",
+        "Jins Su sword"
+      ],
+      "source": "https://www.wowhead.com/item=9424"
+    },
+    {
+      "id": 15248,
+      "name": "Gleaming Claymore",
+      "source": "https://www.wowhead.com/item=15248"
+    },
+    {
+      "id": 7079,
+      "name": "Globe of Water",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 152875,
+      "name": "Gloom Dust",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 44922,
+      "name": "Glyph of Stars",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 4731,
+      "name": "Glyphed Epaulets",
+      "source": "https://www.wowhead.com/item=4731"
+    },
+    {
+      "id": 3577,
+      "name": "Gold Bar",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 2776,
+      "name": "Gold Ore",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 194071,
+      "name": "Gold Ring",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 182766,
+      "name": "Golden Egg",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 13926,
+      "name": "Golden Pearl",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 39338,
+      "name": "Golden Pigment",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 13464,
+      "name": "Golden Sansam",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 3821,
+      "name": "Goldthorn",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 10841,
+      "name": "Goldthorn Tea",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 2799,
+      "name": "Gorilla Fang",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 3369,
+      "name": "Grave Moss",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 16203,
+      "name": "Greater Eternal Essence",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 15412,
+      "name": "Green Dragonscale",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 2605,
+      "name": "Green Dye",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 9308,
+      "name": "Grime-Encrusted Object",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 4359,
+      "name": "Handful of Copper Bolts",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 929,
+      "name": "Healing Potion",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 4235,
+      "name": "Heavy Hide",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 4234,
+      "name": "Heavy Leather",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 1493,
+      "name": "Heavy Marauder Scimitar",
+      "source": "https://www.wowhead.com/item=1493"
+    },
+    {
+      "id": 19938,
+      "name": "Heavy Scorpid Leg",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 15408,
+      "name": "Heavy Scorpid Scale",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 4778,
+      "name": "Heavy Spiked Mace",
+      "source": "https://www.wowhead.com/item=4778"
+    },
+    {
+      "id": 2838,
+      "name": "Heavy Stone",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 11418,
+      "name": "Hollow Wing Bone",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 52555,
+      "name": "Hypnotic Dust",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 10593,
+      "name": "Imperfect Draenethyst Fragment",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 43105,
+      "name": "Indigo Pigment",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 124640,
+      "name": "Inky Black Potion",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 3575,
+      "name": "Iron Bar",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 2772,
+      "name": "Iron Ore",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 15420,
+      "name": "Ironfeather",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 14227,
+      "name": "Ironweb Spider Silk",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 52182,
+      "name": "Jasper",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 6511,
+      "name": "Journeyman's Robe",
+      "source": "https://www.wowhead.com/item=6511"
+    },
+    {
+      "id": 6198,
+      "name": "Jurassic Wristguards",
+      "source": "https://www.wowhead.com/item=6198"
+    },
+    {
+      "id": 3358,
+      "name": "Khadgar's Whisker",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 3356,
+      "name": "Kingsblood",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 68161,
+      "name": "Krol Decapitator",
+      "aliases": [
+        "Krol the Decapitator"
+      ],
+      "source": "https://www.wowhead.com/item=68161"
+    },
+    {
+      "id": 14344,
+      "name": "Large Brilliant Shard",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 13893,
+      "name": "Large Raw Mightfish",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 3670,
+      "name": "Large Slimy Bone",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 1288,
+      "name": "Large Venom Sac",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 17011,
+      "name": "Lava Core",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 10938,
+      "name": "Lesser Magic Essence",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 1705,
+      "name": "Lesser Moonstone",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 3357,
+      "name": "Liferoot",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 783,
+      "name": "Light Hide",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 2780,
+      "name": "Light Hunting Bow",
+      "source": "https://www.wowhead.com/item=2780"
+    },
+    {
+      "id": 2318,
+      "name": "Light Leather",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 1251,
+      "name": "Linen Bandage",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 2589,
+      "name": "Linen Cloth",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 33856,
+      "name": "List of Goods",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 12803,
+      "name": "Living Essence",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 4592,
+      "name": "Longjaw Mud Snapper",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 142263,
+      "name": "Machine Fluid",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 52722,
+      "name": "Maelstrom Crystal",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 785,
+      "name": "Mageroyal",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 774,
+      "name": "Malachite",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 3827,
+      "name": "Mana Potion",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 4232,
+      "name": "Medium Hide",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 2319,
+      "name": "Medium Leather",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 9429,
+      "name": "Miner's Hat of the Deep",
+      "source": "https://www.wowhead.com/item=9429"
+    },
+    {
+      "id": 153051,
+      "name": "Mistscale",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 3858,
+      "name": "Mithril Ore",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 14342,
+      "name": "Mooncloth",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 21721,
+      "name": "Moonglow",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 39469,
+      "name": "Moonglow Ink",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 1206,
+      "name": "Moss Agate",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 1468,
+      "name": "Murloc Fin",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 159959,
+      "name": "Nylon Thread",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 53038,
+      "name": "Obsidium Ore",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 6297,
+      "name": "Old Skull",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 9431,
+      "name": "Papal Fez",
+      "source": "https://www.wowhead.com/item=9431"
+    },
+    {
+      "id": 8494,
+      "name": "Parrot Cage (Hyacinth Macaw)",
+      "aliases": [
+        "Hyacinth Macaw"
+      ],
+      "source": "https://www.wowhead.com/item=8494"
+    },
+    {
+      "id": 67541,
+      "name": "Pattern: High Society Top Hat",
+      "source": "https://www.wowhead.com/item=67541"
+    },
+    {
+      "id": 2447,
+      "name": "Peacebloom",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 9425,
+      "name": "Pendulum of Doom",
+      "source": "https://www.wowhead.com/item=9425"
+    },
+    {
+      "id": 58488,
+      "name": "Potion of Treasure Finding",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 19767,
+      "name": "Primal Bat Leather",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 19768,
+      "name": "Primal Tiger Leather",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 52980,
+      "name": "Pristine Hide",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 3300,
+      "name": "Rabbit's Foot",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 15210,
+      "name": "Raider Shortsword",
+      "aliases": [
+        "Raider's Shortsword"
+      ],
+      "source": "https://www.wowhead.com/item=15210"
+    },
+    {
+      "id": 4461,
+      "name": "Raptor Hide",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 2283,
+      "name": "Rat Cloth Belt",
+      "source": "https://www.wowhead.com/item=2283"
+    },
+    {
+      "id": 6291,
+      "name": "Raw Brilliant Smallfish",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 6308,
+      "name": "Raw Bristle Whisker Catfish",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 13754,
+      "name": "Raw Glossy Mightfish",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 21071,
+      "name": "Raw Sagefish",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 4603,
+      "name": "Raw Spotted Yellowtail",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 13756,
+      "name": "Raw Summer Bass",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 48124,
+      "name": "Razormaw Hatchling",
+      "source": "https://www.wowhead.com/item=48124"
+    },
+    {
+      "id": 2604,
+      "name": "Red Dye",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 7287,
+      "name": "Red Whelp Scale",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 67151,
+      "name": "Reins of Poseidus",
+      "source": "https://www.wowhead.com/item=67151"
+    },
+    {
+      "id": 156930,
+      "name": "Rich Illusion Dust",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 62413,
+      "name": "Rigid Spinneret",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 4357,
+      "name": "Rough Blasting Powder",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 2835,
+      "name": "Rough Stone",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 8171,
+      "name": "Rugged Hide",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 8170,
+      "name": "Rugged Leather",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 2934,
+      "name": "Ruined Leather Scraps",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 14341,
+      "name": "Rune Thread",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 14047,
+      "name": "Runecloth",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 172231,
+      "name": "Sacred Shard",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 52976,
+      "name": "Savage Leather",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 8154,
+      "name": "Scorpid Scale",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 250856,
+      "name": "Screwdriver",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 220273,
+      "name": "Shed Skin",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 13079,
+      "name": "Shield of Thorsen",
+      "source": "https://www.wowhead.com/item=13079"
+    },
+    {
+      "id": 4306,
+      "name": "Silk Cloth",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 2842,
+      "name": "Silver Bar",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 4404,
+      "name": "Silver Contact",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 2775,
+      "name": "Silver Ore",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 765,
+      "name": "Silverleaf",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 58277,
+      "name": "Simmered Squid",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 4875,
+      "name": "Slimy Bone",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 62414,
+      "name": "Slimy Fangs",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 32728,
+      "name": "Sludge",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 6889,
+      "name": "Small Egg",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 5498,
+      "name": "Small Lustrous Pearl",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 5374,
+      "name": "Small Pocket Watch",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 5465,
+      "name": "Small Spider Leg",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 3076,
+      "name": "Smoldering Boots",
+      "source": "https://www.wowhead.com/item=3076"
+    },
+    {
+      "id": 3074,
+      "name": "Smoldering Gloves",
+      "source": "https://www.wowhead.com/item=3074"
+    },
+    {
+      "id": 7912,
+      "name": "Solid Stone",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 13466,
+      "name": "Sorrowmoss",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 6528,
+      "name": "Spellbinder Robe",
+      "source": "https://www.wowhead.com/item=6528"
+    },
+    {
+      "id": 6887,
+      "name": "Spotted Yellowtail",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 1933,
+      "name": "Staff of Conjuring",
+      "source": "https://www.wowhead.com/item=1933"
+    },
+    {
+      "id": 3902,
+      "name": "Staff of Nobles",
+      "source": "https://www.wowhead.com/item=3902"
+    },
+    {
+      "id": 7910,
+      "name": "Star Ruby",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 10625,
+      "name": "Stealthblade",
+      "source": "https://www.wowhead.com/item=10625"
+    },
+    {
+      "id": 3859,
+      "name": "Steel Bar",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 68797,
+      "name": "Stendel's Wedding Band",
+      "source": "https://www.wowhead.com/item=68797"
+    },
+    {
+      "id": 13422,
+      "name": "Stonescale Eel",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 52984,
+      "name": "Stormvine",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 10940,
+      "name": "Strange Dust",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 3820,
+      "name": "Stranglekelp",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 6453,
+      "name": "Strong Anti-Venom",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 8838,
+      "name": "Sungrass",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 2452,
+      "name": "Swiftthistle",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 45196,
+      "name": "Tattered Cloth",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 10586,
+      "name": "The Big One",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 68163,
+      "name": "The Twilight Blade",
+      "aliases": [
+        "Twilights Blade",
+        "Twilight's Blade",
+        "Twilight Blade"
+      ],
+      "source": "https://www.wowhead.com/item=68163"
+    },
+    {
+      "id": 8169,
+      "name": "Thick Hide",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 4304,
+      "name": "Thick Leather",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 12359,
+      "name": "Thorium Bar",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 10620,
+      "name": "Thorium Ore",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 152576,
+      "name": "Tidespray Linen",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 158381,
+      "name": "Tidespray Linen Bandage",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 197778,
+      "name": "Timely Demise",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 3576,
+      "name": "Tin Bar",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 2771,
+      "name": "Tin Ore",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 253250,
+      "name": "Tirisfal Hollow Campfire",
+      "source": "https://www.wowhead.com/item=253250"
+    },
+    {
+      "id": 1080,
+      "name": "Tough Condor Meat",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 231899,
+      "name": "Trash",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 63128,
+      "name": "Troll Tablet",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 6037,
+      "name": "Truesilver Bar",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 7911,
+      "name": "Truesilver Ore",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 3712,
+      "name": "Turtle Meat",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 8167,
+      "name": "Turtle Scale",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 81201,
+      "name": "Turtle Shell",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 890,
+      "name": "Twisted Chanter's Staff",
+      "source": "https://www.wowhead.com/item=890"
+    },
+    {
+      "id": 52327,
+      "name": "Volatile Earth",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 52325,
+      "name": "Volatile Fire",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 52329,
+      "name": "Volatile Life",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 52326,
+      "name": "Volatile Water",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 15419,
+      "name": "Warbear Leather",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 13052,
+      "name": "Warmonger",
+      "source": "https://www.wowhead.com/item=13052"
+    },
+    {
+      "id": 3355,
+      "name": "Wild Steelbloom",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 8153,
+      "name": "Wildvine",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 13755,
+      "name": "Winter Squid",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 3530,
+      "name": "Wool Bandage",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 2592,
+      "name": "Wool Cloth",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    }
+  ]
+}

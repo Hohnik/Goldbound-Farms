@@ -1,0 +1,446 @@
+{
+  "source_id": 31,
+  "source_file": "031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.vtt",
+  "cleaned_file": "goldbound/031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.txt",
+  "full_text_reviewed": true,
+  "paragraph_count": 18,
+  "records": [
+    {
+      "id": "E031-01",
+      "name": "Tiny Crimson Whelpling success retest",
+      "kind": "farm",
+      "status": "successful",
+      "zone": "Wetlands",
+      "summary": "Petat~7000 zonekillsincluding 5000 conflicthyperspawn, listednotyetsold.",
+      "metrics": {
+        "zone_kills_approx": 7000,
+        "hyperspawn_kills_approx": 5000,
+        "Tiny Crimson Whelpling": 1
+      },
+      "source": {
+        "file": "031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.vtt",
+        "cleaned_file": "goldbound/031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.txt",
+        "paragraph_start": 1,
+        "paragraph_end": 1,
+        "start_time": "00:00:00.000",
+        "quote": "Greetings travelers, and welcome back to Goldbound, the challenge series where a rogue Goldilocked is exploring the world of Warcraft by unlocking one zone at a time. And recently, that zone was the Wetlands, which means we've a very solid chunk of Eastern Kingdoms unlocked, but a whole lot of gold left to farm. Because the current cash stack after last week's mailbox is just sitting over 150k with a WoW token hovering between 250 and 270,000 gold recently. So, the question today, can we harvest over 100,000 gold from the Wetlands this week and purchase another WoW token to roll a new zone? Well, let's find out. And travelers, welcome back to the Wetlands. And if you recall, last week in the Wetlands we got quite a few good drops, some world BOE blues, and the Ebon Whelp. But, there was one whelp that we didn't loot up. The zone drop Crimson Whelp. So, I've been spending a good chunk of my spare time at the intersection trying to hyper spawn these mobs to increase my chances at loot. And travelers, oh, we got the whelp in the bags. And this whelp came at about 7,000 zone wide kills with about 5,000 of those kills being on the hyper spawn mobs. So, not super lucky, but also not unlucky on the drop. And onto the auction house it goes. And with our major drops targeted here in the Wetlands, there is one thing that we haven't really done much of yet. Dual gathering. But before we get into all that, let me tell you about the sponsor of today's video, Plarium. Because they are bringing in some new legendary champions, Plagues of He-Man and Skeletor. These two champions will be available starting May 19th. Looking at He-Man, he is definitely true to his character and kind of operates like a classic WoW paladin, to be honest, buffing his attacks for the main purpose of destroying evil. And talking about evil, let's take a look at Skeletor.",
+        "canonical_file": "goldbound/031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.txt",
+        "original_file": "goldbound/original-vtt/031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E031-02",
+      "name": "Wetlands dual-gather rare route",
+      "kind": "farm",
+      "status": "measured",
+      "zone": "Wetlands",
+      "summary": "Copper/Tin/Iron/Silverplus Liferoot, Kingsblood, Steelbloom, Bruiseweed, Kelp, Grave Moss;3400 g/hraw, countsunspoken, avoidsbordersandchecksrares/chests.",
+      "metrics": {
+        "reported_gold_per_hour": 3400
+      },
+      "source": {
+        "file": "031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.vtt",
+        "cleaned_file": "goldbound/031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.txt",
+        "paragraph_start": 3,
+        "paragraph_end": 6,
+        "start_time": "00:03:16.239",
+        "quote": "When it comes to mining out here, we have a lot of the similar nodes as a Northern Stranglethorn and Duskwood. So small amounts of iron ore mixed with a good chunk of copper and tin with some rare spawns for silver ore. Since the market value on these is always changing though, here's the current lay of the land. Copper is down below three gold each generally and tin is between 1.2 and 2.2 gold. So pretty low historically. Iron is hovering around five to six gold each though, a decent market value for sure. While silver ore is definitely the most valuable around 20 to 30 gold each. Of course, silver is a rare one around here. So nothing too crazy. For herbalism though, we have some more wildcards because we have the standard drops of life root, king's blood, steel bloom, and bruiseweed. Some pretty solid mid-level values of 5 to 7 gold each on these herbs. Plus, in the water and coastal areas, there are stranglekelp spawns, about 8 gold each.",
+        "canonical_file": "goldbound/031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.txt",
+        "original_file": "goldbound/original-vtt/031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E031-03",
+      "name": "Leech Widow Black Widow Band rare",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Wetlands",
+      "summary": "Westentrancechecks 40 kband, noconfirmeddrop.",
+      "metrics": {
+        "quoted_market_gold": 40000
+      },
+      "source": {
+        "file": "031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.vtt",
+        "cleaned_file": "goldbound/031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.txt",
+        "paragraph_start": 5,
+        "paragraph_end": 5,
+        "start_time": "00:04:52.640",
+        "quote": "But, while heading around, I am also making sure to pop into the Razorfen Kraul cave for the rare and the battle pet. But, I'm also making sure to pop my head in and check in a few other rares in the zone. In particular, leech widow, a spider rare just off the west of the entrance path into Wetlands with some pretty good drops of the black widow band and a 40,000 gold market value. The other rares around are definitely also worth tagging for regular transmog if we see them. Like in the crypt around of the grave moss, Sludgekin can drop some mid-tier transmog, like the buccaneer's chest. So, during these laps, whenever I see them, I'm making sure to tag up these rares and log those kills. With all those kills logged, the real question is, how much gold per hour can we reasonably expect here? From the looks of things, there is quite a wide variety of herbs and ores spreading out into quite a few different stocks. And without producing it further, just the raw trade good value, we're at 3.4 thousand gold per hour. So, not bad at all. Definitely better than the archaeology site, and we can swap between the leather farm and this farm for some consistent trade good gold per hour. Plus, with our two best trade good farms right now, both of them can also get lucky and give us some transmog, whether it's from the rares or the zone drop welps. And to mention rare items, while farming the dual gathering one, we're also rolling the dice on the zone drop chests. And during our testing, we got a few. The pulls have been all over the place, but I actually managed to grab the black velvet robes, a very cool appearance, and likewise, a very cool market value, ranging anywhere from 50k to 125k.",
+        "canonical_file": "goldbound/031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.txt",
+        "original_file": "goldbound/original-vtt/031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E031-04",
+      "name": "Sludginn crypt rare",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Wetlands",
+      "summary": "Checks Grave Mosscavefor Buccaneer Chest/midgear; noisolatedoutcome.",
+      "metrics": {},
+      "source": {
+        "file": "031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.vtt",
+        "cleaned_file": "goldbound/031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.txt",
+        "paragraph_start": 5,
+        "paragraph_end": 5,
+        "start_time": "00:04:52.640",
+        "quote": "But, while heading around, I am also making sure to pop into the Razorfen Kraul cave for the rare and the battle pet. But, I'm also making sure to pop my head in and check in a few other rares in the zone. In particular, leech widow, a spider rare just off the west of the entrance path into Wetlands with some pretty good drops of the black widow band and a 40,000 gold market value. The other rares around are definitely also worth tagging for regular transmog if we see them. Like in the crypt around of the grave moss, Sludgekin can drop some mid-tier transmog, like the buccaneer's chest. So, during these laps, whenever I see them, I'm making sure to tag up these rares and log those kills. With all those kills logged, the real question is, how much gold per hour can we reasonably expect here? From the looks of things, there is quite a wide variety of herbs and ores spreading out into quite a few different stocks. And without producing it further, just the raw trade good value, we're at 3.4 thousand gold per hour. So, not bad at all. Definitely better than the archaeology site, and we can swap between the leather farm and this farm for some consistent trade good gold per hour. Plus, with our two best trade good farms right now, both of them can also get lucky and give us some transmog, whether it's from the rares or the zone drop welps. And to mention rare items, while farming the dual gathering one, we're also rolling the dice on the zone drop chests. And during our testing, we got a few. The pulls have been all over the place, but I actually managed to grab the black velvet robes, a very cool appearance, and likewise, a very cool market value, ranging anywhere from 50k to 125k.",
+        "canonical_file": "goldbound/031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.txt",
+        "original_file": "goldbound/original-vtt/031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E031-05",
+      "name": "Razormaw cave repeated hatchling checks",
+      "kind": "farm",
+      "status": "successful",
+      "zone": "Wetlands",
+      "summary": "Repeatedcavevisit, afewhatchlingsalreadyobtained; caption Razorfen Kraulwronglocation, nameflagnotnewdungeon.",
+      "metrics": {},
+      "source": {
+        "file": "031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.vtt",
+        "cleaned_file": "goldbound/031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.txt",
+        "paragraph_start": 5,
+        "paragraph_end": 9,
+        "start_time": "00:04:52.640",
+        "quote": "But, while heading around, I am also making sure to pop into the Razorfen Kraul cave for the rare and the battle pet. But, I'm also making sure to pop my head in and check in a few other rares in the zone. In particular, leech widow, a spider rare just off the west of the entrance path into Wetlands with some pretty good drops of the black widow band and a 40,000 gold market value. The other rares around are definitely also worth tagging for regular transmog if we see them. Like in the crypt around of the grave moss, Sludgekin can drop some mid-tier transmog, like the buccaneer's chest. So, during these laps, whenever I see them, I'm making sure to tag up these rares and log those kills. With all those kills logged, the real question is, how much gold per hour can we reasonably expect here? From the looks of things, there is quite a wide variety of herbs and ores spreading out into quite a few different stocks. And without producing it further, just the raw trade good value, we're at 3.4 thousand gold per hour. So, not bad at all. Definitely better than the archaeology site, and we can swap between the leather farm and this farm for some consistent trade good gold per hour. Plus, with our two best trade good farms right now, both of them can also get lucky and give us some transmog, whether it's from the rares or the zone drop welps. And to mention rare items, while farming the dual gathering one, we're also rolling the dice on the zone drop chests. And during our testing, we got a few. The pulls have been all over the place, but I actually managed to grab the black velvet robes, a very cool appearance, and likewise, a very cool market value, ranging anywhere from 50k to 125k.",
+        "canonical_file": "goldbound/031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.txt",
+        "original_file": "goldbound/original-vtt/031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E031-06",
+      "name": "Wetlands treasure chest blue batch",
+      "kind": "farm",
+      "status": "successful",
+      "zone": "Wetlands",
+      "summary": "Black Velvet Robes 50–125 kmarket/2300 sale,2 Guardian Blades 10 kmarket; tracktreasureroute, nocashyet.",
+      "metrics": {
+        "Black Velvet Robes": 1,
+        "Guardian Blade": 2
+      },
+      "source": {
+        "file": "031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.vtt",
+        "cleaned_file": "goldbound/031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.txt",
+        "paragraph_start": 5,
+        "paragraph_end": 6,
+        "start_time": "00:04:52.640",
+        "quote": "But, while heading around, I am also making sure to pop into the Razorfen Kraul cave for the rare and the battle pet. But, I'm also making sure to pop my head in and check in a few other rares in the zone. In particular, leech widow, a spider rare just off the west of the entrance path into Wetlands with some pretty good drops of the black widow band and a 40,000 gold market value. The other rares around are definitely also worth tagging for regular transmog if we see them. Like in the crypt around of the grave moss, Sludgekin can drop some mid-tier transmog, like the buccaneer's chest. So, during these laps, whenever I see them, I'm making sure to tag up these rares and log those kills. With all those kills logged, the real question is, how much gold per hour can we reasonably expect here? From the looks of things, there is quite a wide variety of herbs and ores spreading out into quite a few different stocks. And without producing it further, just the raw trade good value, we're at 3.4 thousand gold per hour. So, not bad at all. Definitely better than the archaeology site, and we can swap between the leather farm and this farm for some consistent trade good gold per hour. Plus, with our two best trade good farms right now, both of them can also get lucky and give us some transmog, whether it's from the rares or the zone drop welps. And to mention rare items, while farming the dual gathering one, we're also rolling the dice on the zone drop chests. And during our testing, we got a few. The pulls have been all over the place, but I actually managed to grab the black velvet robes, a very cool appearance, and likewise, a very cool market value, ranging anywhere from 50k to 125k.",
+        "canonical_file": "goldbound/031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.txt",
+        "original_file": "goldbound/original-vtt/031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E031-07",
+      "name": "Bluegill Forager Breeches target",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Wetlands",
+      "summary": "Mixedmurlocforcedspawntarget 200–300 kmarket 10 kplussale, noneobtained. Caption 4.04%for 13/31000 incorrect; derived 0.04194%.",
+      "metrics": {
+        "cited_drops": 13,
+        "cited_kills": 31000,
+        "calculated_drop_pct": 0.04194,
+        "Breeches": 0
+      },
+      "source": {
+        "file": "031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.vtt",
+        "cleaned_file": "goldbound/031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.txt",
+        "paragraph_start": 7,
+        "paragraph_end": 9,
+        "start_time": "00:07:05.320",
+        "quote": "The bluegill murloc, bluegill forager, bluegill oracle, and bluegill puddle jumper. Of course, this is Wetlands, so they can all drop the crimson whelp. Looking a little closer at the foragers though, they have another drop. The bluegill breeches. Listed at 13 out of 31,000 kills on Wowhead, 4.04%. So, it's pretty rare, but for good reason. Yeah. The market value is somewhere in the 200 to 300,000 gold region, with sales north of 10k on average. So, no matter how you cut this one, it would be a really good piece to get. I did also notice that around these murlocs, there's a bunch of strong boxes on the map, which is pretty much making our outlaw rogue track treasure go haywire. Unfortunately, these don't really have any drops at all because on their tables, it's pretty much just a few copper here and there. A bit of an old world relic of a rogue pickpocketing farm. So, while we're farming these murlocs, I won't stop to pick these because it is a little inefficient, but after some testing, if we were to farm just these lock boxes, it comes out to 29.2 silver per hour. Yikes. Aside from the foragers though, the rest of the murlocs do have a few more items to farm like the bluegill murlocs here, which have the kukri in particular. A market value around 20k and region sale averages a bit lower in the 300 gold range, but a decent item nonetheless to add to the transmog character.",
+        "canonical_file": "goldbound/031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.txt",
+        "original_file": "goldbound/original-vtt/031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E031-08",
+      "name": "Coastal Strongbox lockpicking trial",
+      "kind": "experiment",
+      "status": "failed",
+      "zone": "Wetlands",
+      "summary": "Testsboxesonlycopper;29.2 silver/hour=0.292 g/h, skipduringmobfarm.",
+      "metrics": {
+        "reported_gold_per_hour": 0.292
+      },
+      "source": {
+        "file": "031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.vtt",
+        "cleaned_file": "goldbound/031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.txt",
+        "paragraph_start": 7,
+        "paragraph_end": 7,
+        "start_time": "00:07:05.320",
+        "quote": "The bluegill murloc, bluegill forager, bluegill oracle, and bluegill puddle jumper. Of course, this is Wetlands, so they can all drop the crimson whelp. Looking a little closer at the foragers though, they have another drop. The bluegill breeches. Listed at 13 out of 31,000 kills on Wowhead, 4.04%. So, it's pretty rare, but for good reason. Yeah. The market value is somewhere in the 200 to 300,000 gold region, with sales north of 10k on average. So, no matter how you cut this one, it would be a really good piece to get. I did also notice that around these murlocs, there's a bunch of strong boxes on the map, which is pretty much making our outlaw rogue track treasure go haywire. Unfortunately, these don't really have any drops at all because on their tables, it's pretty much just a few copper here and there. A bit of an old world relic of a rogue pickpocketing farm. So, while we're farming these murlocs, I won't stop to pick these because it is a little inefficient, but after some testing, if we were to farm just these lock boxes, it comes out to 29.2 silver per hour. Yikes. Aside from the foragers though, the rest of the murlocs do have a few more items to farm like the bluegill murlocs here, which have the kukri in particular. A market value around 20k and region sale averages a bit lower in the 300 gold range, but a decent item nonetheless to add to the transmog character.",
+        "canonical_file": "goldbound/031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.txt",
+        "original_file": "goldbound/original-vtt/031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E031-09",
+      "name": "Bluegill Kukri and Sandal farming",
+      "kind": "farm",
+      "status": "successful",
+      "zone": "Wetlands",
+      "summary": "Several Kukrisandsandalsobtained; Kukri 20 kmarket 300 sale, boots 33 kmarket 30 sale. Separatehardcorefirstkillsandalnotretailresult.",
+      "metrics": {},
+      "source": {
+        "file": "031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.vtt",
+        "cleaned_file": "goldbound/031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.txt",
+        "paragraph_start": 7,
+        "paragraph_end": 9,
+        "start_time": "00:07:05.320",
+        "quote": "The bluegill murloc, bluegill forager, bluegill oracle, and bluegill puddle jumper. Of course, this is Wetlands, so they can all drop the crimson whelp. Looking a little closer at the foragers though, they have another drop. The bluegill breeches. Listed at 13 out of 31,000 kills on Wowhead, 4.04%. So, it's pretty rare, but for good reason. Yeah. The market value is somewhere in the 200 to 300,000 gold region, with sales north of 10k on average. So, no matter how you cut this one, it would be a really good piece to get. I did also notice that around these murlocs, there's a bunch of strong boxes on the map, which is pretty much making our outlaw rogue track treasure go haywire. Unfortunately, these don't really have any drops at all because on their tables, it's pretty much just a few copper here and there. A bit of an old world relic of a rogue pickpocketing farm. So, while we're farming these murlocs, I won't stop to pick these because it is a little inefficient, but after some testing, if we were to farm just these lock boxes, it comes out to 29.2 silver per hour. Yikes. Aside from the foragers though, the rest of the murlocs do have a few more items to farm like the bluegill murlocs here, which have the kukri in particular. A market value around 20k and region sale averages a bit lower in the 300 gold range, but a decent item nonetheless to add to the transmog character.",
+        "canonical_file": "goldbound/031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.txt",
+        "original_file": "goldbound/original-vtt/031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E031-10",
+      "name": "Black Ooze Oozing Bag trial",
+      "kind": "experiment",
+      "status": "failed",
+      "zone": "Wetlands",
+      "summary": "Crypt~15 nonhyperspawnmobs,0.8%bag×1.4%pet; fewhundredcombinedkillsnobag, maxlevelgateinferrednotproven.",
+      "metrics": {
+        "cited_bag_pct": 0.8,
+        "cited_pet_in_bag_pct": 1.4,
+        "target_bags": 0
+      },
+      "source": {
+        "file": "031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.vtt",
+        "cleaned_file": "goldbound/031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.txt",
+        "paragraph_start": 9,
+        "paragraph_end": 11,
+        "start_time": "00:09:14.120",
+        "quote": "Classic being classic, but back in retail on Goldie, after farming these guys for a while, so far I've logged a few of the one-handed swords, the kukris, and I actually got some of the sandals as well, but none of the foragers leggings yet. And a little harder to track down, but we can keep on trying. But, there might just be another rare farm here in Wetlands. And actually, another rare battle pet farm. We already have the Dark Whelp, the Crimson Whelpling, and a few Razor Maw Hatchlings so far, but maybe we can add one more battle pet. Maybe. You see, around the crypt where we were farming grave moss are these black oozes, which got me thinking and checking their loot tables. And according to Wowhead, they can actually drop the oozing bag at a 0.8% drop rate. And if it sounds familiar, it's because it is. This is the same bag we tried to get back in Swamp of Sorrows, only to be thwarted by some kind of level scaling. Back there, it seemed that only players below a certain level could actually get this drop. And the reason we want the drop?",
+        "canonical_file": "goldbound/031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.txt",
+        "original_file": "goldbound/original-vtt/031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E031-11",
+      "name": "Smoldering Ooze Oozing Bag trial",
+      "kind": "experiment",
+      "status": "failed",
+      "zone": "Wetlands",
+      "summary": "Eastfireelementalareaseparatecampmixedwithrare/foragerfiller; combinedfewhundredkillsnobag, neithercampindependentcountergiven.",
+      "metrics": {},
+      "source": {
+        "file": "031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.vtt",
+        "cleaned_file": "goldbound/031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.txt",
+        "paragraph_start": 10,
+        "paragraph_end": 11,
+        "start_time": "00:10:19.120",
+        "quote": "Well, inside the bag is a 1.4% chance to drop the Disgusting Oozeling sitting at a fancy 96,000 gold market value. So, there's definitely some value there. The problem? Even if these black oozes do drop the bags at a 0.8% chance, when combined with a 1.4% drop rate for the bag itself for the pet, that's getting close to the one in 10,000 of the Crimson Whelp. Except, well, these guys don't hyper spawn. And there are only about 15 around and inside the crypt. And after we kill all of those, we just have to wait. Not very min-max. However, over on the east side of the zone, surrounded by a rampant fire elementals, are Smoldering Oozes. I guess these are just the black oozes whose tar base has caught fire. Either way, they have the same listed drop rate for the bag and a few more spawn locations. Although, they aren't actually on a hyper spawn, either. I do really want to see if the oozing bag will drop here, though. So, between clearing out these two spots, I will do some rare spots or kill a few murloc foragers to test and see if we can get it to drop.",
+        "canonical_file": "goldbound/031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.txt",
+        "original_file": "goldbound/original-vtt/031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E031-12",
+      "name": "Rampant Fire Elemental loot comparison",
+      "kind": "experiment",
+      "status": "performed",
+      "zone": "Wetlands",
+      "summary": "Hearts Firelowvaluecitedversuswateressence; notimedseparateteststated.",
+      "metrics": {},
+      "source": {
+        "file": "031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.vtt",
+        "cleaned_file": "goldbound/031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.txt",
+        "paragraph_start": 10,
+        "paragraph_end": 12,
+        "start_time": "00:10:19.120",
+        "quote": "Well, inside the bag is a 1.4% chance to drop the Disgusting Oozeling sitting at a fancy 96,000 gold market value. So, there's definitely some value there. The problem? Even if these black oozes do drop the bags at a 0.8% chance, when combined with a 1.4% drop rate for the bag itself for the pet, that's getting close to the one in 10,000 of the Crimson Whelp. Except, well, these guys don't hyper spawn. And there are only about 15 around and inside the crypt. And after we kill all of those, we just have to wait. Not very min-max. However, over on the east side of the zone, surrounded by a rampant fire elementals, are Smoldering Oozes. I guess these are just the black oozes whose tar base has caught fire. Either way, they have the same listed drop rate for the bag and a few more spawn locations. Although, they aren't actually on a hyper spawn, either. I do really want to see if the oozing bag will drop here, though. So, between clearing out these two spots, I will do some rare spots or kill a few murloc foragers to test and see if we can get it to drop.",
+        "canonical_file": "goldbound/031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.txt",
+        "original_file": "goldbound/original-vtt/031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E031-13",
+      "name": "Flood Elemental Essence of Water loop",
+      "kind": "farm",
+      "status": "measured",
+      "zone": "Wetlands",
+      "summary": "Wholelakeforcedspawnbutscattered;700 g/htradegoods,0.4%Essencecited; nojacketzonejackpot.",
+      "metrics": {
+        "reported_gold_per_hour": 700,
+        "cited_essence_pct": 0.4
+      },
+      "source": {
+        "file": "031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.vtt",
+        "cleaned_file": "goldbound/031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.txt",
+        "paragraph_start": 11,
+        "paragraph_end": 14,
+        "start_time": "00:11:25.920",
+        "quote": "And the results? Well, after a few hundred kills, no bag. Of course, we can't with 100% certainty that it doesn't drop. We could have just gotten unlucky. I mean, we've seen how Knightslayer chest has gone. But, for my purposes, I will consider this level gated just like the Swamp of Sorrows farm, which, by the way, if you want to farm this pet, definitely do it in Swamp of Sorrows because the oozing bag has almost a 20 times higher drop rate there. But, onto the next because there aren't just fire elementals here. Oh, no. There's also water elementals. Specifically, flood elementals. This area by the Loch Modan dam, post-Cataclysm, is quite interesting. For one thing, we do have flood elementals now. I'm assuming from the flooded Loch Modan waters when the dam was broken. And for another, we have displaced Loch Modan monsters in the lakes here.",
+        "canonical_file": "goldbound/031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.txt",
+        "original_file": "goldbound/original-vtt/031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E031-14",
+      "name": "Conflict skinning post-pet continuation",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Wetlands",
+      "summary": "Morehours 4000 g/hbaseline, no 2 nd Crimson; notnewquantifiedbasket.",
+      "metrics": {},
+      "source": {
+        "file": "031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.vtt",
+        "cleaned_file": "goldbound/031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.txt",
+        "paragraph_start": 14,
+        "paragraph_end": 14,
+        "start_time": "00:13:53.000",
+        "quote": "Aside from lock picking those chests by the warlocks, one of our lowest gold per hour farms in the zone so far. So, I'll just keep this one in mind with our other Essence of Water farms if we ever need it for a transmog craft, but I'll spend most of my farm time, at least for trade goods, either dual gathering or skinning at the hyper spawn location. Those ones have some very consistent and reliable value that can really move the needle. And I have been logging some more hours on this farm post whelp drop, but so far, no second whelp. Oh, well. At the very least, we're getting about 4,000 gold per hour from fast selling trade goods and raw gold. But a few things in the zone of note that don't have drop rates to worry are, well, from vendors.",
+        "canonical_file": "goldbound/031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.txt",
+        "original_file": "goldbound/original-vtt/031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.vtt"
+      },
+      "additional_values": [
+        {
+          "value": 4000,
+          "label": "Prior baseline",
+          "basis": "The narration repeats the earlier conflict-skinning baseline while continuing the same farm; no new independent basket.",
+          "unit": "g/h",
+          "kind": "recorded",
+          "source_refs": [
+            {
+              "episode": 31,
+              "paragraph_start": 14,
+              "paragraph_end": 14,
+              "start_time": "00:13:53.000"
+            }
+          ],
+          "approx": true
+        }
+      ],
+      "related_records": [
+        {
+          "id": "E030-08",
+          "role": "comparison",
+          "label": "Earlier conflict-skinning test",
+          "include_earnings": false
+        }
+      ]
+    },
+    {
+      "id": "E031-15",
+      "name": "Night Elf weaponsmith vendor resale",
+      "kind": "experiment",
+      "status": "performed",
+      "zone": "Wetlands",
+      "summary": "Unlimitedwhiteweaponsstockedhundreds/thousandsgold; vendornameunstated, nosaleconfirmed.",
+      "metrics": {},
+      "source": {
+        "file": "031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.vtt",
+        "cleaned_file": "goldbound/031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.txt",
+        "paragraph_start": 15,
+        "paragraph_end": 15,
+        "start_time": "00:14:35.360",
+        "quote": "And there's a couple. So, from more of a low to a mid value, but good to build an auction house in the Night Elf area, we have a weaponsmith. She has a ton of weapons to choose from, all of which are common in rarity, but that means they're not limited supply. So, she always has them in stock, and they go from being worth a few hundred, and in a few cases, even worth a few thousand gold in the auction house. Not a bad little stock up. I mean, these will for sure take a while to sell, but good to have. Then back over to the west, we have some more specific limited supply vendors. Frad Swiftgear here sells an engineering recipe, one that's worth a few hundred gold.",
+        "canonical_file": "goldbound/031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.txt",
+        "original_file": "goldbound/original-vtt/031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E031-16",
+      "name": "Fradd Swiftgear engineering recipe resale",
+      "kind": "experiment",
+      "status": "performed",
+      "zone": "Wetlands",
+      "summary": "Limitedschematichundredsgold, namenotspoken.",
+      "metrics": {},
+      "source": {
+        "file": "031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.vtt",
+        "cleaned_file": "goldbound/031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.txt",
+        "paragraph_start": 15,
+        "paragraph_end": 15,
+        "start_time": "00:14:35.360",
+        "quote": "And there's a couple. So, from more of a low to a mid value, but good to build an auction house in the Night Elf area, we have a weaponsmith. She has a ton of weapons to choose from, all of which are common in rarity, but that means they're not limited supply. So, she always has them in stock, and they go from being worth a few hundred, and in a few cases, even worth a few thousand gold in the auction house. Not a bad little stock up. I mean, these will for sure take a while to sell, but good to have. Then back over to the west, we have some more specific limited supply vendors. Frad Swiftgear here sells an engineering recipe, one that's worth a few hundred gold.",
+        "canonical_file": "goldbound/031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.txt",
+        "original_file": "goldbound/original-vtt/031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E031-17",
+      "name": "Wenna Silkbeard gear and recipe stock",
+      "kind": "experiment",
+      "status": "performed",
+      "zone": "Wetlands",
+      "summary": "Limitedgear/recipeschecked, leatherpatterns sentalt; Green Leather Armor/Red Whelp Glovescraftsfeasibleusingcurrentstock, explicitcompletedcraftcountabsent.",
+      "metrics": {},
+      "source": {
+        "file": "031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.vtt",
+        "cleaned_file": "goldbound/031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.txt",
+        "paragraph_start": 16,
+        "paragraph_end": 16,
+        "start_time": "00:15:11.880",
+        "quote": "Nice. And inside the house, Wena Silkbeard has a few more limited supply items that we can comb through. There's a few gear pieces, but also recipes. So, it's definitely worth stopping by to stock up on these in between farm loops, or at least to check on the limited supply items. And for us, there's actually a few new rare leatherworking crafts, which I'm not actually going to sell, but instead send them over to my crafting alt. From a quick look at the materials required to craft, I think we actually have them all in stock. Medium leather is pretty easy to get here in the Wetlands, and we have a ton of dye vendors now with the zones we have unlocked, which is nice. We haven't come across a new crafting recipe for the alt in quite some time, let alone one that we kind of have all the materials for already. We did end up going leatherworking and blacksmithing on the alt for this exact kind of thing, so hopefully we can start turning more of a profit and put this crafting alt into the green with some red welp gloves or the green leather armor here. Aside from restocking the crafts that we can make, our alt golden path is sitting pretty idle in Dun Morogh still, and recently the Hallow's End decor crafts we can make have actually been moving pretty slow. So, I did update my operations to undercut uh a little more aggressively on those. And on that note, maybe we should go ahead and take a look and see how our auctions are doing. First things first, our cash stack with the raw gold looted this week is sitting at just over 154,000 gold, and the WoW token, well, it's at 258k right now. So, we need just north of 104k from this clear to get a new token.",
+        "canonical_file": "goldbound/031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.txt",
+        "original_file": "goldbound/original-vtt/031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E031-18",
+      "name": "Goldenpath decor undercut strategy",
+      "kind": "experiment",
+      "status": "performed",
+      "zone": "Wetlands",
+      "summary": "Slowdecorpricedmoreaggressively, Sconceslaterconfirmedsales; resupplyplanned.",
+      "metrics": {},
+      "source": {
+        "file": "031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.vtt",
+        "cleaned_file": "goldbound/031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.txt",
+        "paragraph_start": 16,
+        "paragraph_end": 17,
+        "start_time": "00:15:11.880",
+        "quote": "Nice. And inside the house, Wena Silkbeard has a few more limited supply items that we can comb through. There's a few gear pieces, but also recipes. So, it's definitely worth stopping by to stock up on these in between farm loops, or at least to check on the limited supply items. And for us, there's actually a few new rare leatherworking crafts, which I'm not actually going to sell, but instead send them over to my crafting alt. From a quick look at the materials required to craft, I think we actually have them all in stock. Medium leather is pretty easy to get here in the Wetlands, and we have a ton of dye vendors now with the zones we have unlocked, which is nice. We haven't come across a new crafting recipe for the alt in quite some time, let alone one that we kind of have all the materials for already. We did end up going leatherworking and blacksmithing on the alt for this exact kind of thing, so hopefully we can start turning more of a profit and put this crafting alt into the green with some red welp gloves or the green leather armor here. Aside from restocking the crafts that we can make, our alt golden path is sitting pretty idle in Dun Morogh still, and recently the Hallow's End decor crafts we can make have actually been moving pretty slow. So, I did update my operations to undercut uh a little more aggressively on those. And on that note, maybe we should go ahead and take a look and see how our auctions are doing. First things first, our cash stack with the raw gold looted this week is sitting at just over 154,000 gold, and the WoW token, well, it's at 258k right now. So, we need just north of 104k from this clear to get a new token.",
+        "canonical_file": "goldbound/031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.txt",
+        "original_file": "goldbound/original-vtt/031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E031-19",
+      "name": "Discarded Experiment battle-pet sale",
+      "kind": "sales",
+      "status": "sales_confirmed",
+      "zone": "Blackwing Descent",
+      "summary": "BWDpetobtainedearliernow sells amountunstated; provenancenarratoruncertain.",
+      "metrics": {},
+      "source": {
+        "file": "031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.vtt",
+        "cleaned_file": "goldbound/031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.txt",
+        "paragraph_start": 17,
+        "paragraph_end": 17,
+        "start_time": "00:16:47.400",
+        "quote": "Let's just see how the trade goods did. Well, a few sales, and we can see some leather for sure, plus some of the maps for my daily Zul'Gurub run that we unlocked back in STV. Still no raptor mount. The rest seems to be odds and ends from farming in Wetlands the past couple days. So, I'll get it all looted up. Just over 11,000 gold, which honestly is kind of underwhelming. I do think I still have a lot pending sales, so hopefully that comes through soon. The big movers here though could definitely be transmog. So, let's hop on to the first transmog alt, the guy who is selling the bulk of my transmog, the backlog from the previous 12 zones, but none of the new Wetlands transmog. And he seems to have done pretty well actually. The Shadowforge Sconces here sold pretty well, lots of aggressive undercuts, still a good value for them though. And it looks like I might need to resupply these ones soon and get the crafting alt back to work crafting. Plus the Discarded Experiment, the battle pet from I believe BWD, alongside a bunch of decently priced older zone items selling. A good week of transmog for sure. Is it enough though? I think we need about 90k.",
+        "canonical_file": "goldbound/031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.txt",
+        "original_file": "goldbound/original-vtt/031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E031-20",
+      "name": "Wetlands versus backlog cash follow-up",
+      "kind": "observation",
+      "status": "measured",
+      "zone": "Wetlands",
+      "summary": "11000 tradegoods 52000 backlog/<2000 Wetlandstransmog, no blues/whelpsales;220000 total 258 ktoken.",
+      "metrics": {
+        "tradegoods_cash_gold": 11000,
+        "backlog_cash_gold": 52000,
+        "Wetlands_transmog_cash_gold_upper_bound": 2000,
+        "cash_gold": 220000,
+        "token_gold": 258000
+      },
+      "source": {
+        "file": "031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.vtt",
+        "cleaned_file": "goldbound/031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.txt",
+        "paragraph_start": 17,
+        "paragraph_end": 18,
+        "start_time": "00:16:47.400",
+        "quote": "Let's just see how the trade goods did. Well, a few sales, and we can see some leather for sure, plus some of the maps for my daily Zul'Gurub run that we unlocked back in STV. Still no raptor mount. The rest seems to be odds and ends from farming in Wetlands the past couple days. So, I'll get it all looted up. Just over 11,000 gold, which honestly is kind of underwhelming. I do think I still have a lot pending sales, so hopefully that comes through soon. The big movers here though could definitely be transmog. So, let's hop on to the first transmog alt, the guy who is selling the bulk of my transmog, the backlog from the previous 12 zones, but none of the new Wetlands transmog. And he seems to have done pretty well actually. The Shadowforge Sconces here sold pretty well, lots of aggressive undercuts, still a good value for them though. And it looks like I might need to resupply these ones soon and get the crafting alt back to work crafting. Plus the Discarded Experiment, the battle pet from I believe BWD, alongside a bunch of decently priced older zone items selling. A good week of transmog for sure. Is it enough though? I think we need about 90k.",
+        "canonical_file": "goldbound/031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.txt",
+        "original_file": "goldbound/original-vtt/031 - I Tried Earning A WoW Token In WETLANDS... Whelp Me Luck？ Goldbound Ep. 30.en-orig.vtt"
+      }
+    }
+  ]
+}

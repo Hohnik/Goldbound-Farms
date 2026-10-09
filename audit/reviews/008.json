@@ -1,0 +1,438 @@
+{
+  "source_id": 8,
+  "source_file": "008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.vtt",
+  "cleaned_file": "goldbound/008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.txt",
+  "full_text_reviewed": true,
+  "paragraph_count": 20,
+  "records": [
+    {
+      "id": "E008-01",
+      "name": "Lake Everstill gnoll hour",
+      "kind": "farm",
+      "status": "measured",
+      "zone": "Redridge Mountains",
+      "summary": "Over 60 minutes yields 3 War Harnesses,2 Kindred Bracers and Bandit, Willow, Soldier, Canvas gear plus cloak/knife. Theoretical caption 63045 g digits ambiguous; not cash.",
+      "metrics": {
+        "minutes_lower_bound": 60,
+        "Gnoll War Harness": 3,
+        "Gnoll Kindred Bracers": 2,
+        "appraisal_gold_approx": 63045,
+        "digits_uncertain": true
+      },
+      "source": {
+        "file": "008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.vtt",
+        "cleaned_file": "goldbound/008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.txt",
+        "paragraph_start": 3,
+        "paragraph_end": 9,
+        "start_time": "00:01:55.680",
+        "quote": "And again, it's all free. So, let's go ahead and target a few of the more profitable NPCs in Red Ridge, the ones we haven't really dove into yet. Ones tucked away in the corners, but carrying some classic loot on their tables. I'm talking about the Red Ridge Nles. There's a few variants scattered around the zone, most of which are located around the three corners. But for farming efficiency, we're going to be focusing on the packs around Lake Eversttoill. Not only do they have high density, but they also contain two rare spawns. More on those in a minute, but let's start with the Red Ridge Mongrels. These guys have a massive loot table, over 350 items, and most of these are assorted greens, some of which are transmog targets. Now, a lot of these do share appearances with other items and aren't worth a crazy amount of gold, but there is one drop that stands out. The null war harness is a unique transmog, part of the classic null set, and it only drops from these guys. And the drop chance is 0.13%.",
+        "canonical_file": "goldbound/008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.txt",
+        "original_file": "goldbound/original-vtt/008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.vtt"
+      },
+      "related_records": [
+        {
+          "id": "E008-02",
+          "role": "component",
+          "label": "War Harness drops",
+          "include_earnings": true
+        },
+        {
+          "id": "E008-03",
+          "role": "component",
+          "label": "Kindred Bracer drops",
+          "include_earnings": true
+        }
+      ]
+    },
+    {
+      "id": "E008-02",
+      "name": "Mongrel War Harness targeting",
+      "kind": "farm",
+      "status": "successful",
+      "zone": "Redridge Mountains",
+      "summary": "3 drops;0.13%cited,4800 g market.",
+      "metrics": {
+        "drops": 3,
+        "cited_drop_pct": 0.13,
+        "quoted_market_gold": 4800
+      },
+      "source": {
+        "file": "008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.vtt",
+        "cleaned_file": "goldbound/008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.txt",
+        "paragraph_start": 3,
+        "paragraph_end": 7,
+        "start_time": "00:01:55.680",
+        "quote": "And again, it's all free. So, let's go ahead and target a few of the more profitable NPCs in Red Ridge, the ones we haven't really dove into yet. Ones tucked away in the corners, but carrying some classic loot on their tables. I'm talking about the Red Ridge Nles. There's a few variants scattered around the zone, most of which are located around the three corners. But for farming efficiency, we're going to be focusing on the packs around Lake Eversttoill. Not only do they have high density, but they also contain two rare spawns. More on those in a minute, but let's start with the Red Ridge Mongrels. These guys have a massive loot table, over 350 items, and most of these are assorted greens, some of which are transmog targets. Now, a lot of these do share appearances with other items and aren't worth a crazy amount of gold, but there is one drop that stands out. The null war harness is a unique transmog, part of the classic null set, and it only drops from these guys. And the drop chance is 0.13%.",
+        "canonical_file": "goldbound/008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.txt",
+        "original_file": "goldbound/original-vtt/008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E008-03",
+      "name": "Thrasher Kindred Bracer targeting",
+      "kind": "farm",
+      "status": "successful",
+      "zone": "Redridge Mountains",
+      "summary": "2 drops;0.06%cited,13000 g market. Leather-class restriction disputed as possibly group-roll restriction.",
+      "metrics": {
+        "drops": 2,
+        "cited_drop_pct": 0.06,
+        "quoted_market_gold": 13000
+      },
+      "source": {
+        "file": "008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.vtt",
+        "cleaned_file": "goldbound/008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.txt",
+        "paragraph_start": 4,
+        "paragraph_end": 7,
+        "start_time": "00:02:50.000",
+        "quote": "According to Wowhead, and price-wise, it's holding strong. TSM puts the market value at around 4.8,000 gold with the 6-month average floating between 3 and 5,000 gold. A good chunk of change. And the appearance is actually pretty interesting. So if we do manage to pull one or two, we might throw the extra one on Goldilock just for good luck and a little bit of a new appearance on them. And next up, the Red Ridge Thrashers. They share the same spawn locations and also have a similar loot table with over 340 items on it. Lots of random greens which value between 40 and 500 gold. But the real prize is the Null Kindred Bracers, also part of the Null set. Wowhead is saying it's a 0.06% 06% drop chance. But that's a little misleading.",
+        "canonical_file": "goldbound/008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.txt",
+        "original_file": "goldbound/original-vtt/008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E008-04",
+      "name": "Brute Gnoll Punisher targeting",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Redridge Mountains",
+      "summary": "Included in mixed farm; possible spec restriction unverified; none obtained here.",
+      "metrics": {
+        "cited_drop_pct": 0.05
+      },
+      "source": {
+        "file": "008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.vtt",
+        "cleaned_file": "goldbound/008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.txt",
+        "paragraph_start": 5,
+        "paragraph_end": 6,
+        "start_time": "00:03:34.080",
+        "quote": "You see, the bracers drop are actually restricted to leatherwearing classes only. So, a lot of kill data on Wowhead is actually from classes that can't loot them, which artificially drops the list drop rate. Fortunately for us, rogues can loot them. So, can druids, monks, and demon hunters. Now, it's worth noting that this nugget comes straight from the Wowhead notes, but it might not tell the whole story. It's possible the drop rate is low and what the tool tip here is really getting at is the group loot restrictions. In other words, this might be saying that only these specs can roll on this item in a group setting. So, if you're not a leather wearer, I wouldn't write this off just yet. Now, their appearance isn't necessarily flashy, but they're rare and they are part of the null set and they do command a market value of around 13,000 gold at the moment. And the historical range for these ones is between 11 and 19,000 gold. definitely worth targeting and keeping up on the auction house. And the last null variant in these packs that we're looking at is the Red Ridge Brute. These guys again share a large loot table of random greens which we would be happy to check out once we get them. But a single targeted item would be the null punisher. This is another null unique thing and a unique transmog. It's a one-handed mace and it has the lowest listed drop rate of the three at 0.05%.",
+        "canonical_file": "goldbound/008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.txt",
+        "original_file": "goldbound/original-vtt/008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E008-05",
+      "name": "Ribchaser rare camp",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Redridge Mountains",
+      "summary": "Targets Bards Tunic and sub 500 g greens during gnoll circuit; outcome not isolated.",
+      "metrics": {},
+      "source": {
+        "file": "008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.vtt",
+        "cleaned_file": "goldbound/008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.txt",
+        "paragraph_start": 6,
+        "paragraph_end": 6,
+        "start_time": "00:04:51.840",
+        "quote": "But again, this is only lootable by one-handed melee specs, not just the class. So, it can only be picked up by prop paladins, fury warriors, prop warriors, and frost death knights. So, unfortunately, it's looking like this one is off limits for Goldie, but we've seen some weird stuff happen on loot tables with Biohead reporting on older data. So, we'll keep an eye open on the drop tables for if we get this one, just in case. And we'll be farming all three of these with a simple autotarget macro paired with pistol shot. Going back to our classic boar farming. This just helps us tag everything quickly while patrolling the spawn points. Now, circling back to the area we're actually going to farm right outside of Lake Eversttoill. And this is because on top of the NLES, the packs here include two rare spawn NLES, Ribchaser and Snarflare. Now, Ribchaser didn't make it into last episode's roundup for the most profitable rares, but he still has a decent loot table. There's nothing gamebreaking, but some solid greens like the bard's tunic, which do move well as transmog. Most of his items might move a bit quicker, but are below 500 gold. And Snarflare spawns just east and drops some solid filler. We're talking things like the green weave gloves, the bard set, and the bandit set along with the raider set. Most of these sell pretty frequently, but are worth 400 to 500 gold a piece. So this spot in particular gives us access to all three targeted nles plus these two rare spawns. And with high mob density, it's ideal for more extended farm sessions to round out the transmog list. We'll be working with this location throughout the week and as we're still here in Redidge. But let's kick things off with a 1-hour farm session. See what kind of drops we can land and whether these nles are ready to cough up some gold.",
+        "canonical_file": "goldbound/008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.txt",
+        "original_file": "goldbound/original-vtt/008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.vtt"
+      },
+      "valued_drops": [
+        {
+          "item": "Ribchaser’s assorted greens",
+          "obtained": null,
+          "source_refs": [
+            {
+              "episode": 8,
+              "paragraph_start": 6,
+              "paragraph_end": 6,
+              "start_time": "00:04:51.840"
+            }
+          ],
+          "note": "The quoted drops are mostly below 500g; no isolated obtained-item result.",
+          "quote_text": "Mostly below 500g"
+        }
+      ]
+    },
+    {
+      "id": "E008-06",
+      "name": "Snarlflare rare camp",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Redridge Mountains",
+      "summary": "Targets Greenweave/Bard/Bandit/Raider gear during circuit; outcome not isolated.",
+      "metrics": {},
+      "source": {
+        "file": "008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.vtt",
+        "cleaned_file": "goldbound/008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.txt",
+        "paragraph_start": 6,
+        "paragraph_end": 6,
+        "start_time": "00:04:51.840",
+        "quote": "But again, this is only lootable by one-handed melee specs, not just the class. So, it can only be picked up by prop paladins, fury warriors, prop warriors, and frost death knights. So, unfortunately, it's looking like this one is off limits for Goldie, but we've seen some weird stuff happen on loot tables with Biohead reporting on older data. So, we'll keep an eye open on the drop tables for if we get this one, just in case. And we'll be farming all three of these with a simple autotarget macro paired with pistol shot. Going back to our classic boar farming. This just helps us tag everything quickly while patrolling the spawn points. Now, circling back to the area we're actually going to farm right outside of Lake Eversttoill. And this is because on top of the NLES, the packs here include two rare spawn NLES, Ribchaser and Snarflare. Now, Ribchaser didn't make it into last episode's roundup for the most profitable rares, but he still has a decent loot table. There's nothing gamebreaking, but some solid greens like the bard's tunic, which do move well as transmog. Most of his items might move a bit quicker, but are below 500 gold. And Snarflare spawns just east and drops some solid filler. We're talking things like the green weave gloves, the bard set, and the bandit set along with the raider set. Most of these sell pretty frequently, but are worth 400 to 500 gold a piece. So this spot in particular gives us access to all three targeted nles plus these two rare spawns. And with high mob density, it's ideal for more extended farm sessions to round out the transmog list. We'll be working with this location throughout the week and as we're still here in Redidge. But let's kick things off with a 1-hour farm session. See what kind of drops we can land and whether these nles are ready to cough up some gold.",
+        "canonical_file": "goldbound/008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.txt",
+        "original_file": "goldbound/original-vtt/008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E008-07",
+      "name": "Journal fishing chest batch",
+      "kind": "experiment",
+      "status": "successful",
+      "zone": "Redridge Mountains",
+      "summary": "Targets 12–15 chests, opens and gets fish-tracking journal early; extra trade goods/leather/greens.",
+      "metrics": {
+        "target_chests_range": [
+          12,
+          15
+        ],
+        "cited_journal_drop_pct": 8
+      },
+      "source": {
+        "file": "008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.vtt",
+        "cleaned_file": "goldbound/008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.txt",
+        "paragraph_start": 9,
+        "paragraph_end": 10,
+        "start_time": "00:08:35.279",
+        "quote": "This is a white item that actually kind of matches the canvas set pretty cleanly. And cloaks, they tend to sell faster than in other transmog items because they're used universally across classes. And you never know when the most random of cloaks will just perfectly fit a transmog set. Now, there are a few other grays that don't have unique appearances, but a few of them are kind of cool and worth noting, like the fisherman's knife. Now, this might end up being part of our informal transmog set here on Goldilock. All in all, a massive W of a farm. And our auction shelves are filling up slow and steady. And even just a few of these selling anywhere close to market value, that's going to make a serious dent in our token progress. And that fisherman's knife, it's getting me itching for some more fishing content. So, I send Goldie on a new mission to hunt down the weatherbeaten journal from the sealed chests that spawn here in the Red Ridge waters. Now, we already did a deep dive on these chests in the last episode, so I won't go too far into it, but here's a quick recap. The Weatherbeaten journal has about an 8% drop rate from the chests, which can be fished up from the schools and the fishing pools here in Redidge. And if we can pull this journal, it's soulbound, but it grants a super useful perk. It lets you see fishing schools on the mini map, which is huge for any future fish farms that we might want to run. So, the plan, gather up 12 to 15 of these chests and then open them all at once, hopefully landing our own journal. Who knows, maybe Nat Pegel wrote it himself. And honestly, this farm and getting these chests is not taking as long as I thought. Even though the drop rate isn't listed on Wowhead, it doesn't seem to be that low for the chests. Maybe 10 to 20%. All right, time to crack these open. If we're even close to drop rate on the journal, we should be seeing it here. And oh man, we pull it so soon.",
+        "canonical_file": "goldbound/008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.txt",
+        "original_file": "goldbound/original-vtt/008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E008-08",
+      "name": "Trunk gold potential check",
+      "kind": "experiment",
+      "status": "observed",
+      "zone": "Redridge Mountains",
+      "summary": "Unexpected nonlocal materials and greens inspire later timed trial.",
+      "metrics": {},
+      "source": {
+        "file": "008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.vtt",
+        "cleaned_file": "goldbound/008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.txt",
+        "paragraph_start": 10,
+        "paragraph_end": 10,
+        "start_time": "00:10:26.079",
+        "quote": "And we still have quite a few chests to open. And honestly, I'm pretty surprised at what kind of drops we're getting out of these. The trade goods and leather. Some of this we can't actually farm in our zones and has quite a good value to it. And we're actually getting quite a few greens from these chests as well. I might have been sleeping on this as a gold farm. So, we're going to have to bookmark this to come back and see if these chests could actually be a reliable way to make some more gold down the road. We need to pause the farming for just a second because we've got some news. Patch 11.2 just dropped. Of course, the ghost of Kesh. And I didn't think it would impact Goldie much. Sure, it's a major content patch, but it's mostly for endgame players and a new season of Mythic Plus, right? Wrong.",
+        "canonical_file": "goldbound/008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.txt",
+        "original_file": "goldbound/original-vtt/008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E008-09",
+      "name": "Patch 11.2 mounted mining retest",
+      "kind": "experiment",
+      "status": "failed",
+      "zone": "Redridge Mountains",
+      "summary": "Mounted mining removed; dismount/remount needed, invalidating earlier mount-speed assumptions.",
+      "metrics": {},
+      "source": {
+        "file": "008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.vtt",
+        "cleaned_file": "goldbound/008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.txt",
+        "paragraph_start": 11,
+        "paragraph_end": 11,
+        "start_time": "00:11:11.360",
+        "quote": "Turns out this patch has some real consequences for us here in Redidge, and it's a bit of a mixed bag. So, let's start with the bad news. Do you remember that little discovery that made our mining grounds way more efficient? The one where we could mine ore while mounted? Well, it's gone, completely patched. So now when we're trying to gather while flying, we get the doomed you are flying notification and no mining is allowed. We have to dismount, mine, and remount every single time. And that slows down our max efficiency or routes by a decent margin. And I couldn't find anything in the official patch notes about this. So it was either a stealth fix or they just considered it a long sounding bug. But either way, it's definitely gone. Okay, now let's shift to something a little more ambiguous but positive. the openw world loot bugs. For a while now, it's been pretty well known that something weird's been going on with open world drops, especially with greens, transmog, drop tables, and world drops. But today, while running around post patch, something big happened. We got our first world blue drop of the entire series.",
+        "canonical_file": "goldbound/008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.txt",
+        "original_file": "goldbound/original-vtt/008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E008-10",
+      "name": "Ironpatch Blade world drop",
+      "kind": "farm",
+      "status": "successful",
+      "zone": "Redridge Mountains",
+      "summary": "Incidental first blue world drop valued 26000 g, no sale.",
+      "metrics": {
+        "quoted_market_gold": 26000
+      },
+      "source": {
+        "file": "008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.vtt",
+        "cleaned_file": "goldbound/008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.txt",
+        "paragraph_start": 11,
+        "paragraph_end": 12,
+        "start_time": "00:11:11.360",
+        "quote": "Turns out this patch has some real consequences for us here in Redidge, and it's a bit of a mixed bag. So, let's start with the bad news. Do you remember that little discovery that made our mining grounds way more efficient? The one where we could mine ore while mounted? Well, it's gone, completely patched. So now when we're trying to gather while flying, we get the doomed you are flying notification and no mining is allowed. We have to dismount, mine, and remount every single time. And that slows down our max efficiency or routes by a decent margin. And I couldn't find anything in the official patch notes about this. So it was either a stealth fix or they just considered it a long sounding bug. But either way, it's definitely gone. Okay, now let's shift to something a little more ambiguous but positive. the openw world loot bugs. For a while now, it's been pretty well known that something weird's been going on with open world drops, especially with greens, transmog, drop tables, and world drops. But today, while running around post patch, something big happened. We got our first world blue drop of the entire series.",
+        "canonical_file": "goldbound/008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.txt",
+        "original_file": "goldbound/original-vtt/008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E008-11",
+      "name": "Postpatch loot comparison",
+      "kind": "experiment",
+      "status": "observed",
+      "zone": "Redridge Mountains",
+      "summary": "More varied greens seen; fix versus luck explicitly uncertain.",
+      "metrics": {},
+      "source": {
+        "file": "008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.vtt",
+        "cleaned_file": "goldbound/008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.txt",
+        "paragraph_start": 11,
+        "paragraph_end": 12,
+        "start_time": "00:11:11.360",
+        "quote": "Turns out this patch has some real consequences for us here in Redidge, and it's a bit of a mixed bag. So, let's start with the bad news. Do you remember that little discovery that made our mining grounds way more efficient? The one where we could mine ore while mounted? Well, it's gone, completely patched. So now when we're trying to gather while flying, we get the doomed you are flying notification and no mining is allowed. We have to dismount, mine, and remount every single time. And that slows down our max efficiency or routes by a decent margin. And I couldn't find anything in the official patch notes about this. So it was either a stealth fix or they just considered it a long sounding bug. But either way, it's definitely gone. Okay, now let's shift to something a little more ambiguous but positive. the openw world loot bugs. For a while now, it's been pretty well known that something weird's been going on with open world drops, especially with greens, transmog, drop tables, and world drops. But today, while running around post patch, something big happened. We got our first world blue drop of the entire series.",
+        "canonical_file": "goldbound/008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.txt",
+        "original_file": "goldbound/original-vtt/008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E008-12",
+      "name": "Great Goretusk skinning scout",
+      "kind": "experiment",
+      "status": "performed",
+      "zone": "Redridge Mountains",
+      "summary": "Sparse boars yield scraps/Light Leather/Light Hide; poor bulk farm.",
+      "metrics": {},
+      "source": {
+        "file": "008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.vtt",
+        "cleaned_file": "goldbound/008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.txt",
+        "paragraph_start": 13,
+        "paragraph_end": 13,
+        "start_time": "00:13:52.000",
+        "quote": "A lot of people in the comments have been asking if I'm going to do a skinning farm here in Redidge. So, let's check it out. Unlike Elwin, the beasts in Redidge are fewer and farther between. A good chunk of them can't even be skinned. We're talking about the condors and the spiders. for these guys. You kill them, but you can't skin them. However, we do have great gore tusks. These guys are really spread out. There isn't a single spot with a solid hyperspawn. So, while we still have skinning trained, we can take a few of them as we move through the zone. But there's nothing here worth planting ourselves down for hours and just farming. On the plus side, they do drop the old rough leather scraps and light leather, but now it does give us access to light hide. So, we do have new materials if we eventually pick up a crafting recipe that use them. Then, in Red Ridge, there are Red Ridge foxes, a bit like the boores, but even more scarce and more scattered through the zone. Still, they do offer access to medium hide, which is a nice upgrade and another future reagent unlocked. And tucked away in the northeast corner of the zone, we do have forest stalkers.",
+        "canonical_file": "goldbound/008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.txt",
+        "original_file": "goldbound/original-vtt/008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E008-13",
+      "name": "Redridge Fox skinning scout",
+      "kind": "experiment",
+      "status": "performed",
+      "zone": "Redridge Mountains",
+      "summary": "Sparse foxes provide Medium Hide, no timed test.",
+      "metrics": {},
+      "source": {
+        "file": "008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.vtt",
+        "cleaned_file": "goldbound/008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.txt",
+        "paragraph_start": 13,
+        "paragraph_end": 13,
+        "start_time": "00:13:52.000",
+        "quote": "A lot of people in the comments have been asking if I'm going to do a skinning farm here in Redidge. So, let's check it out. Unlike Elwin, the beasts in Redidge are fewer and farther between. A good chunk of them can't even be skinned. We're talking about the condors and the spiders. for these guys. You kill them, but you can't skin them. However, we do have great gore tusks. These guys are really spread out. There isn't a single spot with a solid hyperspawn. So, while we still have skinning trained, we can take a few of them as we move through the zone. But there's nothing here worth planting ourselves down for hours and just farming. On the plus side, they do drop the old rough leather scraps and light leather, but now it does give us access to light hide. So, we do have new materials if we eventually pick up a crafting recipe that use them. Then, in Red Ridge, there are Red Ridge foxes, a bit like the boores, but even more scarce and more scattered through the zone. Still, they do offer access to medium hide, which is a nice upgrade and another future reagent unlocked. And tucked away in the northeast corner of the zone, we do have forest stalkers.",
+        "canonical_file": "goldbound/008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.txt",
+        "original_file": "goldbound/original-vtt/008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E008-14",
+      "name": "Forest Stalker skinning scout",
+      "kind": "experiment",
+      "status": "performed",
+      "zone": "Redridge Mountains",
+      "summary": "Sparse northeast mobs provide Medium Leather, poor bulk density.",
+      "metrics": {},
+      "source": {
+        "file": "008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.vtt",
+        "cleaned_file": "goldbound/008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.txt",
+        "paragraph_start": 13,
+        "paragraph_end": 14,
+        "start_time": "00:13:52.000",
+        "quote": "A lot of people in the comments have been asking if I'm going to do a skinning farm here in Redidge. So, let's check it out. Unlike Elwin, the beasts in Redidge are fewer and farther between. A good chunk of them can't even be skinned. We're talking about the condors and the spiders. for these guys. You kill them, but you can't skin them. However, we do have great gore tusks. These guys are really spread out. There isn't a single spot with a solid hyperspawn. So, while we still have skinning trained, we can take a few of them as we move through the zone. But there's nothing here worth planting ourselves down for hours and just farming. On the plus side, they do drop the old rough leather scraps and light leather, but now it does give us access to light hide. So, we do have new materials if we eventually pick up a crafting recipe that use them. Then, in Red Ridge, there are Red Ridge foxes, a bit like the boores, but even more scarce and more scattered through the zone. Still, they do offer access to medium hide, which is a nice upgrade and another future reagent unlocked. And tucked away in the northeast corner of the zone, we do have forest stalkers.",
+        "canonical_file": "goldbound/008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.txt",
+        "original_file": "goldbound/original-vtt/008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E008-15",
+      "name": "Tailoring 100 training",
+      "kind": "experiment",
+      "status": "successful",
+      "zone": "Redridge Mountains",
+      "summary": "Restocks shirts/transmog to 75 then wool bolts to 100.",
+      "metrics": {
+        "target_skill": 100
+      },
+      "source": {
+        "file": "008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.vtt",
+        "cleaned_file": "goldbound/008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.txt",
+        "paragraph_start": 15,
+        "paragraph_end": 16,
+        "start_time": "00:15:49.440",
+        "quote": "However, as luck would have it, we did pick up a new recipe from one of our red ridge drops, a tailoring recipe. And based on the tool tip, it looks like we might be able to craft using items we've already farmed in the zone. So, here's the plan. Let's head back to Elwin, unlearn skinning, and pick up tailoring. Luckily, we've been stockpiling cloth in the bank for just this kind of occasion. It doesn't sell for much raw, so we've been holding on to it for something more valuable or until we need to restock the shelves with shirts and linen cloth. And the recipe in question is the heavy woolen cloak. And we'll need 100 tailoring to make it. And while we level up, we may as well recraft and restock any shirts and any cloth transmogs that have recently sold out. For this, we're just using TSM to check which ones we're out of and what's profitable and just batch it all as we climb. But really, it's kind of just two or three of each one all the way up. And this pretty much gets our skill up to 75, which is just enough to craft bolt of woolen cloth.",
+        "canonical_file": "goldbound/008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.txt",
+        "original_file": "goldbound/original-vtt/008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E008-16",
+      "name": "Heavy Woolen Cloak craft",
+      "kind": "experiment",
+      "status": "performed",
+      "zone": "Redridge Mountains",
+      "summary": "Recipe drop enables cloaks with 3 wool bolts,2 Fine Thread,2 Small Lustrous Pearls; pearls from banked clams.1000–2000 g each valuation, no sale.",
+      "metrics": {
+        "Bolt of Woolen Cloth_per_craft": 3,
+        "Fine Thread_per_craft": 2,
+        "Small Lustrous Pearl_per_craft": 2,
+        "quoted_unit_gold_range": [
+          1000,
+          2000
+        ]
+      },
+      "source": {
+        "file": "008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.vtt",
+        "cleaned_file": "goldbound/008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.txt",
+        "paragraph_start": 15,
+        "paragraph_end": 17,
+        "start_time": "00:15:49.440",
+        "quote": "However, as luck would have it, we did pick up a new recipe from one of our red ridge drops, a tailoring recipe. And based on the tool tip, it looks like we might be able to craft using items we've already farmed in the zone. So, here's the plan. Let's head back to Elwin, unlearn skinning, and pick up tailoring. Luckily, we've been stockpiling cloth in the bank for just this kind of occasion. It doesn't sell for much raw, so we've been holding on to it for something more valuable or until we need to restock the shelves with shirts and linen cloth. And the recipe in question is the heavy woolen cloak. And we'll need 100 tailoring to make it. And while we level up, we may as well recraft and restock any shirts and any cloth transmogs that have recently sold out. For this, we're just using TSM to check which ones we're out of and what's profitable and just batch it all as we climb. But really, it's kind of just two or three of each one all the way up. And this pretty much gets our skill up to 75, which is just enough to craft bolt of woolen cloth.",
+        "canonical_file": "goldbound/008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.txt",
+        "original_file": "goldbound/original-vtt/008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E008-17",
+      "name": "Swamp intended-path scout",
+      "kind": "experiment",
+      "status": "confirmed",
+      "zone": "Swamp of Sorrows",
+      "summary": "Main checks northeast pass from Redridge, no locked-zone farming.",
+      "metrics": {},
+      "source": {
+        "file": "008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.vtt",
+        "cleaned_file": "goldbound/008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.txt",
+        "paragraph_start": 17,
+        "paragraph_end": 17,
+        "start_time": "00:17:18.880",
+        "quote": "Hopefully, a few pearls. Just enough for a few crafts. We might want to head back and farm a few more murlocs just to stockpile these cloaks before we run out and unlearn tailoring. But even if we only craft a few of these cloaks, that's another 1 to 2k gold per cloak to keep posted on the auction house and another gold trickle added to the pipeline. And last episode, we talked about the zones connected to Redidge available for unlock once we finally get our hands on another WoW token. And a few folks in the comments mentioned that the Swamp of Soros might not actually be accessible from Redidge. So I decided to hop over on Patherics for some scouting just to make sure. And from what I can tell, the Red Ridge Pass does in fact lead straight into the northeastern corner of the swamp. It's not the most mainstream of connections, but it's connection nonetheless that heads right into Red Ridge on an intended pathway. So, for now, we'll keep Swamp of Sorrows on the table. And as for Black Rockck Mountain within the Burning Steps, that one sparked a bit of a debate in the comments, and I get it.",
+        "canonical_file": "goldbound/008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.txt",
+        "original_file": "goldbound/original-vtt/008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E008-18",
+      "name": "Sash and bracer sales",
+      "kind": "sales",
+      "status": "sales_confirmed",
+      "zone": "Redridge Mountains",
+      "summary": "One sash and one Kindred Bracer sell; amounts unstated. Knots and trade goods also sell.",
+      "metrics": {},
+      "source": {
+        "file": "008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.vtt",
+        "cleaned_file": "goldbound/008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.txt",
+        "paragraph_start": 19,
+        "paragraph_end": 19,
+        "start_time": "00:19:08.960",
+        "quote": "Mailbox time and a/play check. And remember, play War Thunder for free on PC, PlayStation, Xbox, or mobile devices now by using my links in the pinned comment or video description. New and returning players on PC and consoles who haven't played in the last 6 months will also receive a massive bonus pack across all platforms. Now, this time we've gone ahead and blocked out the total gold just to build a little suspense. And in the first 100 males, it's mostly the usual basic trade goods trickling out pad in the gold pile. But here's our first notable sale. Another tarantula silk sash. We're letting a few of these go at lower prices just to keep the gold moving and selling a few later on at higher prices hopefully. Then we also sold a pair of our Kindred null bracers from this week's farm. And we even moved a couple of frayed knots back from Elwin. And the rest some more trade goods and lower ticket mogs. And of course, let's open these up and listen to that classic mailbox sound for the first 100 ms.",
+        "canonical_file": "goldbound/008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.txt",
+        "original_file": "goldbound/original-vtt/008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E008-19",
+      "name": "104500 g weekly checkpoint",
+      "kind": "observation",
+      "status": "measured",
+      "zone": "Redridge Mountains",
+      "summary": "22700 week,104500 cash,209 hours played.",
+      "metrics": {
+        "weekly_cash_gold": 22700,
+        "cash_gold": 104500,
+        "played_hours": 209
+      },
+      "source": {
+        "file": "008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.vtt",
+        "cleaned_file": "goldbound/008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.txt",
+        "paragraph_start": 20,
+        "paragraph_end": 20,
+        "start_time": "00:20:19.679",
+        "quote": "And while not quite 100k, we still have a few auctions left, which contains a healthy stack of copper bars and quite a few glyphs. So, it should put us over. And there it is. 22.7K for the week, bringing us to a new total of 104.5K. We've officially crossed the 100k mark and the next zone is getting closer. As for the slash played, just over 8 days, 17 hours with more than a full day played at level 71 alone. So until next time, go with honor, friend.",
+        "canonical_file": "goldbound/008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.txt",
+        "original_file": "goldbound/original-vtt/008 - We Finally Got a World Drop Blue… Is It Enough To Escape？ - Goldbound Episode 8.en-orig.vtt"
+      }
+    }
+  ]
+}

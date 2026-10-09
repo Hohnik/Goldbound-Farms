@@ -1,0 +1,451 @@
+{
+  "source_id": 1,
+  "source_file": "001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.vtt",
+  "cleaned_file": "goldbound/001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.txt",
+  "full_text_reviewed": true,
+  "paragraph_count": 14,
+  "records": [
+    {
+      "id": "E001-01",
+      "name": "Questing with incidental herbs and copper",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Elwynn Forest",
+      "summary": "Leveled from 1 to 11 through Northshire/Elwynn quests; gathered copper, Peacebloom, Silverleaf and Earthroot and posted initial stock. Initial token 261 k; this was incidental gathering, separate from the timed test.",
+      "metrics": {},
+      "source": {
+        "file": "001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.vtt",
+        "cleaned_file": "goldbound/001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.txt",
+        "paragraph_start": 4,
+        "paragraph_end": 4,
+        "start_time": "00:02:30.560",
+        "quote": "One zone, one token, one goldbound journey. Let's get started. Our hero, Goldilock, has officially hit level 11, and we did it the oldfashioned way. Pure questing here in Ellen Forest. But while we were running around helping farmers and slaying cobalts, we quietly picked up something even more valuable. We've gathered a decent stash of herbs and ore. A mix of copper ore, peace, bloom, silver leaf, and earthroot. Not bad for a starting zone. But before we start listing anything, let's check on the WOW token price. Currently sitting at 261,000 gold. So yeah, we've got our work cut out for us. So we'll go ahead and start posting some of our items on the auction house. These early sales are really going to help kickstart our next gold making method, which fair warning is going to require a little startup capital, but this is what Goldbound is all about. Zone locked progress.",
+        "canonical_file": "goldbound/001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.txt",
+        "original_file": "goldbound/original-vtt/001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E001-02",
+      "name": "Rare mobs for six/eight-slot bags",
+      "kind": "experiment",
+      "status": "successful",
+      "zone": "Elwynn Forest",
+      "summary": "Tracked Elwynn rare spawns to replace starter bags; obtained a complete set of six/eight-slot bags. Inventory improvement rather than sellable gold.",
+      "metrics": {},
+      "source": {
+        "file": "001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.vtt",
+        "cleaned_file": "goldbound/001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.txt",
+        "paragraph_start": 5,
+        "paragraph_end": 5,
+        "start_time": "00:03:27.040",
+        "quote": "Creative gold farming and unlocking one WoW token at a time. Let's see what sells. We ran into a bit of a problem. Bag space. Turns out a bunch of the rare spawns in Elwin drop six to eight slot bags. And that means one thing. Goldilocked went onto a full-blown assassination mission. One by one, we tracked him down. Some gave us bags, some gave us bruises, but by the end of it, we walked away with a full set of bags. Now, while we were out bag hunting, some of our auctions sold. And just like that, our mailbox had 260 gold waiting for us. Not bad for level 11 with some basic gathering skills and a dream. And that timing couldn't be better because our next gold making method needs just a little startup capital. We made our way north to a very specific vendor, a mysterious woman known only as the crazy cat lady. Tucked away just outside of Stormwind, she sells rare and adorable cat pets. And people buy them. We picked up three of each. The black tabby, the white kitten, the Bombay cat, you name it. These vendor pets are limited in quantity and often get resold for 5 to 10 times the price on the auction house, especially for collectors and completionists. So, next stop, the auction house. We'll leave a few of these posted at all times and hopefully we have a few of them tick off while we're completing some more grinds in the zone. Now, as we start posting more and more items, you might have noticed I'm using an add-on called Trade Skill Master. This isn't for full automation or undercutting wars. It just helps me post auctions quicker and more efficiently as Goldilocks stockpile starts to grow. That way, we can spend less time at the auction house and more time out in Elwin forest making gold.",
+        "canonical_file": "goldbound/001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.txt",
+        "original_file": "goldbound/original-vtt/001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E001-03",
+      "name": "Crazy Cat Lady vendor pet resale",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Elwynn Forest",
+      "summary": "Bought three of each offered cat and posted them on the AH. Transcript names black tabby, white kitten and Bombay; those names/availability are caption claims, not independently validated. Anticipated resale 5–10× vendor cost; no hourly rate or confirmed cat sales yet.",
+      "metrics": {
+        "purchase_quantity_per_pet": 3,
+        "claimed_resale_multiplier_range": [
+          5,
+          10
+        ]
+      },
+      "source": {
+        "file": "001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.vtt",
+        "cleaned_file": "goldbound/001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.txt",
+        "paragraph_start": 5,
+        "paragraph_end": 5,
+        "start_time": "00:03:27.040",
+        "quote": "Creative gold farming and unlocking one WoW token at a time. Let's see what sells. We ran into a bit of a problem. Bag space. Turns out a bunch of the rare spawns in Elwin drop six to eight slot bags. And that means one thing. Goldilocked went onto a full-blown assassination mission. One by one, we tracked him down. Some gave us bags, some gave us bruises, but by the end of it, we walked away with a full set of bags. Now, while we were out bag hunting, some of our auctions sold. And just like that, our mailbox had 260 gold waiting for us. Not bad for level 11 with some basic gathering skills and a dream. And that timing couldn't be better because our next gold making method needs just a little startup capital. We made our way north to a very specific vendor, a mysterious woman known only as the crazy cat lady. Tucked away just outside of Stormwind, she sells rare and adorable cat pets. And people buy them. We picked up three of each. The black tabby, the white kitten, the Bombay cat, you name it. These vendor pets are limited in quantity and often get resold for 5 to 10 times the price on the auction house, especially for collectors and completionists. So, next stop, the auction house. We'll leave a few of these posted at all times and hopefully we have a few of them tick off while we're completing some more grinds in the zone. Now, as we start posting more and more items, you might have noticed I'm using an add-on called Trade Skill Master. This isn't for full automation or undercutting wars. It just helps me post auctions quicker and more efficiently as Goldilocks stockpile starts to grow. That way, we can spend less time at the auction house and more time out in Elwin forest making gold.",
+        "canonical_file": "goldbound/001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.txt",
+        "original_file": "goldbound/original-vtt/001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E001-04",
+      "name": "Ground-mounted dual gathering plus rares: first timed test",
+      "kind": "experiment",
+      "status": "measured",
+      "zone": "Elwynn Forest",
+      "summary": "One-hour ground route targeting ore, herbs and rare spawns. Materials valued around 1,600 g; greens listed separately. Claimed 220 h to a 260 k token does not agree with 1,600 g/h (162.5 h).",
+      "metrics": {
+        "duration_minutes": 60,
+        "reported_material_gph": 1600,
+        "yields": {
+          "Copper Ore": 214,
+          "Earthroot": 85,
+          "Peacebloom": 53,
+          "Silverleaf": 114
+        },
+        "uncertainty": "Reported grind-time arithmetic inconsistent"
+      },
+      "source": {
+        "file": "001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.vtt",
+        "cleaned_file": "goldbound/001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.txt",
+        "paragraph_start": 6,
+        "paragraph_end": 7,
+        "start_time": "00:05:10.479",
+        "quote": "And speaking of Elwin, with bag space sorted in auctions rolling, it's time to get serious. We kicked off our first 1-hour dedicated gold farm circling Elwin forest in a large gathering loop. The goal is simple. Gather as many herbs and ore as possible while hitting every rare spawn along the way. Some of these rare mobs will drop a bind on equipped items that collectors will pay for big gold, but more on that later. For now, let's roll the montage. 1 hour later, our bags are full, the forest has been picked clean, and it's time to see what we've got. So, here's the final tally from our first 1 hour gathering. 214 copper ore, 85 Earthroot, 53 peace bloom, and 114 silver leaf.",
+        "canonical_file": "goldbound/001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.txt",
+        "original_file": "goldbound/original-vtt/001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E001-05",
+      "name": "Herbalism to Inscription milling swap",
+      "kind": "experiment",
+      "status": "successful",
+      "zone": "Elwynn Forest",
+      "summary": "Dropped Herbalism after gathering and learned level-one Inscription; milled starter herbs into Alabaster Pigment. Herb portion increased from ~800 g raw to over 1,600 g. Processing time not quantified.",
+      "metrics": {
+        "raw_herb_value_gold": 800,
+        "processed_herb_value_gold_lower_bound": 1600,
+        "required_inscription_skill": 1
+      },
+      "source": {
+        "file": "001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.vtt",
+        "cleaned_file": "goldbound/001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.txt",
+        "paragraph_start": 7,
+        "paragraph_end": 8,
+        "start_time": "00:06:19.360",
+        "quote": "Now, prices vary depending on the day, but these typically sell for about 3 to four gold on the auction house. So, let's crunch some numbers. Total material value is about 1,600 gold per hour. Not a bad starting place, especially since we only have a ground mount right now. But considering our goal is 260,000 gold for that WOW token, that's roughly a 220 hour grind. Uh-oh. But it's not all bad news. We also picked up a few bind unequipped green items worth between 50 gold each. None of the rare BOE's yet, but we'll be targeting specific mobs for those later. Now, here's where things got interesting. When I looked at the herb prices using TSM, everything looked pretty standard. You know, 3 to four gold for peace, bloom, silver leaf, earthroot. But when I looked at the mill value, it was showing something surprising. Over eight gold per herb.",
+        "canonical_file": "goldbound/001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.txt",
+        "original_file": "goldbound/original-vtt/001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.vtt"
+      },
+      "additional_values": [
+        {
+          "value": 1600,
+          "label": "Processed batch",
+          "basis": "Over 1,600g in milled-herb appraisal; processing time was not stated.",
+          "unit": "g",
+          "kind": "value",
+          "source_refs": [
+            {
+              "episode": 1,
+              "paragraph_start": 8,
+              "paragraph_end": 8,
+              "start_time": "00:07:07.840"
+            }
+          ],
+          "lower_bound": true,
+          "strict_bound": true
+        }
+      ]
+    },
+    {
+      "id": "E001-06",
+      "name": "Elwynn lake fishing and skill threshold",
+      "kind": "experiment",
+      "status": "measured",
+      "zone": "Elwynn Forest",
+      "summary": "Approximately 30-minute fishing/skill test for Raw Brilliant Smallfish and Longjaw Mud Snapper. At fishing 30, trash stopped in this sample. Fish ~13–14 silver each; narrated value ~6 g/h.",
+      "metrics": {
+        "duration_minutes_approx": 30,
+        "reported_gph": 6,
+        "fish_price_gold_range": [
+          0.13,
+          0.14
+        ],
+        "fishing_skill_threshold_reported": 30
+      },
+      "source": {
+        "file": "001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.vtt",
+        "cleaned_file": "goldbound/001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.txt",
+        "paragraph_start": 8,
+        "paragraph_end": 8,
+        "start_time": "00:07:07.840",
+        "quote": "That's because when you mill these low-level herbs with the inscription profession, you get alabaster pigment. This pigment is used in early crafting of glyphs and inscription recipes. It's not particularly rare, but the value adds up pretty fast. So, here's the trick. All the herbs in Alen Forest can be gathered with just level one herbalism. And milling these herbs only requires level one inscription. So, once I had some herbs, I just dropped herbalism, picked up inscription, and milled everything down. That one decision nearly doubled the profit on the herb portion of our 1-hour run from around 800 gold of raw herb value. We boosted up to 1,600 plus thanks to milling. Now, if you're looking to farm some gold yourself, maybe to grab your own WoW token, and you're not stuck in a zone lock challenge like I am, you'll want the most cutting edge, up-to-date gold making guides around. For that, check out Goldcap, your one-stop shop for gold strategies across retail, classic, and more. I'll leave a link down in the description. But for now, let's get back to Goldilocks. Slightly less efficient farming. I wanted to diversify the portfolio just a little, so I headed down to the local wararf, picked up fishing from the trainer, and grabbed the trusty fishing rod from a general goods vendor. For the next half hour or so, I stood by a small lake and fished my heart out, leveling up just enough to stop reeling in literal garbage. That magic moment hits at fishing level 30 when you can stop pulling in junk and start getting fish every cast. Raw brilliant small fish, long jaw mud snapper. The downside, well, these fish only sell for about 13 to 14 silver each. So, when you do the math, that's around six gold per hour. Not exactly gamechanging. Still, it was peaceful.",
+        "canonical_file": "goldbound/001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.txt",
+        "original_file": "goldbound/original-vtt/001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E001-07",
+      "name": "Flying versus ground gathering retest",
+      "kind": "experiment",
+      "status": "measured",
+      "zone": "Elwynn Forest",
+      "summary": "Paid a self-imposed 45 g mount cost, then tested the same gathering/rare route for one hour with flight. 7 rare kills and ~2,300 g total loot value; claimed ~40% improvement largely came from rare loot, not just increased material yields.",
+      "metrics": {
+        "duration_minutes": 60,
+        "total_loot_value_gph": 2300,
+        "rare_kills": 7,
+        "yields": {
+          "Copper Ore": 236,
+          "Silverleaf": 120,
+          "Earthroot": 82,
+          "Peacebloom": 75
+        },
+        "challenge_mount_cost_gold": 45
+      },
+      "source": {
+        "file": "001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.vtt",
+        "cleaned_file": "goldbound/001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.txt",
+        "paragraph_start": 9,
+        "paragraph_end": 9,
+        "start_time": "00:08:55.600",
+        "quote": "And hey, if Nat Pegle ever needs a break, I'm ready to sub in. But seriously, I do have a little fishing trick up my sleeve. If we're still stuck in Ellen when the Dark Moon Fair rolls into town, let's just say the fish might be worth a lot more. Until then, we'll leave the fishing to the pros. Around level 20, Goldilock started to hit a wall. Most of the quests were done, and the only leads left were breadcrumbs into Stormwind and Westfall. Both zones we can't access until we pay the gold toll. But then something unexpected happened. A little message popped up in chat reading, \"You have learned expert riding.\" Wait, flying at level 20? I'll admit, I had no idea that was a thing in retail. Wow. Now, now, in the spirit of the gold bound challenge, or every gold matters and every advantage must be earned, I made a call. We went to the Griffin trainer, picked up a mount we already knew, paid 45 gold, and then promptly deleted it. That way, the gold was spent. No shortcuts, no freebies, just pure honest zone locked hassle. And with that, the skies were unleashed and it was time to retest the gold per hour for our gathering professions, now with an aerial advantage. So, we ran a nearly identical route as before. A full hour of herb and ore gathering with stops at every rare spawn that we could find. The results, seven mirror spawns, seven kills, some BOE's, a few vendor greens, and a couple low tier gems. The total looted item value came out to about 2.3k gold, which was nearly a 40% increase over the ground they run. But most of this did come from the rare spawn kills with the material breakdown only being slightly higher with 236 copper ore, 120 silver leaf, 82 earth, and 75 peace bloom.",
+        "canonical_file": "goldbound/001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.txt",
+        "original_file": "goldbound/original-vtt/001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E001-08",
+      "name": "Frayed Knot pickpocket circuit",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Elwynn Forest",
+      "summary": "Rogue level 24 pickpockets bandits/cutpurses/rogue wizards around Brackwell Pumpkin Patch, Stone Cairn Lake and east of Westbrook Garrison. Pockets reset in ~10 m; killing/respawning is an alternative. Knots quoted at 1–2 k each and ~2.6 daily regional sales; drop-rate range .3–8% is cited, not tested.",
+      "metrics": {
+        "class": "Rogue",
+        "pickpocket_level_reported": 24,
+        "pocket_reset_minutes": 10,
+        "quoted_item_price_gold_range": [
+          1000,
+          2000
+        ],
+        "quoted_daily_region_sales": 2.6
+      },
+      "source": {
+        "file": "001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.vtt",
+        "cleaned_file": "goldbound/001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.txt",
+        "paragraph_start": 10,
+        "paragraph_end": 11,
+        "start_time": "00:10:48.480",
+        "quote": "Flying definitely shaved off some travel time, letting us hit more nodes and reach where our spawns faster and staying in motion. In the long run, flight is definitely going to mean more profit. So, our next gold farm is well, a little tricky. And I mean that literally because it's rogue only. At level 24, Goldilock finally unlocked Pigpocket and with it access to one of the sneakiest gold farms in Elwin Forest. Here's a secret. Almost every humanoid mob in Elwin that looks like they belong to a certain Westfall Brotherhood has a chance to drop a gray item called the frayed knot, but only through pickpocketing. Now, you might ask, why would a gray item that can't be equipped be worth anything? This particular knot is required to purchase the turquoise bobbleworm pet from Keeper Talhoot in Orios. It's part of a three item turnin.",
+        "canonical_file": "goldbound/001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.txt",
+        "original_file": "goldbound/original-vtt/001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E001-09",
+      "name": "Level-35 scaling breakpoint for rare farming",
+      "kind": "experiment",
+      "status": "observed",
+      "zone": "Elwynn Forest",
+      "summary": "Upon reaching 35, the character could one-shot most classic-zone mobs. Not a controlled class/level comparison.",
+      "metrics": {},
+      "source": {
+        "file": "001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.vtt",
+        "cleaned_file": "goldbound/001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.txt",
+        "paragraph_start": 11,
+        "paragraph_end": 12,
+        "start_time": "00:11:43.600",
+        "quote": "the frayed knot, rabbit's foot, and large slimy bone. But here's the kicker. Goldilock can only farm the knot, and that's exactly what we're here to do. So, according to Wowhead, the drop rate for the frayed knot ranges from.3% to 8%. Depending on the mob, and it sells an average of 2.6 times per day, often going for 1 to 2,000 gold. So, just one sale per day could seriously move the needle on our goldbound grind. The mobs with the highest rates are the bandits, cutpurses, and even the rogue wizards in Elwin. My favorite pickpocket circuit includes the Brackwell pumpkin patch, Stone Karen Lake, and the encampments east of Westbrook Garrison. The trick is pockets reset every 10 minutes. So, with the right route, you can just loop back and start again, or kill them and let them respawn. That works, too. It's stealthy, it's smart, and it's completely off the radar for most players. As Goldilock continued the journey towards that coveted WoW token, the grind was in full swing. Herbs and ore gathered by the stacks, rare spawns hunted down, and every pocket picked clean for a few extra silver and a chance at the frayed knot. But with each loop through Elwin, we inched closer, not just in gold, but in level two. And eventually, we hit level 35. And that's when things got kind of weird. It seems that in these old classic retail zones, 35 is some kind of break point.",
+        "canonical_file": "goldbound/001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.txt",
+        "original_file": "goldbound/original-vtt/001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E001-10",
+      "name": "Thuros Lightfingers camp",
+      "kind": "farm",
+      "status": "ongoing",
+      "zone": "Elwynn Forest",
+      "summary": "Part of the three-rare rotation while gathering and pickpocketing between respawns; ~20–30 kills on each rare, no jackpot yet. Caption says Thoros Lightfingers.",
+      "metrics": {
+        "kills_per_rare_approx_range": [
+          20,
+          30
+        ],
+        "respawn_minutes_range": [
+          25,
+          30
+        ]
+      },
+      "source": {
+        "file": "001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.vtt",
+        "cleaned_file": "goldbound/001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.txt",
+        "paragraph_start": 12,
+        "paragraph_end": 12,
+        "start_time": "00:13:15.680",
+        "quote": "Suddenly, Goldilock was oneshotting just about everything. So lately, I've been running a tight rotation between Thoros, Lightfingers, Fed Fennel, and Mother Fang. They all have about a 25 to 30 minute respawn timer. So, in the meantime, I'm gathering herbs, mining ore, and pickpocketing anything with a red mask that moves. So far, we've racked up over 20 to 30 kills on each of these rares, but still none of the big ticket drops yet. No real jackpot, at least not yet. But since we've capped out our XP for this zone, feels like a perfect time to pause and do a full recap of our gold earnings and where Goldilock stands in that quest for that WOW token. If you know any sneaky gold farms in Elwin that we haven't hit yet, drop a comment below because I'd love to test them out. And right now, it seems like this triple threat is our best bet to get out of Elwin. All right, and here we are at the Goldshshire Inn. It's been our humble abode for the last quite a few days. And as you can see here at the bottom, we're about 22 hours into this challenge. So, we're going to go ahead and do a mailbox clear and see how much gold we actually ended up in this episode. So, over here, sold a few copper ore, some illusion dusts. Those are from selling the and disenchanting the greens as well as some alabaster pigments and inks. Excellent. So, a few gold coming in from those. Some more copper bars just to get more sales quickly. Some rough stones, more essences, a few one-off peace blooms and malchite. Just all gems here. Here's our first frayed knot coming through. So, 1.1k from that as well. Some more regular things.",
+        "canonical_file": "goldbound/001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.txt",
+        "original_file": "goldbound/original-vtt/001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E001-11",
+      "name": "Fedfennel camp",
+      "kind": "farm",
+      "status": "ongoing",
+      "zone": "Elwynn Forest",
+      "summary": "Repeated Fedfennel kills within the gathering/pickpocket route, no big-ticket drop yet. Caption says Fed Fennel.",
+      "metrics": {
+        "kills_per_rare_approx_range": [
+          20,
+          30
+        ],
+        "respawn_minutes_range": [
+          25,
+          30
+        ]
+      },
+      "source": {
+        "file": "001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.vtt",
+        "cleaned_file": "goldbound/001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.txt",
+        "paragraph_start": 12,
+        "paragraph_end": 12,
+        "start_time": "00:13:15.680",
+        "quote": "Suddenly, Goldilock was oneshotting just about everything. So lately, I've been running a tight rotation between Thoros, Lightfingers, Fed Fennel, and Mother Fang. They all have about a 25 to 30 minute respawn timer. So, in the meantime, I'm gathering herbs, mining ore, and pickpocketing anything with a red mask that moves. So far, we've racked up over 20 to 30 kills on each of these rares, but still none of the big ticket drops yet. No real jackpot, at least not yet. But since we've capped out our XP for this zone, feels like a perfect time to pause and do a full recap of our gold earnings and where Goldilock stands in that quest for that WOW token. If you know any sneaky gold farms in Elwin that we haven't hit yet, drop a comment below because I'd love to test them out. And right now, it seems like this triple threat is our best bet to get out of Elwin. All right, and here we are at the Goldshshire Inn. It's been our humble abode for the last quite a few days. And as you can see here at the bottom, we're about 22 hours into this challenge. So, we're going to go ahead and do a mailbox clear and see how much gold we actually ended up in this episode. So, over here, sold a few copper ore, some illusion dusts. Those are from selling the and disenchanting the greens as well as some alabaster pigments and inks. Excellent. So, a few gold coming in from those. Some more copper bars just to get more sales quickly. Some rough stones, more essences, a few one-off peace blooms and malchite. Just all gems here. Here's our first frayed knot coming through. So, 1.1k from that as well. Some more regular things.",
+        "canonical_file": "goldbound/001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.txt",
+        "original_file": "goldbound/original-vtt/001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E001-12",
+      "name": "Mother Fang camp",
+      "kind": "farm",
+      "status": "ongoing",
+      "zone": "Elwynn Forest",
+      "summary": "Repeated Mother Fang kills within the gathering/pickpocket route, no jackpot yet.",
+      "metrics": {
+        "kills_per_rare_approx_range": [
+          20,
+          30
+        ],
+        "respawn_minutes_range": [
+          25,
+          30
+        ]
+      },
+      "source": {
+        "file": "001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.vtt",
+        "cleaned_file": "goldbound/001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.txt",
+        "paragraph_start": 12,
+        "paragraph_end": 12,
+        "start_time": "00:13:15.680",
+        "quote": "Suddenly, Goldilock was oneshotting just about everything. So lately, I've been running a tight rotation between Thoros, Lightfingers, Fed Fennel, and Mother Fang. They all have about a 25 to 30 minute respawn timer. So, in the meantime, I'm gathering herbs, mining ore, and pickpocketing anything with a red mask that moves. So far, we've racked up over 20 to 30 kills on each of these rares, but still none of the big ticket drops yet. No real jackpot, at least not yet. But since we've capped out our XP for this zone, feels like a perfect time to pause and do a full recap of our gold earnings and where Goldilock stands in that quest for that WOW token. If you know any sneaky gold farms in Elwin that we haven't hit yet, drop a comment below because I'd love to test them out. And right now, it seems like this triple threat is our best bet to get out of Elwin. All right, and here we are at the Goldshshire Inn. It's been our humble abode for the last quite a few days. And as you can see here at the bottom, we're about 22 hours into this challenge. So, we're going to go ahead and do a mailbox clear and see how much gold we actually ended up in this episode. So, over here, sold a few copper ore, some illusion dusts. Those are from selling the and disenchanting the greens as well as some alabaster pigments and inks. Excellent. So, a few gold coming in from those. Some more copper bars just to get more sales quickly. Some rough stones, more essences, a few one-off peace blooms and malchite. Just all gems here. Here's our first frayed knot coming through. So, 1.1k from that as well. Some more regular things.",
+        "canonical_file": "goldbound/001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.txt",
+        "original_file": "goldbound/original-vtt/001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E001-13",
+      "name": "Disenchanting gathered greens into dust/essences",
+      "kind": "farm",
+      "status": "sales_confirmed",
+      "zone": "Elwynn Forest",
+      "summary": "Mailbox contained Illusion Dust and essences from disenchanting greens. No timed disenchanting sample given.",
+      "metrics": {},
+      "source": {
+        "file": "001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.vtt",
+        "cleaned_file": "goldbound/001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.txt",
+        "paragraph_start": 12,
+        "paragraph_end": 12,
+        "start_time": "00:13:15.680",
+        "quote": "Suddenly, Goldilock was oneshotting just about everything. So lately, I've been running a tight rotation between Thoros, Lightfingers, Fed Fennel, and Mother Fang. They all have about a 25 to 30 minute respawn timer. So, in the meantime, I'm gathering herbs, mining ore, and pickpocketing anything with a red mask that moves. So far, we've racked up over 20 to 30 kills on each of these rares, but still none of the big ticket drops yet. No real jackpot, at least not yet. But since we've capped out our XP for this zone, feels like a perfect time to pause and do a full recap of our gold earnings and where Goldilock stands in that quest for that WOW token. If you know any sneaky gold farms in Elwin that we haven't hit yet, drop a comment below because I'd love to test them out. And right now, it seems like this triple threat is our best bet to get out of Elwin. All right, and here we are at the Goldshshire Inn. It's been our humble abode for the last quite a few days. And as you can see here at the bottom, we're about 22 hours into this challenge. So, we're going to go ahead and do a mailbox clear and see how much gold we actually ended up in this episode. So, over here, sold a few copper ore, some illusion dusts. Those are from selling the and disenchanting the greens as well as some alabaster pigments and inks. Excellent. So, a few gold coming in from those. Some more copper bars just to get more sales quickly. Some rough stones, more essences, a few one-off peace blooms and malchite. Just all gems here. Here's our first frayed knot coming through. So, 1.1k from that as well. Some more regular things.",
+        "canonical_file": "goldbound/001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.txt",
+        "original_file": "goldbound/original-vtt/001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E001-14",
+      "name": "Starter herb pigments and inks: confirmed sales",
+      "kind": "sales",
+      "status": "confirmed",
+      "zone": "Elwynn Forest",
+      "summary": "Mailbox shows Alabaster Pigments and inks selling; no unit totals or hourly sale rate given.",
+      "metrics": {},
+      "source": {
+        "file": "001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.vtt",
+        "cleaned_file": "goldbound/001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.txt",
+        "paragraph_start": 12,
+        "paragraph_end": 13,
+        "start_time": "00:13:15.680",
+        "quote": "Suddenly, Goldilock was oneshotting just about everything. So lately, I've been running a tight rotation between Thoros, Lightfingers, Fed Fennel, and Mother Fang. They all have about a 25 to 30 minute respawn timer. So, in the meantime, I'm gathering herbs, mining ore, and pickpocketing anything with a red mask that moves. So far, we've racked up over 20 to 30 kills on each of these rares, but still none of the big ticket drops yet. No real jackpot, at least not yet. But since we've capped out our XP for this zone, feels like a perfect time to pause and do a full recap of our gold earnings and where Goldilock stands in that quest for that WOW token. If you know any sneaky gold farms in Elwin that we haven't hit yet, drop a comment below because I'd love to test them out. And right now, it seems like this triple threat is our best bet to get out of Elwin. All right, and here we are at the Goldshshire Inn. It's been our humble abode for the last quite a few days. And as you can see here at the bottom, we're about 22 hours into this challenge. So, we're going to go ahead and do a mailbox clear and see how much gold we actually ended up in this episode. So, over here, sold a few copper ore, some illusion dusts. Those are from selling the and disenchanting the greens as well as some alabaster pigments and inks. Excellent. So, a few gold coming in from those. Some more copper bars just to get more sales quickly. Some rough stones, more essences, a few one-off peace blooms and malchite. Just all gems here. Here's our first frayed knot coming through. So, 1.1k from that as well. Some more regular things.",
+        "canonical_file": "goldbound/001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.txt",
+        "original_file": "goldbound/original-vtt/001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E001-15",
+      "name": "Copper ore/bars, Rough Stone and gems: confirmed sales",
+      "kind": "sales",
+      "status": "confirmed",
+      "zone": "Elwynn Forest",
+      "summary": "Copper ore, copper bars, Rough Stone and gems sold; some ore was smelted to bars to diversify/accelerate sales.",
+      "metrics": {},
+      "source": {
+        "file": "001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.vtt",
+        "cleaned_file": "goldbound/001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.txt",
+        "paragraph_start": 12,
+        "paragraph_end": 13,
+        "start_time": "00:13:15.680",
+        "quote": "Suddenly, Goldilock was oneshotting just about everything. So lately, I've been running a tight rotation between Thoros, Lightfingers, Fed Fennel, and Mother Fang. They all have about a 25 to 30 minute respawn timer. So, in the meantime, I'm gathering herbs, mining ore, and pickpocketing anything with a red mask that moves. So far, we've racked up over 20 to 30 kills on each of these rares, but still none of the big ticket drops yet. No real jackpot, at least not yet. But since we've capped out our XP for this zone, feels like a perfect time to pause and do a full recap of our gold earnings and where Goldilock stands in that quest for that WOW token. If you know any sneaky gold farms in Elwin that we haven't hit yet, drop a comment below because I'd love to test them out. And right now, it seems like this triple threat is our best bet to get out of Elwin. All right, and here we are at the Goldshshire Inn. It's been our humble abode for the last quite a few days. And as you can see here at the bottom, we're about 22 hours into this challenge. So, we're going to go ahead and do a mailbox clear and see how much gold we actually ended up in this episode. So, over here, sold a few copper ore, some illusion dusts. Those are from selling the and disenchanting the greens as well as some alabaster pigments and inks. Excellent. So, a few gold coming in from those. Some more copper bars just to get more sales quickly. Some rough stones, more essences, a few one-off peace blooms and malchite. Just all gems here. Here's our first frayed knot coming through. So, 1.1k from that as well. Some more regular things.",
+        "canonical_file": "goldbound/001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.txt",
+        "original_file": "goldbound/original-vtt/001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E001-16",
+      "name": "Frayed Knot sale validation",
+      "kind": "sales",
+      "status": "confirmed",
+      "zone": "Elwynn Forest",
+      "summary": "At least one 1.1 k knot sale and multiple further knot sales including a double sale; narrator checks that these are not his own characters.",
+      "metrics": {
+        "explicit_knot_sale_gold": 1100
+      },
+      "source": {
+        "file": "001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.vtt",
+        "cleaned_file": "goldbound/001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.txt",
+        "paragraph_start": 12,
+        "paragraph_end": 13,
+        "start_time": "00:13:15.680",
+        "quote": "Suddenly, Goldilock was oneshotting just about everything. So lately, I've been running a tight rotation between Thoros, Lightfingers, Fed Fennel, and Mother Fang. They all have about a 25 to 30 minute respawn timer. So, in the meantime, I'm gathering herbs, mining ore, and pickpocketing anything with a red mask that moves. So far, we've racked up over 20 to 30 kills on each of these rares, but still none of the big ticket drops yet. No real jackpot, at least not yet. But since we've capped out our XP for this zone, feels like a perfect time to pause and do a full recap of our gold earnings and where Goldilock stands in that quest for that WOW token. If you know any sneaky gold farms in Elwin that we haven't hit yet, drop a comment below because I'd love to test them out. And right now, it seems like this triple threat is our best bet to get out of Elwin. All right, and here we are at the Goldshshire Inn. It's been our humble abode for the last quite a few days. And as you can see here at the bottom, we're about 22 hours into this challenge. So, we're going to go ahead and do a mailbox clear and see how much gold we actually ended up in this episode. So, over here, sold a few copper ore, some illusion dusts. Those are from selling the and disenchanting the greens as well as some alabaster pigments and inks. Excellent. So, a few gold coming in from those. Some more copper bars just to get more sales quickly. Some rough stones, more essences, a few one-off peace blooms and malchite. Just all gems here. Here's our first frayed knot coming through. So, 1.1k from that as well. Some more regular things.",
+        "canonical_file": "goldbound/001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.txt",
+        "original_file": "goldbound/original-vtt/001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E001-17",
+      "name": "First total cash/time checkpoint",
+      "kind": "observation",
+      "status": "measured",
+      "zone": "Elwynn Forest",
+      "summary": "~22 h total challenge time and 23,898 g cash; mixes leveling, setup, testing, gathering and sales. Do not label this as the rate of any individual farm.",
+      "metrics": {
+        "played_hours_approx": 22,
+        "cash_gold": 23898,
+        "token_price_gold": 257000
+      },
+      "source": {
+        "file": "001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.vtt",
+        "cleaned_file": "goldbound/001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.txt",
+        "paragraph_start": 12,
+        "paragraph_end": 13,
+        "start_time": "00:13:15.680",
+        "quote": "Suddenly, Goldilock was oneshotting just about everything. So lately, I've been running a tight rotation between Thoros, Lightfingers, Fed Fennel, and Mother Fang. They all have about a 25 to 30 minute respawn timer. So, in the meantime, I'm gathering herbs, mining ore, and pickpocketing anything with a red mask that moves. So far, we've racked up over 20 to 30 kills on each of these rares, but still none of the big ticket drops yet. No real jackpot, at least not yet. But since we've capped out our XP for this zone, feels like a perfect time to pause and do a full recap of our gold earnings and where Goldilock stands in that quest for that WOW token. If you know any sneaky gold farms in Elwin that we haven't hit yet, drop a comment below because I'd love to test them out. And right now, it seems like this triple threat is our best bet to get out of Elwin. All right, and here we are at the Goldshshire Inn. It's been our humble abode for the last quite a few days. And as you can see here at the bottom, we're about 22 hours into this challenge. So, we're going to go ahead and do a mailbox clear and see how much gold we actually ended up in this episode. So, over here, sold a few copper ore, some illusion dusts. Those are from selling the and disenchanting the greens as well as some alabaster pigments and inks. Excellent. So, a few gold coming in from those. Some more copper bars just to get more sales quickly. Some rough stones, more essences, a few one-off peace blooms and malchite. Just all gems here. Here's our first frayed knot coming through. So, 1.1k from that as well. Some more regular things.",
+        "canonical_file": "goldbound/001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.txt",
+        "original_file": "goldbound/original-vtt/001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E001-18",
+      "name": "Darkmoon fishing future option",
+      "kind": "proposal",
+      "status": "not_performed_here",
+      "zone": "Elwynn Forest",
+      "summary": "Mentioned as a future way to improve fish income if the Faire arrives; no Darkmoon farm performed in this source.",
+      "metrics": {},
+      "source": {
+        "file": "001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.vtt",
+        "cleaned_file": "goldbound/001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.txt",
+        "paragraph_start": 9,
+        "paragraph_end": 9,
+        "start_time": "00:08:55.600",
+        "quote": "And hey, if Nat Pegle ever needs a break, I'm ready to sub in. But seriously, I do have a little fishing trick up my sleeve. If we're still stuck in Ellen when the Dark Moon Fair rolls into town, let's just say the fish might be worth a lot more. Until then, we'll leave the fishing to the pros. Around level 20, Goldilock started to hit a wall. Most of the quests were done, and the only leads left were breadcrumbs into Stormwind and Westfall. Both zones we can't access until we pay the gold toll. But then something unexpected happened. A little message popped up in chat reading, \"You have learned expert riding.\" Wait, flying at level 20? I'll admit, I had no idea that was a thing in retail. Wow. Now, now, in the spirit of the gold bound challenge, or every gold matters and every advantage must be earned, I made a call. We went to the Griffin trainer, picked up a mount we already knew, paid 45 gold, and then promptly deleted it. That way, the gold was spent. No shortcuts, no freebies, just pure honest zone locked hassle. And with that, the skies were unleashed and it was time to retest the gold per hour for our gathering professions, now with an aerial advantage. So, we ran a nearly identical route as before. A full hour of herb and ore gathering with stops at every rare spawn that we could find. The results, seven mirror spawns, seven kills, some BOE's, a few vendor greens, and a couple low tier gems. The total looted item value came out to about 2.3k gold, which was nearly a 40% increase over the ground they run. But most of this did come from the rare spawn kills with the material breakdown only being slightly higher with 236 copper ore, 120 silver leaf, 82 earth, and 75 peace bloom.",
+        "canonical_file": "goldbound/001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.txt",
+        "original_file": "goldbound/original-vtt/001 - I Can't Leave Elwynn Until I Earn A WoW Token  - Goldbound Episode 1.en-orig.vtt"
+      }
+    }
+  ]
+}

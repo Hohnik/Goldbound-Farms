@@ -1,0 +1,651 @@
+{
+  "source_id": 13,
+  "source_file": "013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.vtt",
+  "cleaned_file": "goldbound/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.txt",
+  "full_text_reviewed": true,
+  "paragraph_count": 41,
+  "records": [
+    {
+      "id": "E013-01",
+      "name": "Stonescale pool and wreckage fishing hour",
+      "kind": "farm",
+      "status": "measured",
+      "zone": "Swamp of Sorrows",
+      "summary": "27 Mithril-bound and 2 Iron-bound trunks pluseels and 2200 gcoastalrares. Boxes 4200 g, prebox 2640 g, total~6800 g/h; about 5000 transmog/1800 materials. Reported 149 g/box differs 4200/29=145.",
+      "metrics": {
+        "minutes": 60,
+        "Mithril Bound Trunk": 27,
+        "Iron Bound Trunk": 2,
+        "box_appraisal_gold": 4200,
+        "incidental_rares_gold": 2200,
+        "reported_total_gold_per_hour": 6800,
+        "material_gold_per_hour_approx": 1800
+      },
+      "source": {
+        "file": "013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.vtt",
+        "cleaned_file": "goldbound/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.txt",
+        "paragraph_start": 3,
+        "paragraph_end": 4,
+        "start_time": "00:01:29.200",
+        "quote": "Luckily, we've already pushed our skill up to 300 classic fishing, so there's no leveling grinding needed. And in Swamp of Sorrows, there's two main ways to fish for gold, and today we're testing both to see which one comes out on top. Now, the first option is fishing directly from pools and schools, and these are mostly stone scale eel swarms out here, and the loot table isn't too exciting. The stone scale eels selling for only one gold and 66 silver each. But, these pools do have a chance to drop mithril-bound trunks. There isn't a confirmed drop rate on Wowhead, but it seems to be somewhere around 5%. Now, the trunks themselves can contain a mix of green BOEs and recipes, a bit of the RNG loot piñata. Now, we can also find floating wreckage pools that spawn in the same locations as the eels. They're rare spawns, so to get them to appear, we'll need to clear all of the eel pools. The wreckage pools drop them at a much higher rate, and they also add iron lockboxes to the mix. So, the pool method is definitely a loot box opening angle. So, to get a fair in the numbers, let's go ahead and farm for 1 hour, see how many mithril lockboxes we can gather up, and see what kind of loot is hiding inside of them.",
+        "canonical_file": "goldbound/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.txt",
+        "original_file": "goldbound/original-vtt/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E013-02",
+      "name": "Pool crate gear outcomes",
+      "kind": "farm",
+      "status": "successful",
+      "zone": "Swamp of Sorrows",
+      "summary": "Glyphed Epaulets 2500 g and Blackforge Girdle 964 g, plusleather/cloth; no cashsale stated.",
+      "metrics": {},
+      "source": {
+        "file": "013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.vtt",
+        "cleaned_file": "goldbound/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.txt",
+        "paragraph_start": 4,
+        "paragraph_end": 4,
+        "start_time": "00:02:36.280",
+        "quote": "All right, and here's the haul. 27 mithril-bound trunks, and two iron-bound trunks. Now, of course, while fishing I also snagged a couple of coastal rare spawns that totaled in about 2,200 gold in item value. And the raw fish of the eels is worth a solid few hundred gold, putting the pre-box opening value at 2,640 gold. Of course, the 2,200 gold from rares is pretty random, and there may or may not be a rare spawn when we fish this every time, but today we got it. But, onto the boxes. And at first, it's nothing special, but about halfway through, check this out. The glyphed apaulets, a leather shoulder worth about 2,500 gold. And not too far along after, the black forge girdle, clocking in at about 964 gold. Now, the rest of the boxes just have some trade goods, some leather, and some cloth, but in total, we pulled in 4,200 gold from the 29 boxes, giving us an average box value of about 149 gold each. And that puts our net gold per hour for the pool farm at 6.8 thousand gold, which really isn't bad. But, keep in mind, about 5,000 of that is transmog value, which will sell slower, and the remaining 1.8 thousand does come from fish and leather and miscellaneous trade goods. So, it's a pretty decent dual farm. But, like I said, we still need to test open water fishing, because there are some big fish available here. But first, let's talk about the sponsor for our video today, AG1. And to best do that, let's pop into IRL.",
+        "canonical_file": "goldbound/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.txt",
+        "original_file": "goldbound/original-vtt/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.vtt"
+      },
+      "valued_drops": [
+        {
+          "item": "Glyphed Epaulets",
+          "obtained": true,
+          "source_refs": [
+            {
+              "episode": 13,
+              "paragraph_start": 4,
+              "paragraph_end": 4,
+              "start_time": "00:02:36.280"
+            }
+          ],
+          "note": "Obtained from fishing boxes; quoted appraisal, not a sale.",
+          "quote_gold": 2500
+        },
+        {
+          "item": "Blackforge Girdle",
+          "obtained": true,
+          "source_refs": [
+            {
+              "episode": 13,
+              "paragraph_start": 4,
+              "paragraph_end": 4,
+              "start_time": "00:02:36.280"
+            }
+          ],
+          "note": "Obtained from fishing boxes; quoted appraisal, not a sale.",
+          "quote_gold": 964
+        }
+      ]
+    },
+    {
+      "id": "E013-03",
+      "name": "Large Raw Mightfish open-coast hour",
+      "kind": "farm",
+      "status": "measured",
+      "zone": "Swamp of Sorrows",
+      "summary": "Coastal notinland; skill 300+bobber 5.18 Mightfish,63 Darkclaw,11 clams,22 Stonescale,20 Winter Squid,3 Yellowtail, novelty 9/12 lb lobster,2 boxes/supplies.7400 g/h normal valuation;900 greset hypothetical 19000 g/h until sale.",
+      "metrics": {
+        "minutes": 60,
+        "Large Raw Mightfish": 18,
+        "Darkclaw Lobster": 63,
+        "Big-Mouth Clam": 11,
+        "Stonescale Eel": 22,
+        "Winter Squid": 20,
+        "Raw Spotted Yellowtail": 3,
+        "reported_gold_per_hour": 7400,
+        "reset_hypothetical_gold_per_hour": 19000,
+        "quoted_region_mightfish_daily_units_range": [
+          30,
+          60
+        ]
+      },
+      "source": {
+        "file": "013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.vtt",
+        "cleaned_file": "goldbound/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.txt",
+        "paragraph_start": 6,
+        "paragraph_end": 9,
+        "start_time": "00:04:45.960",
+        "quote": "Quite literally, AG1 has cut my supplement stack in the morning down from about seven or eight things to just two. Head to my link or scan the QR code to get a free welcome kit, including a bottle of vitamin D and free AG1 travel packs when you first subscribe. And thank you to AG1 for sponsoring today's adventures. But, without further ado, let's get back into this fishing. This time, open water only. This is the first time we've taken this angle on Goldie, but it's worth it, because the fish available in the open waters here have some insane value. First off, the large raw mightfish. This sits at a market value average of about 280 gold for a single fish. And if we can snag a few of these, it's going to be a good day on the waters. But, since this is open water fishing, even with a max skill of 300, we're still be pulling up some trash. So, to offset that, I'm using the best fishing bobbles we've got, picked up from our Redridge fishing friend.",
+        "canonical_file": "goldbound/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.txt",
+        "original_file": "goldbound/original-vtt/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E013-04",
+      "name": "Winter Squid seasonal stockpile",
+      "kind": "experiment",
+      "status": "proposed",
+      "zone": "Swamp of Sorrows",
+      "summary": "Winter-only catches considered for summerresale; nottested holding returns.",
+      "metrics": {
+        "quoted_unit_gold": 92
+      },
+      "source": {
+        "file": "013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.vtt",
+        "cleaned_file": "goldbound/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.txt",
+        "paragraph_start": 7,
+        "paragraph_end": 9,
+        "start_time": "00:05:38.400",
+        "quote": "This just increases our fishing by about five skill, so hopefully a few of our casts out of our hour farming will be fish and not trash. And from the open coastal waters here in the swamp, we can catch pretty much every zone-appropriate fish. But, the coastal water aspect is important, as it's the only spot we can actually get the mightfish. The inland inlets do not have it. But, the salty waters have mightfish and stone scale eels. They also carry darkclaw lobster and winter squids. Now, these squids are actually worth noting, because they have a solid price of about 86 gold each. And here's the thing, they can only be fished up during the winter months. So, holding onto them until summer could make for a pretty decent profit. But, I'm sure you're wondering, why is large raw mightfish worth 280 gold? I haven't found anything too specific, but they seem to be one of the best options for leveling high-end classic cooking if you're trying to get up to 300. And since the drop rate is low, most players just don't want to farm them themselves.",
+        "canonical_file": "goldbound/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.txt",
+        "original_file": "goldbound/original-vtt/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E013-05",
+      "name": "Sunken Temple skinning skill-reset test",
+      "kind": "experiment",
+      "status": "measured",
+      "zone": "Swamp of Sorrows",
+      "summary": "Relevels 1→300 to pass 175–205 Heavy Hide sweetspot; onehour 5 Heavy Hides,4368 gleather+7000 transmog, near 4500 gpreviousskinbaseline butmorebagclutter.",
+      "metrics": {
+        "minutes": 60,
+        "Heavy Hide": 5,
+        "leather_appraisal_gold": 4368,
+        "transmog_appraisal_gold": 7000,
+        "target_skill_range": [
+          175,
+          205
+        ]
+      },
+      "source": {
+        "file": "013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.vtt",
+        "cleaned_file": "goldbound/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.txt",
+        "paragraph_start": 9,
+        "paragraph_end": 11,
+        "start_time": "00:07:43.240",
+        "quote": "These show market values of a few hundred gold, but these won't sell quickly, if at all. But, I'm hoping that with the new player housing coming out in midnight, we might be able to display these on Goldilock's walls. So, I'm probably not going to try to sell them. And the lockboxes and supplies we fished up didn't contain all that much, so really it's just the fish value that carried this run, landing us in at 7,400 gold for the hour. But travelers, this is future Goldilock speaking, and something interesting happened. When we went to list these mightfish, it looks like someone did a reset on the market, and they were suddenly going for over 900 gold. Now, if the fish we farmed sell at this price, this farm would jump to over 19,000 gold per hour, which would make it not only the best fishing farm so far, but the highest trade good gold per hour farm in the entire challenge so far. Of course, we'll still have to wait for the mailbox reveal to see if any of them actually sell at this inflated price, and I'll be poking around here to catch a few more. But, keep in mind, the mightfish do have a low sale rate, around 30 to 60 per day, so they're definitely not all going to move at once. But, if they trickle out at this good price, that's pretty crazy. For now though, the mightfish are posted on the auction house, and it's time to get after some other farms. Now travelers, as we know, there's only one dungeon in this zone, the Sunken Temple. So, let's head back in for some more farming, and see if we can optimize the way we're running it, because we've been farming it with skinning level 300. But, here's the thing, classic skinning isn't always about max level, and the most valuable skin you can actually get is heavy hide, usually worth around 100 to 150 gold.",
+        "canonical_file": "goldbound/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.txt",
+        "original_file": "goldbound/original-vtt/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.vtt"
+      },
+      "additional_values": [
+        {
+          "value": 4368,
+          "label": "Trade goods",
+          "basis": "Leather appraisal from the explicitly stated one-hour test.",
+          "unit": "g/h",
+          "kind": "recorded",
+          "source_refs": [
+            {
+              "episode": 13,
+              "paragraph_start": 11,
+              "paragraph_end": 11,
+              "start_time": "00:10:54.160"
+            }
+          ]
+        },
+        {
+          "value": 7000,
+          "label": "Transmog appraisal",
+          "basis": "Additional transmog listing appraisal from the test, with no confirmed sales.",
+          "unit": "g",
+          "kind": "value",
+          "source_refs": [
+            {
+              "episode": 13,
+              "paragraph_start": 11,
+              "paragraph_end": 11,
+              "start_time": "00:10:54.160"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E013-06",
+      "name": "Expanded Sunken Temple BOE target search",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Swamp of Sorrows",
+      "summary": "Hunts Ragehammer 209 k, Bludgeon Grinning Dog 120 k, Stinging Bow 78 k, Winters Bite 250 k plus priorweapons; none in testhour. Stinging Bow drops in additional untimed runs.",
+      "metrics": {
+        "Stinging Bow": 1,
+        "quoted_bow_gold": 78000
+      },
+      "source": {
+        "file": "013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.vtt",
+        "cleaned_file": "goldbound/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.txt",
+        "paragraph_start": 10,
+        "paragraph_end": 12,
+        "start_time": "00:09:16.920",
+        "quote": "But, the best chance to get heavy hides is actually with skinning level 175 to 205, and particularly from skinning dragonkin. So, here's the experiment. If we reset skinning from 300 back down to level one, and re-level it inside the dungeon farming the Sunken Temple, we'll naturally pass through that sweet spot of 175 to 205. The question is, will we pick up any extra heavy hides, and will this offset the lost value from farming through all those early scraps of light leathers and rugged leather scraps? Well, let's find out. Of course, leather isn't the only thing on the menu here, and the real Sunken Temple prize are rare BOE weapons. And there is about eight unique drops. Now, we talked about Death Blow and Stealth Blade last episode, which are two of the cooler ones, but there's also Ragehammer, a two-handed mace worth around 209,000 gold. Then, there's the Bludgeon of the Grinning Dog, a staff worth about 120,000 gold. And also, I kind of just want to know which dev named the items in Sunken Temple, because these names are wild. But anyways, there's also the Stinging Bow coming in at around 78,000 gold, though its appearance isn't anything that special. And Winter's Bite, a one-handed axe with a massive 250,000 gold price tag. Now, of course, they're all insanely rare, but just one of these would be a huge win for the transmog shelves. So, after an hour of testing, here's how it shook out. Running from one to 300 skinning in the dungeon, we ended up with almost every kind of hide in the game, including five heavy hides, which is, of course, always welcomed.",
+        "canonical_file": "goldbound/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.txt",
+        "original_file": "goldbound/original-vtt/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E013-07",
+      "name": "Hallows End Magic Broom and hearthstone planning",
+      "kind": "experiment",
+      "status": "performed",
+      "zone": "Elwynn Forest / Redridge Mountains / Swamp of Sorrows",
+      "summary": "Restricted dailies/trickortreat for 50 treatbroom,150 hearthstoneorpet; mounttemporary andbag-slottoy proposed. No petpurchasedhere.",
+      "metrics": {
+        "broom_currency_cost": 50,
+        "hearthstone_pet_currency_cost": 150
+      },
+      "source": {
+        "file": "013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.vtt",
+        "cleaned_file": "goldbound/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.txt",
+        "paragraph_start": 13,
+        "paragraph_end": 17,
+        "start_time": "00:12:25.640",
+        "quote": "Now, in this zone, there's a few things going on. There's festivities, quests, but a big-ticket one is event vendors, and they offer transmog and cosmetics in exchange for the event currency, Tricky Treats. But, we're not here for transmog, because everything they sell here is soulbound and can't be sold in the auction house, at least for transmog. We're after valuable items and quality-of-life upgrades. And to get them, we're going to need to maximize our trick-or-treating and daily quests, since we're going to be limited to what zones we currently have unlocked. Now, looking at the vendors, the first prize worth mentioning is the Magic Broom. It does cost 50 Tricky Treats, which is pretty low, and acts as an instant-cast flying mount. And with the mining while mounted bug patched, this is about as close as Goldie will get back to it. And this instant-cast mount could save us serious time on gathering runs without having to hard-cast mount after every single node. But, the downside is it's only available during Hallow's End. So, when the event ends on midnight, November 1st, the broom would disappear as well. But, something a little more permanent is the Headless Horseman's Hearthstone. This toy would allow us to delete our actual Hearthstone, freeing up an extra bag slot, which, as you know, are always precious.",
+        "canonical_file": "goldbound/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.txt",
+        "original_file": "goldbound/original-vtt/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E013-08",
+      "name": "Hallows End pet resale research",
+      "kind": "proposal",
+      "status": "not_performed_here",
+      "zone": "Swamp of Sorrows",
+      "summary": "Feline Familiar 182 kmarket/47 ksale, Widgetsimilar, Cursed Birman 26.5 ksale, Anaxsi 227 kregionno sales. Summerresalehypothesis not observed.",
+      "metrics": {},
+      "source": {
+        "file": "013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.vtt",
+        "cleaned_file": "goldbound/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.txt",
+        "paragraph_start": 14,
+        "paragraph_end": 15,
+        "start_time": "00:13:40.960",
+        "quote": "However, this one does cost 150 Tricky Treats, so it's a serious investment, and with our restrictions to zones, I'm not sure we'll get that many during the event. Now, another option that also costs 150 Tricky Treats are the seasonal battle pets. And here's where things get interesting from a gold perspective. They can actually be sold on the auction house. Now, because of their seasonality and the fact that most players spend their currency on cosmetics, these pets do tend to carry strong market values. Take the Feline Familiar. The market value is averaging around 182,000 with a solid sale average of 47,000 gold. The Widget of the Departed is similar pricing. The Cursed Birman, lower, but a regional sale average of 26.5k.",
+        "canonical_file": "goldbound/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.txt",
+        "original_file": "goldbound/original-vtt/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E013-09",
+      "name": "A Time to Gain daily",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Elwynn Forest",
+      "summary": "Wickerman daily 1 Tricky Treat plusgold/XP; daily capped.",
+      "metrics": {
+        "Tricky Treat_daily": 1
+      },
+      "source": {
+        "file": "013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.vtt",
+        "cleaned_file": "goldbound/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.txt",
+        "paragraph_start": 15,
+        "paragraph_end": 17,
+        "start_time": "00:14:22.959",
+        "quote": "And Anaxsi has a huge region average around 227,000 gold, but we don't have any consistent sale data. Now, of course, these likely wouldn't sell fast, and the best time to unload them and get a sale is actually probably in the summer months, far from when the event is available itself. But still, they could prove to be a strong long-term investment. But, what can Goldie actually do right now to gather these Tricky Treats? Well, unfortunately, most of the big event quest lines and stuff available from Elwynn does send us to other major cities and other zones that we simply just don't have unlocked right now, which leaves us only with a few options. First, there's a daily quest, A Time to Gain, which uses the bonfire at the Wickerman just outside of Stormwind City. Now, it only gives us one treat per day, but we can stockpile these over the event. Then, if we head down to Goldshire, there's the classic Headless Horseman fire dousing quest. This, again, is another daily, so we can do both of these every single day, and both quests award a little bit of gold and a decent chunk of experience for Goldie.",
+        "canonical_file": "goldbound/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.txt",
+        "original_file": "goldbound/original-vtt/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E013-10",
+      "name": "Goldshire fire dousing daily",
+      "kind": "farm",
+      "status": "successful",
+      "zone": "Elwynn Forest",
+      "summary": "Repeated dailygold/XP/treats; pumpkinbox laterdrops Flying Broom free.",
+      "metrics": {},
+      "source": {
+        "file": "013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.vtt",
+        "cleaned_file": "goldbound/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.txt",
+        "paragraph_start": 15,
+        "paragraph_end": 26,
+        "start_time": "00:14:22.959",
+        "quote": "And Anaxsi has a huge region average around 227,000 gold, but we don't have any consistent sale data. Now, of course, these likely wouldn't sell fast, and the best time to unload them and get a sale is actually probably in the summer months, far from when the event is available itself. But still, they could prove to be a strong long-term investment. But, what can Goldie actually do right now to gather these Tricky Treats? Well, unfortunately, most of the big event quest lines and stuff available from Elwynn does send us to other major cities and other zones that we simply just don't have unlocked right now, which leaves us only with a few options. First, there's a daily quest, A Time to Gain, which uses the bonfire at the Wickerman just outside of Stormwind City. Now, it only gives us one treat per day, but we can stockpile these over the event. Then, if we head down to Goldshire, there's the classic Headless Horseman fire dousing quest. This, again, is another daily, so we can do both of these every single day, and both quests award a little bit of gold and a decent chunk of experience for Goldie.",
+        "canonical_file": "goldbound/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.txt",
+        "original_file": "goldbound/original-vtt/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E013-11",
+      "name": "Unlocked-inn candy bucket route",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Elwynn Forest / Redridge Mountains / Swamp of Sorrows",
+      "summary": "Elwynn, Redridge, Swamp buckets looted; one-time perevent, not daily; horseman dungeon unavailable.",
+      "metrics": {},
+      "source": {
+        "file": "013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.vtt",
+        "cleaned_file": "goldbound/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.txt",
+        "paragraph_start": 16,
+        "paragraph_end": 17,
+        "start_time": "00:15:23.920",
+        "quote": "So, they are worth doing. And honestly, these quests bring me back years nostalgia of questing in Elwynn with the Headless Horseman coming through. And the last thing we can do is to visit every single inn that we have unlocked, because each inn has a candy bucket that you can trick-or-treat from. Now, these are a one-time per event, not a daily quest, but they do give a few Tricky Treats each. In our case, that means checking Elwynn, Redridge, and the Swamp of Sorrows. Of course, for players without zone restrictions, the event does offer a lot more options. You can travel across Azeroth hitting every inn, completing all the quests, and even queue the Headless Horseman dungeon in Lordaeron. And doing that one every day is pretty good, because he can drop a rare mount.",
+        "canonical_file": "goldbound/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.txt",
+        "original_file": "goldbound/original-vtt/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E013-12",
+      "name": "Thorium node depletion observation",
+      "kind": "experiment",
+      "status": "confirmed",
+      "zone": "Swamp of Sorrows",
+      "summary": "Repeated tinyzone loops exhaust nodes, only 1–2 laterlap; turtles 3–5 minute filler tested.",
+      "metrics": {},
+      "source": {
+        "file": "013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.vtt",
+        "cleaned_file": "goldbound/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.txt",
+        "paragraph_start": 17,
+        "paragraph_end": 18,
+        "start_time": "00:16:06.320",
+        "quote": "Sadly, Goldilocked can't queue due to zone restrictions, but it's one of the cooler seasonal mounts in the game, at least in my opinion. With our Hallow's End in full swing, we get a few Tricky Treats from the beginning quests, but now, we'll just be doing our dailies every single day to hopefully get enough to buy something that'll help the character. But, now it's time to move on, because when we first tested mining in the Swamp of Sorrows, we ran into a problem. Thorium ore density just wasn't high enough, and with the zone being so small, doing straight-up laps would quickly tap out all of the nodes, and then the respawns of the nodes themselves became the limiting factor. Later laps would only yield one or two nodes at a time.",
+        "canonical_file": "goldbound/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.txt",
+        "original_file": "goldbound/original-vtt/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E013-13",
+      "name": "Thorium-and-turtle hybrid hour",
+      "kind": "farm",
+      "status": "measured",
+      "zone": "Swamp of Sorrows",
+      "summary": "377 Thorium,10 Crystals,77 Thick Leather,20 Rugged,99 Scales,35 Meat,46 Clams;8100 gmaterials atlowerprices plus 5500 transmog=13600 valuation. Aegis Stormwind, Dark Phantom Cape, Champions Chestplate drops.",
+      "metrics": {
+        "minutes": 60,
+        "Thorium Ore": 377,
+        "Arcane Crystal": 10,
+        "Thick Leather": 77,
+        "Rugged Leather": 20,
+        "Turtle Scale": 99,
+        "Turtle Meat": 35,
+        "Big-Mouth Clam": 46,
+        "material_gold_per_hour": 8100,
+        "transmog_appraisal_gold": 5500,
+        "total_appraisal_gold": 13600
+      },
+      "source": {
+        "file": "013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.vtt",
+        "cleaned_file": "goldbound/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.txt",
+        "paragraph_start": 18,
+        "paragraph_end": 20,
+        "start_time": "00:16:44.680",
+        "quote": "But, it got me thinking. What if we planned something a little more efficient? A farm that could min-max this downtime? And really, what would be a better filler than the turtle farm? So, here's the plan. From turtles alone, we know we can pull about 8,300 gold per hour, and mining on its own came in lower at about 6,700 gold per hour. So, the idea is to do one loop of zone mining, and then farm turtles for 3 to 5 minutes. This should let the thorium nodes respawn, and then we can loop it again. The question is, could this hybrid method outpace both farms? Now, of course, the route itself is straightforward, a circle of the zone and clearing the turtle camps. But, I also made sure to dip into the cave on every run, since it actually holds four to six thorium spawns along with a few mobs. And as a bonus, I think these loops might actually reset some of the open-world loot bugs, which means we might actually see some transmog dropping from the cave dwellers and the turtles. So, after an hour of testing, what are the results? And firstly, our suspicion of the bugged loot seemed to be correct, because we pulled in a few transmog items. First up, the Aegis of Stormwind. This is a blue BoE shield worth about 2,000 gold, but with its appearance, a piece you could easily see players buying. We also got the Dark Phantom Cape. This is a 3,000 gold cloak, and it being a full-length cloak actually looks pretty darn good. Now, we also got a handful of greens, but the only one we're actually going to list and sell is the Champion's Chestplate, worth just around 1,500 gold. So, that's about 5.5 thousand gold in transmog value, which really isn't bad, although it is variable. So, let's focus in on the direct trade goods, since those are a little more consistent. Now, for mining in this hour, we actually got 377 thorium ore, which is more than we got in the pure mining test, which is crazy considering how much time we actually also spent killing turtles. But, prices on thorium ore have dropped since our last video, from 10 to 11 gold each down to about 7 to 8 gold each. But, we still have about 3,000 gold total just from thorium. And for arcane crystals, we still snagged 10, selling at around 267 gold each for another 2,670 gold. That's close to our previous rate, where we got 12 before, but the prices are also a bit lower than last time.",
+        "canonical_file": "goldbound/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.txt",
+        "original_file": "goldbound/original-vtt/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E013-14",
+      "name": "Seawing opportunistic coastal rare",
+      "kind": "farm",
+      "status": "successful",
+      "zone": "Swamp of Sorrows",
+      "summary": "Repeated coast sightings/kills give~1000 ggear; notcamped, unnamedother 16 rares backgroundonly.",
+      "metrics": {},
+      "source": {
+        "file": "013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.vtt",
+        "cleaned_file": "goldbound/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.txt",
+        "paragraph_start": 20,
+        "paragraph_end": 21,
+        "start_time": "00:20:05.400",
+        "quote": "But travelers, I think it's safe to say the turtle and mining loop is indeed a min-maxed farm. Very nice. Think it's worth noting that one thing we haven't really leaned into this zone is rare spawn hunting. And it's not that the Swamp of Sorrows is a lack of rares. There's actually 16 of them. The issue is that none of them actually stand out the way Mother Fang, Fedfennel, or Ro the Silent did. There just aren't any rares here that drop insanely valuable single ticket items. That said, they're still worth killing because many of the rares carry 500 to 2,000 gold transmog pieces. It's just that they're like Snarlflare in Redridge. You take them down if you see them, but they're not really worth camping or timing their spawns for.",
+        "canonical_file": "goldbound/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.txt",
+        "original_file": "goldbound/original-vtt/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E013-15",
+      "name": "Weekly Molten Core ore and binding retest",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Molten Core",
+      "summary": "No bindings; Dark Iron ore~1000 g/run; bagpatternstilltarget.",
+      "metrics": {
+        "ore_appraisal_gold_per_run": 1000
+      },
+      "source": {
+        "file": "013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.vtt",
+        "cleaned_file": "goldbound/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.txt",
+        "paragraph_start": 21,
+        "paragraph_end": 22,
+        "start_time": "00:20:48.840",
+        "quote": "For example, while fishing, we've often seen Seawing around along the shore. And he's dropped a few items in the 1,000 gold range, which is about as much as we can realistically expect here. And while flying for ore or skinning turtles, picking up rares if we spot them can add a little bit of mid-tier transmog value to the haul. But like I said, no golden tickets hiding in the rares in the swamp. So right now, the best bet is still the Sunken Temple skinning route where we can get steady gold and some chances at rare BOEs that have insane value. But even there, most of the green transmog stays in the 1 to 2k range. So overall, Swamp of Sorrows is a little bit of a slow burner for transmog unless you get really lucky. But then again, it kind of makes up for it with some pretty good steady gold farms. But speaking of transmog, travelers, it's time for an update on our Molten Core runs. And remember, we're farming for the legendary Thunderfury, Blessed Blade of the Windseeker. And I still need both left and right bindings dropped from the boss. And did we get them this week?",
+        "canonical_file": "goldbound/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.txt",
+        "original_file": "goldbound/original-vtt/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.vtt"
+      },
+      "additional_values": [
+        {
+          "value": 1000,
+          "label": "Ore per run",
+          "basis": "Recorded ore value from one weekly run; no repeatable hourly rate.",
+          "unit": "g/run",
+          "kind": "value",
+          "source_refs": [
+            {
+              "episode": 13,
+              "paragraph_start": 22,
+              "paragraph_end": 22,
+              "start_time": "00:21:51.120"
+            }
+          ],
+          "approx": true
+        }
+      ]
+    },
+    {
+      "id": "E013-16",
+      "name": "Gloomrel Dark Iron smelting unlock visit",
+      "kind": "experiment",
+      "status": "blocked",
+      "zone": "Blackrock Depths",
+      "summary": "BRDquest inspected:2 Star Ruby,20 Gold Bars,10 Truesilver Bars. Barsunlearned; recipe only Black Forge. Treasurechest alternative considered.",
+      "metrics": {
+        "Star Ruby_required": 2,
+        "Gold Bar_required": 20,
+        "Truesilver Bar_required": 10
+      },
+      "source": {
+        "file": "013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.vtt",
+        "cleaned_file": "goldbound/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.txt",
+        "paragraph_start": 22,
+        "paragraph_end": 25,
+        "start_time": "00:21:51.120",
+        "quote": "Well, unfortunately not. But hey, every Molten Core run is another chance at Blood of the Mountain, the Core Felcloth Bag, plus as we're going through, we cleared all the Dark Iron Ore, which this week netted us 1,000 gold from one run. And Dark Iron Ore is exactly what I want to talk about next. So back in the Burning Steppes episode, I mentioned that smelting Dark Iron Ore would have to wait until we unlock Duskwood since that's where the next mining trainer could be who could teach us some higher level smelting. But that wasn't quite right. You see, the Duskwood trainer does have the future smelting recipes, but not for Dark Iron Ore. The Dark Iron smelting recipe actually comes from Gloomrel in the Blackrock Depths.",
+        "canonical_file": "goldbound/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.txt",
+        "original_file": "goldbound/original-vtt/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E013-17",
+      "name": "Treasure chest gold/truesilver workaround",
+      "kind": "farm",
+      "status": "ongoing",
+      "zone": "Swamp of Sorrows",
+      "summary": "Outlawtracktreasure, rarechests 1.6%goldbars 1–2. Silkenchestduringdualhourinsteadgives Warmonger 5–40 k valuation; no requiredbarsconfirmed.",
+      "metrics": {
+        "cited_gold_bar_pct": 1.6,
+        "gold_bar_quantity_range": [
+          1,
+          2
+        ]
+      },
+      "source": {
+        "file": "013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.vtt",
+        "cleaned_file": "goldbound/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.txt",
+        "paragraph_start": 24,
+        "paragraph_end": 30,
+        "start_time": "00:23:13.520",
+        "quote": "This quest requires two Star Rubies, not too much of a problem. We can get those just from mining. But it does require 20 gold bars and 10 Truesilver bars, which the raw ore themselves, that's not a problem. We can get gold in Redridge and Truesilver is both in Burning Steppes and in Swamp of Sorrows. But here's the problem. We can't actually smelt gold or Truesilver bars yet. That is actually gated behind Duskwood right now for the higher level mining trainer. So, does that mean our dreams of smelting Dark Iron Ore early are over? Well, maybe not. So, there is a possible workaround. Gold and Truesilver bars can both actually drop from one specific source, solid chests, which now are more appropriately called Silverbound Treasure Chests, Sturdy Treasure Chests, and Silken Treasure Chests.",
+        "canonical_file": "goldbound/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.txt",
+        "original_file": "goldbound/original-vtt/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.vtt"
+      },
+      "valued_drops": [
+        {
+          "item": "Warmonger",
+          "obtained": true,
+          "source_refs": [
+            {
+              "episode": 13,
+              "paragraph_start": 30,
+              "paragraph_end": 30,
+              "start_time": "00:27:58.920"
+            }
+          ],
+          "note": "Obtained from a treasure chest while gathering; wide quoted price range.",
+          "quote_gold": [
+            5000,
+            40000
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E013-18",
+      "name": "Herbalism 285 fragment warmup",
+      "kind": "experiment",
+      "status": "successful",
+      "zone": "Swamp of Sorrows",
+      "summary": "Relearnsherbalism, levels 1→285 tofull Sorrowmoss/Sansam yield.",
+      "metrics": {
+        "target_skill": 285
+      },
+      "source": {
+        "file": "013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.vtt",
+        "cleaned_file": "goldbound/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.txt",
+        "paragraph_start": 27,
+        "paragraph_end": 28,
+        "start_time": "00:25:44.520",
+        "quote": "Now, the Swamp of Sorrows is home to a few herbs. And because we just learned herbalism, we're going to be one out of 300 classic herbalism. So to gather properly, we do need to power level up to 285. But while we're doing some pre-farming warm-up here to get the skill, let's talk about the herbs that the zone has to offer. First up is Golden Sansam. This is a high level herb worth around six to seven gold each. But also in the zone, there's a unique herb found only in the Swamp of Sorrows, Sorrowmoss. And this one is valued at nine to 12 gold each. And those are pretty much the only two herbs you'll get in this zone. And it's about a 50/50 spread. There is some stranglekelp along the shore, but it's not really worth going over there.",
+        "canonical_file": "goldbound/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.txt",
+        "original_file": "goldbound/original-vtt/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E013-19",
+      "name": "Magic Broom herb-only hour",
+      "kind": "farm",
+      "status": "measured",
+      "zone": "Swamp of Sorrows",
+      "summary": "366 Sorrowmoss 4661 g,361 Golden Sansam 2354 g, total 7015 g/hour.350 nodes saves 1.5 sec each=8.75 min;15%boostestimatednotpairedcontrolledtiming.",
+      "metrics": {
+        "minutes": 60,
+        "Sorrowmoss": 366,
+        "Golden Sansam": 361,
+        "appraisal_gold": 7015,
+        "estimated_mount_minutes_saved": 8.75,
+        "requires_seasonal_broom": true
+      },
+      "source": {
+        "file": "013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.vtt",
+        "cleaned_file": "goldbound/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.txt",
+        "paragraph_start": 26,
+        "paragraph_end": 29,
+        "start_time": "00:24:58.280",
+        "quote": "And even if not, it's another piece of research on Goldy's road to that Explorer title. In every zone, every gathering skill, it all adds up. But before we get going, it's a new day over here in Azeroth, so the Hallows' End dailies have to get done. And travelers, check this out. Out of our pumpkin box today from putting out the gold shire fires, we pulled the flying broom. Let's go. That means we can put our tricky treats towards something else, maybe a pet or that Hearthstone tool, and we get the broom early. Honestly, this broom is insanely min-maxed for gathering. Now it's not a mount, but an instant cast item. So we can hop from node to node without delay. And quite honestly, it's in perfect timing for some herbalism.",
+        "canonical_file": "goldbound/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.txt",
+        "original_file": "goldbound/original-vtt/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E013-20",
+      "name": "Magic Broom dual-gather hour",
+      "kind": "farm",
+      "status": "measured",
+      "zone": "Swamp of Sorrows",
+      "summary": "251 Sansam,159 Sorrowmoss,354 Thorium,459 Dense Stone,13 Crystals,13 Truesilverplusgems;9945 g/h excluding Warmonger. Minimum buyoutbelowmarket, realizedmaylower.",
+      "metrics": {
+        "minutes": 60,
+        "Golden Sansam": 251,
+        "Sorrowmoss": 159,
+        "Thorium Ore": 354,
+        "Dense Stone": 459,
+        "Arcane Crystal": 13,
+        "Truesilver Ore": 13,
+        "reported_gold_per_hour": 9945,
+        "requires_seasonal_broom": true
+      },
+      "source": {
+        "file": "013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.vtt",
+        "cleaned_file": "goldbound/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.txt",
+        "paragraph_start": 29,
+        "paragraph_end": 31,
+        "start_time": "00:27:00.000",
+        "quote": "And the results? Well, we got 366 Sorrowmoss valued at 4,661 gold. Not only that, but we pulled 361 Golden Sansam worth 2,354 gold, which is a combined total of just over 7,000 gold per hour, which actually beats our base mining test of 6,700 gold per hour. Now to be fair, the broom does make a big difference because we don't have to hard cast our mount after every single node. We do save 1.5 seconds per node. And at about 350 nodes per hour, that's actually 8.75 minutes saved, around a 15% efficiency boost, which is quite large. So, herb only is solid. But travelers, what about dual gathering? So, let's run it back. Queue up for another full hour of mining and herbing with the broom. Now this time along the way, I actually spotted a silken chest.",
+        "canonical_file": "goldbound/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.txt",
+        "original_file": "goldbound/original-vtt/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E013-21",
+      "name": "Molten Core bank disenchant batch",
+      "kind": "experiment",
+      "status": "measured",
+      "zone": "Swamp of Sorrows",
+      "summary": "Sixweeksstoredloot, twofullbanktabs;12 min→162 Greater Eternal Essence,765 Large Brilliant Shard,197 Rich Illusion Dust,2680 g.13400 active-hour extrapolation excludesacquisition.",
+      "metrics": {
+        "minutes": 12,
+        "Greater Eternal Essence": 162,
+        "Large Brilliant Shard": 765,
+        "Rich Illusion Dust": 197,
+        "appraised_gold": 2680,
+        "processing_only_extrapolated_gold_per_hour": 13400
+      },
+      "source": {
+        "file": "013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.vtt",
+        "cleaned_file": "goldbound/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.txt",
+        "paragraph_start": 31,
+        "paragraph_end": 33,
+        "start_time": "00:29:02.400",
+        "quote": "So travelers, at least during Hallows' End with the broom active, dual gathering beats both mining only and herb only by a pretty solid margin. But it is worth noting that right now on my tooltips, a lot of the current minimum buyouts are actually quite a bit under market value averages. So it looks like the market might be tanking a little bit, so the gold per hour might actually end up a little bit lower in our pockets. But either way, this is a huge result for dual gathering. And let's get this haul into the bank. But on the way, let's go ahead and drop herbalism just for a moment and pick up enchanting because we have some long overdue materials piled up in storage.",
+        "canonical_file": "goldbound/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.txt",
+        "original_file": "goldbound/original-vtt/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E013-22",
+      "name": "Mightfish realized premium sales",
+      "kind": "sales",
+      "status": "sales_confirmed",
+      "zone": "Swamp of Sorrows",
+      "summary": "5 fish~2400 gand 17 fish 15000 g; caption over 100 g contradictslatter~882 gunit. Morelatersalesunquantified.",
+      "metrics": {
+        "batches": [
+          {
+            "quantity": 5,
+            "gold_approx": 2400
+          },
+          {
+            "quantity": 17,
+            "gold": 15000
+          }
+        ]
+      },
+      "source": {
+        "file": "013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.vtt",
+        "cleaned_file": "goldbound/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.txt",
+        "paragraph_start": 35,
+        "paragraph_end": 41,
+        "start_time": "00:32:18.760",
+        "quote": "And check this out. Some of our large mightfish sold for around 500 gold each, five of them netting 2.4k. And plenty more odds and ends rolled in, thorium ore, some small stacks of thick leather, a few gems here and there, some arcane crystals, more leather again. We did quite a bit of skinning this week. And then another nice surprise, 17 large raw mightfish selling for 15k. I think these are the ones that sold when we saw the price get cranked up. And we sold them for over 100 gold each, which is a big win. So, let's go ahead and clear up these first 100 mails.",
+        "canonical_file": "goldbound/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.txt",
+        "original_file": "goldbound/original-vtt/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E013-23",
+      "name": "Friday night gather and liquidation push",
+      "kind": "experiment",
+      "status": "performed",
+      "zone": "Swamp of Sorrows",
+      "summary": "30 min AHchecks, broom Swampgather, side Mithril, enchantsales, transmogfiresales; afternoon→12:30 amraises 271 k→over 300 kstillbelow 310 ktoken. Level 74; notisolatedfarmrate.",
+      "metrics": {
+        "cash_gold_lower_bound": 300000,
+        "token_gold": 310000,
+        "character_level": 74
+      },
+      "source": {
+        "file": "013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.vtt",
+        "cleaned_file": "goldbound/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.txt",
+        "paragraph_start": 34,
+        "paragraph_end": 41,
+        "start_time": "00:31:34.120",
+        "quote": "It's time to see where the mailbox stands. And I'll be honest, I can only see 100 mails at a time, and I don't actually know if we have enough for a token. So, right now, Goldie is sitting at 197,000 gold. And with a token hovering around 320k, we're still a ways off. And the lowest I've seen the token dip recently was yesterday at 305,000 gold. And that means today, we do need 123,000 gold from our mailbox clear to buy a WoW token. So, let's get going. Opening the first mails, nothing too crazy here on Goldie, just some steady trade goods. And the first big chunk is coming from our farm earlier today, Golden Sands and and Soromav. 1.7k and 3.3k. Not bad at all.",
+        "canonical_file": "goldbound/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.txt",
+        "original_file": "goldbound/original-vtt/013 - Swamp of Sorrows Is A GRIND... Can I Escape Today？ - Goldbound Episode 13.en-orig.vtt"
+      }
+    }
+  ]
+}

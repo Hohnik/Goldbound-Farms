@@ -1,0 +1,11 @@
+{
+  "name": "goldbound-farms",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node dev.mjs",
+    "build": "node build.mjs",
+    "check": "node --check public/app.js && node --check public/earnings.js && node --check public/item-links.js && node --check public/atlas-model.js && node --check dev.mjs && node --check build.mjs",
+    "test": "node earnings.test.mjs && node item-links.test.mjs && node atlas-model.test.mjs"
+  }
+}

@@ -1,0 +1,579 @@
+{
+  "source_id": 38,
+  "source_file": "038 - This Buff Just Changed Everything - Goldbound 37.en-orig.vtt",
+  "cleaned_file": "goldbound/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.txt",
+  "full_text_reviewed": true,
+  "paragraph_count": 21,
+  "records": [
+    {
+      "id": "E038-01",
+      "name": "JinthaAlor spider cave trial",
+      "kind": "farm",
+      "status": "measured",
+      "zone": "Hinterlands",
+      "summary": "8–12 spidersnonhyperspawn; legs/sacs/Thick Spider Silkjunk 63 g/h; no Ghost Mushrooms.",
+      "metrics": {
+        "reported_gold_per_hour": 63
+      },
+      "source": {
+        "file": "038 - This Buff Just Changed Everything - Goldbound 37.en-orig.vtt",
+        "cleaned_file": "goldbound/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.txt",
+        "paragraph_start": 2,
+        "paragraph_end": 2,
+        "start_time": "00:00:40.879",
+        "quote": "First off, well, we haven't really found a consistent gold farm that can truly move the needle here. On top of that, there's actually a few classic hinterlands farms that used to be available, which are just straight up gone now. We already talked about the ghost mushrooms, which have disappeared from the zone entirely, but that isn't where it stops. But more on that later. First up, let's head up to Genta Allore for the troll ruins, which to be fair, there's actually a few gold farms up here. Of course, the spider cave, which used to have ghost mushrooms, doesn't have those anymore. But there's still the spiders themselves inside, which are technically farmable, but they aren't on a hyperspawn, so we will have to wait in between clears of 8 to 12 spiders. On top of the slow clear time, they don't actually really have anything worth farming. They could of course drop some general greens or world drop epics. Technically the trade goods though between the crunchy spider legs which are worth about 45 silver, the large venom sacks about 1 silver, the small spider legs 13 silver, and the thick spider silk which is one of the cheapest spider silk variants at 43 silver. Farming these guys only works out to 63 gold per hour. Yeah, and since we have 200,000 gold left for the token, that would be 3,174 hours or 132 days of straight spider farming. So, spiders, aren't it? But that isn't all we have in genta allore, thankfully, because we do have something else here. Trolls. And in particular, trolls that drop wild vine. Now, this is a super low drop according to Wowhead, around.3%, which is for sure rare, but historically, groups that farm these guys will do a fiveman hyperspawn farm of the entire ruins and get tons of kills per hour. We're of course running a challenge on Goldie here and grouping for open world farms is out of the question, but we can still test it even if we get one every 300 kills. I can kill about 900 trolls per hour solo. And Wildbine is super valuable with a ticket price of 384 gold. Not bad. Most of the trolls do drop this according to Wowhead, but there is one troll archetype here that's a little more interesting. So, while farming Wildbine, we want to make sure to focus on the vile branch hide skinners. These guys can actually drop a rare recipe and maybe the best drop in the whole zone, the pattern for the iron feather breast plate. The recipe itself has an average list price of around 40,000 gold, while the crafted chest piece used with the leather wicking profession goes for about 5,000 gold. So, I will definitely want to farm up at least two of these drops. One just to sell as the recipe because 40,000 gold is pretty much as much as we have right now. and then one to send over to my one crafting alt, golden path, who just so happens to have leather working. So maybe not a death zone after all. Well, not so fast, cuz there's a problem. On testing this, even though Wowhead says the Wildvine is on the drop tables here, my data points otherwise. With thousands of trolls killed, zero wildvine. Looking into the forums, much like the ghost mushroom, when the zone scaling changed here in the hinterlands, the level bracket moved out of the Wild Vine drop range and with it removed yet another gold farm from the hinterlands. Not ideal. So, with that in mind, I'll call the trolls neutral. But that isn't all that Jimthaw Allore has. In addition to the leather working recipe, it has the second best drop in the zone as well. From the rare up in the top in the ruins, Mythreus the Enchanter. Now, this rare is the only one in the zone with a specific item that I feel is worth camping. The other rares are definitely worth killing for low value transmog. Well, this one drops the Chans Imperial Robes, a 20 to 40,000 gold transmog drop. So, we have two notable drops, at least so far in the zone, and we definitely want to camp this one. And since this is really the only mob worth camping in the zone, well, we need something to do in the meantime, which luckily this week's sponsor, Idle Obelisk Miner does just that, which if you're a fan of Goldbound, gold farming, and slow rewarding number go up progression, you're going to want to check this out.",
+        "canonical_file": "goldbound/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.txt",
+        "original_file": "goldbound/original-vtt/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E038-02",
+      "name": "JinthaAlor Wildvine availability retest",
+      "kind": "experiment",
+      "status": "failed",
+      "zone": "Hinterlands",
+      "summary": "Thousandskillszero Wildvine despite 0.3%cited/900 kills/hcapacity; level-table-removal explanationforum-derived, not independentlyproven.",
+      "metrics": {
+        "kills_lower_bound": 2000,
+        "Wildvine": 0,
+        "quoted_target_kills_per_hour": 900
+      },
+      "source": {
+        "file": "038 - This Buff Just Changed Everything - Goldbound 37.en-orig.vtt",
+        "cleaned_file": "goldbound/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.txt",
+        "paragraph_start": 2,
+        "paragraph_end": 2,
+        "start_time": "00:00:40.879",
+        "quote": "First off, well, we haven't really found a consistent gold farm that can truly move the needle here. On top of that, there's actually a few classic hinterlands farms that used to be available, which are just straight up gone now. We already talked about the ghost mushrooms, which have disappeared from the zone entirely, but that isn't where it stops. But more on that later. First up, let's head up to Genta Allore for the troll ruins, which to be fair, there's actually a few gold farms up here. Of course, the spider cave, which used to have ghost mushrooms, doesn't have those anymore. But there's still the spiders themselves inside, which are technically farmable, but they aren't on a hyperspawn, so we will have to wait in between clears of 8 to 12 spiders. On top of the slow clear time, they don't actually really have anything worth farming. They could of course drop some general greens or world drop epics. Technically the trade goods though between the crunchy spider legs which are worth about 45 silver, the large venom sacks about 1 silver, the small spider legs 13 silver, and the thick spider silk which is one of the cheapest spider silk variants at 43 silver. Farming these guys only works out to 63 gold per hour. Yeah, and since we have 200,000 gold left for the token, that would be 3,174 hours or 132 days of straight spider farming. So, spiders, aren't it? But that isn't all we have in genta allore, thankfully, because we do have something else here. Trolls. And in particular, trolls that drop wild vine. Now, this is a super low drop according to Wowhead, around.3%, which is for sure rare, but historically, groups that farm these guys will do a fiveman hyperspawn farm of the entire ruins and get tons of kills per hour. We're of course running a challenge on Goldie here and grouping for open world farms is out of the question, but we can still test it even if we get one every 300 kills. I can kill about 900 trolls per hour solo. And Wildbine is super valuable with a ticket price of 384 gold. Not bad. Most of the trolls do drop this according to Wowhead, but there is one troll archetype here that's a little more interesting. So, while farming Wildbine, we want to make sure to focus on the vile branch hide skinners. These guys can actually drop a rare recipe and maybe the best drop in the whole zone, the pattern for the iron feather breast plate. The recipe itself has an average list price of around 40,000 gold, while the crafted chest piece used with the leather wicking profession goes for about 5,000 gold. So, I will definitely want to farm up at least two of these drops. One just to sell as the recipe because 40,000 gold is pretty much as much as we have right now. and then one to send over to my one crafting alt, golden path, who just so happens to have leather working. So maybe not a death zone after all. Well, not so fast, cuz there's a problem. On testing this, even though Wowhead says the Wildvine is on the drop tables here, my data points otherwise. With thousands of trolls killed, zero wildvine. Looking into the forums, much like the ghost mushroom, when the zone scaling changed here in the hinterlands, the level bracket moved out of the Wild Vine drop range and with it removed yet another gold farm from the hinterlands. Not ideal. So, with that in mind, I'll call the trolls neutral. But that isn't all that Jimthaw Allore has. In addition to the leather working recipe, it has the second best drop in the zone as well. From the rare up in the top in the ruins, Mythreus the Enchanter. Now, this rare is the only one in the zone with a specific item that I feel is worth camping. The other rares are definitely worth killing for low value transmog. Well, this one drops the Chans Imperial Robes, a 20 to 40,000 gold transmog drop. So, we have two notable drops, at least so far in the zone, and we definitely want to camp this one. And since this is really the only mob worth camping in the zone, well, we need something to do in the meantime, which luckily this week's sponsor, Idle Obelisk Miner does just that, which if you're a fan of Goldbound, gold farming, and slow rewarding number go up progression, you're going to want to check this out.",
+        "canonical_file": "goldbound/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.txt",
+        "original_file": "goldbound/original-vtt/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E038-03",
+      "name": "Vilebranch Hideskinner Ironfeather pattern hunt",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Hinterlands",
+      "summary": "Targets Ironfeather Breastplatepattern 40 kmarket/5000 crafted, goal 2 one sellonealt; dropnotexplicitlyconfirmed.",
+      "metrics": {
+        "pattern_target": 2,
+        "quoted_pattern_gold": 40000,
+        "quoted_craft_gold": 5000
+      },
+      "source": {
+        "file": "038 - This Buff Just Changed Everything - Goldbound 37.en-orig.vtt",
+        "cleaned_file": "goldbound/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.txt",
+        "paragraph_start": 2,
+        "paragraph_end": 2,
+        "start_time": "00:00:40.879",
+        "quote": "First off, well, we haven't really found a consistent gold farm that can truly move the needle here. On top of that, there's actually a few classic hinterlands farms that used to be available, which are just straight up gone now. We already talked about the ghost mushrooms, which have disappeared from the zone entirely, but that isn't where it stops. But more on that later. First up, let's head up to Genta Allore for the troll ruins, which to be fair, there's actually a few gold farms up here. Of course, the spider cave, which used to have ghost mushrooms, doesn't have those anymore. But there's still the spiders themselves inside, which are technically farmable, but they aren't on a hyperspawn, so we will have to wait in between clears of 8 to 12 spiders. On top of the slow clear time, they don't actually really have anything worth farming. They could of course drop some general greens or world drop epics. Technically the trade goods though between the crunchy spider legs which are worth about 45 silver, the large venom sacks about 1 silver, the small spider legs 13 silver, and the thick spider silk which is one of the cheapest spider silk variants at 43 silver. Farming these guys only works out to 63 gold per hour. Yeah, and since we have 200,000 gold left for the token, that would be 3,174 hours or 132 days of straight spider farming. So, spiders, aren't it? But that isn't all we have in genta allore, thankfully, because we do have something else here. Trolls. And in particular, trolls that drop wild vine. Now, this is a super low drop according to Wowhead, around.3%, which is for sure rare, but historically, groups that farm these guys will do a fiveman hyperspawn farm of the entire ruins and get tons of kills per hour. We're of course running a challenge on Goldie here and grouping for open world farms is out of the question, but we can still test it even if we get one every 300 kills. I can kill about 900 trolls per hour solo. And Wildbine is super valuable with a ticket price of 384 gold. Not bad. Most of the trolls do drop this according to Wowhead, but there is one troll archetype here that's a little more interesting. So, while farming Wildbine, we want to make sure to focus on the vile branch hide skinners. These guys can actually drop a rare recipe and maybe the best drop in the whole zone, the pattern for the iron feather breast plate. The recipe itself has an average list price of around 40,000 gold, while the crafted chest piece used with the leather wicking profession goes for about 5,000 gold. So, I will definitely want to farm up at least two of these drops. One just to sell as the recipe because 40,000 gold is pretty much as much as we have right now. and then one to send over to my one crafting alt, golden path, who just so happens to have leather working. So maybe not a death zone after all. Well, not so fast, cuz there's a problem. On testing this, even though Wowhead says the Wildvine is on the drop tables here, my data points otherwise. With thousands of trolls killed, zero wildvine. Looking into the forums, much like the ghost mushroom, when the zone scaling changed here in the hinterlands, the level bracket moved out of the Wild Vine drop range and with it removed yet another gold farm from the hinterlands. Not ideal. So, with that in mind, I'll call the trolls neutral. But that isn't all that Jimthaw Allore has. In addition to the leather working recipe, it has the second best drop in the zone as well. From the rare up in the top in the ruins, Mythreus the Enchanter. Now, this rare is the only one in the zone with a specific item that I feel is worth camping. The other rares are definitely worth killing for low value transmog. Well, this one drops the Chans Imperial Robes, a 20 to 40,000 gold transmog drop. So, we have two notable drops, at least so far in the zone, and we definitely want to camp this one. And since this is really the only mob worth camping in the zone, well, we need something to do in the meantime, which luckily this week's sponsor, Idle Obelisk Miner does just that, which if you're a fan of Goldbound, gold farming, and slow rewarding number go up progression, you're going to want to check this out.",
+        "canonical_file": "goldbound/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.txt",
+        "original_file": "goldbound/original-vtt/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E038-04",
+      "name": "Mithrethis Enchanter Chans Imperial Robes",
+      "kind": "farm",
+      "status": "successful",
+      "zone": "Hinterlands",
+      "summary": "Campsrare, getsrobe 20–40 kvaluation; listedbutcashnotconfirmed.",
+      "metrics": {
+        "Chans Imperial Robes": 1,
+        "quoted_gold_range": [
+          20000,
+          40000
+        ]
+      },
+      "source": {
+        "file": "038 - This Buff Just Changed Everything - Goldbound 37.en-orig.vtt",
+        "cleaned_file": "goldbound/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.txt",
+        "paragraph_start": 2,
+        "paragraph_end": 4,
+        "start_time": "00:00:40.879",
+        "quote": "First off, well, we haven't really found a consistent gold farm that can truly move the needle here. On top of that, there's actually a few classic hinterlands farms that used to be available, which are just straight up gone now. We already talked about the ghost mushrooms, which have disappeared from the zone entirely, but that isn't where it stops. But more on that later. First up, let's head up to Genta Allore for the troll ruins, which to be fair, there's actually a few gold farms up here. Of course, the spider cave, which used to have ghost mushrooms, doesn't have those anymore. But there's still the spiders themselves inside, which are technically farmable, but they aren't on a hyperspawn, so we will have to wait in between clears of 8 to 12 spiders. On top of the slow clear time, they don't actually really have anything worth farming. They could of course drop some general greens or world drop epics. Technically the trade goods though between the crunchy spider legs which are worth about 45 silver, the large venom sacks about 1 silver, the small spider legs 13 silver, and the thick spider silk which is one of the cheapest spider silk variants at 43 silver. Farming these guys only works out to 63 gold per hour. Yeah, and since we have 200,000 gold left for the token, that would be 3,174 hours or 132 days of straight spider farming. So, spiders, aren't it? But that isn't all we have in genta allore, thankfully, because we do have something else here. Trolls. And in particular, trolls that drop wild vine. Now, this is a super low drop according to Wowhead, around.3%, which is for sure rare, but historically, groups that farm these guys will do a fiveman hyperspawn farm of the entire ruins and get tons of kills per hour. We're of course running a challenge on Goldie here and grouping for open world farms is out of the question, but we can still test it even if we get one every 300 kills. I can kill about 900 trolls per hour solo. And Wildbine is super valuable with a ticket price of 384 gold. Not bad. Most of the trolls do drop this according to Wowhead, but there is one troll archetype here that's a little more interesting. So, while farming Wildbine, we want to make sure to focus on the vile branch hide skinners. These guys can actually drop a rare recipe and maybe the best drop in the whole zone, the pattern for the iron feather breast plate. The recipe itself has an average list price of around 40,000 gold, while the crafted chest piece used with the leather wicking profession goes for about 5,000 gold. So, I will definitely want to farm up at least two of these drops. One just to sell as the recipe because 40,000 gold is pretty much as much as we have right now. and then one to send over to my one crafting alt, golden path, who just so happens to have leather working. So maybe not a death zone after all. Well, not so fast, cuz there's a problem. On testing this, even though Wowhead says the Wildvine is on the drop tables here, my data points otherwise. With thousands of trolls killed, zero wildvine. Looking into the forums, much like the ghost mushroom, when the zone scaling changed here in the hinterlands, the level bracket moved out of the Wild Vine drop range and with it removed yet another gold farm from the hinterlands. Not ideal. So, with that in mind, I'll call the trolls neutral. But that isn't all that Jimthaw Allore has. In addition to the leather working recipe, it has the second best drop in the zone as well. From the rare up in the top in the ruins, Mythreus the Enchanter. Now, this rare is the only one in the zone with a specific item that I feel is worth camping. The other rares are definitely worth killing for low value transmog. Well, this one drops the Chans Imperial Robes, a 20 to 40,000 gold transmog drop. So, we have two notable drops, at least so far in the zone, and we definitely want to camp this one. And since this is really the only mob worth camping in the zone, well, we need something to do in the meantime, which luckily this week's sponsor, Idle Obelisk Miner does just that, which if you're a fan of Goldbound, gold farming, and slow rewarding number go up progression, you're going to want to check this out.",
+        "canonical_file": "goldbound/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.txt",
+        "original_file": "goldbound/original-vtt/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E038-05",
+      "name": "Skulk Rock Jade Ooze Green Sludge bag test",
+      "kind": "experiment",
+      "status": "failed",
+      "zone": "Hinterlands",
+      "summary": "No Oozing Bagatcurrentlevel; consistentearlierzonefailures, unquantifiedtest. Caveorestill gathered.",
+      "metrics": {},
+      "source": {
+        "file": "038 - This Buff Just Changed Everything - Goldbound 37.en-orig.vtt",
+        "cleaned_file": "goldbound/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.txt",
+        "paragraph_start": 5,
+        "paragraph_end": 5,
+        "start_time": "00:06:11.440",
+        "quote": "Unfortunately, the time forgotten farms of the hinterlands doesn't end with the wild vine or the ghost mushrooms. Far from it. Because back over at the Skull Rock Cave, the one that used to have ghost mushrooms, we have a few mob types roaming around. The Jade ooze and the green sludge. Historically, both of these mobs used to drop the ooloing bag, a familiar forgotten farm in the series. These are the same bags that used to drop in Swamp of Soros and Wetlands, but in retail, once we're past level 30 to 50 or so, they just stop dropping with mob and item scaling. And well, the hinterlands is no different. So, the ooloing bag, which is valuable because of the battle pet it can contain, the disgusting ooloing, is also lost to the zone. No matter how many of these little oozes we take out, we're not going to get the drop. It's not all bad news, though, because the cave does have some decent ore spawns throughout.",
+        "canonical_file": "goldbound/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.txt",
+        "original_file": "goldbound/original-vtt/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E038-06",
+      "name": "Troll Necklace bounty and ZulFarrak quest availability",
+      "kind": "experiment",
+      "status": "blocked",
+      "zone": "Hinterlands",
+      "summary": "Oldrepeatables/questline removedaccordingnarrator; no completed farmorquest.",
+      "metrics": {},
+      "source": {
+        "file": "038 - This Buff Just Changed Everything - Goldbound 37.en-orig.vtt",
+        "cleaned_file": "goldbound/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.txt",
+        "paragraph_start": 6,
+        "paragraph_end": 6,
+        "start_time": "00:07:03.039",
+        "quote": "So, it is worth popping in every now and then during mining and herbalism loops to grab the ore. Honestly, I'm sure there's more forgotten farms that I just don't even know about. Another kind of farm that comes to mind is the old repeatable quest in the zone, the troll necklace bounty, which was also removed from the zone. And as far as I know, the Zul rock quest line is also removed from the zone. So, we're working with a little bit of a skeleton farm base here in the Hinterlands. As it stands, we have a few zone vendors, which I still have one up my sleeve, two rare items, and well, dual gathering, which it seems is where a good chunk of the gold is going to have to come from. On that note, I am still doing my dual gathering loops. And on the loops, I'm making sure to check on any rares that are up, plus keeping an eye out for treasure chests in the zone. There's a variety of pretty decently valuable blues that can drop from the chest in the zone, and I want to get as much loot in this zone as possible. For the herbs and ores, though, the rates are generally below 4,000 gold per hour raw. So, for now, I'm actually just stockpiling up with the herbs and ores. I want to get as much as I can while I have the professions. And then later on in the week, I'll drop the gathering professions and switch to some production professions to hopefully mark up our profits. And well, that was kind of my plan to cap out this zone. But travelers, you saw the title of this video, and there is a whole lot more to talk about because right now in live for maybe a day or two after this video comes out, we are in peak BlizzCon season. And generally this wouldn't impact the goldbound challenge, but this time, oh, it does because check this out. The winds of mysterious fortune buff. This actually changes everything.",
+        "canonical_file": "goldbound/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.txt",
+        "original_file": "goldbound/original-vtt/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E038-07",
+      "name": "Hinterlands gathering stockpile continuation",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Hinterlands",
+      "summary": "Loopsrares/chests,<4000 g/hraw, holdsore/herbsforlaterproductionswitch; newbatchnotquantified.",
+      "metrics": {},
+      "source": {
+        "file": "038 - This Buff Just Changed Everything - Goldbound 37.en-orig.vtt",
+        "cleaned_file": "goldbound/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.txt",
+        "paragraph_start": 6,
+        "paragraph_end": 6,
+        "start_time": "00:07:03.039",
+        "quote": "So, it is worth popping in every now and then during mining and herbalism loops to grab the ore. Honestly, I'm sure there's more forgotten farms that I just don't even know about. Another kind of farm that comes to mind is the old repeatable quest in the zone, the troll necklace bounty, which was also removed from the zone. And as far as I know, the Zul rock quest line is also removed from the zone. So, we're working with a little bit of a skeleton farm base here in the Hinterlands. As it stands, we have a few zone vendors, which I still have one up my sleeve, two rare items, and well, dual gathering, which it seems is where a good chunk of the gold is going to have to come from. On that note, I am still doing my dual gathering loops. And on the loops, I'm making sure to check on any rares that are up, plus keeping an eye out for treasure chests in the zone. There's a variety of pretty decently valuable blues that can drop from the chest in the zone, and I want to get as much loot in this zone as possible. For the herbs and ores, though, the rates are generally below 4,000 gold per hour raw. So, for now, I'm actually just stockpiling up with the herbs and ores. I want to get as much as I can while I have the professions. And then later on in the week, I'll drop the gathering professions and switch to some production professions to hopefully mark up our profits. And well, that was kind of my plan to cap out this zone. But travelers, you saw the title of this video, and there is a whole lot more to talk about because right now in live for maybe a day or two after this video comes out, we are in peak BlizzCon season. And generally this wouldn't impact the goldbound challenge, but this time, oh, it does because check this out. The winds of mysterious fortune buff. This actually changes everything.",
+        "canonical_file": "goldbound/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.txt",
+        "original_file": "goldbound/original-vtt/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.vtt"
+      },
+      "additional_values": [
+        {
+          "value": 4000,
+          "label": "Upper baseline",
+          "basis": "Narrated raw gathering return below 4,000g/h; no new exact basket was given.",
+          "unit": "g/h",
+          "kind": "recorded",
+          "source_refs": [
+            {
+              "episode": 38,
+              "paragraph_start": 6,
+              "paragraph_end": 6,
+              "start_time": "00:07:03.039"
+            }
+          ],
+          "upper_bound": true,
+          "strict_bound": true
+        }
+      ]
+    },
+    {
+      "id": "E038-08",
+      "name": "Mysterious Fortune first-daily epic satchel",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Hinterlands",
+      "summary": "Firstdailykillsguaranteeepicclaimed; gear Bo P, nondisenchantable, character XP/rep event. Gearlevelscalesatobtain time.",
+      "metrics": {},
+      "source": {
+        "file": "038 - This Buff Just Changed Everything - Goldbound 37.en-orig.vtt",
+        "cleaned_file": "goldbound/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.txt",
+        "paragraph_start": 7,
+        "paragraph_end": 8,
+        "start_time": "00:08:40.399",
+        "quote": "Sure, the XP boost and rep boost is nice, but what is really wild for a challenge like Goldbound, is that every single mob we kill and quest we do, even in the Hinterlands and our unlocked zones, has a chance to give us a mysterious satchel. Inside the satchel, there's some odds and ends like warbound XP potions, but also gear. Now, this isn't transmog gear. It is all soulbound and actually can't be disenchanted. But there is a full mysterious set to be obtained. The big thing here, though, this gear scales to the level you were when you obtained the satchel. So, while we're running around in these super low-level zones at level 86, wearing item level 30 to 70 gear from our zones, these bags can drop blues and epics with gear item levels of 171 to 178. Pretty much light years better than any gear we can currently obtain in our zones. So, theoretically, we can try to get a full set of current content gear on Goldie while staying in our unlocked zones. So, let's get farming these satchels.",
+        "canonical_file": "goldbound/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.txt",
+        "original_file": "goldbound/original-vtt/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E038-09",
+      "name": "Troll-kill satchel rate test",
+      "kind": "experiment",
+      "status": "measured",
+      "zone": "Hinterlands",
+      "summary": "Onehour 2 bluesatchels, not efficientgear source.",
+      "metrics": {
+        "minutes": 60,
+        "blue_satchels": 2
+      },
+      "source": {
+        "file": "038 - This Buff Just Changed Everything - Goldbound 37.en-orig.vtt",
+        "cleaned_file": "goldbound/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.txt",
+        "paragraph_start": 8,
+        "paragraph_end": 8,
+        "start_time": "00:09:43.360",
+        "quote": "There's a few ways that we can actually get them. First up, there is a bonus each day where the first couple of mobs that we kill just straight up give an epic satchel and the epic satchels always drop the epic gear. On top of that, while killing mobs in the open world or dungeons after that first drop of the day, we can just randomly get blue or epic satchels. Plus, doing quests can give satchels as well. So, let's go test these out. While farming these up though, it is worth noting that this won't be a direct instant gold income for Goldie. It's more of a futurep proofing for later zones where we may have mobs that are scaled way higher. We already had some strange scale like this in Alderman Legacy of Tier where mobs took quite a few hits to kill and well the red ridge spider no feeaster aka the red ridge raid boss which if we do get a full set we're definitely going for revenge. In a challenge like this we generally just don't know what will happen with scaling. It could change wildly with the next expansion and potential stat squishes in the future. So, while a limited time event like this is on, we really need to capitalize on it. With some farming and testing for these satchels under the belt, though, from a satchels per hour perspective, there is a very clear frontr runner. I first tested this out by just killing trolls over and over, and for an hour, we only procked two blue satchels. Not great. I even tried running some old dungeons like Alderman for high kills per hour to try to get some more satchels, but I got none. The real king here is the quests.",
+        "canonical_file": "goldbound/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.txt",
+        "original_file": "goldbound/original-vtt/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E038-10",
+      "name": "Uldaman satchel-rate dungeon control",
+      "kind": "experiment",
+      "status": "failed",
+      "zone": "Uldaman",
+      "summary": "Olddungeon highkills yields 0 satchels, elapsedunspecified.",
+      "metrics": {
+        "satchels": 0
+      },
+      "source": {
+        "file": "038 - This Buff Just Changed Everything - Goldbound 37.en-orig.vtt",
+        "cleaned_file": "goldbound/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.txt",
+        "paragraph_start": 8,
+        "paragraph_end": 8,
+        "start_time": "00:09:43.360",
+        "quote": "There's a few ways that we can actually get them. First up, there is a bonus each day where the first couple of mobs that we kill just straight up give an epic satchel and the epic satchels always drop the epic gear. On top of that, while killing mobs in the open world or dungeons after that first drop of the day, we can just randomly get blue or epic satchels. Plus, doing quests can give satchels as well. So, let's go test these out. While farming these up though, it is worth noting that this won't be a direct instant gold income for Goldie. It's more of a futurep proofing for later zones where we may have mobs that are scaled way higher. We already had some strange scale like this in Alderman Legacy of Tier where mobs took quite a few hits to kill and well the red ridge spider no feeaster aka the red ridge raid boss which if we do get a full set we're definitely going for revenge. In a challenge like this we generally just don't know what will happen with scaling. It could change wildly with the next expansion and potential stat squishes in the future. So, while a limited time event like this is on, we really need to capitalize on it. With some farming and testing for these satchels under the belt, though, from a satchels per hour perspective, there is a very clear frontr runner. I first tested this out by just killing trolls over and over, and for an hour, we only procked two blue satchels. Not great. I even tried running some old dungeons like Alderman for high kills per hour to try to get some more satchels, but I got none. The real king here is the quests.",
+        "canonical_file": "goldbound/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.txt",
+        "original_file": "goldbound/original-vtt/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E038-11",
+      "name": "Hinterlands quest satchel batch",
+      "kind": "experiment",
+      "status": "successful",
+      "zone": "Hinterlands",
+      "summary": "Completesremainingregularquests~30 satchels,2000 XP/quest, ilvl 130; repeatable/daily/travel-onlyexcluded.",
+      "metrics": {
+        "satchels_approx": 30,
+        "xp_per_quest_approx": 2000,
+        "overall_ilvl_after": 130
+      },
+      "source": {
+        "file": "038 - This Buff Just Changed Everything - Goldbound 37.en-orig.vtt",
+        "cleaned_file": "goldbound/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.txt",
+        "paragraph_start": 9,
+        "paragraph_end": 9,
+        "start_time": "00:11:08.959",
+        "quote": "Every single quest hand in gives one satchel and about 2,000 XP on top of it. Well, I say every quest, but there are some restrictions. So, repeatable quests, daily quests, or quests where you just go pointtooint and don't actually complete any objectives, those ones don't give a satchel, but regular zone quests do. So, let's lock in and quest through the rest of Hinterlands for some satchels. Okay, so all of the Hinterlands quests are done, and we have about 30 satchels to open here. Quests are definitely the way to go. Looting all these up, we have quite a few of the pieces filled out, but we're still missing out on about four pieces of the mysterious gear. That being said, we are up to 130 item level and over doubling our health pool.",
+        "canonical_file": "goldbound/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.txt",
+        "original_file": "goldbound/original-vtt/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E038-12",
+      "name": "Duskwood unfinished quest gear batch",
+      "kind": "experiment",
+      "status": "successful",
+      "zone": "Duskwood",
+      "summary": "Morequestscompleteblue 171 setexcepttrinkets, overall 158, epic 178 target; not sellablegold.",
+      "metrics": {
+        "blue_ilvl": 171,
+        "epic_ilvl": 178,
+        "overall_ilvl_after": 158
+      },
+      "source": {
+        "file": "038 - This Buff Just Changed Everything - Goldbound 37.en-orig.vtt",
+        "cleaned_file": "goldbound/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.txt",
+        "paragraph_start": 10,
+        "paragraph_end": 10,
+        "start_time": "00:11:53.760",
+        "quote": "Insane. Luckily, I do have some unfinished quests down in Duskwood. We never actually finish these quests when you're in the zone. So, doing these old quests now, getting another ton of satchels, opening them all up gets us up to item level 158. And actually, we're fully geared with at least the 171 item level blue drops from this. The only thing we're missing is trinkets, but those don't actually drop from the satchels. Maybe we can upgrade that during Brewfest, though. So, from here on out, we can try to minmax it by questing and going for the rare proced epic satchels to hopefully get a whole set of epic gear at item level 178, which could be worth it. For now, we'll take the upgrades and with the new set, revisit an old nemesis.",
+        "canonical_file": "goldbound/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.txt",
+        "original_file": "goldbound/original-vtt/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E038-13",
+      "name": "Gnollfeaster new-gear revenge kill",
+      "kind": "experiment",
+      "status": "successful",
+      "zone": "Redridge Mountains",
+      "summary": "Improvedgear easysolokill~5000 XP; notgoldtarget.",
+      "metrics": {
+        "xp_approx": 5000
+      },
+      "source": {
+        "file": "038 - This Buff Just Changed Everything - Goldbound 37.en-orig.vtt",
+        "cleaned_file": "goldbound/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.txt",
+        "paragraph_start": 11,
+        "paragraph_end": 11,
+        "start_time": "00:12:36.320",
+        "quote": "You already know, the Red Ridge mob of Null Faster. This mob is technically a Battle for Azeroth mob in Redidge, and with his scaled level, he killed us quite a few times over the months. But now I think it's time for our redemption. Oh yeah, the gear is looking pretty solid and whole feaster goes down. Not to mention, he does give us about 5,000 XP, which is maybe one of our better XP methods right now. We have quite a few more days to try to get the epic upgrades, though, so hopefully those will come through as we farm. But speaking of farming, we have a new reset of raids to clear through. I am still running dual gathering though, so some of the clears that require skinning like blackwing layer I might skip this week.",
+        "canonical_file": "goldbound/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.txt",
+        "original_file": "goldbound/original-vtt/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E038-14",
+      "name": "Arathi warfront pet/set third cycle",
+      "kind": "farm",
+      "status": "successful",
+      "zone": "Arathi Highlands",
+      "summary": "Venomus Fuzzy Creepling, Shard Fozruk, Angry Eggobtained, cageplan; Seventh Legionalmostsetexceptshoulders, nosales yet.",
+      "metrics": {
+        "Fuzzy Creepling": 1,
+        "Shard of Fozruk": 1,
+        "Angry Egg": 1
+      },
+      "source": {
+        "file": "038 - This Buff Just Changed Everything - Goldbound 37.en-orig.vtt",
+        "cleaned_file": "goldbound/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.txt",
+        "paragraph_start": 12,
+        "paragraph_end": 13,
+        "start_time": "00:13:41.519",
+        "quote": "Up first is Enixia's layer for a chance at the Enixian Drake. Uh yeah, nothing here. But before we hit up Molten Core, I can do another full clear of the Arai Highlands rares and try to get some of the BFA Azerite set. Maybe some mounts and hopefully some pets to sell in the auction house. All right, there we go. The fuzzy creepling from Venomous dropped. Putting that into the cage should be worth a few thousand gold. And the shard of Fosick, another battle pet. We're getting pretty lucky on the battle pets this round. Oh man, another one. The angry egg. So, not a bad Arai rare clear. With that in the books, it will be another two or three weeks before we can clear Aroy again. As far as the Seventh Legionnaire set, we're almost at the full set as well.",
+        "canonical_file": "goldbound/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.txt",
+        "original_file": "goldbound/original-vtt/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E038-15",
+      "name": "Onyxia weekly mount retest",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Onyxias Lair",
+      "summary": "No Onyxian Drake; BWLmaybeskippedwithoutskinprofession.",
+      "metrics": {},
+      "source": {
+        "file": "038 - This Buff Just Changed Everything - Goldbound 37.en-orig.vtt",
+        "cleaned_file": "goldbound/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.txt",
+        "paragraph_start": 12,
+        "paragraph_end": 12,
+        "start_time": "00:13:41.519",
+        "quote": "Up first is Enixia's layer for a chance at the Enixian Drake. Uh yeah, nothing here. But before we hit up Molten Core, I can do another full clear of the Arai Highlands rares and try to get some of the BFA Azerite set. Maybe some mounts and hopefully some pets to sell in the auction house. All right, there we go. The fuzzy creepling from Venomous dropped. Putting that into the cage should be worth a few thousand gold. And the shard of Fosick, another battle pet. We're getting pretty lucky on the battle pets this round. Oh man, another one. The angry egg. So, not a bad Arai rare clear. With that in the books, it will be another two or three weeks before we can clear Aroy again. As far as the Seventh Legionnaire set, we're almost at the full set as well.",
+        "canonical_file": "goldbound/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.txt",
+        "original_file": "goldbound/original-vtt/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E038-16",
+      "name": "MC 44 clear Dark Iron supply",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Molten Core",
+      "summary": "No leftbinding 44; trashorefor Dark Ironcraftrestock, smelted; somecraftsprior sold, amountsunstated.",
+      "metrics": {
+        "clears": 44
+      },
+      "source": {
+        "file": "038 - This Buff Just Changed Everything - Goldbound 37.en-orig.vtt",
+        "cleaned_file": "goldbound/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.txt",
+        "paragraph_start": 13,
+        "paragraph_end": 14,
+        "start_time": "00:14:31.040",
+        "quote": "Just missing out on the shoulders. So, maybe next time we can finish this off and get the full set. It won't matter too much until we can get the Heart of Azeroth, which as far as I know will require Boralis and the Battle for Azeroth to be unlocked, but it's good to have for the future. So, next up, none other than Molten Core because we are still going for the left binding of the Windseeker. And on to run 44. This week though, I am going to do a few trash clears just to stock up on some more dark iron ore. We did a massive stockpile up on this a few months ago and crafted it all into dark iron pieces. And a few of those pieces have actually sold over the weeks. So before long, we will need to recraft a bunch of these on our alt. So let's get some dark iron in the books for that. But of course, the main thing we're here for, Baron Getdon and his left binding. Is this the week?",
+        "canonical_file": "goldbound/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.txt",
+        "original_file": "goldbound/original-vtt/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E038-17",
+      "name": "MC attunement satchel scaling test",
+      "kind": "experiment",
+      "status": "successful",
+      "zone": "Blackrock Depths",
+      "summary": "BRDattunementturninreaches 87, newsatchelblue+9 ilvlbeats 86 epics; revealsneed 89 capbecause 90 nogear.",
+      "metrics": {
+        "level_after": 87,
+        "blue_ilvl_increase": 9
+      },
+      "source": {
+        "file": "038 - This Buff Just Changed Everything - Goldbound 37.en-orig.vtt",
+        "cleaned_file": "goldbound/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.txt",
+        "paragraph_start": 14,
+        "paragraph_end": 14,
+        "start_time": "00:15:19.360",
+        "quote": "Well, no. But hey, at least we have this dark iron ore to smelt up. And while we're at it, we may as well finish up the molten core attunement down in BRD. This way, we can actually just jump through the window to teleport into Molten Core rather than talking to the NPC each time. But with all the dark iron or smelted up, we can put it aside and hand in the atunement, which actually dings us up to level 87 and gives us another satchel. So, let's open it. Uh-oh. Are you seeing this? So, it looks like the item level in the satchels does indeed scale with your level when you get the satchel. And since we hit level 87, the blues are now nine item levels higher and even better than our old level 86 epics, which unfortunately I think means our almost whole epic set now is kind of outdated and we do need to replace it. But really, if we keep getting XP from this during the event, this is just going to happen again at level 88 and 89. So, travelers, I think I know what we have to do. We have to power level G goldie up to level 89 before the event ends and get a full set of the highest item level epic gear possible. We have until the 23rd, so I think it's technically doable. But that being said, we can't actually use the satchels to level because we have a limited amount of unfinished quests in our unlocked zones. And since repeatable quests like dailies don't give satchels, I really want to save the zone quests for level 89 to get our best chances at a full set of gear. Because looking into it, if we were to level up to 90, the satchels no longer drop gear. So 89 is the peak. Ultimately, I think this leaves us with three options for leveling. We still do get XP from gathering nodes, mining an herb, which is how we've been leveling so far, and it has been insanely slow because with 550,000 XP per level, and each node granting us 124 XP, it's about 45 hours of straight dual gathering per level.",
+        "canonical_file": "goldbound/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.txt",
+        "original_file": "goldbound/original-vtt/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E038-18",
+      "name": "Gathering XP projection comparison",
+      "kind": "experiment",
+      "status": "measured",
+      "zone": "Hinterlands",
+      "summary": "550000 XPlevel/124 pernode,~45 hoursprojectedperlevel; not 45 hournewtimedrun.",
+      "metrics": {
+        "xp_per_level": 550000,
+        "xp_per_node": 124,
+        "projected_hours_per_level": 45
+      },
+      "source": {
+        "file": "038 - This Buff Just Changed Everything - Goldbound 37.en-orig.vtt",
+        "cleaned_file": "goldbound/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.txt",
+        "paragraph_start": 14,
+        "paragraph_end": 14,
+        "start_time": "00:15:19.360",
+        "quote": "Well, no. But hey, at least we have this dark iron ore to smelt up. And while we're at it, we may as well finish up the molten core attunement down in BRD. This way, we can actually just jump through the window to teleport into Molten Core rather than talking to the NPC each time. But with all the dark iron or smelted up, we can put it aside and hand in the atunement, which actually dings us up to level 87 and gives us another satchel. So, let's open it. Uh-oh. Are you seeing this? So, it looks like the item level in the satchels does indeed scale with your level when you get the satchel. And since we hit level 87, the blues are now nine item levels higher and even better than our old level 86 epics, which unfortunately I think means our almost whole epic set now is kind of outdated and we do need to replace it. But really, if we keep getting XP from this during the event, this is just going to happen again at level 88 and 89. So, travelers, I think I know what we have to do. We have to power level G goldie up to level 89 before the event ends and get a full set of the highest item level epic gear possible. We have until the 23rd, so I think it's technically doable. But that being said, we can't actually use the satchels to level because we have a limited amount of unfinished quests in our unlocked zones. And since repeatable quests like dailies don't give satchels, I really want to save the zone quests for level 89 to get our best chances at a full set of gear. Because looking into it, if we were to level up to 90, the satchels no longer drop gear. So 89 is the peak. Ultimately, I think this leaves us with three options for leveling. We still do get XP from gathering nodes, mining an herb, which is how we've been leveling so far, and it has been insanely slow because with 550,000 XP per level, and each node granting us 124 XP, it's about 45 hours of straight dual gathering per level.",
+        "canonical_file": "goldbound/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.txt",
+        "original_file": "goldbound/original-vtt/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E038-19",
+      "name": "Gnollfeaster repeat XP camp test",
+      "kind": "experiment",
+      "status": "measured",
+      "zone": "Redridge Mountains",
+      "summary": "6 minrespawn 5000–6000 XP/kill→~60000 XP/h 10 h/levelprojection, personallevelingnotgold.",
+      "metrics": {
+        "respawn_minutes": 6,
+        "xp_per_kill_range": [
+          5000,
+          6000
+        ],
+        "projected_xp_per_hour": 60000
+      },
+      "source": {
+        "file": "038 - This Buff Just Changed Everything - Goldbound 37.en-orig.vtt",
+        "cleaned_file": "goldbound/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.txt",
+        "paragraph_start": 15,
+        "paragraph_end": 15,
+        "start_time": "00:17:10.000",
+        "quote": "Not super fast. Then there's Null Feaster, the spider rare. We can definitely kill him on repeat now. And each kill gives us a full 5,000 to 6,000 XP. And testing it out, he seems to be on a reliable 6-minute respawn timer. So with decent efficiency, that's 60,000 XP per hour and about 10 hours per level. Not bad. But travelers, I think we can do one better. An area of the game that we haven't fully explored yet on Goldie, pet battles. So, we find ourselves back at Donna Anthia, the crazy cat lady here in Elwin. This time to stock up on some troops. We also got a few new pets from Arai today, which might go in our pet battle lineup rather than the auction house. So, here's the idea. I have a sneaking suspicion that pet battling will be our highest XP per hour on Goldie. But also, if we can level up some of these pets from level 1 to maybe 25, that level increase is actually represented on the auction house. And in many cases, a level 25 battle pet will sell either for more or a whole lot faster than a level one battle pet. Now, we are zone restricted here, and there are other ways to level up these battle pets insanely fast, ones that we don't have access to. So, we might be a little inefficient doing these open world pet battles, but some of these do look like the level 25 versions are going for a few thousand gold extra over level ones.",
+        "canonical_file": "goldbound/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.txt",
+        "original_file": "goldbound/original-vtt/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E038-20",
+      "name": "Vendor cat and Arathi pet team preparation",
+      "kind": "experiment",
+      "status": "performed",
+      "zone": "Elwynn Forest / Arathi Highlands",
+      "summary": "Buys Donna cats, usesnewpetdrops, raisescrew~17 for Blasted Landstargets; premiumlevel 25 AHsaleshypothesisnotrealized.",
+      "metrics": {},
+      "source": {
+        "file": "038 - This Buff Just Changed Everything - Goldbound 37.en-orig.vtt",
+        "cleaned_file": "goldbound/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.txt",
+        "paragraph_start": 15,
+        "paragraph_end": 16,
+        "start_time": "00:17:10.000",
+        "quote": "Not super fast. Then there's Null Feaster, the spider rare. We can definitely kill him on repeat now. And each kill gives us a full 5,000 to 6,000 XP. And testing it out, he seems to be on a reliable 6-minute respawn timer. So with decent efficiency, that's 60,000 XP per hour and about 10 hours per level. Not bad. But travelers, I think we can do one better. An area of the game that we haven't fully explored yet on Goldie, pet battles. So, we find ourselves back at Donna Anthia, the crazy cat lady here in Elwin. This time to stock up on some troops. We also got a few new pets from Arai today, which might go in our pet battle lineup rather than the auction house. So, here's the idea. I have a sneaking suspicion that pet battling will be our highest XP per hour on Goldie. But also, if we can level up some of these pets from level 1 to maybe 25, that level increase is actually represented on the auction house. And in many cases, a level 25 battle pet will sell either for more or a whole lot faster than a level one battle pet. Now, we are zone restricted here, and there are other ways to level up these battle pets insanely fast, ones that we don't have access to. So, we might be a little inefficient doing these open world pet battles, but some of these do look like the level 25 versions are going for a few thousand gold extra over level ones.",
+        "canonical_file": "goldbound/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.txt",
+        "original_file": "goldbound/original-vtt/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E038-21",
+      "name": "Eastern Kingdom pet-trainer daily XP tour",
+      "kind": "experiment",
+      "status": "successful",
+      "zone": "Eastern Kingdoms",
+      "summary": "Scaledtrainersmatchingteam, battle XP+~15000 dailyquest XP, eventbuff; a fewhoursreaches 88. Fozlingdefense/Quake openerhitsbackline.",
+      "metrics": {
+        "daily_quest_xp_approx": 15000,
+        "level_reached": 88
+      },
+      "source": {
+        "file": "038 - This Buff Just Changed Everything - Goldbound 37.en-orig.vtt",
+        "cleaned_file": "goldbound/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.txt",
+        "paragraph_start": 16,
+        "paragraph_end": 17,
+        "start_time": "00:18:28.880",
+        "quote": "So, if we can get some power leveling done on Goldie to hit 89 and also make a little extra gold along the way, I think that's a good deal. Now, defeating any battle pet out in the open world does give Goldie XP, although not a crazy amount at the lower pet battle levels of 1 to three. So, I will have to level up a pet battle crew up to about level 17 in order to be able to fight our highest level battle pet zone, the Blasted Lands. I think there should realistically be our highest openw world XP per hour. On top of that though, we do have the zonebased pet trainers. And because we're decently far through Eastern Kingdoms, we do have a few zones that have pet battle trainers with daily quests. These trainers nowadays will actually scale to the highest level of your own battle pets. So, if I have a team of three and they're all the same level, then we fight the battle pet trainer at the same level. Because of this, we do want to keep our crew relatively the same level as we level up. And as we go through, each of these battle pet trainers will give us XP for winning, but also XP for the daily quest about 15,000, which does also scale with the winds of mysterious fortune buff.",
+        "canonical_file": "goldbound/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.txt",
+        "original_file": "goldbound/original-vtt/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E038-22",
+      "name": "Blasted Lands wild pet-battle XP sprint",
+      "kind": "experiment",
+      "status": "successful",
+      "zone": "Blasted Lands",
+      "summary": "6000–8000 XPvictory/1–3 min, afewhoursreaches 89; petsstillbelow 25, noresalerevenueconfirmed.",
+      "metrics": {
+        "xp_per_victory_range": [
+          6000,
+          8000
+        ],
+        "battle_minutes_range": [
+          1,
+          3
+        ],
+        "character_level_after": 89
+      },
+      "source": {
+        "file": "038 - This Buff Just Changed Everything - Goldbound 37.en-orig.vtt",
+        "cleaned_file": "goldbound/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.txt",
+        "paragraph_start": 17,
+        "paragraph_end": 18,
+        "start_time": "00:19:33.200",
+        "quote": "So, you best believe over the next couple days, we'll be doing a world tour of the battle pet trainers. I'll try to sort out a good battle pet crew and see how it's rolling. All right, so it's definitely working. A few hours in and we're level 88. Plus, it's the next day here, so all the trainers daily quests are respawned with a little experience under the belt. Right now, my pet battle strategy is to use the Fosling here. The pet we got from Fosra in the Rothy Highlands this week, he just has a solid opening combo between his defensive and Quake, which hits all of the enemy pets, even the back row. So, when opening with Fosling, we get a solid chunk of damage on their entire team. Then, we can swap off to my backup pets and finish them off with my backline. But that is again all the pet battle trainers for the day and we're well into level 88. Looking at our pet journal though, I think our pets are ready to head out and farm in the blasted lands. This is our current highest level pet battle zone. So it should be the best XP.",
+        "canonical_file": "goldbound/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.txt",
+        "original_file": "goldbound/original-vtt/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E038-23",
+      "name": "Level 89 Blasted Lands/Swamp quest gear batch",
+      "kind": "experiment",
+      "status": "successful",
+      "zone": "Blasted Lands / Swamp of Sorrows",
+      "summary": "Full 30 slotbagandsatchelsextra; blue 198 epic 205, overall 161→179 health 202 k→264 k. Fewepicsfullblue, trinketslag, remainingepics ongoing.",
+      "metrics": {
+        "blue_ilvl": 198,
+        "epic_ilvl": 205,
+        "overall_ilvl_after": 179,
+        "health_before": 202000,
+        "health_after": 264000
+      },
+      "source": {
+        "file": "038 - This Buff Just Changed Everything - Goldbound 37.en-orig.vtt",
+        "cleaned_file": "goldbound/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.txt",
+        "paragraph_start": 18,
+        "paragraph_end": 19,
+        "start_time": "00:20:30.480",
+        "quote": "Oh yeah. So each pet battle victory here is giving us about 6 to 8,000 XP. And since we can do one pet battle every one to three minutes, if I just lock in for a few hours here, we should be level 89 and able to go farm the rest of our gear. And there it is. A few hours of pet battling the books. And while our pets didn't quite hit level 25, we hit 89. And hey, that's good enough for me right now. I can always level up these pets later by doing the daily quests. But for now, I want to maximize the winds of mysterious fortune satchels at level 89 because once we hit 90, the gear will stop dropping. So, let's go quest. So, since I didn't really do the story lines during a few of these zones, Blasted Lands and Swamp of Swords are the nearest by. So, let's do those. All right. So, it didn't take too long to do a bunch of quests and fill up a full deep sea bag of satchels and then some, actually. So, let's go ahead and do a satchel opening. Current item level is 161 and we have 202,000 health. So, let's get these opened and see how much of an upgrade this ends up being.",
+        "canonical_file": "goldbound/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.txt",
+        "original_file": "goldbound/original-vtt/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E038-24",
+      "name": "Savage/Vicious Owlbeast Small Egg hour",
+      "kind": "farm",
+      "status": "measured",
+      "zone": "Hinterlands",
+      "summary": "Widezone 350 eggs/hour 2450 gfromeggsplusgray/greenminor; Winter Veil 100 gshortspike/15 geventhistoricalonly, no currentresetassumption.",
+      "metrics": {
+        "Small Egg_per_hour": 350,
+        "egg_gold_per_hour": 2450
+      },
+      "source": {
+        "file": "038 - This Buff Just Changed Everything - Goldbound 37.en-orig.vtt",
+        "cleaned_file": "goldbound/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.txt",
+        "paragraph_start": 20,
+        "paragraph_end": 20,
+        "start_time": "00:22:44.880",
+        "quote": "So, let's take this new gear that's about as good as we can get and head back to the hinterlands because that gold isn't going to farm itself. Speaking of which, there is one thing that I do want to test farming out in this zone, especially since the Feast of Winter's Veil is coming up relatively soon. The owl beasts. Literally all over the zone are these moonkin looking owl beasts. There's two varieties though, the savage and the vicious. But for us, they're all the same because we're after one thing and one thing only, small eggs yet again. Now, the spawn area of these guys is so large that we don't really have to worry about respawn rates or routes. And we can use sprints and grappling hooks to get around quite well for some decent kills per hour. In fact, these guys pretty much cover the entire map, which is good and bad. It's good for farming them, but it does mean there isn't that much variety of mobs aside from these guys, trolls, and some oozes, and maybe some turtles on the beach. So, we definitely want to test them out when we're here because hey, there's not much else to farm in this zone. As far as the rates, I was thinking this would be a sub 1,000 gold per hour farm, but I'm honestly pleasantly surprised. We're pulling in about 350 small eggs per hour, which is way better than our original small egg farm in Red Ridge, but not as good as the Westfall or the Lock Madan ones. At current market prices, that's about 2,450 gold per hour just from the eggs. And who knows, the egg prices could spike a little bit in the future. Last Winter's Veil, they did go up to 100 gold each for a little bit and settled around 15 gold during the event, but did come back down to eight pretty quickly. Besides the small eggs here, we're really just getting some gray hollow wing bones and the odd green transmog. But hey, not a bad farm to mix into the zone. At least the small eggs still drop here, unlike a lot of other items in the zone. But with all that said, travelers, it's time to check the mailbox. And as you may know, there have been some pretty big announcements in WoW lately. and those well yeah they've moved their token price up from about 250,000 gold to darn near 300k at the moment. So let's hope for a pretty big mailbox clear. There's a lot of odds and ends here as far as trade goods, mostly from the zone, but also from Dark Moon which happened during this week. So, let's get this looted up.",
+        "canonical_file": "goldbound/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.txt",
+        "original_file": "goldbound/original-vtt/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E038-25",
+      "name": "Hinterlands 107000 g checkpoint",
+      "kind": "observation",
+      "status": "measured",
+      "zone": "Hinterlands",
+      "summary": "Tradegoodscashstack 72000, backlogover 30000, currentzonecrickets; total 107000 versusnear 300 ktoken. Eventgearisnotcashincome.",
+      "metrics": {
+        "cash_gold": 107000,
+        "token_gold_approx": 300000
+      },
+      "source": {
+        "file": "038 - This Buff Just Changed Everything - Goldbound 37.en-orig.vtt",
+        "cleaned_file": "goldbound/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.txt",
+        "paragraph_start": 20,
+        "paragraph_end": 21,
+        "start_time": "00:22:44.880",
+        "quote": "So, let's take this new gear that's about as good as we can get and head back to the hinterlands because that gold isn't going to farm itself. Speaking of which, there is one thing that I do want to test farming out in this zone, especially since the Feast of Winter's Veil is coming up relatively soon. The owl beasts. Literally all over the zone are these moonkin looking owl beasts. There's two varieties though, the savage and the vicious. But for us, they're all the same because we're after one thing and one thing only, small eggs yet again. Now, the spawn area of these guys is so large that we don't really have to worry about respawn rates or routes. And we can use sprints and grappling hooks to get around quite well for some decent kills per hour. In fact, these guys pretty much cover the entire map, which is good and bad. It's good for farming them, but it does mean there isn't that much variety of mobs aside from these guys, trolls, and some oozes, and maybe some turtles on the beach. So, we definitely want to test them out when we're here because hey, there's not much else to farm in this zone. As far as the rates, I was thinking this would be a sub 1,000 gold per hour farm, but I'm honestly pleasantly surprised. We're pulling in about 350 small eggs per hour, which is way better than our original small egg farm in Red Ridge, but not as good as the Westfall or the Lock Madan ones. At current market prices, that's about 2,450 gold per hour just from the eggs. And who knows, the egg prices could spike a little bit in the future. Last Winter's Veil, they did go up to 100 gold each for a little bit and settled around 15 gold during the event, but did come back down to eight pretty quickly. Besides the small eggs here, we're really just getting some gray hollow wing bones and the odd green transmog. But hey, not a bad farm to mix into the zone. At least the small eggs still drop here, unlike a lot of other items in the zone. But with all that said, travelers, it's time to check the mailbox. And as you may know, there have been some pretty big announcements in WoW lately. and those well yeah they've moved their token price up from about 250,000 gold to darn near 300k at the moment. So let's hope for a pretty big mailbox clear. There's a lot of odds and ends here as far as trade goods, mostly from the zone, but also from Dark Moon which happened during this week. So, let's get this looted up.",
+        "canonical_file": "goldbound/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.txt",
+        "original_file": "goldbound/original-vtt/038 - This Buff Just Changed Everything - Goldbound 37.en-orig.vtt"
+      }
+    }
+  ]
+}

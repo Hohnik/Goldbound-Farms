@@ -1,0 +1,280 @@
+{
+  "source_id": 24,
+  "source_file": "024 - WoW Midnight's New Zones Might Change EVERYTHING - Goldbound 23.en-orig.vtt",
+  "cleaned_file": "goldbound/024 - WoW Midnight's New Zones Might Change EVERYTHING - Goldbound 23.en-orig.txt",
+  "full_text_reviewed": true,
+  "paragraph_count": 19,
+  "records": [
+    {
+      "id": "E024-01",
+      "name": "Midnight old-material repricing follow-up",
+      "kind": "observation",
+      "status": "confirmed",
+      "zone": "Stranglethorn Vale",
+      "summary": "ZGfarm~60%priorvalueasmarketsfall; token 260 k. Causehousingfocus/returningstocksinferrednotproven.",
+      "metrics": {},
+      "source": {
+        "file": "024 - WoW Midnight's New Zones Might Change EVERYTHING - Goldbound 23.en-orig.vtt",
+        "cleaned_file": "goldbound/024 - WoW Midnight's New Zones Might Change EVERYTHING - Goldbound 23.en-orig.txt",
+        "paragraph_start": 1,
+        "paragraph_end": 3,
+        "start_time": "00:00:00.000",
+        "quote": "Greetings travelers, and welcome back to Goldbound, the challenge series where a rogue Goldilocked explores Azeroth by unlocking one zone at a time. Each new zone is randomly spun, but only once the WoW token is earned within our currently unlocked zones. And while the WoW token has been moving up and down lately, there have been some much bigger changes to World of Warcraft. The Midnight expansion has officially launched, the max level has now increased to 90. So, let's get back into Stranglethorn Vale and see how this new expansion impacts Goldie. Now, the first thing I'm noticing with Midnight launching is that old world materials, pretty well across the board, are getting slashed in price. There could be a few reasons for this.",
+        "canonical_file": "goldbound/024 - WoW Midnight's New Zones Might Change EVERYTHING - Goldbound 23.en-orig.txt",
+        "original_file": "goldbound/original-vtt/024 - WoW Midnight's New Zones Might Change EVERYTHING - Goldbound 23.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E024-02",
+      "name": "Skullsplitter Witch Doctor Wildvine solo trial",
+      "kind": "farm",
+      "status": "measured",
+      "zone": "Stranglethorn Vale",
+      "summary": "Zul Mamwe mixedspawn~60 Witch Doctors/hour/~400 allkills;10%cited→~6 Wildvineexpected,1400 g/htradegoodsreported. Actualwildvinecountunstated;250–400 gmarketquoted.",
+      "metrics": {
+        "Witch Doctor kills_per_hour_approx": 60,
+        "cited_drop_pct": 10,
+        "expected_Wildvine_per_hour": 6,
+        "reported_material_gold_per_hour": 1400
+      },
+      "source": {
+        "file": "024 - WoW Midnight's New Zones Might Change EVERYTHING - Goldbound 23.en-orig.vtt",
+        "cleaned_file": "goldbound/024 - WoW Midnight's New Zones Might Change EVERYTHING - Goldbound 23.en-orig.txt",
+        "paragraph_start": 4,
+        "paragraph_end": 6,
+        "start_time": "00:02:48.040",
+        "quote": "And one of them is down in the ruins of Zul'Mamwe, just between the north and the south. This is yet another troll camp. This time, though, the Skullsplitter trolls. So, after updating the target macro that has been adapted from the L1 boars, I can get to running around and tagging these guys efficiently. And there are a few variants of Skullsplitter trolls in the ruins, and while they can drop the zone-wide loot like the Macaw and the First Mate Hat, both of which we're still waiting to see drop, maybe this week, they also have some general BOEs in their loot tables, but nothing super specific to them as trolls, and most of these drops are shared across the zone. However, the witch doctors are brewing up something a little bit different, because they have their own trade goods on the loot table, wild vines. Now, wild vines are a green trade good that have about a 10% drop rate from witch doctors, which I suppose is quite high for transmog standards, but fairly low for something considered a farmable trade good. The value, though, well, wild vines sits around a market value of 250 to 400 gold. Definitely worth looking into. And the reason it holds so much value is because it's a reagent in several classic crafted transmog pieces. Well, more than a several. These are across both blacksmithing and leatherworking, and gold goblins who have these rare crafting recipes don't always want to come out here and farm world wildvine to restock them. So, instead, we farm it here and we sell it to them. And even if the gold per hour doesn't break any records on this farm, we can log this down as another good trade good unlocked for stranglethorn because we can now use it if we get any of those rare recipes.",
+        "canonical_file": "goldbound/024 - WoW Midnight's New Zones Might Change EVERYTHING - Goldbound 23.en-orig.txt",
+        "original_file": "goldbound/original-vtt/024 - WoW Midnight's New Zones Might Change EVERYTHING - Goldbound 23.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E024-03",
+      "name": "Cold Eye Basilisk skinning and trinket trial",
+      "kind": "farm",
+      "status": "successful",
+      "zone": "Stranglethorn Vale",
+      "summary": "Savage Coasthyperspawnmedium/heavyleather, hides; Cold Basilisk Eyeobtained.120–200 klistingbut 0.000 salerate, notmeaningfulrevenue; notimedskinbasket.",
+      "metrics": {
+        "Cold Basilisk Eye": 1,
+        "quoted_gold_range": [
+          120000,
+          200000
+        ],
+        "quoted_sale_rate": 0
+      },
+      "source": {
+        "file": "024 - WoW Midnight's New Zones Might Change EVERYTHING - Goldbound 23.en-orig.vtt",
+        "cleaned_file": "goldbound/024 - WoW Midnight's New Zones Might Change EVERYTHING - Goldbound 23.en-orig.txt",
+        "paragraph_start": 6,
+        "paragraph_end": 8,
+        "start_time": "00:05:07.640",
+        "quote": "But all in all, the gold per hour on trade goods alone here as a solo farming rogue comes out to about 1,400 gold per hour. Yeah, not insane. Now, that being said, this would absolutely be a solid hyper spawn group farm if you had five ranged players like druids in strategic positions around here. I'm sure those wildvine rates could be blown out of the water. That's just not how Goldy rolls. So, I'll count this as a future crafting trade good source and move on and head south. So, I've been poking around the loot tables down in the south of stranglethorn, and I haven't really found as many unique items on the trolls and humans compared to the camps up north. But there are quite a few beasts wandering around the cape, and that, at the very least, gives us a solid skinning angle. Because there's gorillas, there's tigers, and there's basilisks, and plenty of targets if you want to get out and do some skinning farms. But, the one I want to hone in on right now has something else going for it as well. So, down along the southern Savage Coast, there's a stretch of shoreline that is home to the cold eye basilisks. And luckily, the small cluster of them is actually on a hyper spawn, meaning they can be farmed repeatedly without having to wait around for respawns. And when skinned, they drop a variety of leather, primarily medium leather and heavy leather, but also heavy hide a little more rarely.",
+        "canonical_file": "goldbound/024 - WoW Midnight's New Zones Might Change EVERYTHING - Goldbound 23.en-orig.txt",
+        "original_file": "goldbound/original-vtt/024 - WoW Midnight's New Zones Might Change EVERYTHING - Goldbound 23.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E024-04",
+      "name": "ZG fish/crocolisk skinning-only hour",
+      "kind": "farm",
+      "status": "measured",
+      "zone": "ZulGurub",
+      "summary": "Underwater Skate, threepullsegmentsavoiddeaggro/corpsetimeout;900 Savage Leather,394 Deepsea Scales,2 Pristine Hide,8400 g/hpostpricecrash. Darkmoonhatadds 300–600 g/hourbonusbutinclusionunclear.",
+      "metrics": {
+        "minutes": 60,
+        "Savage Leather": 900,
+        "Deepsea Scale": 394,
+        "Pristine Hide": 2,
+        "reported_gold_per_hour": 8400
+      },
+      "source": {
+        "file": "024 - WoW Midnight's New Zones Might Change EVERYTHING - Goldbound 23.en-orig.vtt",
+        "cleaned_file": "goldbound/024 - WoW Midnight's New Zones Might Change EVERYTHING - Goldbound 23.en-orig.txt",
+        "paragraph_start": 8,
+        "paragraph_end": 9,
+        "start_time": "00:07:06.760",
+        "quote": "So, I don't know. I mean, I did get one, but at this point, I might be better off to just equip it on Goldie than anything else, or even sell it to a vendor. Either way, I think it's time to go find something else. And while the best gold per hour farm is so far in Stranglethorn, it has been Zul'Gurub trash runs, the value has dropped a fair amount with Midnight releasing and the crash in old world markets. Well, since we already have skinning, I am a little curious as to how good a skinning only Zul'Gurub farm might be. Because currently, our trash runs do skip the fish that swim underwater in the moat around the center of Zul'Gurub. But, what would happen if we just swam around in circles, pulling all the fish, skinning them, and running a few resets purely focused on skinning. Well, let's test it out. Now, even though Midnight is out and a few markets are crashing, we also have the Darkmoon Faire active again, which does work in our favor because it means that during each 60-minute farming session, you better believe I'm using my on-use fishing hat to grab a Darkmoon Flower Water or two because that alone is a nice little bonus, somewhere between 300 and 600 gold per hour depending on whether the pool asks for one or two casts. Back to the Zul'Gurub fishing, I mean, I guess skinning farm, skinning fish. Well, the route here is pretty straightforward. I enter the dungeon the same way as the trash runs, jumping down to the first pack of crocolisks to kill and skin because this serves as the entry point to the waters, but it also marks the location that I want to exit from later because by the time we complete the loop, the fish should be cleared and this will be the fastest spot to leave the dungeon and reset. Now, we are dealing with underwater mechanics, so something like a druid would likely better rates with aquatic form, but I do still have the Darkwater Skate mount from the Darkmoon Faire, which gives a little bit of extra movement speed underwater. And for Goldie, it's the best option that we have. So, the route itself is dead simple, just a circle, which is exactly the way I like it, but all the fish are individual spawns, so we actually have to face pull each and every one one by one. Now, they aren't sitting in big packs, so they can't all be grabbed at once. And since they're kind of a low level, it can be a little finicky to actually pull them. But once they're pulled, I tend to break the route into three pulls, stopping at each of the crocolisk camps to kill the fish and pop up on land to skin the crocs. This is just to avoid any spots where I might jump out of the water to kill the crocolisks because if I jump out too early with a bunch of fish still following me, they could technically de-agro and undo the last two to three minutes of work. It also splits up the kills so too many fish you don't die at once because if we have 100 fish to skin and we don't get through them all in three to four minutes, they could actually start de-spawning. So, with all of that in mind, what are the results for an hour farming here? Well, we ended up with about 900 Savage Leather, quite a ton, 394 Deep Sea Scales, and even two Pristine Hides. Even with the prices dropping about 30 to 40% after Midnight's release, that still comes out to roughly 8.4 thousand gold per hour, which is honestly a pretty solid farm.",
+        "canonical_file": "goldbound/024 - WoW Midnight's New Zones Might Change EVERYTHING - Goldbound 23.en-orig.txt",
+        "original_file": "goldbound/original-vtt/024 - WoW Midnight's New Zones Might Change EVERYTHING - Goldbound 23.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E024-05",
+      "name": "Darkmoon Cap hourly bonus repeat",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Stranglethorn Vale",
+      "summary": "Eventactivehatpool 1–2 castsworth 300–600 g/use, onehourcooldown; bonusduringothertests.",
+      "metrics": {
+        "value_gold_per_use_range": [
+          300,
+          600
+        ],
+        "cooldown_minutes": 60
+      },
+      "source": {
+        "file": "024 - WoW Midnight's New Zones Might Change EVERYTHING - Goldbound 23.en-orig.vtt",
+        "cleaned_file": "goldbound/024 - WoW Midnight's New Zones Might Change EVERYTHING - Goldbound 23.en-orig.txt",
+        "paragraph_start": 8,
+        "paragraph_end": 8,
+        "start_time": "00:07:06.760",
+        "quote": "So, I don't know. I mean, I did get one, but at this point, I might be better off to just equip it on Goldie than anything else, or even sell it to a vendor. Either way, I think it's time to go find something else. And while the best gold per hour farm is so far in Stranglethorn, it has been Zul'Gurub trash runs, the value has dropped a fair amount with Midnight releasing and the crash in old world markets. Well, since we already have skinning, I am a little curious as to how good a skinning only Zul'Gurub farm might be. Because currently, our trash runs do skip the fish that swim underwater in the moat around the center of Zul'Gurub. But, what would happen if we just swam around in circles, pulling all the fish, skinning them, and running a few resets purely focused on skinning. Well, let's test it out. Now, even though Midnight is out and a few markets are crashing, we also have the Darkmoon Faire active again, which does work in our favor because it means that during each 60-minute farming session, you better believe I'm using my on-use fishing hat to grab a Darkmoon Flower Water or two because that alone is a nice little bonus, somewhere between 300 and 600 gold per hour depending on whether the pool asks for one or two casts. Back to the Zul'Gurub fishing, I mean, I guess skinning farm, skinning fish. Well, the route here is pretty straightforward. I enter the dungeon the same way as the trash runs, jumping down to the first pack of crocolisks to kill and skin because this serves as the entry point to the waters, but it also marks the location that I want to exit from later because by the time we complete the loop, the fish should be cleared and this will be the fastest spot to leave the dungeon and reset. Now, we are dealing with underwater mechanics, so something like a druid would likely better rates with aquatic form, but I do still have the Darkwater Skate mount from the Darkmoon Faire, which gives a little bit of extra movement speed underwater. And for Goldie, it's the best option that we have. So, the route itself is dead simple, just a circle, which is exactly the way I like it, but all the fish are individual spawns, so we actually have to face pull each and every one one by one. Now, they aren't sitting in big packs, so they can't all be grabbed at once. And since they're kind of a low level, it can be a little finicky to actually pull them. But once they're pulled, I tend to break the route into three pulls, stopping at each of the crocolisk camps to kill the fish and pop up on land to skin the crocs. This is just to avoid any spots where I might jump out of the water to kill the crocolisks because if I jump out too early with a bunch of fish still following me, they could technically de-agro and undo the last two to three minutes of work. It also splits up the kills so too many fish you don't die at once because if we have 100 fish to skin and we don't get through them all in three to four minutes, they could actually start de-spawning. So, with all of that in mind, what are the results for an hour farming here? Well, we ended up with about 900 Savage Leather, quite a ton, 394 Deep Sea Scales, and even two Pristine Hides. Even with the prices dropping about 30 to 40% after Midnight's release, that still comes out to roughly 8.4 thousand gold per hour, which is honestly a pretty solid farm.",
+        "canonical_file": "goldbound/024 - WoW Midnight's New Zones Might Change EVERYTHING - Goldbound 23.en-orig.txt",
+        "original_file": "goldbound/original-vtt/024 - WoW Midnight's New Zones Might Change EVERYTHING - Goldbound 23.en-orig.vtt"
+      },
+      "additional_values": [
+        {
+          "value": [
+            300,
+            600
+          ],
+          "label": "Hourly cooldown",
+          "basis": "Quoted bonus per cap use while the event is active; one use per hour.",
+          "unit": "g/use",
+          "kind": "value",
+          "source_refs": [
+            {
+              "episode": 24,
+              "paragraph_start": 8,
+              "paragraph_end": 8,
+              "start_time": "00:07:06.760"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E024-06",
+      "name": "Rashtail and Ironjaw basilisk cave scout",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Stranglethorn Vale",
+      "summary": "Skinningandsideiron/gold/silvertested, littleuniqueloot. Exactresultunstated.",
+      "metrics": {},
+      "source": {
+        "file": "024 - WoW Midnight's New Zones Might Change EVERYTHING - Goldbound 23.en-orig.vtt",
+        "cleaned_file": "goldbound/024 - WoW Midnight's New Zones Might Change EVERYTHING - Goldbound 23.en-orig.txt",
+        "paragraph_start": 12,
+        "paragraph_end": 13,
+        "start_time": "00:12:30.280",
+        "quote": "Either of those would definitely be cool zones to roll, but in a weird way, I'm kind of looking forward to rolling Deadwind Pass. I know of at least one fishing farm that could be pretty fun to test, and the other zones available for the spinner will be Badlands, Loch Modan, and Blasted Lands. So, whenever we get to the next zone spin, which is hopefully soon, there are some pretty solid options waiting. Now, all right, back to Stranglethorn Vale. And I have been a scouring the Cape of Stranglethorn for a good open world skinning farm. At first, I thought I might have found a decent one. There's a basilisk cave down here with rashtails on the outside and ironjaws on the inside, which is now our third basilisk type in the south, but unlike the cold eye basilisks, these guys don't really have anything interesting on their loot tables, so it's basically a pure skinning angle. Although, the cave does have a couple nice extras. There's a few ore spawns tucked in here, iron, gold, and silver, and there's even a rare spawn basilisk, Scalebelly, which is absolutely worth killing if you see it because it can drop the Chromatic Sword.",
+        "canonical_file": "goldbound/024 - WoW Midnight's New Zones Might Change EVERYTHING - Goldbound 23.en-orig.txt",
+        "original_file": "goldbound/original-vtt/024 - WoW Midnight's New Zones Might Change EVERYTHING - Goldbound 23.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E024-07",
+      "name": "Scalebelly Chromatic Sword search",
+      "kind": "farm",
+      "status": "no_spawn_seen",
+      "zone": "Stranglethorn Vale",
+      "summary": "Manycavechecksbutzero rare sighting/kills;130000 gvaluationtargetnotobtained.",
+      "metrics": {
+        "rare_kills": 0,
+        "quoted_market_gold": 130000
+      },
+      "source": {
+        "file": "024 - WoW Midnight's New Zones Might Change EVERYTHING - Goldbound 23.en-orig.vtt",
+        "cleaned_file": "goldbound/024 - WoW Midnight's New Zones Might Change EVERYTHING - Goldbound 23.en-orig.txt",
+        "paragraph_start": 12,
+        "paragraph_end": 13,
+        "start_time": "00:12:30.280",
+        "quote": "Either of those would definitely be cool zones to roll, but in a weird way, I'm kind of looking forward to rolling Deadwind Pass. I know of at least one fishing farm that could be pretty fun to test, and the other zones available for the spinner will be Badlands, Loch Modan, and Blasted Lands. So, whenever we get to the next zone spin, which is hopefully soon, there are some pretty solid options waiting. Now, all right, back to Stranglethorn Vale. And I have been a scouring the Cape of Stranglethorn for a good open world skinning farm. At first, I thought I might have found a decent one. There's a basilisk cave down here with rashtails on the outside and ironjaws on the inside, which is now our third basilisk type in the south, but unlike the cold eye basilisks, these guys don't really have anything interesting on their loot tables, so it's basically a pure skinning angle. Although, the cave does have a couple nice extras. There's a few ore spawns tucked in here, iron, gold, and silver, and there's even a rare spawn basilisk, Scalebelly, which is absolutely worth killing if you see it because it can drop the Chromatic Sword.",
+        "canonical_file": "goldbound/024 - WoW Midnight's New Zones Might Change EVERYTHING - Goldbound 23.en-orig.txt",
+        "original_file": "goldbound/original-vtt/024 - WoW Midnight's New Zones Might Change EVERYTHING - Goldbound 23.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E024-08",
+      "name": "Elder Mistvale Gorilla skinning hour",
+      "kind": "farm",
+      "status": "measured",
+      "zone": "Stranglethorn Vale",
+      "summary": "Hyperspawn+ironnearby;144 Heavy Leather,134 Medium Leather,24 Medium Hide,4 Heavy Hide, total 2800 g/h.6000 pre Midnightrepricingonlyhypothetical.",
+      "metrics": {
+        "minutes": 60,
+        "Heavy Leather": 144,
+        "Medium Leather": 134,
+        "Medium Hide": 24,
+        "Heavy Hide": 4,
+        "reported_gold_per_hour": 2800,
+        "hypothetical_prepatch_gold_per_hour": 6000
+      },
+      "source": {
+        "file": "024 - WoW Midnight's New Zones Might Change EVERYTHING - Goldbound 23.en-orig.vtt",
+        "cleaned_file": "goldbound/024 - WoW Midnight's New Zones Might Change EVERYTHING - Goldbound 23.en-orig.txt",
+        "paragraph_start": 13,
+        "paragraph_end": 14,
+        "start_time": "00:13:30.080",
+        "quote": "That thing has a market value hovering around 130,000 gold. The problem is, I've been circling this place consistently on my mining routes, hopping into the mine, and even doing some skinning here, but I still haven't even seen Scalebelly yet. So, I don't even have one kill count, which is pretty brutal for drop rates. And as cool as that sword might be to hang out in camp, we're kind of at a point right now in Stranglethorn Vale where we need fast-moving trade goods if we want to push our way out and get that token anytime soon. I already spent over a day /played up north farming transmog, and none of it has really sold yet. So, I'll keep looping the cave on mining routes because if Scalebelly ever shows up, it'd be fun to tag and try to get the drop, but I have a new target in mind, the Elder Mistveil Gorillas. I don't know why. Maybe it's just one of those mobs that stick in my mind from leveling back in the day, but I want to test these as a skinning farm. Now, the nice thing is they are on a hyper spawn, so we can stay in the Mistveil Valley and just keep them moving. And also, there's a few iron ore nodes around. But like a lot of the other beasts in Stranglethorn Vale, they don't really have any special trade goods, maybe some generic BOEs, but nothing unique to them. Their main white trade good drop is gorilla fangs, which is kind of worth as much to a vendor as it is on the auction house, about 15 silver each. So, it is really going to come down to the skins. But the one thing that does stand out about these guys, at least anecdotally in my testing, is it feels like they have the highest drop rate of heavy hide that I've seen in the zone. Now, obviously, medium and heavy leather are down pretty bad with midnight, and heavy hide is down, too, but it's still holding a decent value around 110 gold each. So, I think it's worth farming and testing.",
+        "canonical_file": "goldbound/024 - WoW Midnight's New Zones Might Change EVERYTHING - Goldbound 23.en-orig.txt",
+        "original_file": "goldbound/original-vtt/024 - WoW Midnight's New Zones Might Change EVERYTHING - Goldbound 23.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E024-09",
+      "name": "Janeiros Point scaled crocodile XP and skin test",
+      "kind": "experiment",
+      "status": "confirmed",
+      "zone": "Stranglethorn Vale",
+      "summary": "79 crocsfight 80 undergeared Rogue; rested 700 plus XP/kill, Dragon Islesskinning/skins. Baseleathercheap, knowledgecaplongtermproposalnot achieved.",
+      "metrics": {
+        "mob_level": 79,
+        "rested_xp_per_kill_lower_bound": 700
+      },
+      "source": {
+        "file": "024 - WoW Midnight's New Zones Might Change EVERYTHING - Goldbound 23.en-orig.vtt",
+        "cleaned_file": "goldbound/024 - WoW Midnight's New Zones Might Change EVERYTHING - Goldbound 23.en-orig.txt",
+        "paragraph_start": 14,
+        "paragraph_end": 16,
+        "start_time": "00:15:05.040",
+        "quote": "And the real question is, what does the gold per hour look like? Well, after 1 hour of dedicated testing, I walked away with 144 heavy leather, 134 medium leather, 24 medium hides, and four heavy hides. The big ticket drops here. And at current market values, that puts the farm at around 2.8 thousand gold per hour. Now, if we round this up we could go pre-midnight, I honestly think it'll be closer to 6,000 gold per hour. So, it's good data and worth knowing, but I don't think it's a spot I'm going to camp for long hours right now. And travelers, while I was doing some skinning testing on locations down here in the south, I found something. Something kind of odd. Just off the shore of Booty Bay, over at Janiero's Point. Now, first and foremost, this place has a pretty cool little alcove built into the goblin structure here.",
+        "canonical_file": "goldbound/024 - WoW Midnight's New Zones Might Change EVERYTHING - Goldbound 23.en-orig.txt",
+        "original_file": "goldbound/original-vtt/024 - WoW Midnight's New Zones Might Change EVERYTHING - Goldbound 23.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E024-10",
+      "name": "Gurubashi Arena uncontested chest",
+      "kind": "experiment",
+      "status": "successful",
+      "zone": "Stranglethorn Vale",
+      "summary": "Chestachievement, Arena Mastertrinketand Bo Ebracershundredsgoldvaluation; nosaleconfirmed.",
+      "metrics": {},
+      "source": {
+        "file": "024 - WoW Midnight's New Zones Might Change EVERYTHING - Goldbound 23.en-orig.vtt",
+        "cleaned_file": "goldbound/024 - WoW Midnight's New Zones Might Change EVERYTHING - Goldbound 23.en-orig.txt",
+        "paragraph_start": 16,
+        "paragraph_end": 17,
+        "start_time": "00:17:12.839",
+        "quote": "Not at least until we get some crafting alts. Plus, with my massively under-leveled gear, these fights are pretty tough. It's a cool little relic nonetheless, and definitely a good spot if we ever need to grind out a few levels. And speaking of fights, Stranglethorn also has the Gurubashi Arena. Now, this is a PvP Colosseum in the middle of the jungle, and a few times a day a chest spawns in the center, and it's open for the taking. And today well, I actually timed it perfectly. Because luckily for us, when the chest spawned in, nobody else was here to contest it, which is fortunate because Goldie's gear is basically fit for a level 30, not a level 80. So, anyone near our level, had they shown up, would have probably one-shot us. But alongside the Gurubashi Arena achievement, we also get a few items from the chest, the Arena Master trinket and some bracers.",
+        "canonical_file": "goldbound/024 - WoW Midnight's New Zones Might Change EVERYTHING - Goldbound 23.en-orig.txt",
+        "original_file": "goldbound/original-vtt/024 - WoW Midnight's New Zones Might Change EVERYTHING - Goldbound 23.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E024-11",
+      "name": "Token 251000 g completion checkpoint",
+      "kind": "observation",
+      "status": "successful",
+      "zone": "Stranglethorn Vale",
+      "summary": "220 ktradegoodscashplus 30000 transmog→251000, tokencurrent 248700 slightincreasebought; cheapestsofar.",
+      "metrics": {
+        "cash_gold": 251000,
+        "transmog_cash_gold": 30000,
+        "token_gold_before_purchase": 248700
+      },
+      "source": {
+        "file": "024 - WoW Midnight's New Zones Might Change EVERYTHING - Goldbound 23.en-orig.vtt",
+        "cleaned_file": "goldbound/024 - WoW Midnight's New Zones Might Change EVERYTHING - Goldbound 23.en-orig.txt",
+        "paragraph_start": 17,
+        "paragraph_end": 19,
+        "start_time": "00:18:01.240",
+        "quote": "Not bad at all. The bracers can actually be sold in the auction house for a couple hundred gold, but all in all, it's a nice little check mark off the Stranglethorn bucket list. And speaking of Stranglethorn bucket lists, a big one is hitting a WoW token. So, let's go check the mailbox and see where we're sitting. All right. So, we're currently at 168,000 gold, and the WoW token has been dipping nice and low with midnight, sitting at around 248.7k right now, which means now may be the time to strike. And the first page of auctions here on Goldie, lots of leather and miscellaneous materials from Zul'Gurub runs and open-world farms, pretty decent overall. So, let's loot these and see where we land.",
+        "canonical_file": "goldbound/024 - WoW Midnight's New Zones Might Change EVERYTHING - Goldbound 23.en-orig.txt",
+        "original_file": "goldbound/original-vtt/024 - WoW Midnight's New Zones Might Change EVERYTHING - Goldbound 23.en-orig.vtt"
+      }
+    }
+  ]
+}

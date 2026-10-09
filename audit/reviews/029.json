@@ -1,0 +1,749 @@
+{
+  "source_id": 29,
+  "source_file": "029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.vtt",
+  "cleaned_file": "goldbound/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.txt",
+  "full_text_reviewed": true,
+  "paragraph_count": 28,
+  "records": [
+    {
+      "id": "E029-01",
+      "name": "Blasted Lands seven-hour token push",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Blasted Lands",
+      "summary": "15–30 min Thorium/rare/nagaclamsloops+reposts,7 hoursfinally 11 thtoken;~3 moverallcashgenerated notperfarm.",
+      "metrics": {
+        "session_hours_approx": 7
+      },
+      "source": {
+        "file": "029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.vtt",
+        "cleaned_file": "goldbound/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.txt",
+        "paragraph_start": 1,
+        "paragraph_end": 3,
+        "start_time": "00:00:00.000",
+        "quote": "Greetings travelers and welcome back to Goldbound, the challenge series where a rogue, Goldilocked, is unlocking Azeroth one zone at a time. And last episode, we were mining, clamming, and rare hunting our way through the Blasted Lands, the most recent unlock, and we left off with a mailbox clear. That while pretty substantial, didn't quite get us to the WoW token target. And between transmog and trade goods, the cash stack is 166k. So, I took the weekend to do some reposts and farming, mostly doing the mining loops and clam loops, and well, it's time to check and see how close we are to a WoW token. So, welcome to maybe the earliest mailbox clear in Goldbound history. And at the moment, the token is about 250,000 gold and it's looking like about 36k in the mailbox.",
+        "canonical_file": "goldbound/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.txt",
+        "original_file": "goldbound/original-vtt/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E029-02",
+      "name": "Loch Buzzard Small Egg hour",
+      "kind": "farm",
+      "status": "measured",
+      "zone": "Loch Modan",
+      "summary": "Forcedspawngroundedtargets, highflyersout 30 ydrange;262 eggs 2020 g+40 vendor,~2060/h. Childrens Weekactive;5 manonlyproposed.",
+      "metrics": {
+        "minutes": 60,
+        "Small Egg": 262,
+        "egg_appraisal_gold": 2020,
+        "vendor_gold_approx": 40
+      },
+      "source": {
+        "file": "029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.vtt",
+        "cleaned_file": "goldbound/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.txt",
+        "paragraph_start": 5,
+        "paragraph_end": 8,
+        "start_time": "00:03:27.440",
+        "quote": "What we do have though is the Algaz Station, pretty much unchanged, Thessalmar, Iron Braid's Excavation Site, and the Mo'grosh Stronghold, amongst a few other areas in here. And the first farm that I definitely remember coming into this zone is one that can potentially spike during the year depending on the Feast of Winter's Veil. Oh, yeah, there is a small egg farm here. Actually, this is the best small egg farm in the game, to my knowledge, assuming you have a five-man hyper spawn group, which we don't. But down to the lock we go. Just south of it, there's a few crocs, but also a few lock buzzards. Now, these guys have a very solid drop rate and set up for small egg farming.",
+        "canonical_file": "goldbound/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.txt",
+        "original_file": "goldbound/original-vtt/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.vtt"
+      },
+      "additional_values": [
+        {
+          "value": 2060,
+          "label": "Eggs + vendor",
+          "basis": "262 eggs appraised at 2,020g plus about 40g vendor trash from the hour.",
+          "unit": "g/h",
+          "kind": "estimated",
+          "source_refs": [
+            {
+              "episode": 29,
+              "paragraph_start": 7,
+              "paragraph_end": 7,
+              "start_time": "00:05:02.480"
+            }
+          ],
+          "approx": true
+        }
+      ]
+    },
+    {
+      "id": "E029-03",
+      "name": "Emogg Crusher Bard appearance hunt",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Loch Modan",
+      "summary": "Tagslow/midgearrarefor Bardset; doesnotactuallydropogreweaponsdespitesome tables.",
+      "metrics": {},
+      "source": {
+        "file": "029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.vtt",
+        "cleaned_file": "goldbound/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.txt",
+        "paragraph_start": 8,
+        "paragraph_end": 9,
+        "start_time": "00:05:54.880",
+        "quote": "Unfortunately, the transmog from these guys seems to be pretty non-existent. But hey, it's a consistent gold farm with at least over 2000 gold per hour and we may very well be able to get some sales on small eggs above that if we get lucky here. And the first consistent farm of the zone unlocked. But something that isn't a consistent farm is transmog. Which would be nice at this point in time. It's always better to stock up on transmog early into a zone so we have more time to sell it off. So let's go up to the northeast in the Maulgrash Stronghold, the ogre den. Because there's a few things worth farming up here. First up, there is an ogre rare that spawns and roams around here, Emogg the Crusher. And unfortunately, his drops are pretty low tier transmog themselves, around 500 to 2000 gold. I know there are some issues with it showing he drops some of the other weapons that the actual ogres around him drop. One of them being the mace, but he doesn't actually drop them.",
+        "canonical_file": "goldbound/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.txt",
+        "original_file": "goldbound/original-vtt/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E029-04",
+      "name": "Mogrosh Darkmauler Can Opener/Masher hunt",
+      "kind": "farm",
+      "status": "successful",
+      "zone": "Loch Modan",
+      "summary": "Nonhyperspawncampworkedintozonecircuit; Can Opener 45–80 kmarket 4 ksale, Masher 87 kmarket 17 ksale,0.07%cited. Weaponsobtainedinlaterroundupbutindividualcountunstated.",
+      "metrics": {},
+      "source": {
+        "file": "029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.vtt",
+        "cleaned_file": "goldbound/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.txt",
+        "paragraph_start": 9,
+        "paragraph_end": 11,
+        "start_time": "00:06:49.000",
+        "quote": "So if you're targeting that, I would say try the mobs around him. One thing he does drop though is the bard pieces. Now this doesn't sell for much, but I think it'll be a very cool lock lumberjack transmog look for Goldie and something to work towards as far as a zone transmog. A few of the other rares in the zone can also drop the bard set. So even if he isn't going to break the bank, I'll tag him a few times. In what is a lot of gold are the ogres around him. Like the Maulgrash Dark Maulder. These guys have a few weapons on their tables actually and both of them are listed at a 0.07% drop rate. Although these weapons were removed from the game for a while, this will be the story for a lot of the transmog we farm here in Loch Modan. So the drop rate might be artificially lowered from all of the samples that just didn't have it on their loot tables. The value though certifiably high.",
+        "canonical_file": "goldbound/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.txt",
+        "original_file": "goldbound/original-vtt/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E029-05",
+      "name": "Mogrosh Earthbender Toothpick hunt",
+      "kind": "farm",
+      "status": "successful",
+      "zone": "Loch Modan",
+      "summary": "0.15%cited,167 kmarket 8 ksale; obtainedandsellsatmailboxamountunstated.",
+      "metrics": {},
+      "source": {
+        "file": "029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.vtt",
+        "cleaned_file": "goldbound/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.txt",
+        "paragraph_start": 10,
+        "paragraph_end": 11,
+        "start_time": "00:07:40.080",
+        "quote": "The Maulgrash Can Opener is a two-handed axe with a market value of 45 to 80,000 gold and a region sale average of 4,000 gold with a decent sale rate. So, not bad. They also have the Mogorosh Masher, also a solid market value of 87,000 gold, but this one has a region average sale of only 17,000 gold. So, I don't know if it will really sell for anywhere close to market. It must have some shared appearances, but in any event, we'll try to sell it if we got it. And the last of the mobs here that we want for ogres are the Mogorosh Earthbenders who drop another weapon at a listed 0.15% drop rate, the Mogorosh Toothpick. Now, this one is a pretty cool-looking drop and definitely a neat two-handed sword. Not many swords have an appearance similar to this, so it is a pretty unique look. Plus, the market value of 167,000 gold, yeah, you heard that right. And a region sale average of 8K is not bad, either. So, these weapons, if sold anywhere close to market value or even just around average sale prices, would be a big drop in the bucket towards the next token. And given the small egg gold per hour, it could be a very worthwhile farm here. But this area is a little bit unique and it has to do with the reason that the small eggs are a low gold per hour farm.",
+        "canonical_file": "goldbound/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.txt",
+        "original_file": "goldbound/original-vtt/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E029-06",
+      "name": "Kubb Rat Cloth Cloak/Waxpolished Armor rare",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Loch Modan",
+      "summary": "17 kcloak 11 ksale,11 kchest 400 sale; rarechecked, counter/outcomeunstated.",
+      "metrics": {},
+      "source": {
+        "file": "029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.vtt",
+        "cleaned_file": "goldbound/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.txt",
+        "paragraph_start": 12,
+        "paragraph_end": 13,
+        "start_time": "00:10:18.560",
+        "quote": "Which, these two aspects are exactly how we got our Cataclysm Ember Silk Bags. But, Twilight Highlands is gated by the zone that Loch Modan does put on the next zone spin, the Wetlands. Now, the Wetlands is to the north and would be a very interesting zone to unlock. One, because it's further north than Eastern Kingdoms and opens up the chance of going even further north, but two, because it opens a second path to Kalimdor and through a different zone of Dustwallow Marsh. So, it would actually double the odds of heading overseas to Kalimdor because we would have two potential zones to spin there. And of course, to the south of Loch Modan is Badlands, but we already had that zone on the spinner from the Searing Gorge unlocked. So, some very interesting options for the future, for sure. Although, we only just got into the lock, so we better focus on gold farming before we start thinking about the next zones. And on the topic of mobs with solid loot that aren't on a hyper spawn, well, just south of the Alga's station is a den, which is also home to another rare spawn, and he has some loot actually worth farming, Cub.",
+        "canonical_file": "goldbound/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.txt",
+        "original_file": "goldbound/original-vtt/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E029-07",
+      "name": "Tunnel Rat Scout Rodentia Shortsword",
+      "kind": "farm",
+      "status": "successful",
+      "zone": "Loch Modan",
+      "summary": "Nonforcedspawnden, kill 46 drops 80 kmarket 17.5 ksale sword 0.07%cited; laterconfirmed sale.",
+      "metrics": {
+        "first_drop_kill": 46,
+        "quoted_market_gold": 80000,
+        "quoted_sale_gold": 17500
+      },
+      "source": {
+        "file": "029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.vtt",
+        "cleaned_file": "goldbound/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.txt",
+        "paragraph_start": 13,
+        "paragraph_end": 14,
+        "start_time": "00:11:23.280",
+        "quote": "And he drops the Rat Cloth Cloak. While it doesn't sound super amazing from the title, it is worth about 17,000 gold and with an average sale price to match, close to 11,000 gold. A very, very respectable transmog item for sure. But, that isn't all this rare has. He also has a mail chest, the wax polished armor. I'm assuming he's polishing it with the cobalt candles, but I guess that's just up to the imagination. But, it does have an 11,000 gold price tag, although a lower sale average of close to 400 gold. Still a very good drop though. So, Cub is definitely on our Lock Modan target list. But, he's not actually why we're here in the den. His scouts are, the tunnel rat scouts, because they, like our ogre friends, do not actually hyper spawn. And they drop a beast of a weapon, the rodentia short sword.",
+        "canonical_file": "goldbound/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.txt",
+        "original_file": "goldbound/original-vtt/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E029-08",
+      "name": "Milla Andromar mace vendor resale",
+      "kind": "experiment",
+      "status": "performed",
+      "zone": "Loch Modan",
+      "summary": "Limited Heavy Spiked Mace 600 g, cudgel/macewhite; Wooden Mallet Classiconlypossible, notfoundhere.",
+      "metrics": {},
+      "source": {
+        "file": "029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.vtt",
+        "cleaned_file": "goldbound/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.txt",
+        "paragraph_start": 15,
+        "paragraph_end": 15,
+        "start_time": "00:13:24.000",
+        "quote": "So, let's hit some guaranteed options, vendor flips. And there are a few key ones here in Loch Modan, up by the Stone Roth Dam, even though it's a little bit distracted with Cataclysm, is Milla Andromar, the Mace Crafter. And I am familiar with this guy from hardcore. He has some very respectable weapon progressions for Paladins in Classic. And in retail, he has some basic white items, the cudgel and the mace, but also a chance at the limited supply green items. Which they're not always in stock, but if you can snag them while they are, well, they have a price tag worth it. At the moment, the heavy spiked mace is now a transmog item worth about 600 gold on its own. Nothing too crazy, but probably worth trying to sell. And so far, this is all I've seen him spawn in retail as far as a limited supply, but I know in Classic, he does have a wooden mallet, so I'll keep an eye out. Then across the zone in the Farstrider Lodge, there are quite a few white items here between Cliff and Irene, the bow and gun vendors. But the ones we're really after are from Cat Sampson, the leather armor merchant. She has some limited supply green BoE boots.",
+        "canonical_file": "goldbound/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.txt",
+        "original_file": "goldbound/original-vtt/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.vtt"
+      },
+      "valued_drops": [
+        {
+          "item": "Heavy Spiked Mace",
+          "obtained": null,
+          "source_refs": [
+            {
+              "episode": 29,
+              "paragraph_start": 15,
+              "paragraph_end": 15,
+              "start_time": "00:13:24.000"
+            }
+          ],
+          "note": "Limited vendor-stock quotation; no confirmed sale.",
+          "quote_gold": 600
+        }
+      ]
+    },
+    {
+      "id": "E029-09",
+      "name": "Kat Sampson Agile/Stable Boot resale",
+      "kind": "experiment",
+      "status": "performed",
+      "zone": "Loch Modan",
+      "summary": "Limitedboots 1000+/800 gquoted, boughtforlist.",
+      "metrics": {},
+      "source": {
+        "file": "029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.vtt",
+        "cleaned_file": "goldbound/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.txt",
+        "paragraph_start": 15,
+        "paragraph_end": 16,
+        "start_time": "00:13:24.000",
+        "quote": "So, let's hit some guaranteed options, vendor flips. And there are a few key ones here in Loch Modan, up by the Stone Roth Dam, even though it's a little bit distracted with Cataclysm, is Milla Andromar, the Mace Crafter. And I am familiar with this guy from hardcore. He has some very respectable weapon progressions for Paladins in Classic. And in retail, he has some basic white items, the cudgel and the mace, but also a chance at the limited supply green items. Which they're not always in stock, but if you can snag them while they are, well, they have a price tag worth it. At the moment, the heavy spiked mace is now a transmog item worth about 600 gold on its own. Nothing too crazy, but probably worth trying to sell. And so far, this is all I've seen him spawn in retail as far as a limited supply, but I know in Classic, he does have a wooden mallet, so I'll keep an eye out. Then across the zone in the Farstrider Lodge, there are quite a few white items here between Cliff and Irene, the bow and gun vendors. But the ones we're really after are from Cat Sampson, the leather armor merchant. She has some limited supply green BoE boots.",
+        "canonical_file": "goldbound/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.txt",
+        "original_file": "goldbound/original-vtt/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E029-10",
+      "name": "Cliff/Irene bow-gun vendor check",
+      "kind": "experiment",
+      "status": "performed",
+      "zone": "Loch Modan",
+      "summary": "Whitesconsideredforthesamevendorroute, noisolatedsalestat.",
+      "metrics": {},
+      "source": {
+        "file": "029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.vtt",
+        "cleaned_file": "goldbound/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.txt",
+        "paragraph_start": 15,
+        "paragraph_end": 15,
+        "start_time": "00:13:24.000",
+        "quote": "So, let's hit some guaranteed options, vendor flips. And there are a few key ones here in Loch Modan, up by the Stone Roth Dam, even though it's a little bit distracted with Cataclysm, is Milla Andromar, the Mace Crafter. And I am familiar with this guy from hardcore. He has some very respectable weapon progressions for Paladins in Classic. And in retail, he has some basic white items, the cudgel and the mace, but also a chance at the limited supply green items. Which they're not always in stock, but if you can snag them while they are, well, they have a price tag worth it. At the moment, the heavy spiked mace is now a transmog item worth about 600 gold on its own. Nothing too crazy, but probably worth trying to sell. And so far, this is all I've seen him spawn in retail as far as a limited supply, but I know in Classic, he does have a wooden mallet, so I'll keep an eye out. Then across the zone in the Farstrider Lodge, there are quite a few white items here between Cliff and Irene, the bow and gun vendors. But the ones we're really after are from Cat Sampson, the leather armor merchant. She has some limited supply green BoE boots.",
+        "canonical_file": "goldbound/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.txt",
+        "original_file": "goldbound/original-vtt/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E029-11",
+      "name": "Khara Deepwater cooking/fishing recipes resale",
+      "kind": "experiment",
+      "status": "performed",
+      "zone": "Loch Modan",
+      "summary": "Buyslimitedrecipesforlist, caption Clora; namesunstated.",
+      "metrics": {},
+      "source": {
+        "file": "029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.vtt",
+        "cleaned_file": "goldbound/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.txt",
+        "paragraph_start": 16,
+        "paragraph_end": 16,
+        "start_time": "00:14:33.960",
+        "quote": "First up, the Agile boots, which are worth just over 1,000 gold, and the Stable boots, which are closer to 800 gold. But nice items to keep stocked and some pretty free item value here. On top of that, over by the lock, out by the fishing wharf, which is very unfortunately quite far from the actual water now, we have Clora Deepwater. Again, a little ironic on the naming now that the water is extremely shallow. Now, she doesn't have transmog per se, but she does have some recipes for fishing that have some decent sales values. So, I think these are worth posting at least while we're in Loch Modan for some extra coin. And moving down to Thelsamar, we have the same thing from Ran Flamespinner, but for some tailoring recipes. And rounding up the Loch Modan vendor loop, we have Morehan Coppersmith, metal smith. He has some white transmog, the chainmail set, which could be worth listing, although it is a little bit lower in value, but he also has a limited supply item of the feral blade, a one-handed sword worth about 1K. And just like that, with a quick loop of the zone, the bags are full with about 10K in extra transmog to list on the transmog alt. That only took about 5 minutes. Not bad. And there are some other vendors with some potentially smaller flips around for trade goods and white items if needed. We can stock our shelves with those. At this point, we're basically a Loch Modan eBay reseller.",
+        "canonical_file": "goldbound/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.txt",
+        "original_file": "goldbound/original-vtt/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E029-12",
+      "name": "Rann Flamespinner tailoring recipe resale",
+      "kind": "experiment",
+      "status": "performed",
+      "zone": "Loch Modan",
+      "summary": "Stockslimitedpatternsforlisting, namesnotspoken.",
+      "metrics": {},
+      "source": {
+        "file": "029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.vtt",
+        "cleaned_file": "goldbound/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.txt",
+        "paragraph_start": 16,
+        "paragraph_end": 16,
+        "start_time": "00:14:33.960",
+        "quote": "First up, the Agile boots, which are worth just over 1,000 gold, and the Stable boots, which are closer to 800 gold. But nice items to keep stocked and some pretty free item value here. On top of that, over by the lock, out by the fishing wharf, which is very unfortunately quite far from the actual water now, we have Clora Deepwater. Again, a little ironic on the naming now that the water is extremely shallow. Now, she doesn't have transmog per se, but she does have some recipes for fishing that have some decent sales values. So, I think these are worth posting at least while we're in Loch Modan for some extra coin. And moving down to Thelsamar, we have the same thing from Ran Flamespinner, but for some tailoring recipes. And rounding up the Loch Modan vendor loop, we have Morehan Coppersmith, metal smith. He has some white transmog, the chainmail set, which could be worth listing, although it is a little bit lower in value, but he also has a limited supply item of the feral blade, a one-handed sword worth about 1K. And just like that, with a quick loop of the zone, the bags are full with about 10K in extra transmog to list on the transmog alt. That only took about 5 minutes. Not bad. And there are some other vendors with some potentially smaller flips around for trade goods and white items if needed. We can stock our shelves with those. At this point, we're basically a Loch Modan eBay reseller.",
+        "canonical_file": "goldbound/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.txt",
+        "original_file": "goldbound/original-vtt/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E029-13",
+      "name": "Morhan Copperpin chainmail/Feral Blade resale",
+      "kind": "experiment",
+      "status": "performed",
+      "zone": "Loch Modan",
+      "summary": "Whitechainsetandlimited Feral Blade~1000 g; full 5 minvendorloop~10000 inventoryvaluation, nocashrate.",
+      "metrics": {
+        "vendor_loop_minutes_approx": 5,
+        "inventory_appraisal_gold_approx": 10000
+      },
+      "source": {
+        "file": "029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.vtt",
+        "cleaned_file": "goldbound/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.txt",
+        "paragraph_start": 16,
+        "paragraph_end": 16,
+        "start_time": "00:14:33.960",
+        "quote": "First up, the Agile boots, which are worth just over 1,000 gold, and the Stable boots, which are closer to 800 gold. But nice items to keep stocked and some pretty free item value here. On top of that, over by the lock, out by the fishing wharf, which is very unfortunately quite far from the actual water now, we have Clora Deepwater. Again, a little ironic on the naming now that the water is extremely shallow. Now, she doesn't have transmog per se, but she does have some recipes for fishing that have some decent sales values. So, I think these are worth posting at least while we're in Loch Modan for some extra coin. And moving down to Thelsamar, we have the same thing from Ran Flamespinner, but for some tailoring recipes. And rounding up the Loch Modan vendor loop, we have Morehan Coppersmith, metal smith. He has some white transmog, the chainmail set, which could be worth listing, although it is a little bit lower in value, but he also has a limited supply item of the feral blade, a one-handed sword worth about 1K. And just like that, with a quick loop of the zone, the bags are full with about 10K in extra transmog to list on the transmog alt. That only took about 5 minutes. Not bad. And there are some other vendors with some potentially smaller flips around for trade goods and white items if needed. We can stock our shelves with those. At this point, we're basically a Loch Modan eBay reseller.",
+        "canonical_file": "goldbound/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.txt",
+        "original_file": "goldbound/original-vtt/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.vtt"
+      },
+      "additional_values": [
+        {
+          "value": 10000,
+          "label": "Vendor stock",
+          "basis": "Appraised inventory acquired from a vendor loop; no confirmed cash or repeatable GPH.",
+          "unit": "g",
+          "kind": "value",
+          "source_refs": [
+            {
+              "episode": 29,
+              "paragraph_start": 16,
+              "paragraph_end": 16,
+              "start_time": "00:14:33.960"
+            }
+          ],
+          "approx": true
+        }
+      ],
+      "valued_drops": [
+        {
+          "item": "Feral Blade",
+          "obtained": null,
+          "source_refs": [
+            {
+              "episode": 29,
+              "paragraph_start": 16,
+              "paragraph_end": 16,
+              "start_time": "00:14:33.960"
+            }
+          ],
+          "note": "Limited vendor-stock quotation, not a sale.",
+          "quote_gold": 1000
+        }
+      ]
+    },
+    {
+      "id": "E029-14",
+      "name": "Goldenpath decor continuing restock",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Loch Modan",
+      "summary": "Keepsblacksmith/LWcraftslistedusingoldzoneinputs, notnewlocalrugrecipe.",
+      "metrics": {},
+      "source": {
+        "file": "029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.vtt",
+        "cleaned_file": "goldbound/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.txt",
+        "paragraph_start": 17,
+        "paragraph_end": 17,
+        "start_time": "00:15:57.600",
+        "quote": "And don't even get me started on the Loch Modan bear skin rugs, which our crafting alt is still making and keeping stocked. Although, I think it is worth mentioning that we did make these long before we could ever set foot in Loch Modan, which makes the sourcing of our Loch Modan bear skin rugs a little suspect. The full color of the rugs we're making definitely doesn't match the black bears on the west side of the zone, which we will definitely come back to farm later, but it is close enough to the grizzlies on the east where I think we can overlook the potential allegations of counterfeit rugs, at least for now. But rest assured, our crafting alt is keeping the decor and crafts from leatherworking and blacksmithing up to date on the auction house. And now that we have a few pieces on the transmog shelves, we can actually look towards another consistent farm, tried and true, dual gathering. Luckily, in Dustwallow we do have an herbalism trainer, so we can get that learned up pretty quickly.",
+        "canonical_file": "goldbound/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.txt",
+        "original_file": "goldbound/original-vtt/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E029-15",
+      "name": "Loch dual-gather rare circuit",
+      "kind": "farm",
+      "status": "measured",
+      "zone": "Loch Modan",
+      "summary": "Ore/herbnodedensityplusrares~2900 g/hraw, countsunspoken. Afterprocessing 5000–6000 valueofgatherhour, processingtimeunclear.",
+      "metrics": {
+        "reported_raw_gold_per_hour": 2900,
+        "processed_value_per_gather_hour_range": [
+          5000,
+          6000
+        ]
+      },
+      "source": {
+        "file": "029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.vtt",
+        "cleaned_file": "goldbound/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.txt",
+        "paragraph_start": 17,
+        "paragraph_end": 21,
+        "start_time": "00:15:57.600",
+        "quote": "And don't even get me started on the Loch Modan bear skin rugs, which our crafting alt is still making and keeping stocked. Although, I think it is worth mentioning that we did make these long before we could ever set foot in Loch Modan, which makes the sourcing of our Loch Modan bear skin rugs a little suspect. The full color of the rugs we're making definitely doesn't match the black bears on the west side of the zone, which we will definitely come back to farm later, but it is close enough to the grizzlies on the east where I think we can overlook the potential allegations of counterfeit rugs, at least for now. But rest assured, our crafting alt is keeping the decor and crafts from leatherworking and blacksmithing up to date on the auction house. And now that we have a few pieces on the transmog shelves, we can actually look towards another consistent farm, tried and true, dual gathering. Luckily, in Dustwallow we do have an herbalism trainer, so we can get that learned up pretty quickly.",
+        "canonical_file": "goldbound/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.txt",
+        "original_file": "goldbound/original-vtt/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E029-16",
+      "name": "GoshHaldir Loch Croc Hide Vest rare",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Loch Modan",
+      "summary": "500 kmarketvs 10 ksale, tagsonroute, noconfirmeddropisolated.",
+      "metrics": {
+        "quoted_market_gold": 500000,
+        "quoted_sale_gold": 10000
+      },
+      "source": {
+        "file": "029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.vtt",
+        "cleaned_file": "goldbound/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.txt",
+        "paragraph_start": 19,
+        "paragraph_end": 19,
+        "start_time": "00:18:27.080",
+        "quote": "Now, speaking of rares while we're mining and herbing here, there are a lot of rares in Loch Modan and more than half of them just drop low to mid-tier greens and no unique items, but there are a few that we most definitely want to tag whenever we see them. First up is Gosh Haldir, the crocodile rare down in the south of the lock. His main item is the Loch Croc Hide Vest, a unique appearance and actually a very cool chest appearance, plus a wildly high transmog value at 500k, but let's temper our expectations because the sale average is closer to 10k. Still, it is worth a tag whenever we're flying around here. Then, a little to the east at Ironband's Excavation Site is Boss Galgosh with the Black Mallet, another rare transmog target with a solid market value and a decent average sale price.",
+        "canonical_file": "goldbound/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.txt",
+        "original_file": "goldbound/original-vtt/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E029-17",
+      "name": "Boss Galgosh Black Mallet rare",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Loch Modan",
+      "summary": "Targetsonrareloop, noseparate outcome/price.",
+      "metrics": {},
+      "source": {
+        "file": "029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.vtt",
+        "cleaned_file": "goldbound/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.txt",
+        "paragraph_start": 19,
+        "paragraph_end": 19,
+        "start_time": "00:18:27.080",
+        "quote": "Now, speaking of rares while we're mining and herbing here, there are a lot of rares in Loch Modan and more than half of them just drop low to mid-tier greens and no unique items, but there are a few that we most definitely want to tag whenever we see them. First up is Gosh Haldir, the crocodile rare down in the south of the lock. His main item is the Loch Croc Hide Vest, a unique appearance and actually a very cool chest appearance, plus a wildly high transmog value at 500k, but let's temper our expectations because the sale average is closer to 10k. Still, it is worth a tag whenever we're flying around here. Then, a little to the east at Ironband's Excavation Site is Boss Galgosh with the Black Mallet, another rare transmog target with a solid market value and a decent average sale price.",
+        "canonical_file": "goldbound/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.txt",
+        "original_file": "goldbound/original-vtt/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E029-18",
+      "name": "Magosh Trogg Beater rare",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Loch Modan",
+      "summary": "8–15 kmarkettarget, opportunisticchecks.",
+      "metrics": {
+        "quoted_gold_range": [
+          8000,
+          15000
+        ]
+      },
+      "source": {
+        "file": "029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.vtt",
+        "cleaned_file": "goldbound/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.txt",
+        "paragraph_start": 20,
+        "paragraph_end": 20,
+        "start_time": "00:19:18.480",
+        "quote": "And then down in the Stone Splinter Valley is Magosh. A lot of oshes here in the rares. And he has a target of the Trogg Beater with a value of around 8 to 15,000 gold depending on the market. And like I said, there are quite a few more rare spawns around here as well, and they are worth tagging while we're doing our ore and herbs, but they don't quite have as big of item to get more low-tier transmog or vendor and disenchant fodder, but I still think worth tagging. And for dual gathering, what is the raw gold per hour rate here in the Loch Modan? Well, it isn't crazy, but it is the highest consistent gold per hour farm we have so far in Loch Modan, coming in right around 2,900 gold at item value unprocessed. With the herbs and ores though, if we play our cards right, we should be able to increase the value on that at least marginally. At the moment, the most profitable production of copper ore is actually back to the Elwynn Shuffle because copper ore and copper bars are down in the two gold range, so we can actually turn about a two gold profit by smelting them, getting engineering, and then crafting handfuls of copper bolts, which are anywhere between four and six gold right now. But the market on these is also pretty volatile, so this can change day to day. For tin though, we're actually taking a little bit of a different route, one that we haven't done in a while, and it's opened up because tin has gotten dirt cheap.",
+        "canonical_file": "goldbound/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.txt",
+        "original_file": "goldbound/original-vtt/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E029-19",
+      "name": "Copper bolt shuffle margin retest",
+      "kind": "experiment",
+      "status": "performed",
+      "zone": "Loch Modan",
+      "summary": "Ore/bar~2 g, bolts 4–6 g,+~2 gvalue/unit; smelt/engineeringclassicshuffleagainpositive, bulkstock.",
+      "metrics": {
+        "quoted_bolt_gold_range": [
+          4,
+          6
+        ],
+        "estimated_margin_gold": 2
+      },
+      "source": {
+        "file": "029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.vtt",
+        "cleaned_file": "goldbound/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.txt",
+        "paragraph_start": 20,
+        "paragraph_end": 20,
+        "start_time": "00:19:18.480",
+        "quote": "And then down in the Stone Splinter Valley is Magosh. A lot of oshes here in the rares. And he has a target of the Trogg Beater with a value of around 8 to 15,000 gold depending on the market. And like I said, there are quite a few more rare spawns around here as well, and they are worth tagging while we're doing our ore and herbs, but they don't quite have as big of item to get more low-tier transmog or vendor and disenchant fodder, but I still think worth tagging. And for dual gathering, what is the raw gold per hour rate here in the Loch Modan? Well, it isn't crazy, but it is the highest consistent gold per hour farm we have so far in Loch Modan, coming in right around 2,900 gold at item value unprocessed. With the herbs and ores though, if we play our cards right, we should be able to increase the value on that at least marginally. At the moment, the most profitable production of copper ore is actually back to the Elwynn Shuffle because copper ore and copper bars are down in the two gold range, so we can actually turn about a two gold profit by smelting them, getting engineering, and then crafting handfuls of copper bolts, which are anywhere between four and six gold right now. But the market on these is also pretty volatile, so this can change day to day. For tin though, we're actually taking a little bit of a different route, one that we haven't done in a while, and it's opened up because tin has gotten dirt cheap.",
+        "canonical_file": "goldbound/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.txt",
+        "original_file": "goldbound/original-vtt/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E029-20",
+      "name": "Tin prospecting shuffle",
+      "kind": "experiment",
+      "status": "performed",
+      "zone": "Loch Modan",
+      "summary": "Jewelcraftingnewanglecheap 1 g Tin→expected 2.5 gvaluefrom Moss Agate,+1.5 gmargin; notexactmeasuredbatch.",
+      "metrics": {
+        "quoted_tin_gold": 1,
+        "expected_output_per_tin_gold": 2.5,
+        "expected_margin_gold": 1.5
+      },
+      "source": {
+        "file": "029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.vtt",
+        "cleaned_file": "goldbound/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.txt",
+        "paragraph_start": 20,
+        "paragraph_end": 21,
+        "start_time": "00:19:18.480",
+        "quote": "And then down in the Stone Splinter Valley is Magosh. A lot of oshes here in the rares. And he has a target of the Trogg Beater with a value of around 8 to 15,000 gold depending on the market. And like I said, there are quite a few more rare spawns around here as well, and they are worth tagging while we're doing our ore and herbs, but they don't quite have as big of item to get more low-tier transmog or vendor and disenchant fodder, but I still think worth tagging. And for dual gathering, what is the raw gold per hour rate here in the Loch Modan? Well, it isn't crazy, but it is the highest consistent gold per hour farm we have so far in Loch Modan, coming in right around 2,900 gold at item value unprocessed. With the herbs and ores though, if we play our cards right, we should be able to increase the value on that at least marginally. At the moment, the most profitable production of copper ore is actually back to the Elwynn Shuffle because copper ore and copper bars are down in the two gold range, so we can actually turn about a two gold profit by smelting them, getting engineering, and then crafting handfuls of copper bolts, which are anywhere between four and six gold right now. But the market on these is also pretty volatile, so this can change day to day. For tin though, we're actually taking a little bit of a different route, one that we haven't done in a while, and it's opened up because tin has gotten dirt cheap.",
+        "canonical_file": "goldbound/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.txt",
+        "original_file": "goldbound/original-vtt/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E029-21",
+      "name": "Loch herb milling versus ink/glyph check",
+      "kind": "experiment",
+      "status": "performed",
+      "zone": "Loch Modan",
+      "summary": "Peacebloom/Silverleafmilledtosellpigments~5 g/herbeffective; ink/glyphlossrejectedattheseprices, professionbulkrotation.",
+      "metrics": {},
+      "source": {
+        "file": "029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.vtt",
+        "cleaned_file": "goldbound/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.txt",
+        "paragraph_start": 21,
+        "paragraph_end": 21,
+        "start_time": "00:20:42.000",
+        "quote": "It's like one gold each right now on the auction house. So, we can actually make a profit on that and get more gold per hour from our tin by grabbing jewelcrafting and prospecting it. Tin is nice because we can get a good amount of moss agate, which is one of the better low-level gems and has a good market value, and we get enough to bring the expected value per tin up to two gold 50 silver each, about a 1.5 gold profit per tin. Not bad. Then for herbs, well, nothing much has changed here. We still need to swap to inscription to mill the herbs down, then check on the auction house to see if the pigments we get from milling are more profitable than the inks we can make from them, and potentially check and see if glyphs are valuable. Right now though, the inks and glyphs are not very profitable. In fact, we'd lose some money. So, all I'm doing is milling them and selling the pigments. Doing this though, we can get closer to five gold per peacebloom and silverleaf. So, with the processing included, the actual yield here from an hour of dual gather farming is closer to 5K and can actually push up to 6,000 gold if the market values are high on some of the processed goods. It does require a lot of swapping professions though, so I am stockpiling a little bit on all these trade goods, and then we can bulk process to save time down the road. Some classic AFK smelting is always good. So, we have a generally solid dual gathering route, which isn't massive gold per hour, but still, it is something that can move the needle with consistent gold while we're trying to sell off some of the classic transmog pieces here. A pretty good one-two combo, I think. And while farming all these rares during the mining loops, we actually finished off the Bard set from the drops. So, a new zone transmog is locked and loaded.",
+        "canonical_file": "goldbound/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.txt",
+        "original_file": "goldbound/original-vtt/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.vtt"
+      },
+      "additional_values": [
+        {
+          "value": 5,
+          "label": "Processed herb",
+          "basis": "Quoted effective output value per Peacebloom/Silverleaf after milling; not an isolated herb-only rate.",
+          "unit": "g/herb",
+          "kind": "value",
+          "source_refs": [
+            {
+              "episode": 29,
+              "paragraph_start": 21,
+              "paragraph_end": 21,
+              "start_time": "00:20:42.000"
+            }
+          ],
+          "approx": true
+        }
+      ]
+    },
+    {
+      "id": "E029-22",
+      "name": "Bard set collection completion",
+      "kind": "experiment",
+      "status": "successful",
+      "zone": "Loch Modan",
+      "summary": "Rareloopcompletes Bardlookplus Deadmines Cleavers; personaltransmog.",
+      "metrics": {},
+      "source": {
+        "file": "029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.vtt",
+        "cleaned_file": "goldbound/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.txt",
+        "paragraph_start": 21,
+        "paragraph_end": 22,
+        "start_time": "00:20:42.000",
+        "quote": "It's like one gold each right now on the auction house. So, we can actually make a profit on that and get more gold per hour from our tin by grabbing jewelcrafting and prospecting it. Tin is nice because we can get a good amount of moss agate, which is one of the better low-level gems and has a good market value, and we get enough to bring the expected value per tin up to two gold 50 silver each, about a 1.5 gold profit per tin. Not bad. Then for herbs, well, nothing much has changed here. We still need to swap to inscription to mill the herbs down, then check on the auction house to see if the pigments we get from milling are more profitable than the inks we can make from them, and potentially check and see if glyphs are valuable. Right now though, the inks and glyphs are not very profitable. In fact, we'd lose some money. So, all I'm doing is milling them and selling the pigments. Doing this though, we can get closer to five gold per peacebloom and silverleaf. So, with the processing included, the actual yield here from an hour of dual gather farming is closer to 5K and can actually push up to 6,000 gold if the market values are high on some of the processed goods. It does require a lot of swapping professions though, so I am stockpiling a little bit on all these trade goods, and then we can bulk process to save time down the road. Some classic AFK smelting is always good. So, we have a generally solid dual gathering route, which isn't massive gold per hour, but still, it is something that can move the needle with consistent gold while we're trying to sell off some of the classic transmog pieces here. A pretty good one-two combo, I think. And while farming all these rares during the mining loops, we actually finished off the Bard set from the drops. So, a new zone transmog is locked and loaded.",
+        "canonical_file": "goldbound/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.txt",
+        "original_file": "goldbound/original-vtt/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E029-23",
+      "name": "Silverstream Tunnel Rat hyperspawn farm",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Loch Modan",
+      "summary": "Surveyors/Geomancers/Foragers plus Grizlak, targets Rat Cloth Belt 15 k/Rodentia Flint Axe; roundupfewobtainedgeneric, exactcountsunstated.",
+      "metrics": {},
+      "source": {
+        "file": "029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.vtt",
+        "cleaned_file": "goldbound/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.txt",
+        "paragraph_start": 22,
+        "paragraph_end": 23,
+        "start_time": "00:22:26.040",
+        "quote": "And for this one, I did opt for the dual-wielding dead mines cleavers from Westfall, giving Goldy a little bit of a lock madan lumberjack vibe. But now is no time to hit the brakes to admire our transmog. While we can spend some time farming the big ticket transmogs, the ones from the rares and the troggs and ogres that don't hyper spawn, there are actually a few locations with hyper spawn mobs that can get us some gold. These ones though, might end up having some more competition and lower prices since they are more farmable and can be maximized with bigger groups, but farmable is still good for us. So, up at the Silverstream mines are some Kobolds and well, the rare spawn of Grislak.",
+        "canonical_file": "goldbound/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.txt",
+        "original_file": "goldbound/original-vtt/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.vtt"
+      },
+      "valued_drops": [
+        {
+          "item": "Rat Cloth Belt",
+          "obtained": null,
+          "source_refs": [
+            {
+              "episode": 29,
+              "paragraph_start": 23,
+              "paragraph_end": 23,
+              "start_time": "00:23:05.440"
+            }
+          ],
+          "note": "Named target in the Silverstream hyperspawn; target-specific obtained count was not stated.",
+          "quote_gold": 15000
+        }
+      ]
+    },
+    {
+      "id": "E029-24",
+      "name": "Stone Splinter trogg/scout weapon farm",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Loch Modan",
+      "summary": "Valley Kingstargets Axe/Blade/Dagger, cave Shaman/Bonesnapper Mace/Bracers; stockroundup, notimedcount.",
+      "metrics": {},
+      "source": {
+        "file": "029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.vtt",
+        "cleaned_file": "goldbound/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.txt",
+        "paragraph_start": 23,
+        "paragraph_end": 23,
+        "start_time": "00:23:05.440",
+        "quote": "But, the Kobolds do have some more loot. So, there's Tunnel Rat Surveyors, Geomancers, and Foragers, which can be killed pretty quickly and reliably with their hyper spawn, and have some rare drops, like the Rat Cloth Belt. A solid 15K transmog item, very good, and the Rodentia Flint Axe. Not quite as valuable as the Rodentia Sword, but a good item nonetheless. So, we'll add the Silverstream Mine to the farming rotation. And even further down, looking at the Troggs in the Valley of Kings, we have a wide variety of Stone Splinter drops from the Stone Splinter Troggs and Scouts. Drops like the Stone Splinter Axe, Stone Splinter Blade, and Stone Splinter Dagger. All of which fit the bill for solid zone transmogs. And then inside the cave down here with the Shamans and Bonesnappers, even more Stone Splinter gear of the Mace and Bracers. While none of these items are the holy grail of transmog in the zone, if we farm up a few of each, they will most definitely help stock the shelves for a while. But, one mob that maybe should have some legendary loot is the lock monster. I've definitely had some run-ins with this guy in classic, and he is now home in a much smaller pond, and unfortunately, he doesn't drop anything at all. Speaking of legendary drops though, how about an update on Molten Core? We are on to run 31 of Molten Core, and still no second binding, and no Nightslayer Chest. Seriously, we didn't leave empty-handed because the Eye of Sulfuras dropped from Rag. This is the legendary component eventually needed for Sulfuras, Hand of Ragnaros, the legendary two-handed mace. Of course, Goldie can't wear it, but it would still be cool to get and craft for Golden Path, our paladin crafting alt with blacksmithing. So, once Arcanite Bars are unlocked with Tanaris alchemy vendors, we can look into this a little bit closer. At At know the drop tables aren't totally bugged in Molten Core for now though. But I do want to test a little bit of skinning in Loch Modan and in this zone there is really only one skinning farm that jumps out and it's because it's kind of looped up with a transmog farm. The target though, the black bears. And this one is kind of interesting because if you ever played through Loch Modan back in the day in classic, you might remember the horde patrol that walked down the east side of Loch. Well, they weren't just there to kill alliance players and they actually had some pretty solid loot on their tables.",
+        "canonical_file": "goldbound/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.txt",
+        "original_file": "goldbound/original-vtt/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E029-25",
+      "name": "Loch Monster loot check",
+      "kind": "experiment",
+      "status": "failed",
+      "zone": "Loch Modan",
+      "summary": "Killed/checked, doesnotdropanything.",
+      "metrics": {},
+      "source": {
+        "file": "029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.vtt",
+        "cleaned_file": "goldbound/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.txt",
+        "paragraph_start": 23,
+        "paragraph_end": 23,
+        "start_time": "00:23:05.440",
+        "quote": "But, the Kobolds do have some more loot. So, there's Tunnel Rat Surveyors, Geomancers, and Foragers, which can be killed pretty quickly and reliably with their hyper spawn, and have some rare drops, like the Rat Cloth Belt. A solid 15K transmog item, very good, and the Rodentia Flint Axe. Not quite as valuable as the Rodentia Sword, but a good item nonetheless. So, we'll add the Silverstream Mine to the farming rotation. And even further down, looking at the Troggs in the Valley of Kings, we have a wide variety of Stone Splinter drops from the Stone Splinter Troggs and Scouts. Drops like the Stone Splinter Axe, Stone Splinter Blade, and Stone Splinter Dagger. All of which fit the bill for solid zone transmogs. And then inside the cave down here with the Shamans and Bonesnappers, even more Stone Splinter gear of the Mace and Bracers. While none of these items are the holy grail of transmog in the zone, if we farm up a few of each, they will most definitely help stock the shelves for a while. But, one mob that maybe should have some legendary loot is the lock monster. I've definitely had some run-ins with this guy in classic, and he is now home in a much smaller pond, and unfortunately, he doesn't drop anything at all. Speaking of legendary drops though, how about an update on Molten Core? We are on to run 31 of Molten Core, and still no second binding, and no Nightslayer Chest. Seriously, we didn't leave empty-handed because the Eye of Sulfuras dropped from Rag. This is the legendary component eventually needed for Sulfuras, Hand of Ragnaros, the legendary two-handed mace. Of course, Goldie can't wear it, but it would still be cool to get and craft for Golden Path, our paladin crafting alt with blacksmithing. So, once Arcanite Bars are unlocked with Tanaris alchemy vendors, we can look into this a little bit closer. At At know the drop tables aren't totally bugged in Molten Core for now though. But I do want to test a little bit of skinning in Loch Modan and in this zone there is really only one skinning farm that jumps out and it's because it's kind of looped up with a transmog farm. The target though, the black bears. And this one is kind of interesting because if you ever played through Loch Modan back in the day in classic, you might remember the horde patrol that walked down the east side of Loch. Well, they weren't just there to kill alliance players and they actually had some pretty solid loot on their tables.",
+        "canonical_file": "goldbound/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.txt",
+        "original_file": "goldbound/original-vtt/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E029-26",
+      "name": "Molten Core 31 clear Eye of Sulfuras",
+      "kind": "farm",
+      "status": "successful",
+      "zone": "Molten Core",
+      "summary": "31 clearsstillnochest/leftbinding; Ragnaros Eyeobtained, future Paladin Sulfurasblocked Arcanite.",
+      "metrics": {
+        "clears": 31,
+        "Eye of Sulfuras": 1
+      },
+      "source": {
+        "file": "029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.vtt",
+        "cleaned_file": "goldbound/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.txt",
+        "paragraph_start": 23,
+        "paragraph_end": 23,
+        "start_time": "00:23:05.440",
+        "quote": "But, the Kobolds do have some more loot. So, there's Tunnel Rat Surveyors, Geomancers, and Foragers, which can be killed pretty quickly and reliably with their hyper spawn, and have some rare drops, like the Rat Cloth Belt. A solid 15K transmog item, very good, and the Rodentia Flint Axe. Not quite as valuable as the Rodentia Sword, but a good item nonetheless. So, we'll add the Silverstream Mine to the farming rotation. And even further down, looking at the Troggs in the Valley of Kings, we have a wide variety of Stone Splinter drops from the Stone Splinter Troggs and Scouts. Drops like the Stone Splinter Axe, Stone Splinter Blade, and Stone Splinter Dagger. All of which fit the bill for solid zone transmogs. And then inside the cave down here with the Shamans and Bonesnappers, even more Stone Splinter gear of the Mace and Bracers. While none of these items are the holy grail of transmog in the zone, if we farm up a few of each, they will most definitely help stock the shelves for a while. But, one mob that maybe should have some legendary loot is the lock monster. I've definitely had some run-ins with this guy in classic, and he is now home in a much smaller pond, and unfortunately, he doesn't drop anything at all. Speaking of legendary drops though, how about an update on Molten Core? We are on to run 31 of Molten Core, and still no second binding, and no Nightslayer Chest. Seriously, we didn't leave empty-handed because the Eye of Sulfuras dropped from Rag. This is the legendary component eventually needed for Sulfuras, Hand of Ragnaros, the legendary two-handed mace. Of course, Goldie can't wear it, but it would still be cool to get and craft for Golden Path, our paladin crafting alt with blacksmithing. So, once Arcanite Bars are unlocked with Tanaris alchemy vendors, we can look into this a little bit closer. At At know the drop tables aren't totally bugged in Molten Core for now though. But I do want to test a little bit of skinning in Loch Modan and in this zone there is really only one skinning farm that jumps out and it's because it's kind of looped up with a transmog farm. The target though, the black bears. And this one is kind of interesting because if you ever played through Loch Modan back in the day in classic, you might remember the horde patrol that walked down the east side of Loch. Well, they weren't just there to kill alliance players and they actually had some pretty solid loot on their tables.",
+        "canonical_file": "goldbound/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.txt",
+        "original_file": "goldbound/original-vtt/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E029-27",
+      "name": "Black Bear loot-plus-skinning test",
+      "kind": "farm",
+      "status": "measured",
+      "zone": "Loch Modan",
+      "summary": "Wideforcedspawnloop, Bastion Pauldrons/Orcish Cleaverreaddedoldpatrolloot, obtainedunspecified. Light Leatheronly 700 g/h, decideskill-onlybetter.",
+      "metrics": {
+        "reported_skinning_gold_per_hour": 700,
+        "quoted_Cleaver_market_gold": 49000,
+        "quoted_Cleaver_sale_gold": 3000
+      },
+      "source": {
+        "file": "029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.vtt",
+        "cleaned_file": "goldbound/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.txt",
+        "paragraph_start": 23,
+        "paragraph_end": 24,
+        "start_time": "00:23:05.440",
+        "quote": "But, the Kobolds do have some more loot. So, there's Tunnel Rat Surveyors, Geomancers, and Foragers, which can be killed pretty quickly and reliably with their hyper spawn, and have some rare drops, like the Rat Cloth Belt. A solid 15K transmog item, very good, and the Rodentia Flint Axe. Not quite as valuable as the Rodentia Sword, but a good item nonetheless. So, we'll add the Silverstream Mine to the farming rotation. And even further down, looking at the Troggs in the Valley of Kings, we have a wide variety of Stone Splinter drops from the Stone Splinter Troggs and Scouts. Drops like the Stone Splinter Axe, Stone Splinter Blade, and Stone Splinter Dagger. All of which fit the bill for solid zone transmogs. And then inside the cave down here with the Shamans and Bonesnappers, even more Stone Splinter gear of the Mace and Bracers. While none of these items are the holy grail of transmog in the zone, if we farm up a few of each, they will most definitely help stock the shelves for a while. But, one mob that maybe should have some legendary loot is the lock monster. I've definitely had some run-ins with this guy in classic, and he is now home in a much smaller pond, and unfortunately, he doesn't drop anything at all. Speaking of legendary drops though, how about an update on Molten Core? We are on to run 31 of Molten Core, and still no second binding, and no Nightslayer Chest. Seriously, we didn't leave empty-handed because the Eye of Sulfuras dropped from Rag. This is the legendary component eventually needed for Sulfuras, Hand of Ragnaros, the legendary two-handed mace. Of course, Goldie can't wear it, but it would still be cool to get and craft for Golden Path, our paladin crafting alt with blacksmithing. So, once Arcanite Bars are unlocked with Tanaris alchemy vendors, we can look into this a little bit closer. At At know the drop tables aren't totally bugged in Molten Core for now though. But I do want to test a little bit of skinning in Loch Modan and in this zone there is really only one skinning farm that jumps out and it's because it's kind of looped up with a transmog farm. The target though, the black bears. And this one is kind of interesting because if you ever played through Loch Modan back in the day in classic, you might remember the horde patrol that walked down the east side of Loch. Well, they weren't just there to kill alliance players and they actually had some pretty solid loot on their tables.",
+        "canonical_file": "goldbound/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.txt",
+        "original_file": "goldbound/original-vtt/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E029-28",
+      "name": "Mechanical chicken engineering salvage test",
+      "kind": "experiment",
+      "status": "failed",
+      "zone": "Loch Modan",
+      "summary": "Caveborder Badlands, nonhyperspawn, rare Silver Contactsmostlyjunk;~7 g/hincludesbackcave Loch Frenzyfishing, notvaluable.",
+      "metrics": {},
+      "source": {
+        "file": "029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.vtt",
+        "cleaned_file": "goldbound/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.txt",
+        "paragraph_start": 24,
+        "paragraph_end": 25,
+        "start_time": "00:25:28.720",
+        "quote": "The bastion pauldrons and the orcish cleaver. Except those mobs were removed from the zone and now these black bears have both those drops on their tables. The bastion pauldrons are worth anywhere from 8 to 32,000 gold and the orcish cleaver has a market value around 49,000 gold. Although a sale average closer to 3K, but a decent little farm for sure. And maybe if paired with skinning, we can get a little bit of trade good gold per hour as well. The bears themselves do hyper spawn. Technically, they just have a very large area over which they spawn. So we have to kill all the way from the south of Thessalmar all the way up to north mountain range to get them to hyper spawn. And the loot? Well, we've gotten pretty lucky on the transmog, but honestly, as far as skinning goes, the current value of light leather, the gold per hour of raw trade goods was only about 700 gold per hour on these guys and I think we might be better off just not skinning the bears and instead getting more kills for more chances at the transmog. We'll probably just stick to dual gathering for consistent farming. Well, probably because there is one more kind of skinning farm that I do want to try. I say kind of skinning because it's actually using the engineering skill.",
+        "canonical_file": "goldbound/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.txt",
+        "original_file": "goldbound/original-vtt/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.vtt"
+      },
+      "additional_values": [
+        {
+          "value": 7,
+          "label": "Salvage + fishing",
+          "basis": "Reported test return includes fishing while waiting for chicken respawns.",
+          "unit": "g/h",
+          "kind": "recorded",
+          "source_refs": [
+            {
+              "episode": 29,
+              "paragraph_start": 25,
+              "paragraph_end": 25,
+              "start_time": "00:26:41.360"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E029-29",
+      "name": "Loch local fishing and cap pools",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Loch Modan",
+      "summary": "Sagefishpoolsaspriorzones, cap Darkmoon Firewaterbonusused; notimednewlocalyield.",
+      "metrics": {},
+      "source": {
+        "file": "029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.vtt",
+        "cleaned_file": "goldbound/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.txt",
+        "paragraph_start": 25,
+        "paragraph_end": 25,
+        "start_time": "00:26:41.360",
+        "quote": "Yeah, there is this cave, kind of approaching the badlands border, that has mechanical chickens and whatnot. I honestly didn't know this cave was here before, but as long as we have engineering, after we kill the mobs, we can actually disassemble these guys for spare parts. Yeah. On testing it though, well, it works out to be about seven gold per hour. We really only get any value from the silver contact that can drop from these, but it is quite the rare drop off scrapping and the rest is just low value vendor trash. And we can't even kill them that fast because they also don't hyper spawn, so we just end up fishing in the back of the cave. And ultimately, I think most of the gold of the seven gold per hour comes from fishing up lock frenzies. And on the topic of fishing, there is still technically a lock, one that we can fish in. And of course, during Darkmoon Faire, which is now active, we can use our Darkmoon fishing hat here and also throw a few lines into the local schools, sagefish schools. These are the same fish pools that we had in Redridge and Stranglethorn and even a few in Westfall. So nothing particularly new, but I will at least use this area to maximize a few Darkmoon Firewaters. And as we're exploring more and more of Loch Modan, we're getting a pretty good loop around here. Doing a gathering, checking in on rare spawns. Plus it never hurts to drop down on the tunnel rat scouts or the ogres, the mobs that don't hyper spawn, and try to get a few of those big ticket items. And we've gotten a few.",
+        "canonical_file": "goldbound/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.txt",
+        "original_file": "goldbound/original-vtt/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E029-30",
+      "name": "Stealthblade 275000 g realized sale",
+      "kind": "sales",
+      "status": "sales_confirmed",
+      "zone": "Loch Modan",
+      "summary": "Aftermanylistingsseparatealtsells 275000 g; previous Sunken Templejackpot, not Lochfarmrate. Local Toothpick/Shortswordalsosell.",
+      "metrics": {
+        "Stealthblade_sale_gold": 275000,
+        "Loch_transmog_cash_gold_approx": 29000,
+        "tradegoods_cash_gold_approx": 26000,
+        "backlog_transmog_cash_gold_approx": 25000,
+        "cash_gold": 360000
+      },
+      "source": {
+        "file": "029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.vtt",
+        "cleaned_file": "goldbound/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.txt",
+        "paragraph_start": 27,
+        "paragraph_end": 28,
+        "start_time": "00:29:15.120",
+        "quote": "And that puts the clear at just over 26,000 gold of trade goods, putting us up to 29k. But Loch Modan was a transmog angle for sure, so let's go check on that. And a few transmog pieces selling for sure. But you might notice no Loch Modan gear. And that's because I actually sent that over to a different hidden alt, just so we can see how much value we got from the backlog transmog, and how much we got from Loch Modan transmog. Now, the backlog was pretty darn good to be fair, quite a few sales coming through here, and loots up for a total of about 24.8 thousand gold. But we should go check the other alt with Loch Modan and a few other unique items that I want to keep a bit more hidden and undercut more frequently on. And well, we sold some Loch Modan stuff for sure. Amongst something else as you can see, the Mogorok's Toothpick and the Rodentia's Shortsword.",
+        "canonical_file": "goldbound/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.txt",
+        "original_file": "goldbound/original-vtt/029 - The Zone Roll Sent Me Somewhere Unexpected... Goldbound 28.en-orig.vtt"
+      }
+    }
+  ]
+}

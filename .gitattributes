@@ -1,0 +1,4 @@
+* text=auto eol=lf
+# Preserve source caption bytes: evidence verification uses their SHA-256 hashes.
+goldbound/original-vtt/*.vtt -text -diff -whitespace
+dashboard/data/*-original.svg -text -whitespace

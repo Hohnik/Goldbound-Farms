@@ -1,0 +1,528 @@
+{
+  "source_id": 5,
+  "source_file": "005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.vtt",
+  "cleaned_file": "goldbound/005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.txt",
+  "full_text_reviewed": true,
+  "paragraph_count": 26,
+  "records": [
+    {
+      "id": "E005-01",
+      "name": "Focused Frayed Knot full loop",
+      "kind": "farm",
+      "status": "measured",
+      "zone": "Elwynn Forest",
+      "summary": "10–12 minute humanoid circuit for one hour yields 30 knots plus white items and nearby gathers.220 g each gives 6600 g; stated 7200 g includes extras.",
+      "metrics": {
+        "minutes": 60,
+        "Frayed Knot": 30,
+        "quoted_unit_gold": 220,
+        "reported_gold_per_hour": 7200,
+        "loop_minutes_range": [
+          10,
+          12
+        ]
+      },
+      "source": {
+        "file": "005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.vtt",
+        "cleaned_file": "goldbound/005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.txt",
+        "paragraph_start": 3,
+        "paragraph_end": 5,
+        "start_time": "00:01:51.520",
+        "quote": "So go ahead, click the link down below to grab your free 3-day trial. And thank you again to Exit Leg for supporting Goldbound. Now, as we're back in the forest adventuring, if last episode taught us anything, it's that our old friend, the frayed knot farm, still pulls its weight even with the market prices way down. In fact, in the mailbox opening last episode, I caught a full stack of 20 selling. Up until now, we've been treating frayed knots too much like a background passive farm with slow but steady returns. But the truth is, at least right now, these things are liquid. They move. And every time the market gets yonked up by a greedy resetter, there's a window, a brief golden window for us to capitalize. So, I ran the numbers. How many frayed knots can we collect in one hour with a focused rotation and no distractions?",
+        "canonical_file": "goldbound/005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.txt",
+        "original_file": "goldbound/original-vtt/005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E005-02",
+      "name": "Leatherworking green and white restock",
+      "kind": "experiment",
+      "status": "performed",
+      "zone": "Elwynn Forest",
+      "summary": "Relearns leatherworking, crafts 1–2 of each accessible green/white recipe. A few hundred gold inventory value estimated, not sales.",
+      "metrics": {
+        "crafts_per_recipe_range": [
+          1,
+          2
+        ]
+      },
+      "source": {
+        "file": "005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.vtt",
+        "cleaned_file": "goldbound/005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.txt",
+        "paragraph_start": 5,
+        "paragraph_end": 6,
+        "start_time": "00:03:28.080",
+        "quote": "But remember, if we catch a price reset at the right time, we can sell a few of these for even more than 220 gold each. We're keeping a few stacks posted at all times. Now, fray knots aren't just background noise anymore. They're inventory staples. And while we wait for those sales to roll in one by one, or maybe in a lucky lump sum by a resetter, it's time to stock the shelves with something a little more unique. So, we turned our attention back to leather working. Now, in the early days of the farms, we dabbled with the old leather working enchanting shuffle, only to find out that it didn't really pan out. But after seeing how well our blacksmithing greens have been selling lately, I figured why not do the same thing here.",
+        "canonical_file": "goldbound/005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.txt",
+        "original_file": "goldbound/original-vtt/005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E005-03",
+      "name": "Vineyard boar leather replenishment",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Elwynn Forest",
+      "summary": "Quick repeat skinning run supplies leatherworking; minutes mentioned without precise yield.",
+      "metrics": {},
+      "source": {
+        "file": "005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.vtt",
+        "cleaned_file": "goldbound/005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.txt",
+        "paragraph_start": 6,
+        "paragraph_end": 6,
+        "start_time": "00:04:10.959",
+        "quote": "So, we relearned leather working and crafted up one or two of every green and white leather working item that we had access to. And no, these aren't high ticket transmog pieces, but at this stage of the grind, it's all about volume. The more items we've got slowly ticking away on the auction house, the better. But of course, we ran out of light leather fast, which means only one thing. Back to the live to win farm. You already know the spot. You already know the bores, and we already knew it would be just enough to top off our supply in a matter of minutes. And with just a few bore sacrifices, we had a fresh stack of crafted leather gear ready to sell.",
+        "canonical_file": "goldbound/005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.txt",
+        "original_file": "goldbound/original-vtt/005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E005-04",
+      "name": "Tailoring shirt restock and armor expansion",
+      "kind": "experiment",
+      "status": "performed",
+      "zone": "Elwynn Forest",
+      "summary": "Uses several hundred banked linen to restock shirts and craft additional green/white armor. Trainers temporarily killed by Horde.",
+      "metrics": {},
+      "source": {
+        "file": "005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.vtt",
+        "cleaned_file": "goldbound/005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.txt",
+        "paragraph_start": 7,
+        "paragraph_end": 9,
+        "start_time": "00:04:49.759",
+        "quote": "Maybe worth a few hundred gold total, but hey, copper becomes silver and silver becomes gold. And while we were in the crafting groove, I figured, let's keep this rolling. We had a few hundred linen cloth burning a hole in the bank. So, I picked up tailoring again. And the plan, well, firstly, restock our shirt inventory since these have been selling pretty well. and to try out a couple of the green and white low-level tailoring recipes. Again, we're not seeing any massive value here. Nothing close to the value of the blacksmithing weapons, but these little bits and pieces add up, especially when linen cloth for us is practically worth nothing on its own. Now, during this part of the day, it was the weekend and people were pretty active and we hit a minor snag. Some wandering horde decided to roleplay as the scourge and wiped out all the NPCs in gold char. So that meant our trainers and our trade skill vendors were gone for a bit. So we waited patiently watching the corpses of our tailoring trainer fade into the void. But of course eventually they respawned and we unlocked the next level of tailoring recipes which opened up a few more greens to craft. Except several of these higher level, if you can call it that, from 60 to 75 tailoring, required green dye, and that with the vendors we have in Elwin is off limits. No vendor I could find in Gold Shower sold it. So those items are a luxury reserved to travelers outside of the zone locked world. So for now, we list what we can.",
+        "canonical_file": "goldbound/005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.txt",
+        "original_file": "goldbound/original-vtt/005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E005-05",
+      "name": "Green-dye recipe availability test",
+      "kind": "experiment",
+      "status": "blocked",
+      "zone": "Elwynn Forest",
+      "summary": "Skill 60–75 tailoring recipes requiring Green Dye cannot be made with vendors allowed by challenge.",
+      "metrics": {
+        "skill_range": [
+          60,
+          75
+        ]
+      },
+      "source": {
+        "file": "005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.vtt",
+        "cleaned_file": "goldbound/005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.txt",
+        "paragraph_start": 7,
+        "paragraph_end": 7,
+        "start_time": "00:04:49.759",
+        "quote": "Maybe worth a few hundred gold total, but hey, copper becomes silver and silver becomes gold. And while we were in the crafting groove, I figured, let's keep this rolling. We had a few hundred linen cloth burning a hole in the bank. So, I picked up tailoring again. And the plan, well, firstly, restock our shirt inventory since these have been selling pretty well. and to try out a couple of the green and white low-level tailoring recipes. Again, we're not seeing any massive value here. Nothing close to the value of the blacksmithing weapons, but these little bits and pieces add up, especially when linen cloth for us is practically worth nothing on its own. Now, during this part of the day, it was the weekend and people were pretty active and we hit a minor snag. Some wandering horde decided to roleplay as the scourge and wiped out all the NPCs in gold char. So that meant our trainers and our trade skill vendors were gone for a bit. So we waited patiently watching the corpses of our tailoring trainer fade into the void. But of course eventually they respawned and we unlocked the next level of tailoring recipes which opened up a few more greens to craft. Except several of these higher level, if you can call it that, from 60 to 75 tailoring, required green dye, and that with the vendors we have in Elwin is off limits. No vendor I could find in Gold Shower sold it. So those items are a luxury reserved to travelers outside of the zone locked world. So for now, we list what we can.",
+        "canonical_file": "goldbound/005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.txt",
+        "original_file": "goldbound/original-vtt/005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E005-06",
+      "name": "Midsummer Fire Festival local visit",
+      "kind": "experiment",
+      "status": "performed",
+      "zone": "Elwynn Forest",
+      "summary": "Single local bonfire and ribbon dance visited; zone travel prevents full festival methods. No profit demonstrated.",
+      "metrics": {},
+      "source": {
+        "file": "005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.vtt",
+        "cleaned_file": "goldbound/005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.txt",
+        "paragraph_start": 8,
+        "paragraph_end": 8,
+        "start_time": "00:06:21.520",
+        "quote": "And with our bags full of greens, shirts, cloth, and leather, it was off to the auction house to list these up. But on our way over, we made a quick stop at the seasonal event currently sweeping Elwin and all of Azeroth, the Midsummer Fire Festival. And while the fires are roaring and the torches are lit and the revelers are partying across the continents, well, Goldilocked here, he's still zone locked. And this particular festival revolves around visiting bonfires in different zones, which is great and might even have some profit available if you can travel between zones. But for us here in Elwin, there's just one flame, one lonely bonfire, and a ribbon pole with just Goldilock and one fellow traveler dancing. So after a few ribbon twirls, we paid our respects and then packed it in festival complete, Goldbound style.",
+        "canonical_file": "goldbound/005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.txt",
+        "original_file": "goldbound/original-vtt/005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E005-07",
+      "name": "Frayed Knot market-reset response",
+      "kind": "experiment",
+      "status": "observed",
+      "zone": "Elwynn Forest",
+      "summary": "Own stock already listed when another trader resets market to 1000 g. Pending returns not all attributed individually.",
+      "metrics": {
+        "reset_listing_gold": 1000
+      },
+      "source": {
+        "file": "005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.vtt",
+        "cleaned_file": "goldbound/005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.txt",
+        "paragraph_start": 9,
+        "paragraph_end": 9,
+        "start_time": "00:07:09.680",
+        "quote": "And so back we went to Stormwind to scan our auctions, undercut a few gold goblins, and repost our fresh hall of leather working and tailoring crafts. At this point, Goldilocks is basically a jack of all trades. Blacksmithing weapons, tailoring shirts, other working greens, scrolls, glyphs, cat crates, you name it, we're selling it. But while running one of our usual repost scans, something caught my eye. We didn't have any frayed knots to scan under, which is strange considering we just farmed a whole stack of them. So, I checked the market and it was reset to a,000 gold. So yeah, someone tried to force a price spike, which is exactly what we premeditated. And since we had a nice stock pile sitting on the auction house, that little market reset might mean some juicy mailbox returns. But that wasn't the only Gold Goblin stunt pulled this weekend. Turns out someone was trying to corner the market on copper bars. They bought out the entire stock of copper bars and relisted at 20 gold per bar.",
+        "canonical_file": "goldbound/005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.txt",
+        "original_file": "goldbound/original-vtt/005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E005-08",
+      "name": "Copper Bar premium-price listing",
+      "kind": "experiment",
+      "status": "performed",
+      "zone": "Elwynn Forest",
+      "summary": "Diverts own stock from bolts to bars when other trader resets bar market to 20 g; lists below reset. No buying/flipping by character.",
+      "metrics": {
+        "reset_bar_listing_gold": 20,
+        "usual_bolt_gold_range": [
+          6,
+          8
+        ]
+      },
+      "source": {
+        "file": "005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.vtt",
+        "cleaned_file": "goldbound/005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.txt",
+        "paragraph_start": 9,
+        "paragraph_end": 10,
+        "start_time": "00:07:09.680",
+        "quote": "And so back we went to Stormwind to scan our auctions, undercut a few gold goblins, and repost our fresh hall of leather working and tailoring crafts. At this point, Goldilocks is basically a jack of all trades. Blacksmithing weapons, tailoring shirts, other working greens, scrolls, glyphs, cat crates, you name it, we're selling it. But while running one of our usual repost scans, something caught my eye. We didn't have any frayed knots to scan under, which is strange considering we just farmed a whole stack of them. So, I checked the market and it was reset to a,000 gold. So yeah, someone tried to force a price spike, which is exactly what we premeditated. And since we had a nice stock pile sitting on the auction house, that little market reset might mean some juicy mailbox returns. But that wasn't the only Gold Goblin stunt pulled this weekend. Turns out someone was trying to corner the market on copper bars. They bought out the entire stock of copper bars and relisted at 20 gold per bar.",
+        "canonical_file": "goldbound/005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.txt",
+        "original_file": "goldbound/original-vtt/005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E005-09",
+      "name": "Wild battle-pet cageability search",
+      "kind": "experiment",
+      "status": "failed",
+      "zone": "Elwynn Forest",
+      "summary": "Searches Elwynn for wild pets to catch and resell; finds only nontradeable wild-caught pets.",
+      "metrics": {},
+      "source": {
+        "file": "005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.vtt",
+        "cleaned_file": "goldbound/005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.txt",
+        "paragraph_start": 11,
+        "paragraph_end": 12,
+        "start_time": "00:08:55.760",
+        "quote": "It's time to head back into the forest. We need more loot, more coin, because unless we find a new source of gold soon, we might just be stuck in Ellen forever. Now, as you know, we've been hustling Donna Anthia's pets since episode 1. Goldiecat has paid their dues, both as a companion and as a commodity. And after last week's upload, where we revealed you can sell them both as caged and uncaged pets, also known as used and unused, some travelers mentioned that the used pets might be selling at a higher price because they can actually be sold after they've been leveled. You can learn a pet, do a whole bunch of pet battles, and then resell it for a higher price. And that might explain why our listings of used cats aren't moving too quickly. They're all level one. So, we took Goldieat out into the wild to cut his teeth to test two potential methods of gold making with battle pets. Now, first off, if you haven't played Retail WoW since Mr.",
+        "canonical_file": "goldbound/005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.txt",
+        "original_file": "goldbound/original-vtt/005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E005-10",
+      "name": "Vendor cat pet leveling for resale",
+      "kind": "experiment",
+      "status": "failed",
+      "zone": "Elwynn Forest",
+      "summary": "Levels Goldiecat by battles but low-level critters stop giving XP at pet 6–7; cannot raise 25 cats efficiently within zone. No premium sale demonstrated.",
+      "metrics": {
+        "pet_level_limit_approx_range": [
+          6,
+          7
+        ],
+        "desired_pet_level": 25
+      },
+      "source": {
+        "file": "005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.vtt",
+        "cleaned_file": "goldbound/005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.txt",
+        "paragraph_start": 11,
+        "paragraph_end": 13,
+        "start_time": "00:08:55.760",
+        "quote": "It's time to head back into the forest. We need more loot, more coin, because unless we find a new source of gold soon, we might just be stuck in Ellen forever. Now, as you know, we've been hustling Donna Anthia's pets since episode 1. Goldiecat has paid their dues, both as a companion and as a commodity. And after last week's upload, where we revealed you can sell them both as caged and uncaged pets, also known as used and unused, some travelers mentioned that the used pets might be selling at a higher price because they can actually be sold after they've been leveled. You can learn a pet, do a whole bunch of pet battles, and then resell it for a higher price. And that might explain why our listings of used cats aren't moving too quickly. They're all level one. So, we took Goldieat out into the wild to cut his teeth to test two potential methods of gold making with battle pets. Now, first off, if you haven't played Retail WoW since Mr.",
+        "canonical_file": "goldbound/005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.txt",
+        "original_file": "goldbound/original-vtt/005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E005-11",
+      "name": "Julia pet trainer daily",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Elwynn Forest",
+      "summary": "Daily battle used for pet XP and about 20 g; repeated near finale. Daily capped reward, not hourly farm.",
+      "metrics": {
+        "daily_reward_gold_approx": 20
+      },
+      "source": {
+        "file": "005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.vtt",
+        "cleaned_file": "goldbound/005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.txt",
+        "paragraph_start": 13,
+        "paragraph_end": 22,
+        "start_time": "00:10:48.640",
+        "quote": "They suffer from the classic diminishing experience returns. Once your pet is more than about five levels above a target, they won't get any XP from defeating it. Hard stuck. So unless we find higher level pets, which Elewin definitely doesn't have, our pets are going to be stuck around level six or level seven. Now, there is one workaround. Julia, the battle pet trainer of Elwin. She offers a daily challenge that gives a chunk of XP and around 20 gold. Not exactly a gold mine. We're not going to max a bunch of cats anytime soon, but we'll take what we can get. So, for now, we'll just keep Goldieat on the daily Julia grind. But unless I'm missing something big in the battle pet front, we're not hitting level 25 anytime soon. And pet battling, at least for now, is a dead end for profit. So, with pet battles behind us, I figured it was time to return to the one thing that has never let us down in this journey. The Elvin shuffle. Our trusty, fully optimized dual gathering into full-on production rotation. A system that's carried this entire challenge on its back. And over our time in Elwin, we refined this loop more than once. First, we discovered that you can mine gold while mounted. A game changer.",
+        "canonical_file": "goldbound/005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.txt",
+        "original_file": "goldbound/original-vtt/005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.vtt"
+      },
+      "additional_values": [
+        {
+          "value": 20,
+          "label": "Daily reward",
+          "basis": "Approximate daily quest reward, not an hourly farm.",
+          "unit": "g/day",
+          "kind": "value",
+          "source_refs": [
+            {
+              "episode": 5,
+              "paragraph_start": 13,
+              "paragraph_end": 13,
+              "start_time": "00:10:48.640"
+            }
+          ],
+          "approx": true
+        }
+      ]
+    },
+    {
+      "id": "E005-12",
+      "name": "Optimized Elwynn dual-gather sprint",
+      "kind": "farm",
+      "status": "measured",
+      "zone": "Elwynn Forest",
+      "summary": "One hour 337 copper,195 Silverleaf,134 Peacebloom,114 Earthroot plus gems; raw valuation 3200 g.",
+      "metrics": {
+        "minutes": 60,
+        "Copper Ore": 337,
+        "Silverleaf": 195,
+        "Peacebloom": 134,
+        "Earthroot": 114,
+        "raw_appraisal_gold": 3200
+      },
+      "source": {
+        "file": "005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.vtt",
+        "cleaned_file": "goldbound/005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.txt",
+        "paragraph_start": 14,
+        "paragraph_end": 15,
+        "start_time": "00:12:04.880",
+        "quote": "We found the copper bars to copper bolt shuffle. After that, the herbs to pigment shuffle. And just last episode, those pigments to the glyph of stars trick. Truth be told, I think we've pushed this route about as far as it'll go. Copper bolts sell. I'm pretty sure people are buying them for the current war within and goblin mount and using them as scraps to get current materials. Definitely not something Goldilock will be crafting anytime soon. So that's why we're not using the bolts to process anything further. But the core of this route remained strong. And we actually hit a milestone while doing it. Level 50. This gave us a quest to leave element 2. So we'll go ahead and hold on to that one for later. And here's how it all went down. I gave it a 1h hour full sprint. Dual gathering. No detours. No distractions, just goldilocked the forest and the mini map. And what did we get? Well, 337 copper ore and a few gems to go along with it. The total raw unprocessed gold from mining is about 1,500. Herbs were pretty generous, too.",
+        "canonical_file": "goldbound/005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.txt",
+        "original_file": "goldbound/original-vtt/005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E005-13",
+      "name": "Engineering reset and bolt processing",
+      "kind": "experiment",
+      "status": "performed",
+      "zone": "Elwynn Forest",
+      "summary": "40 Rough Blasting Powder reaches skill 30, then 337 bars become 337 bolts valued about 2000 g.",
+      "metrics": {
+        "Rough Blasting Powder_approx": 40,
+        "target_skill": 30,
+        "Handful of Copper Bolts": 337,
+        "appraised_bolts_gold_approx": 2000
+      },
+      "source": {
+        "file": "005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.vtt",
+        "cleaned_file": "goldbound/005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.txt",
+        "paragraph_start": 15,
+        "paragraph_end": 16,
+        "start_time": "00:13:07.680",
+        "quote": "We got 195 silver leaf, 134 piece bloom, and 114 earth route. That's another 1,700 gold in raw value. So, before we even touch the crafting bench, that's a 3200 gold hall. Really not bad for a starting zone. But now we flip the switch full-on Elwin shuffle style. First, you got to stay on mining just long enough to smelt the bars. Then you drop it, pick up engineering, grind out about 40 rough blasting powder to hit 30 skill. Then you unlock the handful of copper bolts recipe. Grab a blacksmithing hammer, walk over to the forge, and forge them all down. Once that's done, you can drop the engineering and pick up inscription. mill down every herb into alabaster pigment and quickly turn around and turn those alabaster pigments into moonglow ink. But this is where it gets a bit tricky. You need to use the experimentation option from inscription on the moononglow ink hoping to get the glyph of stars. There are four possible glyphs that you can get and each try takes three moonglow ink. Unfortunately for us, it took us four tries this time.",
+        "canonical_file": "goldbound/005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.txt",
+        "original_file": "goldbound/original-vtt/005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.vtt"
+      },
+      "additional_values": [
+        {
+          "value": 2000,
+          "label": "Bolt batch",
+          "basis": "Appraised value of the 337-bolt output, before an independently timed combined return.",
+          "unit": "g",
+          "kind": "value",
+          "source_refs": [
+            {
+              "episode": 5,
+              "paragraph_start": 16,
+              "paragraph_end": 16,
+              "start_time": "00:14:12.240"
+            }
+          ],
+          "approx": true
+        }
+      ]
+    },
+    {
+      "id": "E005-14",
+      "name": "Glyph of Stars discovery reacquisition",
+      "kind": "experiment",
+      "status": "successful",
+      "zone": "Elwynn Forest",
+      "summary": "Four research tries to relearn Stars after profession switching; reports nine wasted inks/about 90 g before successful research. Three inks per attempt, four possible glyphs.",
+      "metrics": {
+        "research_attempts": 4,
+        "quoted_wasted_ink": 9,
+        "quoted_wasted_gold_approx": 90
+      },
+      "source": {
+        "file": "005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.vtt",
+        "cleaned_file": "goldbound/005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.txt",
+        "paragraph_start": 15,
+        "paragraph_end": 16,
+        "start_time": "00:13:07.680",
+        "quote": "We got 195 silver leaf, 134 piece bloom, and 114 earth route. That's another 1,700 gold in raw value. So, before we even touch the crafting bench, that's a 3200 gold hall. Really not bad for a starting zone. But now we flip the switch full-on Elwin shuffle style. First, you got to stay on mining just long enough to smelt the bars. Then you drop it, pick up engineering, grind out about 40 rough blasting powder to hit 30 skill. Then you unlock the handful of copper bolts recipe. Grab a blacksmithing hammer, walk over to the forge, and forge them all down. Once that's done, you can drop the engineering and pick up inscription. mill down every herb into alabaster pigment and quickly turn around and turn those alabaster pigments into moonglow ink. But this is where it gets a bit tricky. You need to use the experimentation option from inscription on the moononglow ink hoping to get the glyph of stars. There are four possible glyphs that you can get and each try takes three moonglow ink. Unfortunately for us, it took us four tries this time.",
+        "canonical_file": "goldbound/005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.txt",
+        "original_file": "goldbound/original-vtt/005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E005-15",
+      "name": "Full glyph-and-bolt shuffle retest",
+      "kind": "farm",
+      "status": "measured",
+      "zone": "Elwynn Forest",
+      "summary": "One hour gather plus 30 minutes processing:41 Stars at 50 g,337 bolts plus leftovers;4200 g valuation,2800 g/h. Lower hourly valuation than raw gathering when processing included.",
+      "metrics": {
+        "total_minutes": 90,
+        "Glyph of Stars": 41,
+        "Handful of Copper Bolts": 337,
+        "appraised_value_gold": 4200,
+        "reported_gold_per_hour": 2800
+      },
+      "source": {
+        "file": "005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.vtt",
+        "cleaned_file": "goldbound/005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.txt",
+        "paragraph_start": 15,
+        "paragraph_end": 17,
+        "start_time": "00:13:07.680",
+        "quote": "We got 195 silver leaf, 134 piece bloom, and 114 earth route. That's another 1,700 gold in raw value. So, before we even touch the crafting bench, that's a 3200 gold hall. Really not bad for a starting zone. But now we flip the switch full-on Elwin shuffle style. First, you got to stay on mining just long enough to smelt the bars. Then you drop it, pick up engineering, grind out about 40 rough blasting powder to hit 30 skill. Then you unlock the handful of copper bolts recipe. Grab a blacksmithing hammer, walk over to the forge, and forge them all down. Once that's done, you can drop the engineering and pick up inscription. mill down every herb into alabaster pigment and quickly turn around and turn those alabaster pigments into moonglow ink. But this is where it gets a bit tricky. You need to use the experimentation option from inscription on the moononglow ink hoping to get the glyph of stars. There are four possible glyphs that you can get and each try takes three moonglow ink. Unfortunately for us, it took us four tries this time.",
+        "canonical_file": "goldbound/005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.txt",
+        "original_file": "goldbound/original-vtt/005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.vtt"
+      },
+      "related_records": [
+        {
+          "id": "E005-12",
+          "role": "component",
+          "label": "Gathering leg",
+          "include_earnings": false
+        },
+        {
+          "id": "E005-13",
+          "role": "component",
+          "label": "Copper Bolt processing",
+          "include_earnings": false
+        }
+      ]
+    },
+    {
+      "id": "E005-16",
+      "name": "Elwynn chest loot discovery",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Elwynn Forest",
+      "summary": "Random chests reportedly yielded Beaded Gloves and rare white shield; provenance of gloves uncertain. Shield sold for unstated amount, no measured chest route.",
+      "metrics": {},
+      "source": {
+        "file": "005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.vtt",
+        "cleaned_file": "goldbound/005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.txt",
+        "paragraph_start": 18,
+        "paragraph_end": 18,
+        "start_time": "00:16:18.240",
+        "quote": "Because what I found did give me some pause. A massive chunk of the gold in the mailbox came from three items. A pair of beaded gloves, a pale skinner, and a stone null hammer. Two of these, the hammer and the skinner, weren't too suspicious by themselves. They were the cheapest listed on the auction house, and I had multiples up, and only one of each sold, but these three items together were all purchased by the same buyer. Now, I won't say the name directly, but their name was a bit of a play on the word collector, which makes me think it might be legit. I don't want to assume anything. This could just be someone collecting the old gear, a Mog enthusiast, but the numbers are a little concerning. See, the beaded gloves, I barely remember looting these guys. I think they came from one of the chests randomly scattered around Elwin. Just this week, I got a rare drop from one of those, a white shield that is actually pretty rare and sold for quite a bit of gold. And same thing with the beaded gloves. They're a no joke valuable item.",
+        "canonical_file": "goldbound/005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.txt",
+        "original_file": "goldbound/original-vtt/005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E005-17",
+      "name": "Beaded Gloves suspicious sale",
+      "kind": "sales",
+      "status": "excluded_from_challenge",
+      "zone": "Elwynn Forest",
+      "summary": "165000 g sale excluded as potentially inflated viewer support; market value cited 28000 g. Do not treat as repeatable farm earnings.",
+      "metrics": {
+        "sale_gold": 165000,
+        "quoted_market_gold": 28000
+      },
+      "source": {
+        "file": "005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.vtt",
+        "cleaned_file": "goldbound/005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.txt",
+        "paragraph_start": 18,
+        "paragraph_end": 19,
+        "start_time": "00:16:18.240",
+        "quote": "Because what I found did give me some pause. A massive chunk of the gold in the mailbox came from three items. A pair of beaded gloves, a pale skinner, and a stone null hammer. Two of these, the hammer and the skinner, weren't too suspicious by themselves. They were the cheapest listed on the auction house, and I had multiples up, and only one of each sold, but these three items together were all purchased by the same buyer. Now, I won't say the name directly, but their name was a bit of a play on the word collector, which makes me think it might be legit. I don't want to assume anything. This could just be someone collecting the old gear, a Mog enthusiast, but the numbers are a little concerning. See, the beaded gloves, I barely remember looting these guys. I think they came from one of the chests randomly scattered around Elwin. Just this week, I got a rare drop from one of those, a white shield that is actually pretty rare and sold for quite a bit of gold. And same thing with the beaded gloves. They're a no joke valuable item.",
+        "canonical_file": "goldbound/005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.txt",
+        "original_file": "goldbound/original-vtt/005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E005-18",
+      "name": "Stone Gnoll Hammer sale adjustment",
+      "kind": "sales",
+      "status": "adjusted",
+      "zone": "Elwynn Forest",
+      "summary": "Hammer sold to same buyer; challenge retains about 7000 g spread rather than inflated sale. Exact paid amount not isolated.",
+      "metrics": {
+        "retained_gold_approx": 7000
+      },
+      "source": {
+        "file": "005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.vtt",
+        "cleaned_file": "goldbound/005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.txt",
+        "paragraph_start": 18,
+        "paragraph_end": 19,
+        "start_time": "00:16:18.240",
+        "quote": "Because what I found did give me some pause. A massive chunk of the gold in the mailbox came from three items. A pair of beaded gloves, a pale skinner, and a stone null hammer. Two of these, the hammer and the skinner, weren't too suspicious by themselves. They were the cheapest listed on the auction house, and I had multiples up, and only one of each sold, but these three items together were all purchased by the same buyer. Now, I won't say the name directly, but their name was a bit of a play on the word collector, which makes me think it might be legit. I don't want to assume anything. This could just be someone collecting the old gear, a Mog enthusiast, but the numbers are a little concerning. See, the beaded gloves, I barely remember looting these guys. I think they came from one of the chests randomly scattered around Elwin. Just this week, I got a rare drop from one of those, a white shield that is actually pretty rare and sold for quite a bit of gold. And same thing with the beaded gloves. They're a no joke valuable item.",
+        "canonical_file": "goldbound/005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.txt",
+        "original_file": "goldbound/original-vtt/005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E005-19",
+      "name": "Pale Skinner realized sale",
+      "kind": "sales",
+      "status": "sales_confirmed",
+      "zone": "Elwynn Forest",
+      "summary": "Sale accepted as below market. Hammer and Skinner together retain 11000 g, implying roughly 4000 g for Skinner; inference not exact stated separate price.",
+      "metrics": {
+        "combined_retained_gold": 11000,
+        "inferred_skinner_gold_approx": 4000
+      },
+      "source": {
+        "file": "005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.vtt",
+        "cleaned_file": "goldbound/005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.txt",
+        "paragraph_start": 18,
+        "paragraph_end": 19,
+        "start_time": "00:16:18.240",
+        "quote": "Because what I found did give me some pause. A massive chunk of the gold in the mailbox came from three items. A pair of beaded gloves, a pale skinner, and a stone null hammer. Two of these, the hammer and the skinner, weren't too suspicious by themselves. They were the cheapest listed on the auction house, and I had multiples up, and only one of each sold, but these three items together were all purchased by the same buyer. Now, I won't say the name directly, but their name was a bit of a play on the word collector, which makes me think it might be legit. I don't want to assume anything. This could just be someone collecting the old gear, a Mog enthusiast, but the numbers are a little concerning. See, the beaded gloves, I barely remember looting these guys. I think they came from one of the chests randomly scattered around Elwin. Just this week, I got a rare drop from one of those, a white shield that is actually pretty rare and sold for quite a bit of gold. And same thing with the beaded gloves. They're a no joke valuable item.",
+        "canonical_file": "goldbound/005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.txt",
+        "original_file": "goldbound/original-vtt/005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E005-20",
+      "name": "Final knot gather glyph sales cycle",
+      "kind": "farm",
+      "status": "performed",
+      "zone": "Elwynn Forest",
+      "summary": "Further knots, herbs, ore, glyph liquidation and repeated auction scans bridge remaining token gap; no fresh timed yield.",
+      "metrics": {},
+      "source": {
+        "file": "005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.vtt",
+        "cleaned_file": "goldbound/005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.txt",
+        "paragraph_start": 21,
+        "paragraph_end": 23,
+        "start_time": "00:19:06.000",
+        "quote": "Let's clear out this current auction house stack. And to be honest, frayed knots were moving like hotcakes this week. So, let's get back to work because Elwin is not finished yet, but we're close. And of course, we can all take a moment to appreciate the sound of the mailbox. And just like that, we are sitting on a jaw-dropping stack of gold into the 200,000. Honestly, still blows my mind that this was all earned right here in Ellen Forest. But as always, there's a catch. And the WOW token price still rising. The goalpost has just moved again. So, here's the plan. It's time to roll up our sleeves. We'll double down, go harder than ever, because ready or not, we're breaking out of Elwin this episode. And with a gold toll nearly in reach, we keep things simple. A few more laps, frayed knots, herbs, ore, just enough to keep the gold trickling in.",
+        "canonical_file": "goldbound/005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.txt",
+        "original_file": "goldbound/original-vtt/005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.vtt"
+      }
+    },
+    {
+      "id": "E005-21",
+      "name": "First token challenge completion",
+      "kind": "observation",
+      "status": "successful",
+      "zone": "Elwynn Forest",
+      "summary": "Token purchased around 274–275 k after price dip; inventory pruned for repost efficiency. Redridge unlocked; Deadmines and Gnomeregan discussed only as alternative future zones.",
+      "metrics": {
+        "token_price_gold_approx_range": [
+          274000,
+          275000
+        ]
+      },
+      "source": {
+        "file": "005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.vtt",
+        "cleaned_file": "goldbound/005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.txt",
+        "paragraph_start": 22,
+        "paragraph_end": 25,
+        "start_time": "00:20:08.880",
+        "quote": "We'll offload our last few glyph of stars and even swing by Julia for a quick duel. 20 gold in the pocket. Not bad. But here's the thing. The market seems to be shifting in our favor. The WOW token has dropped to 275K. And judging by some of the items slipping through the sales, we might just have it. It's close. So, we head back for a second quick mailbox check. Maybe one last haul if the numbers line up. This could be it. Let's take a look.",
+        "canonical_file": "goldbound/005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.txt",
+        "original_file": "goldbound/original-vtt/005 - I Stayed In Elywnn Until I Earned A WoW Token ... It Was Cursed  - Goldbound Episode 5.en-orig.vtt"
+      }
+    }
+  ]
+}
