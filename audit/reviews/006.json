@@ -22,7 +22,8 @@
         "quote": "Displate makes highquality metal posters featuring officially licensed artwork from the worlds you love. I'm talking World of Warcraft, Star Wars, Marvel, Elden Ring, you name it. And with over 2 million designs, there's something to fit your fancy. And these mount safely with magnets, so no tools and no damage, and you can swap them out anytime. They're running a big promo right now, so use the link in my description or code path to get up to 37% off. It's a no-brainer upgrade for the gaming room. And if you're heading to San Diego Comic-Con 2025, swing by the Lucasfilms Pavilion where Displate is teaming up with them for a Star Wars themed booth. They're dropping exclusive flagship prints, one of which is limited to just 1,000 copies and only available at the event. So check out Displate at San Diego Comic-Con or in the link below the code Patherics to save 25% off one Dis Plate, 32% off two to three disc plates, and a whopping 37% off four plus disc plates. Grab your favorite design, and thanks to Displate for sponsoring today's journey. And so our journey in Redidge begins. For the first time in over 150 hours, we're somewhere new. And most importantly, new mobs and different loot tables. Now, as we mentioned in the last zone, in the spirit of the new unlock, we have flipped Chromy time to Cataclysm, which means the mobs here will continue to scale with us. So unlike Elwin, where Goldilock could one-shot pretty much any mob in his sleep, here in Redidge, we're actually fighting, and that changes everything.",
         "canonical_file": "goldbound/006 - Redridge Is a Hidden Goldmine… Here's What I Found - Goldbound Episode 6.en-orig.txt",
         "original_file": "goldbound/original-vtt/006 - Redridge Is a Hidden Goldmine… Here's What I Found - Goldbound Episode 6.en-orig.vtt"
-      }
+      },
+      "guide": "Chromie Time was enabled for Redridge questing, making mobs scale with the rogue. Poor gear made early fights difficult; after leaving scaling at level 70, ordinary mobs became much faster to kill."
     },
     {
       "id": "E006-02",
@@ -66,7 +67,8 @@
           "lower_bound": true,
           "strict_bound": true
         }
-      ]
+      ],
+      "guide": "Complete Redridge quests, including the Stonewatch and John Keeshan chain, while gathering nearby ore and herbs. The quests supplied scaled gear, with gold from rewards and vendored loot."
     },
     {
       "id": "E006-03",
@@ -88,7 +90,8 @@
         "quote": "We're battered. A little bit undercooked, but that's all part of the challenge. And if there's one thing Goldilocks good at, it's turning pain into profit. So, while unlocking a few quests and jogging between objectives, we stumbled upon something a little unexpected. Null Feaster. This is the first rare of the zone that we encountered. Red Ridge is home to a few rares. Some of them might be carrying a little loot, and this guy in particular has a very tight loot table. Nothing too crazy, nothing too rare, but there's something valuable nestled in there. The Red Ridge tarantula egg. And this is roughly a 90% drop chance if you can survive the fight. So, let's give it a try. Heat.",
         "canonical_file": "goldbound/006 - Redridge Is a Hidden Goldmine… Here's What I Found - Goldbound Episode 6.en-orig.txt",
         "original_file": "goldbound/original-vtt/006 - Redridge Is a Hidden Goldmine… Here's What I Found - Goldbound Episode 6.en-orig.vtt"
-      }
+      },
+      "guide": "Kill Gnollfeaster for the Redridge Tarantula Egg, then cage the pet if selling it. A later repeat test identified the pet as a once-per-character drop, so repeated kills did not replenish stock."
     },
     {
       "id": "E006-04",
@@ -107,7 +110,8 @@
         "quote": "Heat. And let me tell you, in our current gear, it was not a guaranteed win. But somehow through grit and maybe a little panic, we pulled it off. And there it was on the first kill. Now, this one is sellable, so we can put in a cage and list it. And we're also going to try to get one and slap it in our official Goldilock pet battle team because why not? If it bites, it fights. All right, so rare down, loot banked. Let's get back into the quests. And while questing through here, I'll be honest, my last memory of questing through Redidge, it was in classic era and then classic anniversary and then classic hardcore. So, I didn't exactly know what to expect this time around. And right away, a little bit of a disappointment. The black welps, they're gone. Vanished. Not a scale in sight. I did have hopes for farming these little guys, but Blizzard had other plans with the cataclysm. For now, we had a few more pressing problems to face. The gear dilemma, and that's when we stumbled onto a new quest line.",
         "canonical_file": "goldbound/006 - Redridge Is a Hidden Goldmine… Here's What I Found - Goldbound Episode 6.en-orig.txt",
         "original_file": "goldbound/original-vtt/006 - Redridge Is a Hidden Goldmine… Here's What I Found - Goldbound Episode 6.en-orig.vtt"
-      }
+      },
+      "guide": "Look for the former Redridge black whelps before planning a scale farm. They were absent from the changed zone, so this target could not be farmed in the episode."
     },
     {
       "id": "E006-05",
@@ -137,7 +141,8 @@
         "quote": "And with that, over 1500 gold in the pocket just from the quest rewards and vendor trash as well. So, now the questing phase is done and the only thing left is to uncover Red Ridg's hidden gold farms and earn another WoW token. The gold bound grind continues. And with questing out of the way, I wanted to really kick things off in Red Ridge with something that carried us through Elwin, Dual Gathering. A bit of a comfort pick to get the lay of the land and with a few rare kills sprinkled in for good measure. Now, I can't even tell you how many laps I did back in Elwin. Herbs or rinse and repeat. So, just seeing a new map and plotting a new route, it already feels fresh. And we're not hunting specific rares just yet.",
         "canonical_file": "goldbound/006 - Redridge Is a Hidden Goldmine… Here's What I Found - Goldbound Episode 6.en-orig.txt",
         "original_file": "goldbound/original-vtt/006 - Redridge Is a Hidden Goldmine… Here's What I Found - Goldbound Episode 6.en-orig.vtt"
-      }
+      },
+      "guide": "Fly around Redridge gathering Copper, Tin and Silver Ore alongside Earthroot, Mageroyal, Briarthorn and Swiftthistle. The first test also stopped for rares and kept sellable greens."
     },
     {
       "id": "E006-06",
@@ -158,7 +163,8 @@
         "quote": "And that said, we still haven't tapped into the greens and transmog yet. And if you've ever farmed in Red Ridge, you'll know there are some serious Mog pieces hiding in these hills. Now, we didn't pull any lottery ticket rares in the first hour, but the zone loot tables here are actually wild. Some of the greens we picked up are already being equipped. Decent upgrades. Even just vending the greens that we're not going to sell in the auction house at around 10 to 30 gold vendor value adds another 100 gold per hour baseline to the run. But let's talk about the items that we're actually keeping for the auction house. We've got three pieces worth noting already. First up was the Noah war harness. Region sale average is a bit low, but its market value is 4.1K.",
         "canonical_file": "goldbound/006 - Redridge Is a Hidden Goldmine… Here's What I Found - Goldbound Episode 6.en-orig.txt",
         "original_file": "goldbound/original-vtt/006 - Redridge Is a Hidden Goldmine… Here's What I Found - Goldbound Episode 6.en-orig.vtt"
-      }
+      },
+      "guide": "A Gnoll War Harness dropped during Redridge leveling and gathering. It was kept for auction stock; the source did not describe a separate targeted run."
     },
     {
       "id": "E006-07",
@@ -180,7 +186,8 @@
         "quote": "And the null variant items are a bit of a staple in Red Ridge, and they tend to collect a pretty coin. Then we got the Shadow Hide Scalper. Now, this one is a banger. It's a unique appearance, and there's only one listed on the region right now with a market value of around 67,000 gold. And even the region sale average is hovering around 7K. This is the kind of piece that you just want to hold and wait for the right buyer. And finally, we got the war paint gloves. These look like another unique appearance and are just sitting shy of 8,000 gold market value. So, yeah, from these three transmog drops, we're already building our long-term Red Ridge war chest. And honestly, these are just the tip of the mountain. Literally, there's more out there. So, we'll post them on the auction house and keep it listed. Oh, and as a quick aside, last episode I did mention that I was doing a name change to avoid intentional snipes.",
         "canonical_file": "goldbound/006 - Redridge Is a Hidden Goldmine… Here's What I Found - Goldbound Episode 6.en-orig.txt",
         "original_file": "goldbound/original-vtt/006 - Redridge Is a Hidden Goldmine… Here's What I Found - Goldbound Episode 6.en-orig.vtt"
-      }
+      },
+      "guide": "A Shadowhide Scalper was collected during early Redridge activity and listed for sale. This record describes incidental loot rather than an isolated targeted trial."
     },
     {
       "id": "E006-08",
@@ -201,7 +208,8 @@
         "quote": "And the null variant items are a bit of a staple in Red Ridge, and they tend to collect a pretty coin. Then we got the Shadow Hide Scalper. Now, this one is a banger. It's a unique appearance, and there's only one listed on the region right now with a market value of around 67,000 gold. And even the region sale average is hovering around 7K. This is the kind of piece that you just want to hold and wait for the right buyer. And finally, we got the war paint gloves. These look like another unique appearance and are just sitting shy of 8,000 gold market value. So, yeah, from these three transmog drops, we're already building our long-term Red Ridge war chest. And honestly, these are just the tip of the mountain. Literally, there's more out there. So, we'll post them on the auction house and keep it listed. Oh, and as a quick aside, last episode I did mention that I was doing a name change to avoid intentional snipes.",
         "canonical_file": "goldbound/006 - Redridge Is a Hidden Goldmine… Here's What I Found - Goldbound Episode 6.en-orig.txt",
         "original_file": "goldbound/original-vtt/006 - Redridge Is a Hidden Goldmine… Here's What I Found - Goldbound Episode 6.en-orig.vtt"
-      }
+      },
+      "guide": "War Paint Gloves dropped during the Redridge outing and were kept for auction stock. No separate target route or timed result was recorded."
     },
     {
       "id": "E006-09",
@@ -265,7 +273,8 @@
           "label": "Canvas Shoes drop",
           "include_earnings": true
         }
-      ]
+      ],
+      "guide": "Clear Blackrock Trackers and Summoners inside Render’s Rock while mining nearby ore. The run targeted Blackrock Pauldrons and Blackrock Boots and collected other sellable gear."
     },
     {
       "id": "E006-10",
@@ -288,7 +297,8 @@
         "quote": "And while editing this, I realized TSM fully docked my new in-game name. So, yeah, I'll be doing another name change before this episode goes live and changing my tool tip settings on TSM. Anyway, with our first hour of Red Ridge Farming complete, brushing right up against the Chromy time scaling levels. And that just means it's time to fight some monsters while we're still on their level. And with that in mind, I made my way north into a cave that I had earmarked earlier while questing, Render's Rock. It has some tight corridors, a good ore density, and is crawling with black rock orcs. I wanted to give this place an hourong test run just to see what would drop and see how much ore we could pull in. So, inside the cave, there's two variants of Black Rockck Orcs. The Black Rock Trackers and the Black Rock summoners. Now, these are just two of maybe a dozen different Black Rockck mob types in the zone, each with their own little transmog table quirks. More on the others later. There are some big items for sure, but for this cave, we're hunting two things in particular. From the trackers, I was after the black rock puldrons. Albeit a white item, it's still fully transmogable and it's part of the Black Rock set that's a bit of a staple to the Red Ridge transmog scene. Now, Trade Skill Master is only listing a 0.05% drop rate, but they are valued at around a 5,000 gold market. And from the summoners, the prize that we're targeting is the Black Rock boots.",
         "canonical_file": "goldbound/006 - Redridge Is a Hidden Goldmine… Here's What I Found - Goldbound Episode 6.en-orig.txt",
         "original_file": "goldbound/original-vtt/006 - Redridge Is a Hidden Goldmine… Here's What I Found - Goldbound Episode 6.en-orig.vtt"
-      }
+      },
+      "guide": "Kill Blackrock Trackers in Render’s Rock for Blackrock Pauldrons. Two pairs dropped during the cave trial; mine nearby veins while moving through the cave."
     },
     {
       "id": "E006-11",
@@ -311,7 +321,8 @@
         "quote": "And while editing this, I realized TSM fully docked my new in-game name. So, yeah, I'll be doing another name change before this episode goes live and changing my tool tip settings on TSM. Anyway, with our first hour of Red Ridge Farming complete, brushing right up against the Chromy time scaling levels. And that just means it's time to fight some monsters while we're still on their level. And with that in mind, I made my way north into a cave that I had earmarked earlier while questing, Render's Rock. It has some tight corridors, a good ore density, and is crawling with black rock orcs. I wanted to give this place an hourong test run just to see what would drop and see how much ore we could pull in. So, inside the cave, there's two variants of Black Rockck Orcs. The Black Rock Trackers and the Black Rock summoners. Now, these are just two of maybe a dozen different Black Rockck mob types in the zone, each with their own little transmog table quirks. More on the others later. There are some big items for sure, but for this cave, we're hunting two things in particular. From the trackers, I was after the black rock puldrons. Albeit a white item, it's still fully transmogable and it's part of the Black Rock set that's a bit of a staple to the Red Ridge transmog scene. Now, Trade Skill Master is only listing a 0.05% drop rate, but they are valued at around a 5,000 gold market. And from the summoners, the prize that we're targeting is the Black Rock boots.",
         "canonical_file": "goldbound/006 - Redridge Is a Hidden Goldmine… Here's What I Found - Goldbound Episode 6.en-orig.txt",
         "original_file": "goldbound/original-vtt/006 - Redridge Is a Hidden Goldmine… Here's What I Found - Goldbound Episode 6.en-orig.vtt"
-      }
+      },
+      "guide": "Kill Blackrock Summoners inside Render’s Rock for Blackrock Boots. A pair dropped during the cave trial alongside other gear and gathered ore."
     },
     {
       "id": "E006-12",
@@ -366,7 +377,8 @@
             }
           ]
         }
-      ]
+      ],
+      "guide": "During the Render’s Rock clear, gold per kill and gear drops declined after roughly half an hour. The narrator suspected loot suppression but did not establish its cause."
     },
     {
       "id": "E006-13",
@@ -387,7 +399,8 @@
         "quote": "And we did get a pair of canvas shoes, which I wasn't specifically farming. And despite being grays, these are still transmogable and apparently worth around 5,000 gold. And in addition to that, we got a few ores from gathering around the mine. 26 tin, 46 copper, and four silver ores. That's about 310 gold in raw ore materials. So, you might be wondering, what's the gold per hour? Well, I'm not going to sit here and call this a 50k per hour farm. Realistically, most of this transmog isn't going to move while we're still in Redidge. But if we continue to rack up 10, 20, 30, 40 more transmunk items, a few might sell before we even leave the zone. And that gold will start picking up in the background while we run some more stable gathering loops and other material farms. And hey, the target was the puldrons and the boots. And 1 hour, we got both. So we can check this cave off for now. Now, our next stop is a little bit of a throwback. Back in Elwin, we tried farming murlocs to no avail. But now we're here for vengeance. And nestled in a forgotten corner of the map, there's two very specific murloc types. And unlike the murlocs and element, each of these ones carries a valuable drop.",
         "canonical_file": "goldbound/006 - Redridge Is a Hidden Goldmine… Here's What I Found - Goldbound Episode 6.en-orig.txt",
         "original_file": "goldbound/original-vtt/006 - Redridge Is a Hidden Goldmine… Here's What I Found - Goldbound Episode 6.en-orig.vtt"
-      }
+      },
+      "guide": "Canvas Shoes dropped while clearing Render’s Rock. They were incidental auction stock, not the target of a separate farming route."
     },
     {
       "id": "E006-14",
@@ -411,7 +424,8 @@
         "quote": "First up, the murloc scouts. They may look like a classic murloc, but that blade, well, it's on the drop table, and it's called the scimitar of a tune. A sleek curved semi with a reported drop rate of 0.03%. And as some travelers mentioned in the comments, we can download the Wowhead elooter add-on, which means every kill we log here and every piece of loot we get will get uploaded onto the Wowhead database and update the real-time drop rates. And the second target is the Merurloc Tide Collar. This one doesn't carry a semi, but has a staff, and that staff is also on the drop table, the Riverside staff. This one is also reporting a 0.03% drop rate. still a commanding 42,000 gold on the auction house for market value. And we're not AoE farming these guys yet. These mobs will fight back and we'll continue to gain XP until we get level 70 or 71. And to track it all personally, I'm running Kill Tracker. So, we'll have a live tally on how many of each murloc we've got. No guesses, no estimates.",
         "canonical_file": "goldbound/006 - Redridge Is a Hidden Goldmine… Here's What I Found - Goldbound Episode 6.en-orig.txt",
         "original_file": "goldbound/original-vtt/006 - Redridge Is a Hidden Goldmine… Here's What I Found - Goldbound Episode 6.en-orig.vtt"
-      }
+      },
+      "guide": "Kill Redridge Murloc Scouts and Tidecallers while logging each type separately. The scaled scouting run got neither Scimitar of Atun nor Riverside Staff, before later attempts outside scaling succeeded."
     },
     {
       "id": "E006-15",
@@ -434,7 +448,8 @@
         "quote": "First up, the murloc scouts. They may look like a classic murloc, but that blade, well, it's on the drop table, and it's called the scimitar of a tune. A sleek curved semi with a reported drop rate of 0.03%. And as some travelers mentioned in the comments, we can download the Wowhead elooter add-on, which means every kill we log here and every piece of loot we get will get uploaded onto the Wowhead database and update the real-time drop rates. And the second target is the Merurloc Tide Collar. This one doesn't carry a semi, but has a staff, and that staff is also on the drop table, the Riverside staff. This one is also reporting a 0.03% drop rate. still a commanding 42,000 gold on the auction house for market value. And we're not AoE farming these guys yet. These mobs will fight back and we'll continue to gain XP until we get level 70 or 71. And to track it all personally, I'm running Kill Tracker. So, we'll have a live tally on how many of each murloc we've got. No guesses, no estimates.",
         "canonical_file": "goldbound/006 - Redridge Is a Hidden Goldmine… Here's What I Found - Goldbound Episode 6.en-orig.txt",
         "original_file": "goldbound/original-vtt/006 - Redridge Is a Hidden Goldmine… Here's What I Found - Goldbound Episode 6.en-orig.vtt"
-      }
+      },
+      "guide": "Kill Murloc Scouts in Redridge for Scimitar of Atun. After leaving Chromie Time scaling, the rogue used faster ranged kills and eventually collected two swords."
     },
     {
       "id": "E006-16",
@@ -458,7 +473,8 @@
         "quote": "First up, the murloc scouts. They may look like a classic murloc, but that blade, well, it's on the drop table, and it's called the scimitar of a tune. A sleek curved semi with a reported drop rate of 0.03%. And as some travelers mentioned in the comments, we can download the Wowhead elooter add-on, which means every kill we log here and every piece of loot we get will get uploaded onto the Wowhead database and update the real-time drop rates. And the second target is the Merurloc Tide Collar. This one doesn't carry a semi, but has a staff, and that staff is also on the drop table, the Riverside staff. This one is also reporting a 0.03% drop rate. still a commanding 42,000 gold on the auction house for market value. And we're not AoE farming these guys yet. These mobs will fight back and we'll continue to gain XP until we get level 70 or 71. And to track it all personally, I'm running Kill Tracker. So, we'll have a live tally on how many of each murloc we've got. No guesses, no estimates.",
         "canonical_file": "goldbound/006 - Redridge Is a Hidden Goldmine… Here's What I Found - Goldbound Episode 6.en-orig.txt",
         "original_file": "goldbound/original-vtt/006 - Redridge Is a Hidden Goldmine… Here's What I Found - Goldbound Episode 6.en-orig.vtt"
-      }
+      },
+      "guide": "Kill Murloc Tidecallers in Redridge for Riverside Staff. The extended run continued after the initial scouting hour and eventually collected two staffs."
     },
     {
       "id": "E006-17",
@@ -477,7 +493,8 @@
         "quote": "Goldilocked is now officially a datadriven farmer. And after an hour or so of farming, we did hit level 69 and totaled 51 kills on the scouts. and 41 kills on the tide collars. And while we did snag a few lower tier transmog pieces, some grays with a little bit of potential, our white whales of the scimitar of a tune and the riverside staff were nowhere to be seen. So I guess that's it, right? We pack it up, give up, and log off. Nope. We double down. And while killing these guys mixed in with a few rares, we hit level 70. And with chromy time scaling in the rear view, we started absolutely one-shotting these murlocs. I even dusted off and upgraded the old Elwin bore farming macro, the live to win. Every pull was faster and cleaner, so the murlocs never stood a chance. And I won't lie to you.",
         "canonical_file": "goldbound/006 - Redridge Is a Hidden Goldmine… Here's What I Found - Goldbound Episode 6.en-orig.txt",
         "original_file": "goldbound/original-vtt/006 - Redridge Is a Hidden Goldmine… Here's What I Found - Goldbound Episode 6.en-orig.vtt"
-      }
+      },
+      "guide": "After leaving Chromie Time scaling, adapt the ranged combat macro to kill Redridge murlocs faster. This was a combat-speed improvement within the ongoing target hunt, not a separate earnings test."
     },
     {
       "id": "E006-18",
@@ -499,7 +516,8 @@
         "quote": "Shoulders check, boots, check. All right, but enough waiting. Let's get to the loot. There we go. Over 130 males. and even just the first 100 is stacked with some serious value. Now, a lot of the recent ones coming through are a handful of the raw mats, the herbs and ores that we got here from our side hustles. Although, to be fair, in this episode, we didn't do much gathering. Most of our time was poured into leveling and transmog hunting. And speaking of transmog, we actually sold both scimitars of a tune, a little sneaky null punisher that we picked up while leveling. But we were a little bit cheeky in the sales here. I listed these at fire sale prices around 7K. This is just for some early gold injection to the challenge to get things moving. You know how it is. I can always go back and farm some more. But that wasn't the end of it. We also moved a pair of burnished boots, a leveling drop from the zone, and a few options trickled in from the tail end of Elwin.",
         "canonical_file": "goldbound/006 - Redridge Is a Hidden Goldmine… Here's What I Found - Goldbound Episode 6.en-orig.txt",
         "original_file": "goldbound/original-vtt/006 - Redridge Is a Hidden Goldmine… Here's What I Found - Goldbound Episode 6.en-orig.vtt"
-      }
+      },
+      "guide": "Two Scimitars of Atun and an incidental Gnoll Punisher sold after being posted at aggressive prices. The narration did not cleanly separate the individual receipt amounts."
     },
     {
       "id": "E006-19",
@@ -518,7 +536,8 @@
         "quote": "Shoulders check, boots, check. All right, but enough waiting. Let's get to the loot. There we go. Over 130 males. and even just the first 100 is stacked with some serious value. Now, a lot of the recent ones coming through are a handful of the raw mats, the herbs and ores that we got here from our side hustles. Although, to be fair, in this episode, we didn't do much gathering. Most of our time was poured into leveling and transmog hunting. And speaking of transmog, we actually sold both scimitars of a tune, a little sneaky null punisher that we picked up while leveling. But we were a little bit cheeky in the sales here. I listed these at fire sale prices around 7K. This is just for some early gold injection to the challenge to get things moving. You know how it is. I can always go back and farm some more. But that wasn't the end of it. We also moved a pair of burnished boots, a leveling drop from the zone, and a few options trickled in from the tail end of Elwin.",
         "canonical_file": "goldbound/006 - Redridge Is a Hidden Goldmine… Here's What I Found - Goldbound Episode 6.en-orig.txt",
         "original_file": "goldbound/original-vtt/006 - Redridge Is a Hidden Goldmine… Here's What I Found - Goldbound Episode 6.en-orig.vtt"
-      }
+      },
+      "guide": "Burnished Boots, gathered herbs and ore, and remaining Elwynn Frayed Knots sold through the auction house. This combines sales from several earlier activities."
     }
   ]
 }

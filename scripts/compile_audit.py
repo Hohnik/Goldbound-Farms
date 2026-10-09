@@ -32,6 +32,8 @@ for review in reviews:
     source = next(s for s in index if s['source_file'] == review['source_file'])
     assert review['paragraph_count'] == len(source['paragraphs'])
     for e in review['records']:
+        assert isinstance(e.get('guide'),str) and 1 <= len(e['guide'].split()) <= 55, f"Missing or long guide: {e['id']}"
+        assert e['guide'] == e['guide'].strip() and '\n' not in e['guide'], f"Guide formatting: {e['id']}"
         a,b = e['source']['paragraph_start'],e['source']['paragraph_end']
         assert 1 <= a <= b <= len(source['paragraphs'])
         e['source']['quote'] = source['paragraphs'][a-1]['text']
@@ -54,6 +56,7 @@ def validate_refs(refs):
         assert 1 <= ref['paragraph_start'] <= ref['paragraph_end'] <= len(source['paragraphs'])
         assert ref['start_time'] == source['paragraphs'][ref['paragraph_start']-1]['time']
 for e in records:
+    if e.get('guide_source_refs'): validate_refs(e['guide_source_refs'])
     for link in e.get('related_records',[]):
         assert link['id'] in record_ids and link['id'] != e['id']
     for drop in e.get('valued_drops',[]):

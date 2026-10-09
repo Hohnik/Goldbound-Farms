@@ -22,7 +22,8 @@
         "quote": "Greetings travelers and welcome back to Goldbound, the challenge series where a road Goldilocks is carving his way through Azeroth one zone at a time. And our most recent unlock, Duskwood, is already proving itself to be a pretty solid zone with silk finally coming in, housing crafts moving, and some more profitable farms revealing themselves every day. Let's dive a little deeper. Because we ended last episode only about 90,000 gold short of the next token. So, if we get some good gold here this week, we could be rolling a new zone pretty soon. So travelers, let's get back into Deskwood and keep the momentum rolling. Now, with every new zone unlock, there are a few types of farms that just jump to the top of my list of what I want to find. Now, of course, one type of farm in particular is specifically because we rolled a rogue, not the meta druid gold farmer. So, let's see what we can find pickpocketing in Duskwood. Now, there are plenty of humanoids across Duskwood to test. And after looking over a few of the pickpocket loot tables on Wowhead, I think we might be in for a treat because nearly every humanoid here can drop a battered junk boxes. So, I think the plan is simple. We need to figure out who the best humanoid to pickpocket is and fill up a bank tab of battered junk boxes or about a hundred and see if it's actually worth farming these because I'm already having a few flashbacks to burning steps with the junk boxes there.",
         "canonical_file": "goldbound/020 - Duskwood Just UNLOCKED A Massive Smithing Grind... Goldbound 19.en-orig.txt",
         "original_file": "goldbound/original-vtt/020 - Duskwood Just UNLOCKED A Massive Smithing Grind... Goldbound 19.en-orig.vtt"
-      }
+      },
+      "guide": "Nightbane Worgen in Duskwood were checked as pickpocket targets for Battered Junkboxes. They could no longer be skinned, so the planned junkbox-and-leather combination did not work."
     },
     {
       "id": "E020-02",
@@ -41,7 +42,8 @@
         "quote": "But maybe we can hope for better luck in Duskwood. What should we hit? Well, there are Nightbane Wargan running around Duskwood. And these were my first thought after Wargan became a playable race. You can no longer actually skin them in game, which means we can't double dip with farming junk boxes and medium leather. I mean, they do have some solid drops on their loot tables, but let's see what else we can find. And after some research, up north, there are fedded corpses. These guys do have junk boxes on their pickpocket tables, and they actually have an ultra rare drop on their loot tables. the Black Metal Great Sword. This is a 0.02% drop rate, so about 1 in 5,000, but it has a market value between 50k and 100k.",
         "canonical_file": "goldbound/020 - Duskwood Just UNLOCKED A Massive Smithing Grind... Goldbound 19.en-orig.txt",
         "original_file": "goldbound/original-vtt/020 - Duskwood Just UNLOCKED A Massive Smithing Grind... Goldbound 19.en-orig.vtt"
-      }
+      },
+      "guide": "Untested target: hunt Fetid Corpses in northern Duskwood for Black Metal Greatsword. Their slow respawns made them unsuitable for the proposed pickpocket loop, so that route was deferred."
     },
     {
       "id": "E020-03",
@@ -68,7 +70,8 @@
         "quote": "However, who knows if this drop rate is accurate, if it still drops or what. And normally, I'd be okay to farm this, but with pickpocketing, the issue is that these guys are not on a forced spawn. So, once they die, we have to wait for them to respawn. This would make the pickpocketing here quite a bit slower than any of the other options. So, we'll keep them in mind for the great sword later, but for pickpocketing, we'll have to leave them for now. Which brings us to the vulgal ogre mount, and I think this might be the play. Ogres tend to have some of the best transmog on their loot tables. I don't know why, but it's just how Blizzard plans it. These guys are indeed on a forced spawn, which means we can pickpocket them pretty frequently, and they do drop junk boxes.",
         "canonical_file": "goldbound/020 - Duskwood Just UNLOCKED A Massive Smithing Grind... Goldbound 19.en-orig.txt",
         "original_file": "goldbound/original-vtt/020 - Duskwood Just UNLOCKED A Massive Smithing Grind... Goldbound 19.en-orig.vtt"
-      }
+      },
+      "guide": "Pickpocket and kill the ogres at Vul'Gol Ogre Mound in Duskwood. Collect Battered Junkboxes, Lucky Charms and tradeable gear; the follow-up opening test found the boxes themselves had little value."
     },
     {
       "id": "E020-04",
@@ -110,7 +113,8 @@
             }
           ]
         }
-      ]
+      ],
+      "guide": "Unlock and open the Battered Junkboxes collected from the Duskwood ogres. The hundred-box test returned little gold and a few gems, so junkboxes did not make a useful standalone farm."
     },
     {
       "id": "E020-05",
@@ -129,7 +133,8 @@
         "quote": "Oh boy. Yeah, these things are called junk boxes for a reason. The flashbacks to Burning Step are coming back real quick. So, it took us 6 and 1/2 minutes to unlock each of these boxes and open them. And we walked away with 40 gold to show for it. And that's the raw gold plus one mossagate and three lesser moonstones. So confirmed junk boxes are not the move, but hey, we had to test it, didn't we? The ogres themselves, they are maybe worth farming even just for lucky charms and the transmog might be worth it. And I want to do a bit more exploring on a few different professions in Duskwood before we swap again. If you remember from last episode, we just got tailoring high enough to actually craft elderrise rugs, and our stock isn't super high, and the rest of our decor crafts are dwindling pretty low. So, I'm going to go squeeze a few more of these rugs out while we can. So, the plan for this, I think if we just run Black Rockck Depths for rune cloth, convert that to bolts, and craft a few batches of rugs, we should be good for a while.",
         "canonical_file": "goldbound/020 - Duskwood Just UNLOCKED A Massive Smithing Grind... Goldbound 19.en-orig.txt",
         "original_file": "goldbound/original-vtt/020 - Duskwood Just UNLOCKED A Massive Smithing Grind... Goldbound 19.en-orig.vtt"
-      }
+      },
+      "guide": "Run Blackrock Depths for Runecloth, turn it into bolts, and craft Elder Rise Rugs. This replenished the rug stock before tailoring was dropped."
     },
     {
       "id": "E020-06",
@@ -154,7 +159,8 @@
         "quote": "We also didn't have a reliable source for one of the ores required to level blacksmithing from 155 to 200, iron ore. And Duskwood solves that. Well, kind of. So, iron ore does spawn here in Duskwood, but it's rare and spread out. And compared to a zone like Strangle Thorn Veil, where iron is everywhere, Duskwood is mostly just copper and tin with the occasional iron ore node mixed in. The problem is to level up blacksmithing properly, we're going to need roughly 420 iron ore, and some of that will be smelted into iron bars with the other being smelted with coal into steel bars. So, since the nodes are so scarce, I think the best play here is to build a full duskwood mining loop that hits every possible iron ore spawn.",
         "canonical_file": "goldbound/020 - Duskwood Just UNLOCKED A Massive Smithing Grind... Goldbound 19.en-orig.txt",
         "original_file": "goldbound/original-vtt/020 - Duskwood Just UNLOCKED A Massive Smithing Grind... Goldbound 19.en-orig.vtt"
-      }
+      },
+      "guide": "Build a Duskwood mining loop through potential Iron Ore spawns. Mine the Copper and Tin that appear there too, allowing those nodes to respawn as possible Iron sources."
     },
     {
       "id": "E020-07",
@@ -176,7 +182,8 @@
         "quote": "There aren't too many of them. If we work around them a little bit, we can actually form a decent route. Now, sometimes these nodes do spawn as copper and tin, but every time we mine them, they might respawn as iron. It's not perfect, but given our zone restrictions, it is the best option we have. So, while we're grinding iron ore on our route, which by the way, if you're wondering, we are using the routes add-on in game to build this route. Just makes it way easier to follow it. But, let's talk about why we actually want to level blocks something in the first place. And this is where things get pretty interesting. Because ultimately, what we're going to have to do makes the iron ore grind feel like a little tip of the iceberg. For starters, most blacksmithing crafts from levels 1 to 240, the ones we're going to be leveling up with, don't really have much of a profit, unless you're already sitting on some rare recipes. At this point in the challenge, if a green item isn't selling for more than 1,000 gold, it's honestly not worth the reposting time. Our transmog character now has over 700 auctions, and posting those every day already takes a good amount of time. This changes at level 240 blacksmithing. That's the break point and the starters because it does unlock classic housing decor crafts. And while Blacksmithing does have multiple decor recipes, only one of them is actually possible within our currently unlocked zones. And the other, well, it requires Arcanite bars, which we're still gated on. But here's the thing, travelers. 240 and housing crafts is just a stepping stone. The real gold and the real grind for Goldie is going to start at 300. But anyways, before we get ahead of ourselves here, let's finish off these last levels with the iron we farmed. The iron ore grind, all things considered, isn't all too bad. We've done far crazier ore farms in the series, aside from a couple missing reagents like mage and mithil.",
         "canonical_file": "goldbound/020 - Duskwood Just UNLOCKED A Massive Smithing Grind... Goldbound 19.en-orig.txt",
         "original_file": "goldbound/original-vtt/020 - Duskwood Just UNLOCKED A Massive Smithing Grind... Goldbound 19.en-orig.vtt"
-      }
+      },
+      "guide": "Gather Iron Ore and train blacksmithing with Smith Argus, smelting Iron and Steel as needed. The leveling crafts were mostly vendored or disenchanted; reaching 240 was an investment toward decor production."
     },
     {
       "id": "E020-08",
@@ -197,7 +204,16 @@
         "quote": "Because there's one problem. We need dark iron bars. And each bar is made by smelting dark iron ore, which of course we can already farm dark iron ore and molten core, but until now, we still haven't completed the quest to learn how to smelt them. And that quest comes from Gloom Row in Black Rock Depths. And we've been sitting on it unfinished for months because it requires 20 gold bars and 10 true silver bars. Up until Duskwood, we simply couldn't smelt these. But now we can. So both gold and true silver technically spawn in duskwood rarely, but between duskwood routes and higher density zones like burning steps, getting 20 and 10 isn't too big of a deal for us now that we can actually smelt them. So, just like that, we finally have the materials to finish a quest we unlocked over 3 months ago.",
         "canonical_file": "goldbound/020 - Duskwood Just UNLOCKED A Massive Smithing Grind... Goldbound 19.en-orig.txt",
         "original_file": "goldbound/original-vtt/020 - Duskwood Just UNLOCKED A Massive Smithing Grind... Goldbound 19.en-orig.vtt"
-      }
+      },
+      "guide": "Bring 20 Gold Bars, 10 Truesilver Bars and two Star Rubies to Gloom'rel in Blackrock Depths to learn Dark Iron smelting. Defeat the Seven to reach the Black Forge, where each bar consumes eight Dark Iron Ore.",
+      "guide_source_refs": [
+        {
+          "episode": 13,
+          "paragraph_start": 24,
+          "paragraph_end": 24,
+          "start_time": "00:23:13.520"
+        }
+      ]
     },
     {
       "id": "E020-09",
@@ -227,7 +243,8 @@
         "quote": "We can push black ping up to 240 without too much friction. All in all, it was only about four or 5 hours grinding iron ore. And if we add it all up, the materials that we farmed and used for crafting, which we then vendored or disenchanted to reach 240 blacksmithing, represent a sunk cost of about 8,262 gold of trade goods. These are items that we could have just sold on the auction house. So, we definitely want to make sure we're at least covering this cost. And the first real profitable craft to do so is the shadow forge sconce. This one does require 10 lumber, pretty cheap on the lumber side, 12 dark iron bars, four lava cores, and two brilliant shards. All things we can technically get, right? Well, almost.",
         "canonical_file": "goldbound/020 - Duskwood Just UNLOCKED A Massive Smithing Grind... Goldbound 19.en-orig.txt",
         "original_file": "goldbound/original-vtt/020 - Duskwood Just UNLOCKED A Massive Smithing Grind... Goldbound 19.en-orig.vtt"
-      }
+      },
+      "guide": "Craft Shadowforge Sconces using lumber, Dark Iron Bars, Lava Cores and Brilliant Shards. Learn Dark Iron smelting from Gloom'rel before using Blackrock Depths' Black Forge; this batch tied up a substantial ore stock before sales were confirmed."
     },
     {
       "id": "E020-10",
@@ -246,7 +263,8 @@
         "quote": "Unfortunately for Gloom Rail, accessing it does require defeating the seven. And yeah, Gloom is one of the seven dwarves. The path is open and we can step into the Black Forge. And with that, we can finally smelt dark iron ore. And honestly, travelers, it's times like this on Goldbound. Checkpoints that take months, multiple zone unlocks, long material grinds, and old quest lines finally paying off that really make the Goldbound journey super fun and meaningful for me. Slow progress and unlocks. So, with fresh dark iron ore in our bags, we can officially check off the shadow forge sconce from the crafting list. Now, to be quite honest with you, the real unlocks happen at blacksmithing 300, and we are going to get there this episode. But before we push deeper into mining and blacksmithing, I think it's time Goldie had a little bit of leisure time. And what a better way to take a break than with a bit of fishing. At first glance, it doesn't really seem like Duskwood has much going on from a fishing perspective. We can definitely scout out properly before running it off. And looking at the map, there aren't many obvious water sources inside the zone itself. But there are rivers all around Duskwood bordering Westfall and Elwin. So I think that's as good a spot as any to start. First cast on the Westfall side, a raw bristle whisker catfish, which is a pretty standard Eastern Kingdoms fish and not very valuable. Second cast, a mana potion, unique, but not exactly a gold mine either. And a raw long jaw mud snapper, which we've seen plenty of these in Elwin. Nothing surprising so far. On the mini map though, I do spot sage fish schools on the river. So, let's go check those out. These are the same pools we were farming back in Red Ridge, and we know they can drop watertight trunks and sage fish themselves. Right now, sage fish are sitting around 50 silver to 1 gold each. So, based on that alone, doesn't really feel like something worth farming heavily. And on average, from our red ridge testing, the trunks are worth about 70 gold each with the trade goods and materials inside. Now, what about the waters inside of Duskwood? In the center of the zone, there is the Twilight Grove. In retail, there isn't much going on here besides the Moonwell.",
         "canonical_file": "goldbound/020 - Duskwood Just UNLOCKED A Massive Smithing Grind... Goldbound 19.en-orig.txt",
         "original_file": "goldbound/original-vtt/020 - Duskwood Just UNLOCKED A Massive Smithing Grind... Goldbound 19.en-orig.vtt"
-      }
+      },
+      "guide": "Fish the rivers bordering Duskwood and check Sagefish Schools for fish and Watertight Trunks. The scouting casts found ordinary fish and small extras, without a timed income test."
     },
     {
       "id": "E020-11",
@@ -265,7 +283,8 @@
         "quote": "Unfortunately for Gloom Rail, accessing it does require defeating the seven. And yeah, Gloom is one of the seven dwarves. The path is open and we can step into the Black Forge. And with that, we can finally smelt dark iron ore. And honestly, travelers, it's times like this on Goldbound. Checkpoints that take months, multiple zone unlocks, long material grinds, and old quest lines finally paying off that really make the Goldbound journey super fun and meaningful for me. Slow progress and unlocks. So, with fresh dark iron ore in our bags, we can officially check off the shadow forge sconce from the crafting list. Now, to be quite honest with you, the real unlocks happen at blacksmithing 300, and we are going to get there this episode. But before we push deeper into mining and blacksmithing, I think it's time Goldie had a little bit of leisure time. And what a better way to take a break than with a bit of fishing. At first glance, it doesn't really seem like Duskwood has much going on from a fishing perspective. We can definitely scout out properly before running it off. And looking at the map, there aren't many obvious water sources inside the zone itself. But there are rivers all around Duskwood bordering Westfall and Elwin. So I think that's as good a spot as any to start. First cast on the Westfall side, a raw bristle whisker catfish, which is a pretty standard Eastern Kingdoms fish and not very valuable. Second cast, a mana potion, unique, but not exactly a gold mine either. And a raw long jaw mud snapper, which we've seen plenty of these in Elwin. Nothing surprising so far. On the mini map though, I do spot sage fish schools on the river. So, let's go check those out. These are the same pools we were farming back in Red Ridge, and we know they can drop watertight trunks and sage fish themselves. Right now, sage fish are sitting around 50 silver to 1 gold each. So, based on that alone, doesn't really feel like something worth farming heavily. And on average, from our red ridge testing, the trunks are worth about 70 gold each with the trade goods and materials inside. Now, what about the waters inside of Duskwood? In the center of the zone, there is the Twilight Grove. In retail, there isn't much going on here besides the Moonwell.",
         "canonical_file": "goldbound/020 - Duskwood Just UNLOCKED A Massive Smithing Grind... Goldbound 19.en-orig.txt",
         "original_file": "goldbound/original-vtt/020 - Duskwood Just UNLOCKED A Massive Smithing Grind... Goldbound 19.en-orig.vtt"
-      }
+      },
+      "guide": "The Twilight Grove Moonwell was tested as a fishing spot. Casting did not work, so it offered no fishing farm."
     },
     {
       "id": "E020-12",
@@ -284,7 +303,8 @@
         "quote": "And just to confirm, you cannot fish in Moonwells. I did have to test this one. Same thing goes for the Dark Shower Fountain. And you might think I'm crazy for testing this, but hey, maybe no one ever tried it. Plus, the Daron fountain is a fishable water source. Anyways, after scouting all of the south and the rest of Duskwood, I'm only really finding one more real body of water that's actually in Duskwood and is fishable. And honestly, it's a pretty cool spot. So, behind the tower in the northeast of Duskwood is an area called the Beggar's Haunt. And it's home to the rare spawn, the Unknown Soldier, who unfortunately doesn't have much to note on his loot tables. But right beside him is a nice little waterfall fed pool. A really nice little fishing spot in theory, but the fish, yep, more the same. Catfish and snappers. So, just from a pure fishing standpoint, Duskwood is kind of a dud. And just as a side note, I did go on my main and scout up the waterfalls to the source of the waterfall, and there's no other unique fish up there. That being said, we can spice things up a bit for fishing here.",
         "canonical_file": "goldbound/020 - Duskwood Just UNLOCKED A Massive Smithing Grind... Goldbound 19.en-orig.txt",
         "original_file": "goldbound/original-vtt/020 - Duskwood Just UNLOCKED A Massive Smithing Grind... Goldbound 19.en-orig.vtt"
-      }
+      },
+      "guide": "The Darkshire fountain was tested as a fishing spot. It could not be fished."
     },
     {
       "id": "E020-13",
@@ -303,7 +323,8 @@
         "quote": "And just to confirm, you cannot fish in Moonwells. I did have to test this one. Same thing goes for the Dark Shower Fountain. And you might think I'm crazy for testing this, but hey, maybe no one ever tried it. Plus, the Daron fountain is a fishable water source. Anyways, after scouting all of the south and the rest of Duskwood, I'm only really finding one more real body of water that's actually in Duskwood and is fishable. And honestly, it's a pretty cool spot. So, behind the tower in the northeast of Duskwood is an area called the Beggar's Haunt. And it's home to the rare spawn, the Unknown Soldier, who unfortunately doesn't have much to note on his loot tables. But right beside him is a nice little waterfall fed pool. A really nice little fishing spot in theory, but the fish, yep, more the same. Catfish and snappers. So, just from a pure fishing standpoint, Duskwood is kind of a dud. And just as a side note, I did go on my main and scout up the waterfalls to the source of the waterfall, and there's no other unique fish up there. That being said, we can spice things up a bit for fishing here.",
         "canonical_file": "goldbound/020 - Duskwood Just UNLOCKED A Massive Smithing Grind... Goldbound 19.en-orig.txt",
         "original_file": "goldbound/original-vtt/020 - Duskwood Just UNLOCKED A Massive Smithing Grind... Goldbound 19.en-orig.vtt"
-      }
+      },
+      "guide": "Fish the waterfall-fed pool beside the Unknown Soldier in Beggar's Haunt, northeastern Duskwood. The scout caught ordinary catfish and snappers, with no special fish found farther upstream."
     },
     {
       "id": "E020-14",
@@ -356,7 +377,8 @@
             }
           ]
         }
-      ]
+      ],
+      "guide": "While the Darkmoon Faire is active, use the Darkmoon Fishing Cap to create a Shipwreck Debris pool and fish it. The ability is limited to one use per hour, even outside Darkmoon Island."
     },
     {
       "id": "E020-15",
@@ -377,7 +399,8 @@
         "quote": "And while we're on the topic of fishing, every Sunday, Stranglethorn Veil has a fishing tournament with some pretty cool prizes. So, you can bet we'll be doing that once it's unlocked. Although, on the topic of new zones to roll, with how professions and boxing is shaping up right now, I won't lie, I'm kind of hoping we roll sooner than later. Getting a warb band crafting alt would be massive. If we had one, we could just park them at 300 blacksmithing and never touch it again. Speaking of which, break's over. Time to get back to leveling blacksmithing. So, going from 240 to 300 blacksmithing isn't really too much trouble. Unlike the iron ore section earlier, we actually have the right zones unlocked to farm what we need pretty quickly. And at this point, it's mostly just a matter of getting mythal ore and then thorium ore. And the nice part about the thorium ore stretch is that we also snag a few arcane crystals along the way. So, while we're farming that up, let's talk about why we're even leveling blacksmith 300 in the first place. And that reason lives in the Black Rockck Depths. Hidden within BRD is a little pub called the Grim Guzzler. It's a little tricky to get into. You got to change some locks and take a bridge. But after a little bit of sneaking around, inside is an NPC named Luctos Dark Bargainer of the Thorium Brotherhood. And he's a vendor.",
         "canonical_file": "goldbound/020 - Duskwood Just UNLOCKED A Massive Smithing Grind... Goldbound 19.en-orig.txt",
         "original_file": "goldbound/original-vtt/020 - Duskwood Just UNLOCKED A Massive Smithing Grind... Goldbound 19.en-orig.vtt"
-      }
+      },
+      "guide": "Gather Mithril and Thorium to finish leveling blacksmithing from 240 to 300. Thorium mining also supplied Arcane Crystals; this was a material-supply grind, not a measured gold route."
     },
     {
       "id": "E020-16",
@@ -398,7 +421,8 @@
         "quote": "And while we're on the topic of fishing, every Sunday, Stranglethorn Veil has a fishing tournament with some pretty cool prizes. So, you can bet we'll be doing that once it's unlocked. Although, on the topic of new zones to roll, with how professions and boxing is shaping up right now, I won't lie, I'm kind of hoping we roll sooner than later. Getting a warb band crafting alt would be massive. If we had one, we could just park them at 300 blacksmithing and never touch it again. Speaking of which, break's over. Time to get back to leveling blacksmithing. So, going from 240 to 300 blacksmithing isn't really too much trouble. Unlike the iron ore section earlier, we actually have the right zones unlocked to farm what we need pretty quickly. And at this point, it's mostly just a matter of getting mythal ore and then thorium ore. And the nice part about the thorium ore stretch is that we also snag a few arcane crystals along the way. So, while we're farming that up, let's talk about why we're even leveling blacksmith 300 in the first place. And that reason lives in the Black Rockck Depths. Hidden within BRD is a little pub called the Grim Guzzler. It's a little tricky to get into. You got to change some locks and take a bridge. But after a little bit of sneaking around, inside is an NPC named Luctos Dark Bargainer of the Thorium Brotherhood. And he's a vendor.",
         "canonical_file": "goldbound/020 - Duskwood Just UNLOCKED A Massive Smithing Grind... Goldbound 19.en-orig.txt",
         "original_file": "goldbound/original-vtt/020 - Duskwood Just UNLOCKED A Massive Smithing Grind... Goldbound 19.en-orig.vtt"
-      }
+      },
+      "guide": "Visit Lokhtos Darkbargainer in Blackrock Depths' Grim Guzzler and turn in stored Fiery or Lava Cores for Thorium Brotherhood reputation. Reaching exalted unlocked the Dark Iron recipe selection."
     },
     {
       "id": "E020-17",
@@ -421,7 +445,8 @@
         "quote": "And since we just unlocked blacksmithing and dark iron ore, the dark iron recipes are what we're here for. And there's a ton of them. Now, I'll grab a handful here that we have space for, but we can't learn them yet without 300 blacksmithing. So, once we cap them, we'll have to swing back and get the rest. And on the way from 240 to 300 blacksmithing, there are a few profitable crafts that we could make. One in particular uses a recipe we've been sitting on for quite a long time, the wicked myithal blade. So, this is a recipe that we actually picked up back in the Swamp of Soros from the Lost Ones, and it is a rare drop, but also a soulbound recipe, which creates a pretty good demand for crafting. The material cost isn't too bad. It's mostly as Myithil, true silver, and some leather.",
         "canonical_file": "goldbound/020 - Duskwood Just UNLOCKED A Massive Smithing Grind... Goldbound 19.en-orig.txt",
         "original_file": "goldbound/original-vtt/020 - Duskwood Just UNLOCKED A Massive Smithing Grind... Goldbound 19.en-orig.vtt"
-      }
+      },
+      "guide": "Learn the soulbound Wicked Mithril Blade recipe obtained from the Swamp of Sorrows Lost Ones, then craft blades with Mithril, Truesilver and leather. Two Relic-scaled versions were also made for Goldie's own weapons."
     },
     {
       "id": "E020-18",
@@ -444,7 +469,8 @@
         "quote": "But the blade regularly lists around 30,000 gold. Plus, it has one of those clean katana appearances. So, while leveling blacksmithing, I'm definitely going to craft a few of these. And that gives me an idea because we also have a few relics of the past left over. So, let's go ahead and craft two scaled versions of these for Goldie, which pushes our weapons up to item level 350. And that's because I think with these in hand, we might be able to take on an old enemy, Naster. So, if you remembered him from Red Ridge, he's the only mob left in our current zones that actually scales to current content. And since Goldie is level 78, wearing mostly classic gear, we haven't actually been able to kill Naster for a long time. But with scaled weapons, and now our scaled night shade armor, we might have a shot. But this isn't exactly a fair fight. So as a rogue, I'm using everything I can. Offensive cooldowns, defensive cooldowns, blind, and crimson bile, the works. And I think the trick here is a little cheesy, but it is maximizing our use of blind, letting him sit it as long as possible, which allows my cooldowns to reset and lets me get off a few crimson vials to heal up. It isn't the coolest way to do it, and it does take about 6 minutes, but with that strategy and these new weapons, we can actually take down null fee solo, which is nice. It means we are officially the apex predator in our zones again. And also, the XP from Null Faster is 4,600.",
         "canonical_file": "goldbound/020 - Duskwood Just UNLOCKED A Massive Smithing Grind... Goldbound 19.en-orig.txt",
         "original_file": "goldbound/original-vtt/020 - Duskwood Just UNLOCKED A Massive Smithing Grind... Goldbound 19.en-orig.vtt"
-      }
+      },
+      "guide": "With scaled weapons and Nightscape armor, Goldie retried Gnollfeaster in Redridge. Blind provided time to recover cooldowns and heal during the long solo fight; the reward was experience rather than a tested gold farm."
     },
     {
       "id": "E020-19",
@@ -463,7 +489,8 @@
         "quote": "That's like 46 mining nodes worth of XP in one zone. So, with a little adrenaline-inducing fun aside, we're actually now at 300 blacksmithing. And with that, it's time for a strategy check for a proper shopping list. Now, at the end of blacksmithing, Smith Argus does teach us the imperial set, or as I like to call it, the Stormwind Guard set. And most of these pieces only require thorium bars, which we can get in plenty. And they also have sale averages between 2 and 4k with some of the lower pieces being a couple hundred gold each, but the sale rates are generally pretty good. Now, a couple of these pieces do require rugged leather though, and we are currently out of that. So, we'll have to hold off on crafting those pieces. And to bulk craft the methyl swords as well, we are also going to need thick leather. So, either way, we're going to have to get skinning again for this. And material-wise, we'll need about 60 thorium bars and a handful of others to make a decent batch of these pieces. But the real shopping list here is coming from the dark iron crafts. And Locos teaches the full dark iron armor set. And the cost of this to craft gets steep really fast because it requires dark iron bars, which in and of themselves need eight dark iron ore each. And some of the recipes require 16 bars to craft. That's insane. But that being said, I think the Dark Iron set might be worth crafting up a few copies of because it is slow selling transmog and most of these pieces are listing between 20 and 50,000 gold. While the raw ore cost is usually around a 5k investment, weapon recipes are a little trickier because the really valuable ones do require Arcanite bars, which we can't actually unlock until we get Taenerys for the alchemy transmute. And on top of that, a lot of dark iron gear also requires core leather, so skinning is absolutely going to be mandatory. And after some quick back of napkin math, we need roughly 198 dark iron bars. That is 1,584 dark iron ore. Yep. Let's round up to 1,600 for good luck and farm some molten core. Because molten core is still the fastest and one of the only two places to farm Dark Ironor, we can do about 10 trash resets per hour, pushing deeper occasionally for extra nodes so that we don't hit the 10 instance per hour lockout. And with that, we can generally average around 250 ore per hour here if we're being pretty efficient. That is as long as we don't accidentally kill a boss or lock the instance, which we absolutely did. Travelers, this uh this magar kill was not scripted and it does throw a massive wrench in what was supposed to be about a 5hour farm.",
         "canonical_file": "goldbound/020 - Duskwood Just UNLOCKED A Massive Smithing Grind... Goldbound 19.en-orig.txt",
         "original_file": "goldbound/original-vtt/020 - Duskwood Just UNLOCKED A Massive Smithing Grind... Goldbound 19.en-orig.vtt"
-      }
+      },
+      "guide": "Learn the Imperial armor recipes from Smith Argus and craft a batch using Thorium Bars and leather. Gather the missing Rugged Leather before making the pieces that require it."
     },
     {
       "id": "E020-20",
@@ -490,7 +517,8 @@
         "quote": "That's like 46 mining nodes worth of XP in one zone. So, with a little adrenaline-inducing fun aside, we're actually now at 300 blacksmithing. And with that, it's time for a strategy check for a proper shopping list. Now, at the end of blacksmithing, Smith Argus does teach us the imperial set, or as I like to call it, the Stormwind Guard set. And most of these pieces only require thorium bars, which we can get in plenty. And they also have sale averages between 2 and 4k with some of the lower pieces being a couple hundred gold each, but the sale rates are generally pretty good. Now, a couple of these pieces do require rugged leather though, and we are currently out of that. So, we'll have to hold off on crafting those pieces. And to bulk craft the methyl swords as well, we are also going to need thick leather. So, either way, we're going to have to get skinning again for this. And material-wise, we'll need about 60 thorium bars and a handful of others to make a decent batch of these pieces. But the real shopping list here is coming from the dark iron crafts. And Locos teaches the full dark iron armor set. And the cost of this to craft gets steep really fast because it requires dark iron bars, which in and of themselves need eight dark iron ore each. And some of the recipes require 16 bars to craft. That's insane. But that being said, I think the Dark Iron set might be worth crafting up a few copies of because it is slow selling transmog and most of these pieces are listing between 20 and 50,000 gold. While the raw ore cost is usually around a 5k investment, weapon recipes are a little trickier because the really valuable ones do require Arcanite bars, which we can't actually unlock until we get Taenerys for the alchemy transmute. And on top of that, a lot of dark iron gear also requires core leather, so skinning is absolutely going to be mandatory. And after some quick back of napkin math, we need roughly 198 dark iron bars. That is 1,584 dark iron ore. Yep. Let's round up to 1,600 for good luck and farm some molten core. Because molten core is still the fastest and one of the only two places to farm Dark Ironor, we can do about 10 trash resets per hour, pushing deeper occasionally for extra nodes so that we don't hit the 10 instance per hour lockout. And with that, we can generally average around 250 ore per hour here if we're being pretty efficient. That is as long as we don't accidentally kill a boss or lock the instance, which we absolutely did. Travelers, this uh this magar kill was not scripted and it does throw a massive wrench in what was supposed to be about a 5hour farm.",
         "canonical_file": "goldbound/020 - Duskwood Just UNLOCKED A Massive Smithing Grind... Goldbound 19.en-orig.txt",
         "original_file": "goldbound/original-vtt/020 - Duskwood Just UNLOCKED A Massive Smithing Grind... Goldbound 19.en-orig.vtt"
-      }
+      },
+      "guide": "Learn Dark Iron armor recipes from Lokhtos after the reputation grind, then craft at the Black Anvil. Stockpile Dark Iron Bars and required leather first; Arcanite weapons and the unavailable Core Leather pieces stayed blocked."
     },
     {
       "id": "E020-21",
@@ -512,7 +540,8 @@
         "quote": "That's like 46 mining nodes worth of XP in one zone. So, with a little adrenaline-inducing fun aside, we're actually now at 300 blacksmithing. And with that, it's time for a strategy check for a proper shopping list. Now, at the end of blacksmithing, Smith Argus does teach us the imperial set, or as I like to call it, the Stormwind Guard set. And most of these pieces only require thorium bars, which we can get in plenty. And they also have sale averages between 2 and 4k with some of the lower pieces being a couple hundred gold each, but the sale rates are generally pretty good. Now, a couple of these pieces do require rugged leather though, and we are currently out of that. So, we'll have to hold off on crafting those pieces. And to bulk craft the methyl swords as well, we are also going to need thick leather. So, either way, we're going to have to get skinning again for this. And material-wise, we'll need about 60 thorium bars and a handful of others to make a decent batch of these pieces. But the real shopping list here is coming from the dark iron crafts. And Locos teaches the full dark iron armor set. And the cost of this to craft gets steep really fast because it requires dark iron bars, which in and of themselves need eight dark iron ore each. And some of the recipes require 16 bars to craft. That's insane. But that being said, I think the Dark Iron set might be worth crafting up a few copies of because it is slow selling transmog and most of these pieces are listing between 20 and 50,000 gold. While the raw ore cost is usually around a 5k investment, weapon recipes are a little trickier because the really valuable ones do require Arcanite bars, which we can't actually unlock until we get Taenerys for the alchemy transmute. And on top of that, a lot of dark iron gear also requires core leather, so skinning is absolutely going to be mandatory. And after some quick back of napkin math, we need roughly 198 dark iron bars. That is 1,584 dark iron ore. Yep. Let's round up to 1,600 for good luck and farm some molten core. Because molten core is still the fastest and one of the only two places to farm Dark Ironor, we can do about 10 trash resets per hour, pushing deeper occasionally for extra nodes so that we don't hit the 10 instance per hour lockout. And with that, we can generally average around 250 ore per hour here if we're being pretty efficient. That is as long as we don't accidentally kill a boss or lock the instance, which we absolutely did. Travelers, this uh this magar kill was not scripted and it does throw a massive wrench in what was supposed to be about a 5hour farm.",
         "canonical_file": "goldbound/020 - Duskwood Just UNLOCKED A Massive Smithing Grind... Goldbound 19.en-orig.txt",
         "original_file": "goldbound/original-vtt/020 - Duskwood Just UNLOCKED A Massive Smithing Grind... Goldbound 19.en-orig.vtt"
-      }
+      },
+      "guide": "Mine Molten Core's nodes through repeated trash resets without killing bosses. An accidental Magmadar kill locked the raid and stopped the nodes resetting, ending this ore route until the weekly reset."
     },
     {
       "id": "E020-22",
@@ -539,7 +568,8 @@
         "quote": "Well, that only leaves one other option for dark iron ore since once we're locked in molten core, the dark iron nodes no longer reset. And right now it's Wednesday, so Tuesday reset is 6 days away. I'm not waiting that long. So, black rock depths. We can also get dark iron here. I know it's not as efficient, but we can at least test it out in minmax and see how much we can actually get. So, in BRD, pretty much all the caverns do have dark iron ore. As long as it doesn't look like it was a built stone wall, there should be some that spawn there. So, we kind of have these two little loops and then the main cavern heading up to Lord Insidious.",
         "canonical_file": "goldbound/020 - Duskwood Just UNLOCKED A Massive Smithing Grind... Goldbound 19.en-orig.txt",
         "original_file": "goldbound/original-vtt/020 - Duskwood Just UNLOCKED A Massive Smithing Grind... Goldbound 19.en-orig.vtt"
-      }
+      },
+      "guide": "Mine Blackrock Depths' natural caverns, continue toward Lord Incendius, and kill nearby constructs and miners for extra Dark Iron Ore. Use the mole machine to return to the entrance, leave and reset."
     },
     {
       "id": "E020-23",
@@ -558,7 +588,8 @@
         "quote": "Anyways, enough about that. Uh, let's go ahead and smelt this up because once we smelt it, we can officially unlearn mining for now. And once mining is unlearned, we can drop it for skinning. And to get the leather that we need for a few of these crafts, all we really have to do is run sunken temple a few times to go from one to 300 skinning and get the extra leather we need. All the extra leather except for core leather. That is since I did lock Goldie out of molten core. That means no more core leather this week, which is really, really unfortunate. So the dark iron boots at least will have to wait with what we do have to craft. Leftover Imperial pieces, check. Myithil swords, check. Dark iron crafts, well, these ones are a little bit different because all the dark iron crafts do actually have to be made the black anvil deep inside the black rock mountain. A regular anvil simply won't do. At this point, our dark iron stack is 75k. And between the dark iron we have here and the sconces, I think we're roughly 120,000 gold in raw materials invested into dark iron. So, I really hope that uh the dark market doesn't crash.",
         "canonical_file": "goldbound/020 - Duskwood Just UNLOCKED A Massive Smithing Grind... Goldbound 19.en-orig.txt",
         "original_file": "goldbound/original-vtt/020 - Duskwood Just UNLOCKED A Massive Smithing Grind... Goldbound 19.en-orig.vtt"
-      }
+      },
+      "guide": "Relearn skinning and run Sunken Temple to gather the leather needed for Imperial armor and Mithril blades. Core Leather remained unavailable because Molten Core was locked."
     },
     {
       "id": "E020-24",
@@ -582,7 +613,8 @@
         "quote": "Anyways, with that, we can craft up all of the dark iron recipes we need, get these over to our transmog character to hopefully sell soon to recoup some of this cost. And with that much gold tied up in crafting, let's hope the mailbox delivers. So, mailbox time. We're starting with 214,000 gold and the token price is sitting at a modest 296,000 gold which is pretty much in striking distance. Before we get opening these, don't forget to check out the sponsor of today's video, Rage Shadow Legends. Right away, we are seeing some essence of undeath. The essence farm has kind of been a consistent staple morning coffee farm for us. I try to do like 30 minutes to an hour every now and then. We do have some arcane crystals, bloods of the mountain, dark moon, flower water, those of course coming from our fishing cap, and some decor moving as well with some lucky charms and of course more essence of undeath mixed in there. So, let's go ahead and get this all cleaned up and see what we're sitting at. It looks like we might have enough for a token here.",
         "canonical_file": "goldbound/020 - Duskwood Just UNLOCKED A Massive Smithing Grind... Goldbound 19.en-orig.txt",
         "original_file": "goldbound/original-vtt/020 - Duskwood Just UNLOCKED A Massive Smithing Grind... Goldbound 19.en-orig.vtt"
-      }
+      },
+      "guide": "Return to the final Silent Shade room in Raven Hill's crypt for short sessions of Essence of Undeath farming. These repeat visits supplied materials that continued selling on the auction house."
     },
     {
       "id": "E020-25",
@@ -606,7 +638,8 @@
         "quote": "All right, after looting everything up, 57,000 gold looted, which puts us at 272.5,000 gold. Still short of a token, but remember, we still have a transmog character to open up. So, let's see. Okay. Okay, this is a good site. And we're seeing some Red Ridge pieces moving. The Shadow Hide scalper sold and the Red Ridge machete. Nice. I'm definitely noticing an uptick in transmog sales, which I hope carries into midnight. Even the Arcanite Reaper recipe from Lower Black Rock Spire went, plus a pile of 5002k items. So, with all of those looted, let's see what we got. 64.5k from Transmog, which means two things. First, Transmog finally beat trade goods this week. And second, once this hits Goldie, we're well over 330k.",
         "canonical_file": "goldbound/020 - Duskwood Just UNLOCKED A Massive Smithing Grind... Goldbound 19.en-orig.txt",
         "original_file": "goldbound/original-vtt/020 - Duskwood Just UNLOCKED A Massive Smithing Grind... Goldbound 19.en-orig.vtt"
-      }
+      },
+      "guide": "Shadowhide Scalper, Redridge Machete and an Arcanite Reaper recipe sold among the transmog stock. Combined sales covered the next token; this entry is a mailbox result rather than a new farm."
     }
   ]
 }

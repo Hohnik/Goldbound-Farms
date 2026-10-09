@@ -50,6 +50,11 @@
       "source": "TradeSkillMaster item IDs in the local EU commodity export"
     },
     {
+      "id": 52985,
+      "name": "Azshara's Veil",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
       "id": 112463,
       "name": "Battered Armor Fragments",
       "source": "TradeSkillMaster item IDs in the local EU commodity export"
@@ -380,6 +385,11 @@
     {
       "id": 52185,
       "name": "Elementium Ore",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 53010,
+      "name": "Embersilk Cloth",
       "source": "TradeSkillMaster item IDs in the local EU commodity export"
     },
     {
@@ -837,6 +847,11 @@
     {
       "id": 153051,
       "name": "Mistscale",
+      "source": "TradeSkillMaster item IDs in the local EU commodity export"
+    },
+    {
+      "id": 3860,
+      "name": "Mithril Bar",
       "source": "TradeSkillMaster item IDs in the local EU commodity export"
     },
     {
@@ -1313,11 +1328,6 @@
     {
       "id": 1080,
       "name": "Tough Condor Meat",
-      "source": "TradeSkillMaster item IDs in the local EU commodity export"
-    },
-    {
-      "id": 231899,
-      "name": "Trash",
       "source": "TradeSkillMaster item IDs in the local EU commodity export"
     },
     {

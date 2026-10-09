@@ -8,7 +8,7 @@ Run `npm run dev` and open `http://localhost:4173/#map`. The local server reads 
 
 ## Progressive disclosure
 
-Region cards show one clearly scoped result. Related runs and variants expand underneath. Farm details start with the return, sample duration, preparation and any specific limitation. Earnings breakdowns, quantities, review notes, related components and transcript evidence are closed by default. Source paragraphs load when evidence is opened. Searching for a specific item opens the section containing it.
+Region cards show one clearly scoped result. Related runs and variants expand underneath. Farm details start with the return, sample duration, preparation and any specific limitation. A short guide opens with the farm details. Multiple-value comparisons, quantities, related components and transcript evidence are closed by default. A single value stays in the header; one-item quote/sale comparisons use “Price & sale”, while rotations retain their separate component values. Original review notes and single-value context remain inside transcript evidence. Source paragraphs load when evidence is opened. Searching for a specific item opens the section containing it.
 
 All **793 original records** remain available. The **38 explicit method families** connect **102 related records**. Other entries remain separate, except exact same-name records in the same zone and activity type. Routes, normal/heroic difficulties and independent experiments are not merged by fuzzy names. Associations and a few source-backed preparation hints live in `public/method-groups.json`; they change presentation, not source data.
 
@@ -37,7 +37,7 @@ Secondary labels, quote/component badges, notes and controls use darker colors. 
 - `public/atlas-model.js`: grouping, filtering, ranking, result labels, durations and preparation rules.
 - `public/earnings.js`: explicit monetary allowlists, quoted prices, sale bounds and component provenance.
 - `public/item-tooltips.json`: verified Retail item IDs. Hover/focus shows Wowhead's tooltip; Escape dismisses it. Unresolved names stay plain text. Rebuild with `python3 ../scripts/build_item_tooltips.py`.
-- `public/audit-data.json`: original 793 source-linked records.
+- `public/audit-data.json`: original 793 source-linked records, plus short source-based guides. Guides are maintained on the episode records in `audit/reviews/`; the compiler enforces coverage and a maximum of 55 words.
 - `public/audit-sources.json`: all 45 caption tracks, paragraph indexes and evidence times; loaded on demand.
 
 Values are historical transcript results, not current EU market benchmarks. The atlas does not fetch live auction-house prices.

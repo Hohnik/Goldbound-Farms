@@ -1,7 +1,7 @@
 import assert from 'node:assert/strict';
 import {readFileSync} from 'node:fs';
 import {earningsFor} from './public/earnings.js';
-import {groupRecords,selectGroups,baselineRate,comparisonValue,preferredBadge,valueCategory,zoneInsight,recordedDuration,resultLabel,limitationFor,searchMatches} from './public/atlas-model.js';
+import {groupRecords,selectGroups,baselineRate,comparisonValue,preferredBadge,valueCategory,zoneInsight,recordedDuration,resultLabel,limitationFor,earningsDisclosure,searchMatches} from './public/atlas-model.js';
 const rows=JSON.parse(readFileSync(new URL('./public/audit-data.json',import.meta.url))).records;
 const definitions=JSON.parse(readFileSync(new URL('./public/method-groups.json',import.meta.url))).groups;
 const byId=new Map(rows.map(r=>[r.id,r]));
@@ -9,6 +9,16 @@ for(const row of rows){row.earnings=earningsFor(row,byId);row.searchText=[row.na
 const groups=groupRecords(rows,definitions);
 assert.equal(groups.reduce((n,g)=>n+g.records.length,0),793);
 assert.equal(new Set(groups.flatMap(g=>g.records.map(r=>r.id))).size,793);
+for(const row of rows){
+ assert.equal(typeof row.guide,'string',row.id);
+ assert.ok(row.guide.trim().split(/\s+/).length<=55,row.id);
+ assert.ok(row.guide.trim().length>0,row.id);
+}
+assert.equal(earningsDisclosure(byId.get('E034-06')),null); // one GPH figure belongs in the header
+assert.equal(earningsDisclosure(byId.get('E032-14')),'Price & sale'); // preserve quote versus actual receipt
+assert.equal(earningsDisclosure(byId.get('E034-03')),'Earnings breakdown'); // multiple named targets
+assert.equal(earningsDisclosure(byId.get('E032-19')),'Rotation values'); // independent legs stay separate
+assert.equal(earningsDisclosure(byId.get('E014-19')),'Value details'); // hourly fish versus a rare ring quote
 const memberships=definitions.flatMap(g=>g.record_ids);
 assert.equal(new Set(memberships).size,memberships.length);
 assert.ok(memberships.every(id=>byId.has(id)));

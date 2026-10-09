@@ -10,6 +10,7 @@ assert.equal(links.resolve('Jin’su Sword').id,9424);
 assert.equal(links.resolve('Mithril_Ore').id,3858);
 assert.equal(links.resolve('Mobus BoE epic drops'),null);
 assert.equal(links.resolve('Wedding Ring'),null); // ambiguous caption, no guessed ID
+assert.equal(links.decorate('Clear trash and reset.'),'Clear trash and reset.'); // ordinary farming language
 assert.equal(links.resolve('Ancona Chicken, caged'),null); // not the base learning item
 assert.match(links.link('Papal Fez'),/data-wowhead="item=9431&amp;domain=www"/);
 assert.match(links.link('Papal Fez'),/rel="noopener noreferrer"/);

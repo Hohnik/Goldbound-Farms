@@ -29,12 +29,14 @@ The `Deploy GitHub Pages` workflow validates and builds the atlas, then deploys 
 ## Maintain the data
 
 - `dashboard/public/`: website code and compiled data.
-- `audit/reviews/`: authoritative episode records. Edit these to correct farms, values or evidence references.
+- `audit/reviews/`: authoritative episode records. Edit these to correct farms, values, evidence references or short `guide` explanations (maximum 55 words).
 - `audit/source-index.json`: transcript paragraphs, timestamps and source fingerprints.
 - `audit/alternate-reviews.json`: alternate-caption checks.
 - `goldbound/`: one readable copy of each transcript; `original-vtt/` preserves original captions for verification.
 - `scripts/`: data compilation, item lookup generation and source reading.
 - `dashboard/data/`: licensed map originals and item lookup inputs.
+
+Guide instructions should follow the referenced transcript passages. If a guide needs a passage outside its record’s range, add `guide_source_refs` with the episode, paragraph range and start time; the compiler validates these and the evidence panel includes them.
 
 After editing reviewed records:
 

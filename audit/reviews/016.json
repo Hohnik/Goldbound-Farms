@@ -22,7 +22,8 @@
         "quote": "Greetings travelers and welcome back to Goldbound, the challenge series where we've been unlocking Azeroth one zone at a time with each new zone locked behind the purchase of a brand new WoW token. And last episode, we took quite the detour, trapped in the Dark Moon Fair until we could earn our way out. But of course, we focused up, uncovered some surprisingly strong gold farms, and after a full week of fishing, flipping, and fairground hustle, we secured that token. So where does that leave Goldilock? Well, he's finally out of Dark Moon with an extra token in his bags and heading back to Westfall. The leftover profit from the fair sits at 17,000 gold. And since we were already 13,000 gold into Westfall when we left, we'll roll that forward as our new starting stack. And we're also carrying over a bit of unsold Dark Moon stock, potions, transmog, and trade goods, which we'll just list as we go. So, travelers, it's time to get back to work. Back to Westfall. Now, since we're back in Westfall, and since we've conveniently carried over a stash of 15 Dark Moon Fire Water, it's finally time to start testing what we haven't actually done yet in Westfall. Let's see what kind of consistent dual gathering gold farming we can actually get here in Westfall. Of course, we're going to be running with the Dark Moon Fire Water, which says it gives a 15% boost to deafness for 1 hour, but back in the day, I remember this reducing the gathering times from 1.5 seconds down to about 0.5. But with the modern deafness stat, I don't think it really works as well. It feels maybe 15% faster, I guess, as the tool tip says, but definitely not the crazy turbo gathering effect from older expansions.",
         "canonical_file": "goldbound/016 - Is This Westfall Farm REALLY 426K Gold Per Hour？ Goldbound Episode 15.en-orig.txt",
         "original_file": "goldbound/original-vtt/016 - Is This Westfall Farm REALLY 426K Gold Per Hour？ Goldbound Episode 15.en-orig.vtt"
-      }
+      },
+      "guide": "Darkmoon Firewater was used during Westfall gathering to test its Deftness effect. It felt faster, but there was no timed comparison against gathering without it."
     },
     {
       "id": "E016-02",
@@ -54,7 +55,8 @@
         "quote": "But I guess it's still worth keeping active for the full hour. And as for our route today, well, we can always minmax this later, but for now, I think a large loop around the zone makes sense. Flying over all the rare spawn points as we go. Just because we're gathering doesn't mean we can't snag a couple cheeky rare tags along the way. We can rev the engine and make some gold. Now, while we're hitting the gas back in Westfall, let me take a moment to tell you about today's sponsor, Displate. Displates are premium metal posters with over 200 officially licensed designs, including World of Warcraft artwork. You'll also find thousands of pieces from independent artists and even custom designs if you want something truly unique. And I just picked up a brand new set for my game room. And let me tell you, I'm pumped. I went with some of my favorite portraits of Jana, Silylvanas, and of course, Bolvar. And they're super easy to mount thanks to their magnetic mounting and added them to my back wall.",
         "canonical_file": "goldbound/016 - Is This Westfall Farm REALLY 426K Gold Per Hour？ Goldbound Episode 15.en-orig.txt",
         "original_file": "goldbound/original-vtt/016 - Is This Westfall Farm REALLY 426K Gold Per Hour？ Goldbound Episode 15.en-orig.vtt"
-      }
+      },
+      "guide": "Fly a broad loop around Westfall, collecting herbs and Copper Ore while checking rare spawn locations. This test valued the gathered materials before smelting or other processing."
     },
     {
       "id": "E016-03",
@@ -73,7 +75,8 @@
         "quote": "So something to look out for. And for mining, we got 160 rough stone, worth only about 14 gold, and 173 copper ore, worth about 714 gold, which puts our total at 2,267 gold per hour. Now, keep in mind that's raw value. The copper isn't smelted, and the herbs aren't even processed into potions or pigments, so there's definitely some room for margin to increase if we choose to do the Elwin shuffle. But in terms of raw gold per hour, Westfall is shaping up to be in the same tier as Elwin and Red Ridge. Solid, but nothing gamebreaking. And at that rate, with the token hovering around 340k, if we only did dual gathering alone, we'd be looking at about 154 hours of gathering to escape Westfall. Yeah, we're going to need to find some other farms, too. And sometimes the best way to discover new things is just to play the content. And so far, we haven't actually done much questing here in Westfall. I did mention last episode that there's a few mobs that we won't even phase in until we finish the story line. So, we may as well get after it. And if you're familiar with classic Westfall, things they are going to look a little different here. But hey, if you want to watch me play through hardcore classic Westfall, check out my second channel for some chill hardcore streams. But anyways, the quest line in retail is pretty straightforward. The main theme is that we arrive in Westfall surrounded by a ton of Stormwind homelessness. And I won't lie, travelers, for a second, I was worried that this was all because of the fray not crash of 2025. But fortunately, it seems to be unrelated.",
         "canonical_file": "goldbound/016 - Is This Westfall Farm REALLY 426K Gold Per Hour？ Goldbound Episode 15.en-orig.txt",
         "original_file": "goldbound/original-vtt/016 - Is This Westfall Farm REALLY 426K Gold Per Hour？ Goldbound Episode 15.en-orig.vtt"
-      }
+      },
+      "guide": "Finish Westfall's main story until the Defias attack Sentinel Hill. This changes the nearby gnolls into the Defias mobs used for the weapon farm."
     },
     {
       "id": "E016-04",
@@ -97,7 +100,8 @@
         "quote": "And the quests have us doing some leg work for a double homicide. The victims being the Furlbrow Farmers. You might remember these two from the old Furl Bros pocket watch quest line in classic. Now, we examine the crime scene, question some witnesses, and gather evidence. The clues start pointing back to something dark. The Debas Brotherhood resurfacing. N-oh. Okay, a little side note here. There's also something else unusual by Saline's farm. And if you make a slash chicken macro and spam it at one of the non battle pet chickens anywhere between one and maybe 100 times, it offers you up a quest. Strange. And if you feed the chicken for the quest, you get him as a pet. So say hello to Goldie Clucked, our chicken.",
         "canonical_file": "goldbound/016 - Is This Westfall Farm REALLY 426K Gold Per Hour？ Goldbound Episode 15.en-orig.txt",
         "original_file": "goldbound/original-vtt/016 - Is This Westfall Farm REALLY 426K Gold Per Hour？ Goldbound Episode 15.en-orig.vtt"
-      }
+      },
+      "guide": "Use /chicken repeatedly on a non-battle-pet chicken near Saldean's farm until it offers a quest. Feed it as requested to receive the chicken pet; this was a personal collection unlock."
     },
     {
       "id": "E016-05",
@@ -161,7 +165,8 @@
             }
           ]
         }
-      ]
+      ],
+      "guide": "After completing Westfall's story, kill the Defias attacking both fronts of Sentinel Hill. Rotate between the two camps if spawns slow; Henchmen and Knuckledusters supply the target weapons."
     },
     {
       "id": "E016-06",
@@ -187,7 +192,8 @@
         "quote": "Anyways, the quest does move us over to Sentinel Hill where things are even worse. the homeless civilians who were kind of now understanding that we're displaced by the cataclysm. Thank goodness for that, are being unified by a mysterious masked figure. And sure enough, with a little more questing and soothing, we uncover the truth. The Defias Brotherhood is back, and their leader is Vanessa Van Clee, which if you watched the last episode, this is not very big of a shock for us, but back in the day, this was a pretty big twist. And with this, the quest line ends up sending us back into Stormwind, only for us to return right away to find Westfall under attack by the Defas. And these Defias are the new mobs we want to farm. So, we have Defas Henchmen, Defias knuckle dusters, and yes, travelers, defas pillagers. Now, the pillagers are one of the most notorious classic mobs of all time, and it's rumored that their farbolt is still being researched for its ability to pass through vast distances and solid surfaces. But rest assured, we'll avenge your classic characters here. But let's talk about loot. So, the Defas Knuckle Dusters drop the Wicked Blackjack, which is a 1.8% drop chance and a 20 to 30,000 gold market value. Pretty darn solid.",
         "canonical_file": "goldbound/016 - Is This Westfall Farm REALLY 426K Gold Per Hour？ Goldbound Episode 15.en-orig.txt",
         "original_file": "goldbound/original-vtt/016 - Is This Westfall Farm REALLY 426K Gold Per Hour？ Goldbound Episode 15.en-orig.vtt"
-      }
+      },
+      "guide": "Complete the Westfall story to unlock the Defias attack, then kill Defias Knuckledusters around Sentinel Hill for Wicked Blackjack. They were farmed alongside the other Defias attackers."
     },
     {
       "id": "E016-07",
@@ -213,7 +219,8 @@
         "quote": "Now, the Defias Henchmen also have their own drop, the Dead Mines Cleaver. This is a BOE blue drop, and it drops at a 4% rate. And with that, it even has a 22 to 32,000 gold market value. Pretty darn solid. Now, the pillagers sadly don't have any standup items. Mostly just the usual zone greens, but we'll be clearing them away for justice and fast respawns anyways. And now, both fronts where the Defas are attacking Sentinel Hill are actually hyper spawns. So, we can farm these guys with pretty high efficiency. And since there's two, if one of them starts to bug out or slow down and stop spawning, we can just hop to the other one. So, how does this look from a farming perspective? And how many of these can we expect to get? Well, travelers, this one got crazy. So, I tested this for a full hour and the results, well, we killed nearly 1,500 Defias. Consider them avenged. And the drops, we got 10 dead mines cleavers.",
         "canonical_file": "goldbound/016 - Is This Westfall Farm REALLY 426K Gold Per Hour？ Goldbound Episode 15.en-orig.txt",
         "original_file": "goldbound/original-vtt/016 - Is This Westfall Farm REALLY 426K Gold Per Hour？ Goldbound Episode 15.en-orig.vtt"
-      }
+      },
+      "guide": "Farm Defias Henchmen attacking Sentinel Hill after the Westfall story unlock. Deadmines Cleaver was the target drop, with the second attack front available when the first camp slowed."
     },
     {
       "id": "E016-08",
@@ -243,7 +250,8 @@
         "quote": "Yep, 10. And seven wicked blackjacks. And if you total up all the market value, that's 426,000 gold per hour. Now, of course, I don't expect to move all of these at market value anytime soon. And if we did want to sell them that high, it would take a long time and a long period to sell them, especially after this video comes out. But I mean, technically, that's the market value. But even if we lowball these at around 600 to maybe 1,500 gold each, this is still an extremely solid farm. Definitely worth keeping stock on the auction house and seeing if we can get some cheeky sales, albeit maybe lower sales. All right, with the Defias being taken care of near Sentinel Hill, we do need to talk about Vanessa Van Clee because last episode we didn't actually kill her during any of our Deadmines runs. And that's because we were only running it on normal difficulty. But the dungeon can also be ran on heroic and that changes a few things. First off, you can only do the heroic version once per day since it's tied to the daily reset. But let's hop in and take a look at the differences.",
         "canonical_file": "goldbound/016 - Is This Westfall Farm REALLY 426K Gold Per Hour？ Goldbound Episode 15.en-orig.txt",
         "original_file": "goldbound/original-vtt/016 - Is This Westfall Farm REALLY 426K Gold Per Hour？ Goldbound Episode 15.en-orig.vtt"
-      }
+      },
+      "guide": "Run heroic Deadmines for Embersilk Cloth and green gear to disenchant into Hypnotic Dust. A full clear has a daily lockout; these materials were gathered toward crafting larger bags."
     },
     {
       "id": "E016-09",
@@ -268,7 +276,8 @@
         "quote": "But can we improve that? Oh, yeah. So, heroic deadlines can't be reset once a boss is killed. But much like Molten Core, we can kill the trash mobs up to the first boss, walk out and reset, which gives us 10 short trash clears per hour, but no daily lockout. Although, I guess technically it'll be 240, which means it's consistent ember silk. And it can also feed us a steady stream of greens for hypnotic dust. all the crafting materials we need for these massive bags. Now, it's not a massive amount of cloth per run, maybe three to six, but it's way better than relying on a daily only full clear. So, that's the plan, travelers. And upon a little further research, we also have Black Rockck Cavern unlocked within the Black Rock Mountain, which is also a cataclysm dungeon. So, I guess if we need to, we can pop over there for some embersil cloth. So, in the background, we can slowly stockpile ember silk and work towards those brand new bags. No. And speaking of bags, how about our molten core runs? Well, travelers, we're at an official nine kill count on every single boss of molten core. And still no core fellcloth bag recipe, which might end up being redundant soon, but still, we also have no bindings and no eye of selfurus. Oh well, better luck next time, I suppose. But with all of these deadmines runs lately, I think it's a good time to talk about a few more rare spawns found in the mines leading into the actual dead mines. First and foremost, Foreman thistle nuttle. Now, he isn't technically marked as a rare, but more of a unique quest mob, which means his respawn timer is actually pretty fast, which makes him a lot more farmable. And he does have some loot. So he drops the form and gloves at a 1.33% drop rate with a market value that floats between 84 and 174,000 gold. Although looking at the data, a realistic regional sale average lands close to 3,000 gold. So we probably won't see the full listed value, but it' still be a nice pickup.",
         "canonical_file": "goldbound/016 - Is This Westfall Farm REALLY 426K Gold Per Hour？ Goldbound Episode 15.en-orig.txt",
         "original_file": "goldbound/original-vtt/016 - Is This Westfall Farm REALLY 426K Gold Per Hour？ Goldbound Episode 15.en-orig.vtt"
-      }
+      },
+      "guide": "Enter heroic Deadmines, clear trash before the first boss, then leave and reset without killing a boss. Gather Embersilk Cloth and green gear for disenchanting, subject to the shared hourly instance cap."
     },
     {
       "id": "E016-10",
@@ -287,7 +296,8 @@
         "quote": "But can we improve that? Oh, yeah. So, heroic deadlines can't be reset once a boss is killed. But much like Molten Core, we can kill the trash mobs up to the first boss, walk out and reset, which gives us 10 short trash clears per hour, but no daily lockout. Although, I guess technically it'll be 240, which means it's consistent ember silk. And it can also feed us a steady stream of greens for hypnotic dust. all the crafting materials we need for these massive bags. Now, it's not a massive amount of cloth per run, maybe three to six, but it's way better than relying on a daily only full clear. So, that's the plan, travelers. And upon a little further research, we also have Black Rockck Cavern unlocked within the Black Rock Mountain, which is also a cataclysm dungeon. So, I guess if we need to, we can pop over there for some embersil cloth. So, in the background, we can slowly stockpile ember silk and work towards those brand new bags. No. And speaking of bags, how about our molten core runs? Well, travelers, we're at an official nine kill count on every single boss of molten core. And still no core fellcloth bag recipe, which might end up being redundant soon, but still, we also have no bindings and no eye of selfurus. Oh well, better luck next time, I suppose. But with all of these deadmines runs lately, I think it's a good time to talk about a few more rare spawns found in the mines leading into the actual dead mines. First and foremost, Foreman thistle nuttle. Now, he isn't technically marked as a rare, but more of a unique quest mob, which means his respawn timer is actually pretty fast, which makes him a lot more farmable. And he does have some loot. So he drops the form and gloves at a 1.33% drop rate with a market value that floats between 84 and 174,000 gold. Although looking at the data, a realistic regional sale average lands close to 3,000 gold. So we probably won't see the full listed value, but it' still be a nice pickup.",
         "canonical_file": "goldbound/016 - Is This Westfall Farm REALLY 426K Gold Per Hour？ Goldbound Episode 15.en-orig.txt",
         "original_file": "goldbound/original-vtt/016 - Is This Westfall Farm REALLY 426K Gold Per Hour？ Goldbound Episode 15.en-orig.vtt"
-      }
+      },
+      "guide": "Run Blackrock Caverns as another source of Embersilk Cloth and Cataclysm materials. It was used alongside heroic Deadmines, without a separate timed yield in this entry."
     },
     {
       "id": "E016-11",
@@ -308,7 +318,8 @@
         "quote": "But can we improve that? Oh, yeah. So, heroic deadlines can't be reset once a boss is killed. But much like Molten Core, we can kill the trash mobs up to the first boss, walk out and reset, which gives us 10 short trash clears per hour, but no daily lockout. Although, I guess technically it'll be 240, which means it's consistent ember silk. And it can also feed us a steady stream of greens for hypnotic dust. all the crafting materials we need for these massive bags. Now, it's not a massive amount of cloth per run, maybe three to six, but it's way better than relying on a daily only full clear. So, that's the plan, travelers. And upon a little further research, we also have Black Rockck Cavern unlocked within the Black Rock Mountain, which is also a cataclysm dungeon. So, I guess if we need to, we can pop over there for some embersil cloth. So, in the background, we can slowly stockpile ember silk and work towards those brand new bags. No. And speaking of bags, how about our molten core runs? Well, travelers, we're at an official nine kill count on every single boss of molten core. And still no core fellcloth bag recipe, which might end up being redundant soon, but still, we also have no bindings and no eye of selfurus. Oh well, better luck next time, I suppose. But with all of these deadmines runs lately, I think it's a good time to talk about a few more rare spawns found in the mines leading into the actual dead mines. First and foremost, Foreman thistle nuttle. Now, he isn't technically marked as a rare, but more of a unique quest mob, which means his respawn timer is actually pretty fast, which makes him a lot more farmable. And he does have some loot. So he drops the form and gloves at a 1.33% drop rate with a market value that floats between 84 and 174,000 gold. Although looking at the data, a realistic regional sale average lands close to 3,000 gold. So we probably won't see the full listed value, but it' still be a nice pickup.",
         "canonical_file": "goldbound/016 - Is This Westfall Farm REALLY 426K Gold Per Hour？ Goldbound Episode 15.en-orig.txt",
         "original_file": "goldbound/original-vtt/016 - Is This Westfall Farm REALLY 426K Gold Per Hour？ Goldbound Episode 15.en-orig.vtt"
-      }
+      },
+      "guide": "Clear Molten Core bosses on the weekly reset for the bag pattern and legendary drops. This ninth round produced none of the sought-after pattern, bindings or Eye."
     },
     {
       "id": "E016-12",
@@ -327,7 +338,8 @@
         "quote": "But can we improve that? Oh, yeah. So, heroic deadlines can't be reset once a boss is killed. But much like Molten Core, we can kill the trash mobs up to the first boss, walk out and reset, which gives us 10 short trash clears per hour, but no daily lockout. Although, I guess technically it'll be 240, which means it's consistent ember silk. And it can also feed us a steady stream of greens for hypnotic dust. all the crafting materials we need for these massive bags. Now, it's not a massive amount of cloth per run, maybe three to six, but it's way better than relying on a daily only full clear. So, that's the plan, travelers. And upon a little further research, we also have Black Rockck Cavern unlocked within the Black Rock Mountain, which is also a cataclysm dungeon. So, I guess if we need to, we can pop over there for some embersil cloth. So, in the background, we can slowly stockpile ember silk and work towards those brand new bags. No. And speaking of bags, how about our molten core runs? Well, travelers, we're at an official nine kill count on every single boss of molten core. And still no core fellcloth bag recipe, which might end up being redundant soon, but still, we also have no bindings and no eye of selfurus. Oh well, better luck next time, I suppose. But with all of these deadmines runs lately, I think it's a good time to talk about a few more rare spawns found in the mines leading into the actual dead mines. First and foremost, Foreman thistle nuttle. Now, he isn't technically marked as a rare, but more of a unique quest mob, which means his respawn timer is actually pretty fast, which makes him a lot more farmable. And he does have some loot. So he drops the form and gloves at a 1.33% drop rate with a market value that floats between 84 and 174,000 gold. Although looking at the data, a realistic regional sale average lands close to 3,000 gold. So we probably won't see the full listed value, but it' still be a nice pickup.",
         "canonical_file": "goldbound/016 - Is This Westfall Farm REALLY 426K Gold Per Hour？ Goldbound Episode 15.en-orig.txt",
         "original_file": "goldbound/original-vtt/016 - Is This Westfall Farm REALLY 426K Gold Per Hour？ Goldbound Episode 15.en-orig.vtt"
-      }
+      },
+      "guide": "Check Foreman Thistlenettle in the tunnels leading to Deadmines between dungeon resets. Kill him for chances at Foreman's Gloves and Leggings; neither drop was confirmed in this entry."
     },
     {
       "id": "E016-13",
@@ -350,7 +362,8 @@
         "quote": "And he also has the foreman leggings, which are a 1% drop rate. And again, a market value of 100 to 200K, but with a much lower realistic sale average, closer to 3 to 4K. but one lucky buyer and that's a huge chunk towards a token. And lastly, there are some BOE's and greens on Thistl's loot tables as well. And he also lives in this odd skeletal corner of the dead mines. And he isn't where the loot stops. The surrounding mobs, the skeletal miners, undead dynamiters, and undead excavators have a few items worth farming, too. And the standout is from the undead dynamiters, the petrified shinbone. This is a solid 7% drop chance. Although the dynamiters are a little bit rare, there's usually only one or two up, but a very solid 2.6k market value. And since they respawn quick and it's a 7% drop chance, it's pretty easy to farm and easy to stock the shelves with. I already actually have two of these bad boys. And while we're down here talking about the tunnels outside of the main instance, there are two other rares in the area as well. First up, Marissa Dup Page. She's worth tagging for sure, but doesn't drop anything too crazy. Most of her drop in are in the typical 500 to 2,000 transmog range. A nice bonus for sure, but nothing crazy. Then there's the brainwashed noble, which has similar baseline drops, but two stabs that make him worth camping a little bit.",
         "canonical_file": "goldbound/016 - Is This Westfall Farm REALLY 426K Gold Per Hour？ Goldbound Episode 15.en-orig.txt",
         "original_file": "goldbound/original-vtt/016 - Is This Westfall Farm REALLY 426K Gold Per Hour？ Goldbound Episode 15.en-orig.vtt"
-      }
+      },
+      "guide": "Kill Undead Dynamiters in the skeletal section outside the Deadmines instance for Petrified Shinbone. Only a few dynamiters were available at a time, but two shinbones were collected."
     },
     {
       "id": "E016-14",
@@ -369,7 +382,8 @@
         "quote": "And he also has the foreman leggings, which are a 1% drop rate. And again, a market value of 100 to 200K, but with a much lower realistic sale average, closer to 3 to 4K. but one lucky buyer and that's a huge chunk towards a token. And lastly, there are some BOE's and greens on Thistl's loot tables as well. And he also lives in this odd skeletal corner of the dead mines. And he isn't where the loot stops. The surrounding mobs, the skeletal miners, undead dynamiters, and undead excavators have a few items worth farming, too. And the standout is from the undead dynamiters, the petrified shinbone. This is a solid 7% drop chance. Although the dynamiters are a little bit rare, there's usually only one or two up, but a very solid 2.6k market value. And since they respawn quick and it's a 7% drop chance, it's pretty easy to farm and easy to stock the shelves with. I already actually have two of these bad boys. And while we're down here talking about the tunnels outside of the main instance, there are two other rares in the area as well. First up, Marissa Dup Page. She's worth tagging for sure, but doesn't drop anything too crazy. Most of her drop in are in the typical 500 to 2,000 transmog range. A nice bonus for sure, but nothing crazy. Then there's the brainwashed noble, which has similar baseline drops, but two stabs that make him worth camping a little bit.",
         "canonical_file": "goldbound/016 - Is This Westfall Farm REALLY 426K Gold Per Hour？ Goldbound Episode 15.en-orig.txt",
         "original_file": "goldbound/original-vtt/016 - Is This Westfall Farm REALLY 426K Gold Per Hour？ Goldbound Episode 15.en-orig.vtt"
-      }
+      },
+      "guide": "Check Marisa duPaige in the tunnels outside Deadmines between dungeon runs. Kill her when available for extra transmog drops."
     },
     {
       "id": "E016-15",
@@ -421,7 +435,8 @@
             50000
           ]
         }
-      ]
+      ],
+      "guide": "Check the Brainwashed Noble outside the Deadmines instance for Staff of Nobles and Staff of Conjuring. These were target items; no staff drop was reported here."
     },
     {
       "id": "E016-16",
@@ -472,7 +487,8 @@
           "label": "Slark rare target",
           "include_earnings": true
         }
-      ]
+      ],
+      "guide": "Alternate Deadmines runs and entrance rare checks with the coastal Flesh Ripper egg spot. Add occasional coastal mining loops to check Slark and other rares while the egg spawns recover."
     },
     {
       "id": "E016-17",
@@ -512,7 +528,8 @@
           "negative": true,
           "approx": true
         }
-      ]
+      ],
+      "guide": "Slark dropped Coral Claymore during a Westfall coastal check, but it was later accidentally disenchanted. The item was lost before it could be sold."
     },
     {
       "id": "E016-18",
@@ -534,7 +551,8 @@
         "quote": "And every now and then I'll break it up with a mining loop along the coast to check on our other rares like slurk which about slur. So actually we did get the coral claymore from him. Massive win. But later that day while doing some mass disenchanting with the trade skill master I accidentally disenchanted the coral claymore. Minus 70k. Uh yeah that one hurt but it's not all bad. Every morning, I also like to come with the Stendle's Pond for a few casts and another shot at the elusive Stendle's Bane and the Stendle's wedding band. And this week, travelers, check this out. On our second ever Stendle's Bane, we actually pulled the ring in the bags. Now, this is a seriously cool drop. I'm super stoked to get this on the character, and I'm hoping we can at least get close to top dollar for it, but honestly, I'm just stoked we landed it at all. And recently, the fishing farms have been coming in clutch. But as you can probably tell, we still haven't unlocked many consistent farms here outside of dual gathering, egg farming, and disenchanting, which none of these really break past a steady 3 to 4k per hour. So this week, we're really going to have to rely on those transmog sales to carry the token progress. And speaking of transmog selling, let's head to the mailbox. And of course on Goldie, we have mostly trade goods rolling in. Lots of miscellaneous mats, disenchanting reagents, and uh bits from our ember silk farm as well. Some volatile fire in Black Rockck Caverns, but also lots of disenchanting mats and dead mines. Small eggs selling off, and even a few leftover dark moon flips moving through. So, let's get this all into the bags and see where we land.",
         "canonical_file": "goldbound/016 - Is This Westfall Farm REALLY 426K Gold Per Hour？ Goldbound Episode 15.en-orig.txt",
         "original_file": "goldbound/original-vtt/016 - Is This Westfall Farm REALLY 426K Gold Per Hour？ Goldbound Episode 15.en-orig.vtt"
-      }
+      },
+      "guide": "Fish Stendel's pond in Westfall and open any Stendel's Bane caught. This second fish contained Stendel's Wedding Band, which was listed for sale."
     },
     {
       "id": "E016-19",
@@ -559,7 +577,8 @@
         "quote": "And every now and then I'll break it up with a mining loop along the coast to check on our other rares like slurk which about slur. So actually we did get the coral claymore from him. Massive win. But later that day while doing some mass disenchanting with the trade skill master I accidentally disenchanted the coral claymore. Minus 70k. Uh yeah that one hurt but it's not all bad. Every morning, I also like to come with the Stendle's Pond for a few casts and another shot at the elusive Stendle's Bane and the Stendle's wedding band. And this week, travelers, check this out. On our second ever Stendle's Bane, we actually pulled the ring in the bags. Now, this is a seriously cool drop. I'm super stoked to get this on the character, and I'm hoping we can at least get close to top dollar for it, but honestly, I'm just stoked we landed it at all. And recently, the fishing farms have been coming in clutch. But as you can probably tell, we still haven't unlocked many consistent farms here outside of dual gathering, egg farming, and disenchanting, which none of these really break past a steady 3 to 4k per hour. So this week, we're really going to have to rely on those transmog sales to carry the token progress. And speaking of transmog selling, let's head to the mailbox. And of course on Goldie, we have mostly trade goods rolling in. Lots of miscellaneous mats, disenchanting reagents, and uh bits from our ember silk farm as well. Some volatile fire in Black Rockck Caverns, but also lots of disenchanting mats and dead mines. Small eggs selling off, and even a few leftover dark moon flips moving through. So, let's get this all into the bags and see where we land.",
         "canonical_file": "goldbound/016 - Is This Westfall Farm REALLY 426K Gold Per Hour？ Goldbound Episode 15.en-orig.txt",
         "original_file": "goldbound/original-vtt/016 - Is This Westfall Farm REALLY 426K Gold Per Hour？ Goldbound Episode 15.en-orig.vtt"
-      }
+      },
+      "guide": "The mailbox included a Deadmines Cleaver sale alongside other transmog, eggs and enchanting materials. This is a sales checkpoint, not a measured return for one farm."
     }
   ]
 }

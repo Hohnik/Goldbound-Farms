@@ -52,6 +52,22 @@ export function resultLabel(badge){
  if(category==='components')return 'Component GPH';
  return badge.label;
 }
+export function earningsDisclosure(record){
+ const badges=record.earnings||[];
+ // A lone figure is already visible in the result header.
+ if(badges.length<2)return null;
+ if(badges.some(b=>b.inherited))return 'Rotation values';
+ const items=new Set(badges.map(b=>b.item).filter(Boolean));
+ if(items.size>1)return 'Earnings breakdown';
+ const categories=new Set(badges.map(valueCategory));
+ if(items.size===1&&[...categories].every(c=>['prices','sales'].includes(c))){
+  if(categories.size===2)return 'Price & sale';
+  return categories.has('sales')?'Sale receipts':'Price references';
+ }
+ if(categories.size===1&&categories.has('gph'))return 'Session values';
+ if(categories.size===1&&categories.has('sales'))return 'Sale receipts';
+ return 'Value details';
+}
 export function groupRecords(records,definitions=[]){
  const byRecord=new Map();
  for(const group of definitions)for(const id of group.record_ids)byRecord.set(id,group);
@@ -124,7 +140,7 @@ export function preparationFor(record,group){
  return [...requirements];
 }
 export function limitationFor(record,badge){
- if(record.metrics.digits_uncertain||record.unverified_metrics)return 'Some figures are unverified; see notes.';
+ if(record.metrics.digits_uncertain||record.unverified_metrics)return 'Some figures are unverified; see transcript evidence.';
  if(!badge)return '';
  if(badge.inherited||badge.kind==='component')return 'Component values only; no combined GPH recorded.';
  if(valueCategory(badge)==='sales')return /loss/i.test(badge.basis)?'Sold at a loss; this is the gross receipt.':'';
